@@ -1,0 +1,4 @@
+ro.oplus.image.my_product.version=version_stub
+ro.oplus.image.my_product.type=empty
+ro.build.version.release=11
+import /my_product/etc/${ro.boot.prjname}/build.prop

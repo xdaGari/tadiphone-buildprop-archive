@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Infinix
+ro.product.system_ext.device=Infinix-X670
+ro.product.system_ext.manufacturer=INFINIX
+ro.product.system_ext.model=Infinix X670
+ro.product.system_ext.name=X670-GL
+ro.product.system_ext.tran.device.name.default=Infinix NOTE 12
+ro.system_ext.build.date=Tue Jun  6 21:48:05 CST 2023
+ro.system_ext.build.date.utc=1686059285
+ro.system_ext.build.fingerprint=Infinix/X670-GL/Infinix-X670:13/TP1A.220624.014/230606V251:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=230606V251
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file

@@ -1,7 +1,0 @@
-# build porp start
-ro.oplus.image.my_preload.type=domestic_18865_OnePlus_CN_ALLNET
-ro.oplus.image.my_preload.date=2022-11-02 17:05:36
-ro.oplus.image.my_preload.date.utc=1667379936
-ro.oplus.image.my_preload.version_name=my_preload_domestic_CN_ALLNET_1643016391
-ro.oplus.preload.custom=2.0.46_CN_ALLNET
-ro.oplus.image.my_preload.version=0.0.1.2022110217010412078816.d9452d4d

@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=oplus
+ro.product.product.device=ossi
+ro.product.product.manufacturer=oplus
+ro.product.product.model=ossi
+ro.product.product.name=ossi
+ro.product.build.date=Fri Feb  3 11:54:49 CST 2023
+ro.product.build.date.utc=1675396489
+ro.product.build.fingerprint=oplus/ossi/ossi:12/SP1A.210812.016/1675396489619:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=1675396489619
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

@@ -1,0 +1,39 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Redmi
+ro.product.odm.device=ruan
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=ruan
+ro.product.odm.name=ruan
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Fri May 24 21:32:48 CST 2024
+ro.odm.build.date.utc=1716557568
+ro.odm.build.fingerprint=Redmi/ruan/ruan:12/SKQ1.231214.001/V816.0.2.0.UFSCNDM:user/release-keys
+ro.odm.build.id=SKQ1.231214.001
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=V816.0.2.0.UFSCNDM
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+vendor.display.force_tonemapping=1
+ro.vendor.audio.karaoke.enable=true
+ro.miui.audio.karaoke.suppot.lowlatency=true
+ro.vendor.audio.camera.loopback.support=false
+debug.game.video.support=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+import /odm/etc/${ro.boot.product.hardware.sku}_build.prop
+# end of file
+

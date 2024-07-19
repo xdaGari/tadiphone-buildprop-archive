@@ -1,6 +1,0 @@
-# build prop start
-ro.oplus.image.my_engineering.date=2022-07-26 19:54:48
-ro.oplus.image.my_engineering.date.utc=1658836488
-ro.oplus.image.my_engineering.type=release
-# DONOT_GENERATE_FEC is 
-ro.oplus.image.my_engineering.version=version_stub.0df06d1a

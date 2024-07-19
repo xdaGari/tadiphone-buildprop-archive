@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=nubia
+ro.product.odm.device=PQ82A02
+ro.product.odm.manufacturer=nubia
+ro.product.odm.model=NX713J
+ro.product.odm.name=CN_PQ82A02
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Thu Aug 31 12:25:14 CST 2023
+ro.odm.build.date.utc=1693455914
+ro.odm.build.fingerprint=nubia/CN_PQ82A02/PQ82A02:13/TKQ1.221220.001/20230831.123123:user/release-keys
+ro.odm.build.id=TKQ1.221220.001
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=eng.zte.20230831.123123
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file

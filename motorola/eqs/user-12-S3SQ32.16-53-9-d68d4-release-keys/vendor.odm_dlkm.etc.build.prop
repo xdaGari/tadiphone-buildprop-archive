@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=motorola
+ro.product.odm_dlkm.device=eqs
+ro.product.odm_dlkm.manufacturer=motorola
+ro.product.odm_dlkm.model=Taro for arm64
+ro.product.odm_dlkm.name=eqs
+ro.odm_dlkm.build.date=Wed Sep 14 19:08:19 UTC 2022
+ro.odm_dlkm.build.date.utc=1663182499
+ro.odm_dlkm.build.fingerprint=motorola/eqs/eqs:12/S3SQ32.16-53-9/d68d4:user/release-keys
+ro.odm_dlkm.build.id=S3SQ32.16-53-9
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=d68d4
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

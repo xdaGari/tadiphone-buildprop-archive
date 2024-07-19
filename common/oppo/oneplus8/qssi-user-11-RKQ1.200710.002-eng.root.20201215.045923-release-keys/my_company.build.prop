@@ -1,4 +1,0 @@
-# build prop start
-ro.sys.company.test_version=x
-ro.vendor.company.test_version=x
-ro.oplus.image.my_company.version=version_stub

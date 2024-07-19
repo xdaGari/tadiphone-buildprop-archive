@@ -1,0 +1,13 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=nosdcard
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=11_202106
+ro.com.google.clientidbase=android-hmd
+ro.com.google.assistantchannel=hmd
+ro.com.google.clientidbase.am=
+ro.com.google.clientidbase.ms=android-hmd-rev2

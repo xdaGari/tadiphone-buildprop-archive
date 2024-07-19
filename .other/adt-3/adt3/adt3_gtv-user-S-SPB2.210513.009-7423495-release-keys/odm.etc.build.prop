@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=ADT-3
+ro.product.odm.device=adt3
+ro.product.odm.manufacturer=askey
+ro.product.odm.model=ADT-3
+ro.product.odm.name=adt3_gtv
+ro.odm.product.cpu.abilist=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=
+ro.odm.build.date=Thu Jun  3 20:51:07 UTC 2021
+ro.odm.build.date.utc=1622753467
+ro.odm.build.fingerprint=ADT-3/adt3_gtv/adt3:S/SPB2.210513.009/7423495:user/release-keys
+ro.odm.build.id=SPB2.210513.009
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=7423495
+ro.odm.build.version.release=11
+ro.odm.build.version.release_or_codename=S
+ro.odm.build.version.sdk=30
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

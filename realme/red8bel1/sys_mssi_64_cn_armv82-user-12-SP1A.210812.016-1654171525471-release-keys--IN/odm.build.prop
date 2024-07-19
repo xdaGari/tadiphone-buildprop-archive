@@ -1,0 +1,62 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.soc.model=MT6895
+ro.soc.manufacturer=Mediatek
+ro.product.oplus.cpuinfo=MT6895T
+ro.build.device_family=OPMT6895
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=440
+ro.camera.portrait.blur.level.enable=1
+ro.oplus.screenhole.border=13
+ro.oplus.system.camera.name=com.oplus.camera
+persist.vendor.sys.pq.disp.ccorr.silky.brightness=1
+ro.separate.soft=216BE
+ro.product.first_api_level=31
+ro.product.vndk.version=31
+ro.vendor.oplus.market.name=RMX3561
+ro.vendor.product.oem=RMX3561
+ro.build.product=RMX3561
+ro.vendor.product.device.oem=RED8BE
+ro.commonsoft.ota=RED8BEL1
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.hybridswap_app_memcg=true
+persist.sys.oplus.nandswap=true
+persist.sys.obrain_obfuscate.enable=1
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.sys.reserve.integrate=true
+persist.sys.aging.2.0=true
+ro.oplus.fusionlight=true
+oplus.dex.tempcontrol=true
+dalvik.vm.heapgrowthlimit=384m
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.oplusrom=V12
+ro.build.version.opporom=V12
+ro.build.display.id=RMX3561_11_A.01
+ro.build.display.id_ims=RMX3561_11_A.01_220602
+ro.mediatek.version.release=RMX3561_11_A.01_220602
+ro.vendor.mediatek.version.release=RMX3561_11_A.01_220602
+ro.build.kernel.id=5.10.66
+persist.sys.oplus.dex2oat_current=true
+persist.sys.oplus.dex2oat_level=5
+ro.camera.notify_nfc=1
+persist.sys.oplus.wifi.fdd_full_scene=true
+persist.sys.oplus.wifi.sla.game_high_temperature=43
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=216BE
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.2d3af362

@@ -1,0 +1,19 @@
+# build porp start
+ro.oplus.image.my_region.version=20.11.3.202107020000362244821
+ro.oplus.image.my_region.type=EUEX_Realme
+ro.oplus.image.my_region.date=2021-07-02 01:10:40
+ro.oplus.image.my_region.date.utc=1625159440
+ro.oplus.image.my_region.version_name=XE10000
+ro.oplus.pipeline.region=EUEX
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+ro.oplus.region.old=1.0.46_EUEX
+ro.trackingId.com.lzd.appid=/data/etc/appchannel/lazadaChannel.txt
+ro.trackingId.com.daraz.appid=/data/etc/appchannel/darazChannel.txt
+ro.trackingId.com.shop.appid=/data/etc/appchannel/shopChannel.txt
+persist.sys.timezone=America/New_York
+persist.sys.oppo.region=US
+persist.sys.oplus.region=US
+ro.vendor.oplus.regionmark=EUEX
+ro.vendor.oppo.version=eu
+ro.vendor.oplus.version=eu

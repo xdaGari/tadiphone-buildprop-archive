@@ -1,0 +1,5 @@
+ro.omc.build.version=A507FNOLM7DWD1
+ro.omc.build.id=64646591
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=FALSE

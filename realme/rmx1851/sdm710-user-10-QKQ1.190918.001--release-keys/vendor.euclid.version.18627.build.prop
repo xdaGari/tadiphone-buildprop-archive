@@ -1,0 +1,24 @@
+# build porp start
+ro.separate.soft=18627
+ro.rom.featrue=allnet
+ro.product.authentication=2018CP4551
+ro.oppo.market.name=realme 3 Pro
+ro.product.hw=RA034
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.product.model=RMX1855
+ro.build.product=RMX1855
+ro.vendor.product.oem=RMX1855
+ro.vendor.product.device.oem=RMX1855
+ro.product.system.brand=Realme
+ro.product.system.manufacturer=Realme
+ro.product.system.model=RMX1855
+ro.product.bootimage.brand=Realme
+ro.product.bootimage.manufacturer=Realme
+ro.product.bootimage.model=RMX1855
+ro.product.vendor.brand=Realme
+ro.product.vendor.manufacturer=Realme
+ro.product.vendor.model=RMX1855
+ro.build.display.full_id=RMX1855_11_C.15_210317
+ro.build.display.id=RMX1855_11_C.15

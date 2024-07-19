@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=qssi
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-T733
+ro.product.system_ext.name=gts7fewifixx
+ro.system_ext.build.date=Wed Aug 10 13:44:34 KST 2022
+ro.system_ext.build.date.utc=1660106674
+ro.system_ext.build.fingerprint=samsung/gts7fewifixx/qssi:12/SP2A.220305.013/T733XXU1BVH4:user/release-keys
+ro.system_ext.build.id=SP2A.220305.013
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=T733XXU1BVH4
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=32
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

@@ -1,0 +1,40 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Android
+ro.product.system_ext.device=generic_arm64
+ro.product.system_ext.manufacturer=unknown
+ro.product.system_ext.model=AOSP on ARM64
+ro.product.system_ext.name=aosp_arm64
+ro.system_ext.build.date=Mon Dec 20 14:57:17 UTC 2021
+ro.system_ext.build.date.utc=1640012237
+ro.system_ext.build.fingerprint=Android/aosp_arm64/generic_arm64:12/S2B2.211203.006/8015633:user/release-keys
+ro.system_ext.build.id=S2B2.211203.006
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=8015633
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=32
+####################################
+# from build/make/target/board/gsi_system_ext_user.prop
+####################################
+# GSI always generate dex pre-opt in system image
+ro.cp_system_other_odex=0
+# GSI disables non-AOSP nnapi extensions on product partition
+ro.nnapi.extensions.deny_on_product=true
+# TODO(b/120679683): disable RescueParty before all problem apps solved
+persist.sys.disable_rescue=true
+# TODO(b/78105955): disable privapp_permissions checking before the bug solved
+ro.control_privapp_permissions=disable
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.lockscreen.disable.default=1
+ro.com.google.locationfeatures=1
+ro.setupwizard.mode=DISABLED
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

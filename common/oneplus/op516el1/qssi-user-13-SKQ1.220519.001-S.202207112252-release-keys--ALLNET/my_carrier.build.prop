@@ -1,7 +1,0 @@
-# build porp start
-ro.oplus.image.my_carrier.type=ALLNET_all
-ro.oplus.image.my_carrier.date=2022-07-31 01:00:10
-ro.oplus.image.my_carrier.date.utc=1659200411
-ro.oplus.image.my_carrier.version_name=X00CNQW00
-ro.oplus.pipeline.carrier=ALLNET
-ro.oplus.image.my_carrier.version=13.0.02331.202207310002129519226.93490793

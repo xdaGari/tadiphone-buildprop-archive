@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=google
+ro.product.bootimage.device=sargo
+ro.product.bootimage.manufacturer=Google
+ro.product.bootimage.model=Pixel 3a
+ro.product.bootimage.name=sargo
+ro.bootimage.build.date=Thu Mar 24 18:56:43 UTC 2022
+ro.bootimage.build.date.utc=1648148203
+ro.bootimage.build.fingerprint=google/sargo/sargo:12/SP2A.220505.002/8353555:user/release-keys
+ro.bootimage.build.id=SP2A.220505.002
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=8353555
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

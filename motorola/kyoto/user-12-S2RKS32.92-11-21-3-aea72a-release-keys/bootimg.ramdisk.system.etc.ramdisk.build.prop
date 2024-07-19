@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=motorola
+ro.product.bootimage.device=kyoto
+ro.product.bootimage.manufacturer=motorola
+ro.product.bootimage.model=motorola edge 20 lite
+ro.product.bootimage.name=kyoto_retail
+ro.bootimage.build.date=Tue Sep 27 03:48:34 CDT 2022
+ro.bootimage.build.date.utc=1664268514
+ro.bootimage.build.fingerprint=motorola/kyoto_retail/kyoto:12/S2RKS32.92-11-21-3/aea72a:user/release-keys
+ro.bootimage.build.id=S2RKS32.92-11-21-3
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=aea72a
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

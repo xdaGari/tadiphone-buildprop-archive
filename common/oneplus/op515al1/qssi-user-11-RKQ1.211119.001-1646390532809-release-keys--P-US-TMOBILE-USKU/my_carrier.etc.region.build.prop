@@ -1,7 +1,0 @@
-ro.preinstall.path=/data/etc/appchannel
-ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
-ro.oplus.region.custom=1.0.34_US_P-US-TMOBILE-USKU
-persist.sys.timezone=America/New_York
-persist.sys.oplus.region=US
-ro.vendor.oplus.regionmark=US
-ro.vendor.oplus.version=pu

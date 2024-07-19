@@ -1,9 +1,0 @@
-# build porp start
-ro.oplus.image.my_stock.type=export_realme
-ro.oplus.image.my_stock.date=2023-11-24 18:47:27
-ro.oplus.image.my_stock.date.utc=1700822847
-ro.product.brand.ui=realmeUI
-sys.disable_bootvideo=1
-ro.oplus.server_url_1=https://fourier-newds01-sg.allawnos.com/autotime/dateandtime.xml?number=
-ro.oplus.server_url_2=https://fourier-newds02-sg.allawnos.com/autotime/dateandtime.xml?number=
-ro.oplus.image.my_stock.version=1.1.0.39.2023112418442221800832.cbef805c

@@ -1,0 +1,50 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Xiaomi
+ro.product.product.device=missi
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=missi
+ro.product.product.name=missi
+ro.product.product.marketname=
+ro.product.build.date=Fri May 27 21:57:41 CST 2022
+ro.product.build.date.utc=1653659861
+ro.product.build.fingerprint=Xiaomi/missi/missi:12/SP1A.210812.016/V13.0.18.0.SLKCNXM:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=V13.0.18.0.SLKCNXM
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.miui.has_gmscore=1
+ro.miui.build.region=cn
+ro.config.ringtone=MiRemix.ogg
+ro.config.notification_sound=WaterDrop_preview.ogg
+ro.config.alarm_alert=Fireflies.ogg
+persist.sys.mdlog_dumpback=2
+persist.vendor.mdlog.need_dump=1
+persist.sys.gz.enable=true
+persist.sys.spc.cpulimit.enabled=true
+persist.miui.density_v2=560
+persist.sys.miui_sptm.enable=true
+persist.sys.miui_sptm.enable_pl_type=2
+persist.sys.preload.enable=true
+persist.miui.extm.enable=1
+persist.miui.miperf.enable=true
+dalvik.vm.heaptargetutilization=0.5
+dalvik.vm.heapminfree=2m
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

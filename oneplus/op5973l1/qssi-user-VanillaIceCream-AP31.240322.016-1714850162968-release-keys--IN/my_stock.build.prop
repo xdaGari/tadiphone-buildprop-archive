@@ -1,0 +1,14 @@
+# build porp start
+ro.oplus.image.my_stock.type=export_OnePlus
+ro.oplus.image.my_stock.date=2024-05-01 00:06:40
+ro.oplus.image.my_stock.date.utc=1714493200
+ro.opa.device_model_id=ga-oplus-skill-os121-211011
+ro.config.notification_sound=Whoop_doop.ogg
+ro.config.calendar_sound=Cozy.ogg
+ro.config.alarm_alert=Cloudscape.ogg
+ro.config.notification_sim2=Free.ogg
+ro.config.notification_sms=Free.ogg
+ro.config.ringtone_sim2=OnePlus_new_feeling.ogg
+ro.config.ringtone=OnePlus_new_feeling.ogg
+ro.config.omoji_path=/my_stock/etc/Omoji
+ro.oplus.image.my_stock.version=27.0.2.9002.2024050100012125021683.c73f9f59

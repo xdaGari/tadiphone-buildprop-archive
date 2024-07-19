@@ -1,0 +1,4 @@
+ro.product.mod_device=iris_jp_kd_global
+ro.miui.customized.region=jp_kd
+ro.miui.build.region=jp
+ro.vendor.imeisv=27

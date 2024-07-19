@@ -1,4 +1,0 @@
-ro.debuggable=1
-ro.adb.secure=0
-# Auto-added by post_process_props.py
-persist.sys.usb.config=adb

@@ -1,0 +1,11 @@
+# build porp start
+ro.oplus.image.my_region.type=EUEX_all
+ro.oplus.image.my_region.date=2023-01-12 23:07:37
+ro.oplus.image.my_region.date.utc=1673536057
+ro.oplus.image.my_region.version_name=XEU0000
+ro.oplus.pipeline.region=EUEX
+ro.vendor.oplus.radio.sar_regionmark=EUEX
+ro.vendor.oplus.nwopt=true
+persist.sys.rm_sensitive_data=1
+persist.vendor.rm_sensitive_data=1
+ro.oplus.image.my_region.version=13.0.02331.2023011223003614164282.262df3b0
