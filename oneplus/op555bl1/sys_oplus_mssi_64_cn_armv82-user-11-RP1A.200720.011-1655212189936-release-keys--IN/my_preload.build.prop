@@ -1,0 +1,8 @@
+# build porp start
+ro.oplus.image.my_preload.version=0.0.1.202206142034058354414.40baddba
+ro.oplus.image.my_preload.type=export_21851_OnePlus_IN_NA
+ro.oplus.image.my_preload.date=2022-06-14 20:40:58
+ro.oplus.image.my_preload.date.utc=1655210458
+ro.oplus.preload.custom=1.1.19_IN
+ro.netflix.channel=5687eaa0-047a-11e9-b731-9f73876061f5
+ro.netflix.signup=1

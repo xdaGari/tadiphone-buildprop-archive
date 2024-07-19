@@ -1,0 +1,13 @@
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+adjust.preinstall.path=/data/etc/appchannel/adjust.preinstall
+io.branch.preinstall.apps.path=/data/etc/appchannel/pre_install_apps.branch
+ro.trackingId.com.lzd.appid=/data/etc/appchannel/lazadaChannel.txt
+ro.trackingId.com.arise.appid=/data/etc/appchannel/ariseChannel.txt
+ro.com.baidu.searchbox=/data/etc/appchannel/
+ro.com.google.gmsversion=13_202304
+ro.com.google.clientidbase=android-oppo
+persist.sys.timezone=Asia/Shanghai
+persist.sys.oplus.region=CN
+ro.vendor.oplus.regionmark=CN
+ro.vendor.oplus.version=cn

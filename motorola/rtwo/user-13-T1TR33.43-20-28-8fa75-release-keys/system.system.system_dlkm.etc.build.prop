@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=motorola
+ro.product.system_dlkm.device=msi
+ro.product.system_dlkm.manufacturer=motorola
+ro.product.system_dlkm.model=motorola edge 40 pro
+ro.product.system_dlkm.name=rtwo_g
+ro.system_dlkm.build.date=Mon Apr 17 11:42:29 UTC 2023
+ro.system_dlkm.build.date.utc=1681731749
+ro.system_dlkm.build.fingerprint=motorola/rtwo_g/msi:13/T1TR33M.43-20-28/44ae0:user/release-keys
+ro.system_dlkm.build.id=T1TR33M.43-20-28
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=44ae0
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

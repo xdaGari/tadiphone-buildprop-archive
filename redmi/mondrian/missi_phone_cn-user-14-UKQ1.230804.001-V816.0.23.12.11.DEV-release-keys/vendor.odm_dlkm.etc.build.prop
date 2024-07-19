@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Redmi
+ro.product.odm_dlkm.device=mondrian
+ro.product.odm_dlkm.manufacturer=Xiaomi
+ro.product.odm_dlkm.model=23013RK75C
+ro.product.odm_dlkm.cert=23013RK75C
+ro.product.odm_dlkm.name=mondrian
+ro.product.odm_dlkm.marketname=Redmi K60
+ro.odm_dlkm.build.date=Mon Dec 11 15:08:08 UTC 2023
+ro.odm_dlkm.build.date.utc=1702307288
+ro.odm_dlkm.build.fingerprint=Redmi/mondrian/mondrian:12/SKQ1.230401.001/V816.0.23.12.11.DEV:user/release-keys
+ro.odm_dlkm.build.id=SKQ1.230401.001
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=V816.0.23.12.11.DEV
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

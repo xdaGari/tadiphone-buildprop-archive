@@ -1,0 +1,89 @@
+##### Overwrite prop values by composition #####
+ro.product.build.id=67.1.A.2.112
+
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Sony
+ro.product.product.device=qssi
+ro.product.product.manufacturer=Sony
+ro.product.product.model=Product_pdx234_generic
+ro.product.product.name=product_pdx234_generic
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.product.build.date=Thu Oct 12 23:53:56 JST 2023
+ro.product.build.date.utc=1697122436
+ro.product.build.fingerprint=Sony/product_pdx234_generic/qssi:14/UKQ1.230917.001/1:user/release-keys
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=1
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=14
+ro.product.build.version.sdk=34
+####################################
+# from device/somc/qssi/product.prop
+####################################
+#
+# product prop for sony qssi
+#
+import /mnt/oem/etc/customization/config.prop *
+import /mnt/oem/etc/customization/${ro.boot.hardware.sku}/config.prop *
+import /oem/etc/customization/config.prop *
+import /oem/etc/customization/${ro.boot.hardware.sku}/config.prop *
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=34
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=product,system,system_ext,vbmeta_system
+ro.product.cpu.pagesize.max=4096
+ro.dalvik.vm.enable_uffd_gc=false
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+remote_provisioning.enable_rkpd=true
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+af.fast_track_multiplier=1
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.avrcp.controller.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+ro.com.google.clientidbase=android-sonymobile
+ro.postinstall.fstab.prefix=/product
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=14_frc1
+ro.com.google.lens.oem_image_package=com.google.android.apps.photos
+ro.apex.updatable=true
+pinner.pin_camera=true
+ro.support_one_handed_mode=true
+audio.offload.video=false
+audio.sys.routing.latency=750
+ro.com.google.lens.oem_camera_package=com.sonymobile.photopro
+ro.config.alarm_alert=Xperia_alarm.ogg
+ro.config.notification_sound=Notification.ogg
+ro.config.ringtone=Ringer.ogg
+ro.semc.content.number=PA5
+# end of file
+

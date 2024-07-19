@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Xiaomi
+ro.product.vendor_dlkm.device=thor
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=2203121C
+ro.product.vendor_dlkm.cert=2203121C
+ro.product.vendor_dlkm.name=thor
+ro.product.vendor_dlkm.marketname=Xiaomi 12S Ultra
+ro.vendor_dlkm.build.date=Tue Sep  6 01:08:20 CST 2022
+ro.vendor_dlkm.build.date.utc=1662397700
+ro.vendor_dlkm.build.fingerprint=Xiaomi/thor/thor:12/SKQ1.220303.001/V13.1.22.9.5.DEV:user/release-keys
+ro.vendor_dlkm.build.id=SKQ1.220303.001
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=V13.1.22.9.5.DEV
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+import /vendor_dlkm/etc/${ro.boot.product.hardware.sku}_build.prop
+# end of file
+

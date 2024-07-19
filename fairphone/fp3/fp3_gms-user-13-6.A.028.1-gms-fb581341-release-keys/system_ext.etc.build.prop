@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Fairphone
+ro.product.system_ext.device=FP3
+ro.product.system_ext.manufacturer=Fairphone
+ro.product.system_ext.model=FP3
+ro.product.system_ext.name=FP3
+ro.system_ext.build.date=Thu Mar 28 12:07:28 CET 2024
+ro.system_ext.build.date.utc=1711624048
+ro.system_ext.build.fingerprint=Fairphone/FP3/FP3:13/6.A.028.1/gms-fb581341:user/release-keys
+ro.system_ext.build.id=6.A.028.1
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=gms-fb581341
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.data.profile_update=true
+persist.vendor.dpm.feature=11
+# end of file
+

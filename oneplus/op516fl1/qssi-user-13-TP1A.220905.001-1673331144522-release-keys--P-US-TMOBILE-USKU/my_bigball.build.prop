@@ -1,0 +1,27 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=export_2084A_OnePlus_US_P_US_TMOBILE_USKU
+ro.oplus.image.my_bigball.date=2023-01-10 19:44:03
+ro.oplus.image.my_bigball.date.utc=1673351043
+ro.oplus.image.my_bigball.version_name=my_bigball2084A.0.0
+ro.oplus.server_url_1=https://fourier-newds01-us.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-us.allawnos.com/autotime/dateandtime.xml?number=
+ro.com.google.clientidbase=android-oneplus
+ro.com.google.clientidbase.ms=android-tmus-us-rvc3
+ro.com.google.clientidbase.yt=android-oneplus
+ro.com.google.clientidbase.gmm=android-oneplus
+ro.com.google.clientidbase.vs=android-tmus-us-rvc3
+ro.com.google.clientidbase.pg=android-tmus-inca
+ro.com.google.clientidbase.tx=android-oneplus-rvo3
+sys.override.simswitch.property=1
+ro.oplus.rsa3.support=true
+ro.imei.check=yes
+ro.oplus.control.shutdown.delaytime=8
+ro.oplus.radio.vonr_support=1
+ro.oplus.radio.ims_product_enabler=IR92/15 PRD-NG114/4
+ro.oplus.radio.cpm_version=OMA2.2
+ro.oplus.radio.rcs_client_version=UP_2.0
+ro.oplus.radio.os_version=Color
+ro.oplus.radio.cc_version=2.37
+ro.oplus.radio.vonr_support=1
+ro.oplus.image.my_bigball.version=2084A.0.0.2023011019362814106350.0a02b229

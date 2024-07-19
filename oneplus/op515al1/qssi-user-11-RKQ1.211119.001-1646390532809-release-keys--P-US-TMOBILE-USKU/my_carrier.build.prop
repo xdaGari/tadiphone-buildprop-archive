@@ -1,0 +1,24 @@
+import /my_carrier/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_carrier.version=20826.2.28.202203041824085815718
+ro.oplus.image.my_carrier.type=P_US_TMOBILE_USKU_OnePlus
+ro.oplus.image.my_carrier.date=2022-03-04 18:27:34
+ro.oplus.image.my_carrier.date.utc=1646389654
+ro.oplus.image.my_carrier.version_name=20826.2.28-X00USTMUS
+ro.oplus.pipeline.carrier=P-US-TMOBILE-USKU
+ro.oplus.radio.lte_rsrp_thresholds=-125,-120,-115,-110,-100,-44
+ro.oplus.radio.wcdma_rsrp_thresholds=-120,-113,-103,-97,-89,-25
+ro.oplus.radio.nrca_support=1
+ro.vendor.oplus.radio.multisim.config=ssss
+persist.sys.oplus.radio.recovery_config=0,0,0,0
+ro.com.google.clientidbase=android-oneplus
+ro.com.google.clientidbase.ms=android-tmus-us-rvc3
+ro.com.google.clientidbase.yt=android-oneplus
+ro.com.google.clientidbase.gmm=android-oneplus
+ro.com.google.clientidbase.vs=android-tmus-us-rvc3
+ro.com.google.clientidbase.pg=android-tmus-inca
+sys.override.simswitch.property=1
+ro.oplus.rsa3.support=true
+ro.boot.opcarrier=none
+ro.imei.check=yes
+ro.oem.key1=P-US-TMOBILE-USKU

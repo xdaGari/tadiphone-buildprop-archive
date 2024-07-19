@@ -1,0 +1,10 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=tablet
+ro.setupwizard.rotation_locked=false
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=10_202009
+ro.com.google.acsa=true

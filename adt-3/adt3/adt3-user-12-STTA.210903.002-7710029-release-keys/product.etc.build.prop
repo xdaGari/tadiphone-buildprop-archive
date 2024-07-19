@@ -1,0 +1,40 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=ADT-3
+ro.product.product.device=adt3
+ro.product.product.manufacturer=askey
+ro.product.product.model=ADT-3
+ro.product.product.name=adt3
+ro.product.build.date=Tue Sep  7 15:47:45 UTC 2021
+ro.product.build.date.utc=1631029665
+ro.product.build.fingerprint=ADT-3/adt3/adt3:12/STTA.210903.002/7710029:user/release-keys
+ro.product.build.id=STTA.210903.002
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=7710029
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=tv,nosdcard
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.config.ringtone=Ring_Synth_04.ogg
+ro.config.notification_sound=pixiedust.ogg
+net.tethering.noprovisioning=true
+camera.disable_zsl_mode=1
+rw.camera.usb.faceback=true
+ro.boot.fake_battery=42
+ro.af.client_heap_size_kbyte=1536
+ro.com.google.clientidbase=android-askey-tv
+ro.oem.key1=ATV00100020
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

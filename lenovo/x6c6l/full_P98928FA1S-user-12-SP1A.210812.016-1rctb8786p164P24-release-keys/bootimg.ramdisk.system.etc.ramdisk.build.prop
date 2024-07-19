@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Lenovo
+ro.product.bootimage.device=X6C6L
+ro.product.bootimage.manufacturer=LENOVO
+ro.product.bootimage.model=Lenovo TB-X6C6L
+ro.product.bootimage.name=LenovoTB-X6C6L
+ro.bootimage.build.date=Thu Nov  9 10:32:24 CST 2023
+ro.bootimage.build.date.utc=1699497144
+ro.bootimage.build.fingerprint=Lenovo/LenovoTB-X6C6L/X6C6L:12/SP1A.210812.016/S022_231109_ROW:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=TB-X6C6L_S100022_231109_ROW
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

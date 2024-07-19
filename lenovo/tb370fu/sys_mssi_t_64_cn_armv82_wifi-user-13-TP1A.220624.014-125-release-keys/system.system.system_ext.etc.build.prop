@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Lenovo
+ro.product.system_ext.device=TB370FU
+ro.product.system_ext.manufacturer=LENOVO
+ro.product.system_ext.model=TB370FU
+ro.product.system_ext.name=TB370FU
+ro.system_ext.build.date=Mon May  8 08:54:36 CST 2023
+ro.system_ext.build.date.utc=1683507276
+ro.system_ext.build.fingerprint=Lenovo/TB370FU/TB370FU:13/TP1A.220624.014/S2000151_230508_PRC:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=125
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.setupwizard.mode=ENABLED
+# end of file

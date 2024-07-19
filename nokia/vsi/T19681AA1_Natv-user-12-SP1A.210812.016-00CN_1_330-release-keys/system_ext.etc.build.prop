@@ -1,0 +1,62 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=VSI
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia C31
+ro.product.system_ext.name=Vision_00CN
+ro.system_ext.build.date=Mon Dec 26 08:35:46 UTC 2022
+ro.system_ext.build.date.utc=1672043746
+ro.system_ext.build.fingerprint=Nokia/Vision_00CN/VSI:12/SP1A.210812.016/52132:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=00CN_1_330
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.support_one_handed_mode=false
+ro.product.hardware=T19681AA1
+ro.audio.whale_hal=false
+ro.audio.offload_wakelock=true
+ro.boot.product.vendor.sku=sprd
+ro.sprd.displayenhance=true
+ro.sprd.nightdisplay.enhance=true
+ro.sprd.superresolution=1
+ro.sr.displaysize.defaultresolution=0
+ro.sr.displaysize.lowresolution=1
+ro.ifaa.support=true
+ro.media.recoderEIS.enabled=true
+ro.media.wfd.rgb.enabled=true
+ro.media.wfd.resolution=1
+ro.lmk.use_minfree_levels=true
+ro.lmk.kill_timeout_ms=200
+ro.vendor.lmk.enable_kill_heaviest_task=false
+ro.sprd.pwctl.ultra.message=1
+ro.sys.pwctl.ultrasaving=0
+persist.device_config.runtime_native.usap_pool_enabled=true
+ro.launcher.multimode=true
+ro.launcher.dynamic=true
+ro.launcher.desktopgrid=true
+ro.launcher.notifbadge.count=true
+ro.product.assistanttouch=false
+persist.sys.support.vt=true
+persist.sys.csvt=false
+keyguard.no_require_sim=true
+ro.com.android.dataroaming=false
+ro.simlock.unlock.autoshow=1
+ro.simlock.unlock.bynv=0
+ro.simlock.onekey.lock=0
+persist.vendor.radio.mdrec.simpin.cache=1
+ro.telephony.se.enable=true
+persist.switch.reduce.sar_power=1
+persist.function_for_sar_log_trigger=1
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

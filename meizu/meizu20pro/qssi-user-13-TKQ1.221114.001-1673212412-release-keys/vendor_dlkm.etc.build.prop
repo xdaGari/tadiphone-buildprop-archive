@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=meizu
+ro.product.vendor_dlkm.device=meizu20Pro
+ro.product.vendor_dlkm.manufacturer=meizu
+ro.product.vendor_dlkm.model=MEIZU 20 Pro
+ro.product.vendor_dlkm.name=meizu_20Pro_CN
+ro.build.fingerprint=meizu/meizu_20Pro_CN/meizu20Pro:13/TKQ1.221114.001/1673212412:user/release-keys
+ro.vendor_dlkm.build.date=Tue Aug  8 10:21:05 CST 2023
+ro.vendor_dlkm.build.date.utc=1691461265
+ro.vendor_dlkm.build.fingerprint=meizu/meizu_20Pro_CN/meizu20Pro:13/TKQ1.221114.001/1673212412:user/release-keys
+ro.vendor_dlkm.build.id=TKQ1.221114.001
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=1673212412
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=33
+# end of file

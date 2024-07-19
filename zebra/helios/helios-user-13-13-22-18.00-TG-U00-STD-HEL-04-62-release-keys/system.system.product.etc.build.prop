@@ -1,0 +1,43 @@
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=abl,bluetooth,boot,cmnlib,cmnlib64,devcfg,dsp,dtbo,hyp,keymaster,mdtp,modem,modem_apq,pmic,rpm,system,tz,vendor,xbl
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.setupwizard.rotation_locked=false
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=13_202304
+ro.com.google.ime.showicon=false
+dhcp.optionsupportversion=1.0
+dhcp.defaultoptions=1,3,6,15,26,51,58,59
+dhcp.configurableoptions=12,28,42,43,60,61,66,67,77,81,119,150,186,188,230
+persist.service.dhcp.enabledopt=12,28,42,43,60,61,66,67,77,81,119,150,186,188,230
+persist.service.dhcp.requestedparam=12,28,42,43,66,67,119,150,186,188,230
+net.dns.search=
+persist.service.dhcp.vendorid=
+ro.dhcp.sethostname.enable=1
+ro.dhcp.tftp.enable=1
+persist.service.enableuserclass=1
+persist.service.setuserclass=ANDROID
+persist.service.dhcp.hostname=
+persist.service.dhcp.fqdn=
+persist.service.dhcp.fqdnCF=
+dhcp.fqdn.serverflags=
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.avrcp.controller.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+bluetooth.profile.sap.server.enabled=true
+# end of file

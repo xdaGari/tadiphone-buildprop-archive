@@ -1,0 +1,16 @@
+# build porp start
+ro.oplus.image.my_region.type=IN_all
+ro.oplus.image.my_region.date=2024-04-20 18:04:26
+ro.oplus.image.my_region.date.utc=1713607466
+ro.oplus.image.my_region.version_name=X00IN00
+ro.oplus.pipeline.region=IN
+ro.vendor.oplus.modemdump_enable=1
+ro.vendor.oplus.radio.sar_regionmark=IN
+ro.vendor.oplus.radio.carrier_detect_mode=1
+persist.sys.ocloud.url=https://ocloud-httpdns-in.heytapmobile.com
+persist.sys.ocloud.newurl=https://ostorage-ocloud-in.allawnos.com
+ro.product.locale=en-IN
+ro.oplus.radio.global_regionlock.dynamic=true
+ro.oplus.server_url_1=https://fourier-newds01-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.image.my_region.version=15.0.0350.2024042018001424858133.36051dc9

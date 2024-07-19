@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Android
+ro.product.product.device=generic_arm64
+ro.product.product.manufacturer=unknown
+ro.product.product.model=AOSP on ARM64
+ro.product.product.name=aosp_arm64
+ro.product.build.date=Tue May  4 00:48:52 UTC 2021
+ro.product.build.date.utc=1620089332
+ro.product.build.fingerprint=Android/aosp_arm64/generic_arm64:S/SPB1.210331.013/7333779:user/release-keys
+ro.product.build.id=SPB1.210331.013
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=7333779
+ro.product.build.version.release=11
+ro.product.build.version.release_or_codename=S
+ro.product.build.version.sdk=30
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=emulator
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.config.ringtone=Ring_Synth_04.ogg
+ro.config.notification_sound=pixiedust.ogg
+ro.com.android.dataroaming=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

@@ -1,0 +1,9 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=tv
+vendor.mstar.cap.framerate=30
+vendor.mstar.hwc.glcomposite=1
+vendor.mstar.support.video.rotation=1
+

@@ -1,0 +1,42 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Nokia
+ro.product.odm.device=RNN_sprout
+ro.product.odm.manufacturer=HMD Global
+ro.product.odm.model=Nokia G20
+ro.product.odm.name=Ronin_00WW
+persist.radio.imei_ver=29
+ro.product.carriercustomization.version=202204261032
+ro.build.display.wtid=SW_T99653AA1_V360_M10_NF_NOKIA_Iris_USR_MP
+ro.vendor.build.display.wtid=SW_T99653AA1_V360_M10_NF_NOKIA_Iris_USR_MP
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Mon Jul 11 10:37:06 UTC 2022
+ro.odm.build.date.utc=1657535826
+ro.odm.build.fingerprint=Nokia/Ronin_00WW/RNN_sprout:12/SP1A.210812.016/00WW_2_360:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=00WW_2_360
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from device/hmd/T99653/odm.prop
+####################################
+import /odm/${ro.boot.skuid}/prop/build.prop
+import /odm/${ro.boot.skuid}/prop/fingerprint.prop
+import /odm/${ro.boot.skuid}/prop/${ro.boot.nfc}.prop
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

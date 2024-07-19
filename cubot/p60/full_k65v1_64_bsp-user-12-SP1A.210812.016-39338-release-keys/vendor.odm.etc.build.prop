@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=CUBOT
+ro.product.odm.device=P60
+ro.product.odm.manufacturer=CUBOT
+ro.product.odm.model=P60
+ro.product.odm.name=P60_EEA
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Wed Sep 28 14:14:32 CST 2022
+ro.odm.build.date.utc=1664345672
+ro.odm.build.fingerprint=CUBOT/P60_EEA/P60:12/SP1A.210812.016/39338:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=39338
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

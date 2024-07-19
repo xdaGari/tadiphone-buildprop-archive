@@ -1,0 +1,55 @@
+# build prop start
+persist.vendor.ims.disableADBLogs=0
+persist.vendor.ims.disableDebugLogs=0
+persist.vendor.ims.disableQXDMLogs=0
+persist.vendor.ims.disableIMSLogs=0
+persist.vendor.ims.rtp.enableqxdm=15
+persist.vendor.ims.vt.enableadb=3
+persist.vendor.ims.loglevel=255
+persist.ims.disableADBLogs=0
+persist.ims.disableDebugLogs=0
+persist.ims.disableQXDMLogs=0
+persist.ims.disableIMSLogs=0
+ro.oplus.system.gallery.name=com.coloros.gallery3d
+ro.build.device_family=OPSM7250
+ro.build.kernel.id=4.19.157
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=SM7250
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+persist.vendor.radio.custom_ecc=0
+ro.separate.soft=20813
+ro.rom.featrue=allnet
+ro.product.authentication=2020CP14944
+ro.vendor.oplus.market.name=OnePlus NordCE 5G
+ro.product.hw=AA058
+ro.sys.reserve.integrate=true
+persist.sys.oplus.fusionlight=true
+ro.build.product=EB2101
+ro.vendor.product.oem=EB2101
+ro.vendor.product.device.oem=OP4E59
+ro.build.display.id=EB2101_11_C.01
+ro.build.display.full_id=EB2101_11_C.01_221013
+persist.version.confidential=false
+persist.sys.oplus.hybridswap_app_memcg=true
+ro.version.confidential=false
+ro.build.version.oplusrom=V12.1
+ro.oplus.ifaa.support=false
+ro.oplus.soter.support=false
+ro.vendor.oplus.radio.project=2
+ro.camera.notify_nfc=1
+ro.oplus.image.odm.type=20813
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.2b7e8c7e

@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Firefly
+ro.product.bootimage.device=rk3588_firefly_itx_3588j
+ro.product.bootimage.manufacturer=Firefly
+ro.product.bootimage.model=ITX-3588J
+ro.product.bootimage.name=rk3588_firefly_itx_3588j
+ro.bootimage.build.date=Fri Mar 11 10:26:06 CST 2022
+ro.bootimage.build.date.utc=1646965566
+ro.bootimage.build.fingerprint=Firefly/rk3588/rk3588:12/SQ1D.211205.016.A5/chenjp03111026:userdebug/release-keys
+ro.build.fingerprint=Firefly/rk3588/rk3588:12/SQ1D.211205.016.A5/chenjp03111026:userdebug/release-keys
+ro.bootimage.build.id=SQ1D.211205.016.A5
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=userdebug
+ro.bootimage.build.version.incremental=eng.chenjp.20220311.102747
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

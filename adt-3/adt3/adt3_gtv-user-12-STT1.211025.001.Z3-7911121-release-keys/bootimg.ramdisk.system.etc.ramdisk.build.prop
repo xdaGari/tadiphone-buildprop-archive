@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=ADT-3
+ro.product.bootimage.device=adt3
+ro.product.bootimage.manufacturer=askey
+ro.product.bootimage.model=ADT-3
+ro.product.bootimage.name=adt3_gtv
+ro.bootimage.build.date=Fri Nov 12 19:47:33 UTC 2021
+ro.bootimage.build.date.utc=1636746453
+ro.bootimage.build.fingerprint=ADT-3/adt3_gtv/adt3:12/STT1.211025.001.Z3/7911121:user/release-keys
+ro.bootimage.build.id=STT1.211025.001.Z3
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=7911121
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

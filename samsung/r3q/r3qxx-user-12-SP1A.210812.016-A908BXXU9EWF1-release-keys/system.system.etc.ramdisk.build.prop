@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=samsung
+ro.product.bootimage.device=qssi
+ro.product.bootimage.manufacturer=samsung
+ro.product.bootimage.model=SM-A908B
+ro.product.bootimage.name=r3qxx
+ro.bootimage.build.date=Wed Jun 14 19:35:50 +07 2023
+ro.bootimage.build.date.utc=1686746150
+ro.bootimage.build.fingerprint=samsung/r3qxx/qssi:12/SP1A.210812.016/A908BXXU9EWF1:user/test-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=test-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=A908BXXU9EWF1
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file

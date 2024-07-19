@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=blackshark
+ro.product.odm_dlkm.device=katyusha
+ro.product.odm_dlkm.manufacturer=blackshark
+ro.product.odm_dlkm.model=SHARK KTUS-A0
+ro.product.odm_dlkm.cert=
+ro.product.odm_dlkm.name=KTUS-A0
+ro.product.odm_dlkm.marketname=
+ro.odm_dlkm.build.date=Wed Aug 10 01:09:30 CST 2022
+ro.odm_dlkm.build.date.utc=1660064970
+ro.odm_dlkm.build.fingerprint=blackshark/KTUS-H0/katyusha:12/KTUS2208100OS00MP2/V11.0.4.0.JOYUI:user/release-keys
+ro.odm_dlkm.build.id=KTUS2208100OS00MP2
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=bs.20220810.0032
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
+

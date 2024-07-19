@@ -1,0 +1,63 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.alwayson.enable=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.com.android.dataroaming=false
+persist.vendor.radio.telecom.vibrate=0
+ro.build.device_family=OPMT6893
+ro.soc.model=MT6893
+ro.soc.manufacturer=Mediatek
+ro.build.kernel.id=4.14.186
+ro.oplus.system.camera.name=com.oplus.camera
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=440
+ro.camera.portrait.blur.level.enable=1
+debug.sf.use_phase_offsets_as_durations=0
+debug.sf.late.sf.duration=-1
+debug.sf.late.app.duration=-1
+debug.sf.early.sf.duration=-1
+debug.sf.early.app.duration=-1
+debug.sf.earlyGl.sf.duration=-1
+debug.sf.earlyGl.app.duration=-1
+debug.sf.hwc.min.duration=0
+ro.camera.notify_nfc=1
+ro.separate.soft=21882
+ro.rom.featrue=allnet
+ro.vendor.product.oem=CPH2401
+ro.vendor.product.device.oem=OP557A
+ro.commonsoft.ota=OP557AL1
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.oplusrom=V12.1
+ro.build.version.oplusrom.confidential=V12.1
+ro.vendor.oplus.market.name=CPH2401
+ro.build.display.id=CPH2401_11_A.01
+ro.build.display.id_ims=CPH2401_11_A.01_221203
+ro.mediatek.version.release=CPH2401_11_A.01_221203
+ro.vendor.mediatek.version.release=CPH2401_11_A.01_221203
+ro.sys.reserve.integrate=true
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+persist.sys.oplus.hybridswap_app_memcg=true
+ro.vendor.neuropilot.flag=0xff
+ro.boot.product.hardware.sku=dsds
+ro.vendor.wlan.standalone.log=n
+odm.dirac.path=/odm/etc/dirac
+ro.vendor.mtk_dx_hdcp_support=1
+persist.odm.oplus.hdcp.support=1
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=21882
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.752ba536

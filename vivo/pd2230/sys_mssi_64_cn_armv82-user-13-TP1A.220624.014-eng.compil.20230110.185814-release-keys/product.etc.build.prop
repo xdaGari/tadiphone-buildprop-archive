@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=vivo
+ro.product.product.device=PD2230
+ro.product.product.manufacturer=vivo
+ro.product.product.model=V2230A
+ro.product.product.name=PD2230
+ro.product.build.date=Tue Jan 10 18:54:39 CST 2023
+ro.product.build.date.utc=1673348079
+ro.product.build.fingerprint=vivo/PD2230/PD2230:13/TP1A.220624.014/compiler01101854:user/release-keys
+ro.product.build.id=TP1A.220624.014
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.compil.20230110.185814
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=13_202211
+# end of file

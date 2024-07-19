@@ -1,0 +1,10 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=domestic_22112_OPPO_CN_ALLNET
+ro.oplus.image.my_bigball.date=2024-05-30 20:15:55
+ro.oplus.image.my_bigball.date.utc=1717071355
+ro.oplus.image.my_bigball.version_name=my_bigball22112_1401_U.0.0
+ro.oplus.rsa=rsa4-non
+ro.oplus.server_url_1=https://newds-api-cn-01.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://newds-api-cn-02.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.image.my_bigball.version=22112_1401_U.0.0.2024053020114225495695.834f5658

@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=motorola
+ro.product.bootimage.device=lisbon
+ro.product.bootimage.manufacturer=motorola
+ro.product.bootimage.model=moto g(60)s
+ro.product.bootimage.name=lisbon_retail
+ro.bootimage.build.date=Fri Feb 24 08:40:57 CST 2023
+ro.bootimage.build.date.utc=1677249657
+ro.bootimage.build.fingerprint=motorola/lisbon_retail/lisbon:12/S3RLS32.114-25-7/4a7b6:user/release-keys
+ro.bootimage.build.id=S3RLS32.114-25-7
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=4a7b6
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

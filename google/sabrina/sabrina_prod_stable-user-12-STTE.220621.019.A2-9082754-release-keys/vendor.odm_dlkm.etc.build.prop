@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=google
+ro.product.odm_dlkm.device=sabrina
+ro.product.odm_dlkm.manufacturer=Google
+ro.product.odm_dlkm.model=Chromecast
+ro.product.odm_dlkm.name=sabrina_prod_stable
+ro.odm_dlkm.build.date=Tue Sep 20 08:23:23 UTC 2022
+ro.odm_dlkm.build.date.utc=1663662203
+ro.odm_dlkm.build.fingerprint=google/sabrina_prod_stable/sabrina:12/STTE.220621.019.A2/9082754:user/release-keys
+ro.odm_dlkm.build.id=STTE.220621.019.A2
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=9082754
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

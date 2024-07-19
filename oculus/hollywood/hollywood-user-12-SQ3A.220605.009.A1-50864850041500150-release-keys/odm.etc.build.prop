@@ -1,0 +1,75 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=oculus
+ro.product.odm.device=hollywood
+ro.product.odm.manufacturer=Oculus
+ro.product.odm.model=Quest 2
+ro.product.odm.name=hollywood
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Tue Apr 16 17:11:54 PDT 2024
+ro.odm.build.date.utc=1713312714
+ro.odm.build.fingerprint=oculus/hollywood/hollywood:12/SQ3A.220605.009.A1/50864850041500150:user/release-keys
+ro.odm.build.id=SQ3A.220605.009.A1
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=50864850041500150
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=32
+####################################
+# from device/oculus/kona-common/odm.prop
+####################################
+# Camera
+persist.vendor.camera.hal=fastpath
+# Display
+ro.surface_flinger.disable_refresh_rate_update=true
+# Init
+vendor.skip.init=0
+# IRQ
+vendor.drm.irq_affinity=80
+# Syncboss HAL
+vendor.syncbosshal.disable_uart_thread=true
+####################################
+# from device/oculus/hollywood/odm.prop
+####################################
+# Bluetooth
+ro.vendor.bluetooth.hwworkaround=2
+# Charger
+persist.vendor.ctm.disallowed=0
+# Display
+vendor.ro.minui.default_rotation=ROTATION_LEFT
+# Oculus
+persist.vendor.oculus.sensor.service.impl=sensorservice
+vendor.ovr.lower.txpower=15
+# Wifi
+persist.vendor.wifi.cmd.mcc.quota=true
+persist.vendor.wifi.devparams.enable=true
+persist.vendor.wifi.devparams.default_config=1
+persist.vendor.wifi.frequency.block.enable=true
+persist.vendor.wifi.scs.enable=true
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+vendor.display.cac_scale_red=1.006
+vendor.display.cac_scale_blue=0.99
+vendor.display.cac_offset_x=-38
+vendor.display.cac_ipd_adjust_0=82
+vendor.display.cac_ipd_adjust_1=6
+vendor.display.cac_ipd_adjust_2=-70
+vendor.display.cac_split=0
+vendor.display.cac_topology=kUnknown
+vendor.display.max_pipe_width=960
+vendor.display.disable_multirect=1
+ro.surface_flinger.has_writeback_dpu_cac=1
+persist.vendor.wifi.cmd.cs.p2p.oculus=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

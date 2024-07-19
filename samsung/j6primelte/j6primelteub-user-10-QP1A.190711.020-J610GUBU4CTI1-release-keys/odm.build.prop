@@ -1,0 +1,5 @@
+ro.omc.build.version=J610GOWO4CTI1
+ro.omc.build.id=34089054
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=FALSE

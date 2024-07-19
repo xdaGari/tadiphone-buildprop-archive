@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=POCO
+ro.product.bootimage.device=peridot
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=24069PC21G
+ro.product.bootimage.name=peridot_global
+ro.product.bootimage.cert=24069PC21G
+ro.product.bootimage.marketname=POCO F6
+ro.bootimage.build.date=Thu May 23 14:46:54 UTC 2024
+ro.bootimage.build.date.utc=1716475614
+ro.bootimage.build.fingerprint=POCO/peridot_global/peridot:14/UKQ1.240116.001/V816.0.4.0.UNPMIXM:user/release-keys
+ro.bootimage.build.id=UKQ1.240116.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V816.0.4.0.UNPMIXM
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end of file
+

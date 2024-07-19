@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=samsung
+ro.product.bootimage.device=a22x
+ro.product.bootimage.manufacturer=samsung
+ro.product.bootimage.model=SM-A226B
+ro.product.bootimage.name=a22xnsxx
+ro.bootimage.build.date=Tue Jun 13 13:21:57 KST 2023
+ro.bootimage.build.date.utc=1686630117
+ro.bootimage.build.fingerprint=samsung/a22xnsxx/a22x:12/SP1A.210812.016/A226BXXU6DWF3:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=A226BXXU6DWF3
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=oplus
+ro.product.bootimage.device=ossi
+ro.product.bootimage.manufacturer=oplus
+ro.product.bootimage.model=ossi
+ro.product.bootimage.name=ossi
+ro.bootimage.build.date=Fri Nov 25 16:51:27 CST 2022
+ro.bootimage.build.date.utc=1669366287
+ro.bootimage.build.fingerprint=oplus/ossi/ossi:12/SP1A.210812.016/1669366287072:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=1669366287072
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

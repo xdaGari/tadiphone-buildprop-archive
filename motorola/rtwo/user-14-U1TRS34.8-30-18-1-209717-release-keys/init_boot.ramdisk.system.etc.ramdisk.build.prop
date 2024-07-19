@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=motorola
+ro.product.bootimage.device=rtwo
+ro.product.bootimage.manufacturer=motorola
+ro.product.bootimage.model=Kalama for arm64
+ro.product.bootimage.name=rtwo
+ro.bootimage.build.date=Sun May 12 00:04:32 CDT 2024
+ro.bootimage.build.date.utc=1715490272
+ro.bootimage.build.fingerprint=motorola/rtwo/rtwo:13/U1TRS34.8-30-18-1/209717:user/release-keys
+ro.bootimage.build.id=U1TRS34.8-30-18-1
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=209717
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
+

@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=motorola
+ro.product.system_dlkm.device=lyriq
+ro.product.system_dlkm.manufacturer=motorola
+ro.product.system_dlkm.model=motorola edge 40
+ro.product.system_dlkm.name=lyriq_g
+ro.system_dlkm.build.date=Tue Jun 13 07:52:27 CDT 2023
+ro.system_dlkm.build.date.utc=1686660747
+ro.system_dlkm.build.fingerprint=motorola/lyriq_g/lyriq:13/T2TLS33M.3-22-5-2/47317:user/release-keys
+ro.system_dlkm.build.id=T2TLS33M.3-22-5-2
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=47317
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

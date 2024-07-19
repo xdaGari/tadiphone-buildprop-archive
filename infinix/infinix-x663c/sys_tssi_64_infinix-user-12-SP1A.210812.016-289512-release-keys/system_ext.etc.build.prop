@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Infinix
+ro.product.system_ext.device=Infinix-X663C
+ro.product.system_ext.manufacturer=INFINIX MOBILITY LIMITED
+ro.product.system_ext.model=Infinix X663C
+ro.product.system_ext.name=X663C-AS
+ro.product.system_ext.tran.device.name.default=Infinix NOTE 12
+ro.system_ext.build.date=Sun Apr  2 20:21:24 CST 2023
+ro.system_ext.build.date.utc=1680438084
+ro.system_ext.build.fingerprint=Infinix/X663C-AS/Infinix-X663C:12/SP1A.210812.016/230402V468:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=230402V468
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

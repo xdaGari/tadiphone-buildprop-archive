@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_preload.version=0.0.1.202110220200173089864
+ro.oplus.image.my_preload.type=export_21251_OPPO-Light
+ro.oplus.image.my_preload.date=2021-10-22 02:07:16
+ro.oplus.image.my_preload.date.utc=1634839636
+ro.oplus.preload.custom=1.0.77_VN
+ro.linkedin.channel=OPPO_PRELOAD

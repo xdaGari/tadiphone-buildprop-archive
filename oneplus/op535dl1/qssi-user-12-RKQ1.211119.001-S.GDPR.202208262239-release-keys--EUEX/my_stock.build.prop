@@ -1,0 +1,6 @@
+# build porp start
+ro.oplus.image.my_stock.type=GDPR_OnePlus
+ro.oplus.image.my_stock.date=2022-08-08 14:41:33
+ro.oplus.image.my_stock.date.utc=1659940893
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_stock.version=10.0.4.7.202208081437349750816.ef3fe08e

@@ -1,0 +1,14 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.feature.camera.autofocus
+ro.com.google.acsa=true
+ro.product.locale.language=ja-JP
+ro.feature.leather=true
+ro.feature.sleep_on_hallclose=true
+ro.feature.rm.leather.menu=true
+ro.screenshot.no.sound=false
+ro.feature.faceidentify=true
+ro.bt.epub_transfer=true
+ro.feature.lightcontrol=true

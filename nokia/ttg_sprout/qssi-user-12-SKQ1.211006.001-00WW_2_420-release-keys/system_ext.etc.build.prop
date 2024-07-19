@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=TTG_sprout
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia XR20
+ro.product.system_ext.name=TheThing_00WW
+ro.system_ext.build.date=Fri Aug  5 23:48:40 UTC 2022
+ro.system_ext.build.date.utc=1659743320
+ro.system_ext.build.fingerprint=Nokia/TheThing_00WW/TTG_sprout:12/SKQ1.211006.001/00WW_2_420:user/release-keys
+ro.system_ext.build.id=SKQ1.211006.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.jenkin.20220805.235144
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

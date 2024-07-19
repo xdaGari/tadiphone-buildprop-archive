@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=motorola
+ro.product.system_dlkm.device=rhodei
+ro.product.system_dlkm.manufacturer=motorola
+ro.product.system_dlkm.model=moto g62 5G
+ro.product.system_dlkm.name=rhodei_g
+ro.system_dlkm.build.date=Sat Aug 26 00:36:34 CDT 2023
+ro.system_dlkm.build.date.utc=1693028194
+ro.system_dlkm.build.fingerprint=motorola/rhodei_g/rhodei:13/T1SSIS33M.1-75-7-1/50fdd:user/release-keys
+ro.system_dlkm.build.id=T1SSIS33M.1-75-7-1
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=50fdd
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

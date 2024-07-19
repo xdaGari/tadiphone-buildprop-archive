@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Redmi
+ro.product.vendor_dlkm.device=sea
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=sea
+ro.product.vendor_dlkm.name=sea_global
+ro.vendor_dlkm.build.date=Thu Dec 14 11:40:05 CST 2023
+ro.vendor_dlkm.build.date.utc=1702525205
+ro.vendor_dlkm.build.fingerprint=Redmi/sea_global/sea:12/SP1A.210812.016/V816.0.3.0.UHZMIXM:user/release-keys
+ro.vendor_dlkm.build.id=SP1A.210812.016
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=V816.0.3.0.UHZMIXM
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

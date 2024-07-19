@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Getac
+ro.product.odm.device=zx10
+ro.product.odm.manufacturer=Getac
+ro.product.odm.model=ZX10
+ro.product.odm.name=zx10
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Wed Jul  5 09:54:27 CST 2023
+ro.odm.build.date.utc=1688522067
+ro.odm.build.fingerprint=Getac/zx10/zx10:12/SKQ1.220713.001/ZX1000005:user/release-keys
+ro.odm.build.id=SKQ1.220713.001
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=ZX1000005
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

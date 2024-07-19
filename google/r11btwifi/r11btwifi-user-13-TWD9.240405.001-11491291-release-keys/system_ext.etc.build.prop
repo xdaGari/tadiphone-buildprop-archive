@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=r11btwifi
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Google Pixel Watch
+ro.product.system_ext.name=r11btwifi
+ro.system_ext.build.date=Fri Feb 23 19:31:49 UTC 2024
+ro.system_ext.build.date.utc=1708716709
+ro.system_ext.build.fingerprint=google/r11btwifi/r11btwifi:13/TWD9.240405.001/11491291:user/release-keys
+ro.system_ext.build.id=TWD9.240405.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=11491291
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
+

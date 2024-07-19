@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=coral
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 4 XL
+ro.product.system_ext.name=coral
+ro.system_ext.build.date=Wed Apr 14 14:21:12 UTC 2021
+ro.system_ext.build.date.utc=1618410072
+ro.system_ext.build.fingerprint=google/coral/coral:S/SPP3.210325.010/7282474:user/release-keys
+ro.system_ext.build.id=SPP3.210325.010
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=7282474
+ro.system_ext.build.version.release=11
+ro.system_ext.build.version.release_or_codename=S
+ro.system_ext.build.version.sdk=30
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

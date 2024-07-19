@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Infinix
+ro.product.bootimage.device=Infinix-X663C
+ro.product.bootimage.manufacturer=INFINIX MOBILITY LIMITED
+ro.product.bootimage.model=Infinix X663C
+ro.product.bootimage.name=X663C-AS
+ro.product.bootimage.tran.device.name.default=
+ro.bootimage.build.date=Sat Apr  1 00:46:15 CST 2023
+ro.bootimage.build.date.utc=1680281175
+ro.bootimage.build.fingerprint=Infinix/X663C-AS/Infinix-X663C:12/SP1A.210812.016/230401V328:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=230401V328
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

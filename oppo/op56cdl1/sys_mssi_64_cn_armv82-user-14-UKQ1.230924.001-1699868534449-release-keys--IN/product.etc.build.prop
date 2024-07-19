@@ -1,0 +1,36 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=oplus
+ro.product.product.device=ossi
+ro.product.product.manufacturer=oplus
+ro.product.product.model=ossi
+ro.product.product.name=ossi
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.product.build.date=Mon Nov 13 17:42:14 CST 2023
+ro.product.build.date.utc=1699868534
+ro.product.build.fingerprint=oplus/ossi/ossi:14/UKQ1.230924.001/1699868534449:user/release-keys
+ro.product.build.id=UKQ1.230924.001
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=1699868534449
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=14
+ro.product.build.version.sdk=34
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=34
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,product,system,system_ext,vendor
+ro.product.cpu.pagesize.max=4096
+ro.dalvik.vm.enable_uffd_gc=false
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+# end of file
+ro.oplus.image.product.version=.49a0ecfa

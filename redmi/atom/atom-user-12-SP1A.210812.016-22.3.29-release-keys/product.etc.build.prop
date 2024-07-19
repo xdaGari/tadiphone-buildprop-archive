@@ -1,0 +1,41 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=atom
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=M2004J7AC
+ro.product.product.name=atom
+ro.product.product.marketname=Redmi 10X
+ro.product.build.date=Tue Mar 29 11:10:43 CST 2022
+ro.product.build.date.utc=1648523443
+ro.product.build.fingerprint=Redmi/atom/atom:12/SP1A.210812.016/22.3.29:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=22.3.29
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.miui.has_gmscore=1
+ro.miui.build.region=cn
+ro.config.ringtone=MiRemix.ogg
+ro.config.notification_sound=WaterDrop_preview.ogg
+ro.config.alarm_alert=Fireflies.ogg
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+persist.sys.minfree_def=73728,92160,110592,340000,510000,645120
+persist.sys.minfree_6g=73728,92160,110592,340000,1282868,1677312
+persist.sys.minfree_8g=73728,92160,110592,340000,1677312,2064384
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

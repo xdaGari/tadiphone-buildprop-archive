@@ -1,0 +1,18 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.product.first_api_level=28
+persist.sys.language=en
+ro.com.google.clientidbase=android-zte
+ro.com.google.gmsversion=9_201906
+PRODUCT_SHIPPING_API_LEVEL=28
+persist.sys.cta.disable=1
+sys.nubia_internal_version_flag=1
+ro.nubia.game_mode.enable=1
+persist.sys.gms.name=US
+ro.config.devicename=Redmagic Mars
+bsp.colorlight.enable=true
+ro.nubia.pre.fingerprint.enable=0
+ro.com.android.mobiledata=true
+persist.sys.country=US

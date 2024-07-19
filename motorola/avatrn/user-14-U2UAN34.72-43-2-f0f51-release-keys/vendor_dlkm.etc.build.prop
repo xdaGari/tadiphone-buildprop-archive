@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=motorola
+ro.product.vendor_dlkm.device=avatrn
+ro.product.vendor_dlkm.manufacturer=motorola
+ro.product.vendor_dlkm.model=motorola edge 2024
+ro.product.vendor_dlkm.name=avatrn
+ro.vendor_dlkm.build.date=Mon May 20 09:59:12 CDT 2024
+ro.vendor_dlkm.build.date.utc=1716217152
+ro.vendor_dlkm.build.fingerprint=motorola/avatrn/avatrn:12/U2UAN34.72-43-2/f0f51:user/release-keys
+ro.vendor_dlkm.build.id=U2UAN34.72-43-2
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=f0f51
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

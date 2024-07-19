@@ -1,0 +1,29 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.device=air
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=air
+ro.product.bootimage.name=air
+ro.product.bootimage.marketname=
+ro.product.bootimage.cert=
+ro.product.bootimage.home=
+ro.product.model_for_attestation=air
+ro.product.brand_for_attestation=Redmi
+ro.product.name_for_attestation=miodm_air_cn
+ro.product.manufacturer_for_attestation=Xiaomi
+ro.product.device_for_attestation=air
+ro.bootimage.build.date=Fri May 10 11:58:40 UTC 2024
+ro.bootimage.build.date.utc=1715342320
+ro.bootimage.build.fingerprint=Redmi/air/air:13/TP1A.220624.014/V816.0.1.0.UGQCNXM:user/release-keys
+ro.bootimage.build.id=TP1A.220624.014
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V816.0.1.0.UGQCNXM
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
+

@@ -1,0 +1,13 @@
+# build prop start
+ro.vendor.oplus.market.name=一加 Ace 2 熔岩红
+ro.vendor.oplus.market.enname=OnePlus Ace 2
+ro.oplus.image.my_company.type=Udon_YuanShen_OnePlus
+ro.oplus.image.my_company.date=2023-03-20 20:06:10
+ro.oplus.image.my_company.date.utc=1679313970
+ro.config.ringtone=ringtone_xiangling.ogg
+ro.config.ringtone_sim2=ringtone_xiangling.ogg
+ro.config.notification_sound=notification_xiangling.ogg
+ro.config.notification_sms=sms_xiangling_2.ogg
+ro.config.notification_sim2=sms_xiangling_2.ogg
+ro.config.alarm_alert=alarm_xiangling.ogg
+ro.oplus.image.my_company.version=13.0.0.2023032020035115819532.d214b120

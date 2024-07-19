@@ -1,0 +1,7 @@
+### create for oneimage 600CLA
+ro.com.google.clientidbase=android-hmd
+ro.com.google.clientidbase.ms=android-americamovil-{country}-revc
+ro.com.google.clientidbase.am=android-americamovil-{country}
+ro.com.google.clientidbase.vs=android-americamovil-{country}-revc
+
+persist.sys.customanim.boot=/system/media/claro/bootanimation.zip

@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Dynalink
+ro.product.system_ext.device=sti6130d350
+ro.product.system_ext.manufacturer=askey
+ro.product.system_ext.model=Dynalink TV Box
+ro.product.system_ext.name=sti6130d350
+ro.system_ext.build.date=Thu Apr 20 02:42:18 CST 2023
+ro.system_ext.build.date.utc=1681929738
+ro.system_ext.build.fingerprint=Dynalink/sti6130d350/sti6130d350:12/SC/20230420:user/release-keys
+ro.system_ext.build.id=SC
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=20230420
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

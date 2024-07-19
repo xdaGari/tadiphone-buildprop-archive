@@ -1,0 +1,10 @@
+# build porp start
+ro.oplus.image.my_stock.type=export_realme
+ro.oplus.image.my_stock.date=2023-05-25 09:41:56
+ro.oplus.image.my_stock.date.utc=1684978916
+ro.product.brand.ui=realmeUI
+sys.disable_bootvideo=1
+ro.oplus.server_url_1=https://fourier-newds01-sg.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-sg.allawnos.com/autotime/dateandtime.xml?number=
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_stock.version=30.1.1.6.2023052509374617567965.1cdeefbb

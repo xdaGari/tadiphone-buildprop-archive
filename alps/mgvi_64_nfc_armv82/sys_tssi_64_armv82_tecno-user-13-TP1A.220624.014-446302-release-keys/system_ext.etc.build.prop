@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=TECNO
+ro.product.system_ext.device=TECNO-LH7n
+ro.product.system_ext.manufacturer=TECNO
+ro.product.system_ext.model=TECNO LH7n
+ro.product.system_ext.name=LH7n-GL
+ro.product.system_ext.tran.device.name.default=TECNO POVA 5
+ro.system_ext.build.date=Sat Oct  7 17:10:17 CST 2023
+ro.system_ext.build.date.utc=1696669817
+ro.system_ext.build.fingerprint=TECNO/LH7n-GL/TECNO-LH7n:13/TP1A.220624.014/231007V1411:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=231007V1411
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file

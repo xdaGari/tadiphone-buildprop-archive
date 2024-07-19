@@ -1,0 +1,8 @@
+# build porp start
+ro.oplus.image.my_carrier.type=CMCC_all
+ro.oplus.image.my_carrier.date=2022-04-05 01:04:36
+ro.oplus.image.my_carrier.date.utc=1649091876
+ro.oplus.image.my_carrier.version_name=X00CNZY00
+ro.oplus.pipeline.carrier=CMCC
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_carrier.version=12.1.02311.202204050002436561583.c61365dd

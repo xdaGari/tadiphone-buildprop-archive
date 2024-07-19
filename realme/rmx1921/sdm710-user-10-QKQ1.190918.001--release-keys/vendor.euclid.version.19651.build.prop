@@ -1,0 +1,24 @@
+# build porp start
+ro.separate.soft=19651
+ro.rom.featrue=allnet
+ro.product.authentication=0
+ro.oppo.market.name=realme XT
+ro.product.hw=RA129
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.product.model=RMX1921
+ro.build.product=RMX1921
+ro.vendor.product.oem=RMX1921
+ro.vendor.product.device.oem=RMX1921
+ro.product.system.brand=realme
+ro.product.system.manufacturer=realme
+ro.product.system.model=RMX1921
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX1921
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX1921
+ro.build.display.full_id=RMX1921_11_C.11_210317
+ro.build.display.id=RMX1921_11_C.11

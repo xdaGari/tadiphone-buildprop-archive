@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=motorola
+ro.product.odm.device=tesla
+ro.product.odm.manufacturer=motorola
+ro.product.odm.model=moto edge (2022)
+ro.product.odm.name=tesla_g_vext
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Tue Nov  8 04:28:19 CST 2022
+ro.odm.build.date.utc=1667903299
+ro.odm.build.fingerprint=motorola/tesla_g_vext/tesla:12/S2ST32.71-91-2/ef277:user/release-keys
+ro.odm.build.id=S2ST32.71-91-2
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=ef277
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

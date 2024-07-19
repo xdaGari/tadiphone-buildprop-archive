@@ -1,0 +1,125 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=samsung
+ro.product.product.device=qssi_64
+ro.product.product.manufacturer=samsung
+ro.product.product.model=SM-F741B
+ro.product.product.name=b6qxxx
+ro.product.name_for_attestation=
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.build.date=Tue Jun 18 01:52:18 KST 2024
+ro.product.build.date.utc=1718643138
+ro.product.build.fingerprint=samsung/b6qxxx/qssi_64:14/UP1A.231005.007/F741BXXU1AXFD:user/release-keys
+ro.product.build.id=UP1A.231005.007
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=F741BXXU1AXFD
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=14
+ro.product.build.version.sdk=34
+####################################
+# from packages/modules/Bluetooth/system/bluetooth.prop
+####################################
+# System props to enable Bluetooth Quality Report (BQR) feature
+# BQR event mask configuration : disable
+persist.bluetooth.bqr.event_mask=0
+# BQR minimum report interval configuration : disable
+persist.bluetooth.bqr.min_interval_ms=0
+# Set the Bluetooth Class of Device
+# Service Field: 0x5A -> 90
+#    Bit 17: Networking
+#    Bit 19: Capturing
+#    Bit 20: Object Transfer
+#    Bit 22: Telephony
+# MAJOR_CLASS: 0x02 -> 2 (Phone)
+# MINOR_CLASS: 0x0C -> 12 (Smart Phone)
+bluetooth.device.class_of_device=90,2,12
+# Set supported Bluetooth profiles to enabled
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+# Removed by post_process_props.py because overridden by bluetooth.profile.bap.broadcast.assist.enabled=true
+#bluetooth.profile.bap.broadcast.assist.enabled?=false
+# Removed by post_process_props.py because overridden by bluetooth.profile.bap.broadcast.source.enabled=true
+#bluetooth.profile.bap.broadcast.source.enabled?=false
+# Removed by post_process_props.py because overridden by bluetooth.profile.bap.unicast.client.enabled=true
+#bluetooth.profile.bap.unicast.client.enabled?=false
+bluetooth.profile.bas.client.enabled=false
+# Removed by post_process_props.py because overridden by bluetooth.profile.csip.set_coordinator.enabled=true
+#bluetooth.profile.csip.set_coordinator.enabled?=false
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hap.client.enabled=false
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.map.server.enabled=true
+# Removed by post_process_props.py because overridden by bluetooth.profile.mcp.server.enabled=true
+#bluetooth.profile.mcp.server.enabled?=false
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+bluetooth.profile.sap.server.enabled=true
+# Removed by post_process_props.py because overridden by bluetooth.profile.ccp.server.enabled=true
+#bluetooth.profile.ccp.server.enabled?=false
+# Removed by post_process_props.py because overridden by bluetooth.profile.vcp.controller.enabled=true
+#bluetooth.profile.vcp.controller.enabled?=false
+# Codec capabilities that support a2dp offload
+persist.bluetooth.samsung.a2dp_offload.cap=sbc-aptx-ssc-hifi
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=34
+ro.build.characteristics=phone
+ro.product.cpu.pagesize.max=4096
+# Value overridden by post_process_props.py. Original value: default
+ro.dalvik.vm.enable_uffd_gc=true
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+remote_provisioning.enable_rkpd=true
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+persist.wm.extensions.enabled=true
+persist.sys.usb.config=mtp
+bluetooth.profile.bap.unicast.client.enabled=true
+bluetooth.profile.csip.set_coordinator.enabled=true
+bluetooth.profile.mcp.server.enabled=true
+bluetooth.profile.ccp.server.enabled=true
+bluetooth.profile.vcp.controller.enabled=true
+bluetooth.profile.bap.broadcast.assist.enabled=true
+bluetooth.profile.bap.broadcast.source.enabled=true
+bluetooth.hfp.swb.supported=true
+ro.frp.pst=/dev/block/persistent
+ro.com.google.cdb.spa1=bsxasm1
+ro.com.google.clientidbase.tx=android-samsung-rvod2
+restore.feature.use_samsung_smart_switch_flow=1
+setupwizard.feature.enable_stencil_partner_customization=1
+setupwizard.feature.support_oem_large_screen_landscape_temporary_by_sys_prop=true
+setupwizard.phenotype_sync_timeout_ms=90000
+ro.com.google.clientidbase=android-samsung-ss
+ro.setupwizard.rotation_locked=false
+setupwizard.theme=glif_v3_light
+ro.setupwizard.wifi_on_exit=false
+ro.setupwizard.mode=OPTIONAL
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=14_202404
+setupwizard.feature.enable_quick_start_flow=true
+# end of file
+

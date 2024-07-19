@@ -1,0 +1,6 @@
+# build prop start
+ro.oplus.image.my_engineering.date=2024-05-28 18:52:33
+ro.oplus.image.my_engineering.date.utc=1716893553
+# Auto-added by post_process_props.py
+ro.oplus.image.my_engineering.type=release
+ro.oplus.image.my_engineering.version=version_stub.9e705d44

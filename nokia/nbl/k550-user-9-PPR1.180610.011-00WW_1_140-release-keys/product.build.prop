@@ -1,0 +1,14 @@
+
+ro.product.build.date=Tue Nov 30 16:23:39 CST 2021
+ro.product.build.date.utc=1638260619
+ro.product.build.fingerprint=Nokia/Nebula_00WW/NBL:9/PPR1.180610.011/00WW_1_140:user/release-keys
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.com.google.clientidbase=android-hmd
+ro.com.google.clientidbase.ms=android-hmd
+ro.com.google.clientidbase.vs=android-hmd-rvo1
+ro.com.google.assistantchannel=hmd
+ro.build.mini=false
+ro.feature.hmd_faceunlock=true
+persist.vendor.faceid.livenessmode0=1

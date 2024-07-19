@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=volla
+ro.product.product.device=vidofnir
+ro.product.product.manufacturer=Volla
+ro.product.product.model=Volla Phone X23
+ro.product.product.name=vidofnir
+ro.product.build.date=Wed May 29 08:26:11 UTC 2024
+ro.product.build.date.utc=1716971171
+ro.product.build.fingerprint=volla/vidofnir/vidofnir:13/TQ3A.230901.001/129:user/release-keys
+ro.product.build.id=TQ3A.230901.001
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=129
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,dpm,dtbo,gz,lk,mcupm,md1img,odm_dlkm,pi_img,preloader,product,scp,spmfw,sspm,system,tee,vbmeta,vbmeta_system,vbmeta_vendor,vendor,vendor_boot,vendor_dlkm
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.config.ringtone=volla_ringtone.ogg
+ro.config.notification_sound=volla_notification.ogg
+ro.config.alarm_alert=volla_alarm.ogg
+ro.support_one_handed_mode=true
+# end of file

@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=corot
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=23078PND5G
+ro.product.bootimage.name=corot_global
+ro.product.bootimage.marketname=Xiaomi 13T Pro
+ro.product.bootimage.cert=23078PND5G
+ro.bootimage.build.date=Fri Jul  5 05:48:04 UTC 2024
+ro.bootimage.build.date.utc=1720158484
+ro.bootimage.build.fingerprint=Xiaomi/corot_global/corot:13/TP1A.220624.014/V816.0.240705.2.VMLMIXM.PRE-DPP:user/release-keys
+ro.bootimage.build.id=TP1A.220624.014
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V816.0.240705.2.VMLMIXM.PRE-DPP
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
+

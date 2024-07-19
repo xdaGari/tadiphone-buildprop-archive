@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=chenfeng
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=24053PY09I
+ro.product.bootimage.name=chenfeng_global
+ro.product.bootimage.cert=24053PY09I
+ro.product.bootimage.marketname=Xiaomi 14 Civi
+ro.bootimage.build.date=Fri May 31 12:50:51 UTC 2024
+ro.bootimage.build.date.utc=1717159851
+ro.bootimage.build.fingerprint=Xiaomi/chenfeng_global/chenfeng:14/UKQ1.240116.001/V816.0.3.0.UNJINXM:user/release-keys
+ro.bootimage.build.id=UKQ1.240116.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V816.0.3.0.UNJINXM
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end of file
+

@@ -1,0 +1,24 @@
+##### Overwrite prop values by composition #####
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.fingerprint=Sony/pdx223/pdx223:12/SKQ1.220714.001/1:user/release-keys
+
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Sony
+ro.product.vendor_dlkm.device=pdx223
+ro.product.vendor_dlkm.manufacturer=Sony
+ro.product.vendor_dlkm.model=Pdx223
+ro.product.vendor_dlkm.name=pdx223
+ro.vendor_dlkm.build.date=Thu Nov 17 20:03:49 JST 2022
+ro.vendor_dlkm.build.date.utc=1668683029
+ro.vendor_dlkm.build.id=SKQ1.220714.001
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=1
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

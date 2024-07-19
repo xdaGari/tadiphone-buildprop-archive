@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=samsung
+ro.product.bootimage.device=a13x
+ro.product.bootimage.manufacturer=samsung
+ro.product.bootimage.model=SM-M136B
+ro.product.bootimage.name=a13xins
+ro.bootimage.build.date=Tue Dec 26 14:47:44 KST 2023
+ro.bootimage.build.date.utc=1703569664
+ro.bootimage.build.fingerprint=samsung/a13xins/a13x:12/SP1A.210812.016/M136BXXS6DWL1:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=M136BXXS6DWL1
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

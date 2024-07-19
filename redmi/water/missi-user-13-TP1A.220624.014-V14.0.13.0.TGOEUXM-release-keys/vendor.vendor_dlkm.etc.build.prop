@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Redmi
+ro.product.vendor_dlkm.device=water
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=water
+ro.product.vendor_dlkm.name=water_eea
+ro.vendor_dlkm.build.date=Tue Jan  9 23:24:27 CST 2024
+ro.vendor_dlkm.build.date.utc=1704813867
+ro.vendor_dlkm.build.fingerprint=Redmi/water_eea/water:12/SP1A.210812.016/V14.0.13.0.TGOEUXM:user/release-keys
+ro.vendor_dlkm.build.id=SP1A.210812.016
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=V14.0.13.0.TGOEUXM
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

@@ -1,0 +1,6 @@
+# build porp start
+ro.oplus.image.my_stock.type=GDPR_OPPO-Light
+ro.oplus.image.my_stock.date=2022-10-14 18:09:52
+ro.oplus.image.my_stock.date.utc=1665742192
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_stock.version=3.4.36.8.2022101418055311491496.8c2e123e

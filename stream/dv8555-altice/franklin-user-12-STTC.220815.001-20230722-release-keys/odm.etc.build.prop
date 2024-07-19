@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Stream
+ro.product.odm.device=DV8555-Altice
+ro.product.odm.manufacturer=SDMC
+ro.product.odm.model=Stream
+ro.product.odm.name=Stream
+ro.odm.product.cpu.abilist=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=
+ro.odm.build.date=Sat Jul 22 00:54:28 CST 2023
+ro.odm.build.date.utc=1701334643
+ro.odm.build.fingerprint=Stream/Stream/DV8555-Altice:12/ST/20230923:user/release-keys
+ro.odm.build.id=ST
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=20230923
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+# odm property configuration
+ro.bootimage.build.fingerprint=Stream/Stream/DV8555-Altice:12/ST/20230923:user/release-keys

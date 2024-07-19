@@ -1,0 +1,11 @@
+# build prop start
+ro.oplus.image.my_engineering.date=2023-04-23 20:39:18
+ro.oplus.image.my_engineering.date.utc=1682253558
+ro.oplus.image.my_engineering.type=release
+# build prop start
+ro.oplus.image.my_engineering.type=softwareconfidential
+ro.oplus.image.my_engineering.date=2023-04-23 20:39:18
+ro.oplus.image.my_engineering.date.utc=1682253558
+ro.version.softwareconfidential=true
+# Do not write image version and type prop for /my_engineering.softwareconfidential
+ro.oplus.image.my_engineering.version=version_stub.d5b88726

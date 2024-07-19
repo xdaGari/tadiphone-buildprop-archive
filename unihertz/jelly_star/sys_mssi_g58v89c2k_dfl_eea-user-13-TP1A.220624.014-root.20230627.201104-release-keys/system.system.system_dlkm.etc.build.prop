@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=Unihertz
+ro.product.system_dlkm.device=mssi_g58v89c2k_dfl_eea
+ro.product.system_dlkm.manufacturer=Unihertz
+ro.product.system_dlkm.model=Jelly Star
+ro.product.system_dlkm.name=sys_mssi_g58v89c2k_dfl_eea
+ro.system_dlkm.build.date=Tue Jun 27 20:11:04 CST 2023
+ro.system_dlkm.build.date.utc=1687867864
+ro.system_dlkm.build.fingerprint=Unihertz/Jelly_Star_EEA/Jelly_Star:13/TP1A.220624.014/root.20230627.201104:user/release-keys
+ro.system_dlkm.build.id=TP1A.220624.014
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=root.20230627.201104
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+ro.agui.platform_name=mt6789
+ro.agui.version_release=13
+# end of file
+
+# begin fota properties
+ro.fota.platform=mt6789_13.0
+ro.fota.oem=agold_mt6789_13.0
+ro.fota.type=phone
+ro.fota.app=5
+ro.fota.battery=30
+ro.boot.vendor.overlay.theme=com.adups.fota.overlay
+# ERROR: model do not exist in system/build.prop,Please define it

@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=Sony
+ro.product.system_dlkm.device=qssi
+ro.product.system_dlkm.manufacturer=Sony
+ro.product.system_dlkm.model=Sssi
+ro.product.system_dlkm.name=sssi
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_dlkm.build.date=Thu Oct 12 23:02:17 JST 2023
+ro.system_dlkm.build.date.utc=1697119337
+ro.system_dlkm.build.fingerprint=Sony/sssi/qssi:14/UKQ1.230917.001/1:user/release-keys
+ro.system_dlkm.build.id=UKQ1.230917.001
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=1
+ro.system_dlkm.build.version.release=14
+ro.system_dlkm.build.version.release_or_codename=14
+ro.system_dlkm.build.version.sdk=34
+# end of file
+

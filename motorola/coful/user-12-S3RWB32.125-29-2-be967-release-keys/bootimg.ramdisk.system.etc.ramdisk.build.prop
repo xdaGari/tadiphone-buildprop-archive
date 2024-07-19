@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=motorola
+ro.product.bootimage.device=coful
+ro.product.bootimage.manufacturer=motorola
+ro.product.bootimage.model=moto g31
+ro.product.bootimage.name=coful_g
+ro.bootimage.build.date=Sat Jan  7 02:36:55 UTC 2023
+ro.bootimage.build.date.utc=1673059015
+ro.bootimage.build.fingerprint=motorola/coful_g/coful:12/S3RWB32.125-29-2/be967:user/release-keys
+ro.bootimage.build.id=S3RWB32.125-29-2
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=be967
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

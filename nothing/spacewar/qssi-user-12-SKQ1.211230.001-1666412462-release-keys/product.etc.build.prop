@@ -1,0 +1,56 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Nothing
+ro.product.product.device=Spacewar
+ro.product.product.manufacturer=Nothing
+ro.product.product.model=A063
+ro.product.product.name=Spacewar
+ro.product.build.date=Sat Oct 22 12:49:49 CST 2022
+ro.product.build.date.utc=1666414189
+ro.product.build.fingerprint=Nothing/Spacewar/Spacewar:12/SKQ1.211230.001/1666412462:user/release-keys
+ro.product.build.id=SKQ1.211230.001
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=1666412462
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=system,system_ext,product,vbmeta_system
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.sf.lcd_density=420
+setupwizard.feature.baseline_setupwizard_enabled=true
+persist.vendor.thermal.config=/vendor/etc/thermal-engine.conf
+ro.config.ringtone=01_pneumatic.ogg
+ro.config.notification_sound=01_oi!.ogg
+ro.config.alarm_alert=01_bedside.ogg
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202204
+ro.com.google.clientidbase=android-nothing
+ro.apex.updatable=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

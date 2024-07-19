@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=TECNO
+ro.product.system_ext.device=TECNO-LG8n
+ro.product.system_ext.manufacturer=TECNO
+ro.product.system_ext.model=TECNO LG8n
+ro.product.system_ext.name=LG8n-GL
+ro.product.system_ext.tran.device.name.default=TECNO POVA 4 Pro
+ro.system_ext.build.date=Fri May 26 14:58:12 CST 2023
+ro.system_ext.build.date.utc=1685084292
+ro.system_ext.build.fingerprint=TECNO/LG8n-GL/TECNO-LG8n:12/SP1A.210812.016/230526V2421:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=230526V2421
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

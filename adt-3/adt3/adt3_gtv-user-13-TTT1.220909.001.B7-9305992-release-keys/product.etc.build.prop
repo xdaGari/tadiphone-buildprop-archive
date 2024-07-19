@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=ADT-3
+ro.product.product.device=adt3
+ro.product.product.manufacturer=askey
+ro.product.product.model=ADT-3
+ro.product.product.name=adt3_gtv
+ro.product.build.date=Thu Nov 17 22:46:34 UTC 2022
+ro.product.build.date.utc=1668725194
+ro.product.build.fingerprint=ADT-3/adt3_gtv/adt3:13/TTT1.220909.001.B7/9305992:user/release-keys
+ro.product.build.id=TTT1.220909.001.B7
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=9305992
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+tombstoned.max_tombstone_count=10
+ro.com.google.clientidbase=android-askey-tv
+ro.oem.key1=ATV00100020
+# end of file
+

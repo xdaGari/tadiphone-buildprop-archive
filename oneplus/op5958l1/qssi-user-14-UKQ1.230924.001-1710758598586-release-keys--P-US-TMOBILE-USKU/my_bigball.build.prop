@@ -1,0 +1,20 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=export_22872_OnePlus_US_P_US_TMOBILE_USKU
+ro.oplus.image.my_bigball.date=2024-03-15 09:31:00
+ro.oplus.image.my_bigball.date.utc=1710466260
+ro.oplus.image.my_bigball.version_name=my_bigball22872_1400_U.0.0
+ro.oplus.rsa=rsa4-tier1
+ro.oplus.server_url_1=https://fourier-newds01-us.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-us.allawnos.com/autotime/dateandtime.xml?number=
+ro.com.google.clientidbase=android-oneplus
+ro.com.google.clientidbase.ms=android-tmus-us-rvc3
+ro.com.google.clientidbase.vs=android-tmus-us-rvc3
+ro.com.google.clientidbase.pg=android-tmus-inca
+sys.override.simswitch.property=1
+ro.oplus.rsa3.support=true
+ro.imei.check=yes
+ro.oplus.control.shutdown.delaytime=8
+ro.sys.custommedia.default_ringtone_title=OnePlus new feeling
+ro.oplus.radio.vonr_support=1
+ro.oplus.image.my_bigball.version=22872_1400_U.0.0.2024031509271524127170.288bbc63

@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Redmi
+ro.product.vendor_dlkm.device=rock
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=22071219AI
+ro.product.vendor_dlkm.name=rock
+ro.vendor_dlkm.build.date=Tue Sep 19 12:34:57 UTC 2023
+ro.vendor_dlkm.build.date.utc=1695126897
+ro.vendor_dlkm.build.fingerprint=Redmi/rock/rock:12/TP1A.220624.014/V14.0.5.0.TLUIDXM:user/release-keys
+ro.vendor_dlkm.build.id=TP1A.220624.014
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=V14.0.5.0.TLUIDXM
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

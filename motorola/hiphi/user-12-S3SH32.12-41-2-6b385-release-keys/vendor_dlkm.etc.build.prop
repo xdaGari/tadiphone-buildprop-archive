@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=motorola
+ro.product.vendor_dlkm.device=hiphi
+ro.product.vendor_dlkm.manufacturer=motorola
+ro.product.vendor_dlkm.model=motorola edge 30 pro
+ro.product.vendor_dlkm.name=hiphi
+ro.vendor_dlkm.build.date=Sat Sep 10 12:21:50 UTC 2022
+ro.vendor_dlkm.build.date.utc=1662812510
+ro.vendor_dlkm.build.fingerprint=motorola/hiphi/hiphi:12/S3SH32.12-41-2/6b385:user/release-keys
+ro.vendor_dlkm.build.id=S3SH32.12-41-2
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=6b385
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

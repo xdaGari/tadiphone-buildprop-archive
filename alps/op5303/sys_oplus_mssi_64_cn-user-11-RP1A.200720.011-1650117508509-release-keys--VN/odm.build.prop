@@ -1,0 +1,37 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=420
+ro.camera.portrait.blur.level.enable=1
+ro.oplus.system.camera.name=com.oppo.camera
+ro.oplus.screenhole.border=4
+ro.separate.soft=21251
+ro.build.product=CPH2325
+ro.vendor.product.oem=CPH2325
+ro.vendor.product.device.oem=OP5303
+ro.com.google.clientidbase=android-oppo
+ro.product.authentication=0
+ro.oppo.market.name=CPH2325
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V11.1
+ro.build.kernel.id=4.19.127
+ro.mediatek.version.release=CPH2325_11_A.01_220416
+ro.vendor.mediatek.version.release=CPH2325_11_A.01_220416
+ro.build.display.id_ims=CPH2325_11_A.01_220416
+ro.build.display.id=CPH2325_11_A.01
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.display.rc.size=81,81,66,66
+ro.display.underscreen.lightsensor.support=1
+ro.lcd.display.screen.underlightsensor.region=652,0,689,37
+ro.oplus.lcd.display.screen.underlightsensor.region=652,0,689,37
+ro.sf.lcd_density=320
+odm.dirac.path=/odm/etc/dirac
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=21251
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=qti
+ro.product.bootimage.device=sdm660_64
+ro.product.bootimage.manufacturer=QUALCOMM
+ro.product.bootimage.model=sdm660 for arm64
+ro.product.bootimage.name=sdm660_64
+ro.bootimage.build.date=Sat Jan  6 11:52:30 CST 2024
+ro.bootimage.build.date.utc=1704513150
+ro.bootimage.build.fingerprint=qti/sdm660_64/sdm660_64:13/S10A_123/zhangzy01061152:user/test-keys
+ro.bootimage.build.id=S10A_123
+ro.bootimage.build.tags=test-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=eng.zhangz.20240106.115454
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file

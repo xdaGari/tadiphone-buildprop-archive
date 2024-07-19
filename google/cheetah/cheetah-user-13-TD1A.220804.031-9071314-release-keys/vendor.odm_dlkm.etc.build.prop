@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=google
+ro.product.odm_dlkm.device=cheetah
+ro.product.odm_dlkm.manufacturer=Google
+ro.product.odm_dlkm.model=Pixel 7 Pro
+ro.product.odm_dlkm.name=cheetah
+ro.odm_dlkm.build.date=Fri Sep 16 00:41:07 UTC 2022
+ro.odm_dlkm.build.date.utc=1663288867
+ro.odm_dlkm.build.fingerprint=google/cheetah/cheetah:13/TD1A.220804.031/9071314:user/release-keys
+ro.odm_dlkm.build.id=TD1A.220804.031
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=9071314
+ro.odm_dlkm.build.version.release=13
+ro.odm_dlkm.build.version.release_or_codename=13
+ro.odm_dlkm.build.version.sdk=33
+# end of file
+

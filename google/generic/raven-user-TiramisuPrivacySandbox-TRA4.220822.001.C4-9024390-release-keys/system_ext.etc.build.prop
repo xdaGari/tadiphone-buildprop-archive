@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=raven
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 6 Pro
+ro.product.system_ext.name=raven
+ro.system_ext.build.date=Fri Sep  2 20:21:31 UTC 2022
+ro.system_ext.build.date.utc=1662150091
+ro.system_ext.build.fingerprint=google/raven/raven:TiramisuPrivacySandbox/TRA4.220822.001.C4/9024390:user/release-keys
+ro.system_ext.build.id=TRA4.220822.001.C4
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=9024390
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=TiramisuPrivacySandbox
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+# end of file
+

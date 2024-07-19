@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=nubia
+ro.product.system_dlkm.device=NX729J
+ro.product.system_dlkm.manufacturer=nubia
+ro.product.system_dlkm.model=NX729J
+ro.product.system_dlkm.name=NX729J
+ro.system_dlkm.build.date=Tue Dec 27 16:26:36 CST 2022
+ro.system_dlkm.build.date.utc=1672129596
+ro.system_dlkm.build.fingerprint=nubia/NX729J/NX729J:13/TKQ1.220915.002/eng.nubia.20221114.120645:user/release-keys
+ro.system_dlkm.build.id=TKQ1.220915.002
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=eng.nubia.20221114.120645
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

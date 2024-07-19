@@ -1,0 +1,9 @@
+ro.miui.google.csp=true
+ro.product.mod_device=plato_eea_global
+ro.miui.build.region=eea
+ro.miui.customized_clientid=2
+ro.vendor.imeisv=83
+ro.mi.os.version.publish=true
+ro.mi.os.version.code=1
+ro.mi.os.version.name=OS1.0
+ro.mi.os.version.incremental=OS1.0.5.0.ULQEUXM

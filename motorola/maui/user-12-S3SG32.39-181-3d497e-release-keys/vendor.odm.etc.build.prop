@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=motorola
+ro.product.odm.device=maui
+ro.product.odm.manufacturer=motorola
+ro.product.odm.model=moto g play - 2023
+ro.product.odm.name=maui_retail
+ro.odm.product.cpu.abilist=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=
+ro.odm.build.date=Fri May  5 07:46:09 CDT 2023
+ro.odm.build.date.utc=1683290769
+ro.odm.build.fingerprint=motorola/maui_retail/maui:12/S3SG32.39-181/3d497e:user/release-keys
+ro.odm.build.id=S3SG32.39-181
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=3d497e
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

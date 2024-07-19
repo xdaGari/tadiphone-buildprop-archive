@@ -1,0 +1,33 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+ro.oplus.system.camera.name=com.oppo.camera
+ro.separate.soft=20627
+ro.build.kernel.id=5.4.57
+ro.rom.featrue=allnet
+ro.vendor.product.oem=RMX2202
+ro.vendor.product.device.oem=RMX2202
+ro.commonsoft.ota=RMX2202
+ro.com.google.clientidbase=android-oppo
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V11.2
+ro.build.version.realmeui=V2.0
+ro.oppo.market.name=真我GT
+ro.oppo.market.enname=realme GT
+ro.build.display.id=RMX2202_11_A.01
+ro.build.display.full_id=RMX2202_11_A.01_211209
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.product.sar=1.7
+ro.oplus.radio.project=1
+persist.sys.oplus.nfc.antenna_area=bottom
+ro.oplus.screenhole.border=8
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=20627
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

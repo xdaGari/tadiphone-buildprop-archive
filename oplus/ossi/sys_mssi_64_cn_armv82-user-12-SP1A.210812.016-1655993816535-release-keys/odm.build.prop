@@ -1,0 +1,52 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.alwayson.enable=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+persist.vendor.radio.telecom.vibrate=0
+ro.build.kernel.id=4.14.186
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=420
+ro.oplus.screenhole.border=9
+ro.camera.high.resolution.video.filter.enable=1
+ro.separate.soft=2167A
+ro.product.authentication=0
+ro.product.hw=2167A
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+ro.product.model=RMX3195
+ro.build.product=RMX3195
+ro.vendor.product.oem=RMX3195
+ro.product.device=RMX3195
+ro.vendor.product.device.oem=RMX3195
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.display.id=RMX3195_11_A.01
+ro.build.display.id_ims=RMX3195_11_A.01_220623
+ro.mediatek.version.release=RMX3195_11_A.01_220623
+ro.vendor.mediatek.version.release=RMX3195_11_A.01_220623
+############################## Add OPPO Info Common Begin ##############################
+persist.vendor.radio.nr_display_rule=1
+persist.vendor.radio.lte_con_stat_delay_timer=0
+persist.vendor.radio.scg_con_stat_delay_timer=0
+persist.vendor.radio.support_optimized_nr=true
+############################## Add OPPO Info Common End ##############################
+ro.vendor.local.nlp=com.amap.android.location
+odm.dirac.path=/odm/etc/dirac
+ro.vendor.oplus.aal.backlight.bits=12
+ro.sf.lcd_density=320
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=2167A
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.ad4f2fcb

@@ -1,0 +1,5 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.sys.cached_apps_limit=64

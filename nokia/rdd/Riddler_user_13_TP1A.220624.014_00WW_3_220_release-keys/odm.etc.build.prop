@@ -1,0 +1,144 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Nokia
+ro.product.odm.device=RDD
+ro.product.odm.manufacturer=HMD Global
+ro.product.odm.model=Nokia T20
+ro.product.odm.name=Riddler_00WW
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Fri Jul 21 00:55:22 UTC 2023
+ro.odm.build.date.utc=1689900922
+ro.odm.build.fingerprint=Nokia/Riddler_00WW/RDD:13/TP1A.220624.014/00WW_3_220:user/release-keys
+ro.odm.build.id=TP1A.220624.014
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=00WW_3_220
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.product.board=Riddler
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+ro.build.software.version=V3.220
+ro.com.google.clientidbase=android-hmd
+ro.com.google.clientidbase.ms=android-hmd-rvo3
+ro.com.google.clientidbase.vs=android-hmd-rvo3
+ro.com.google.clientidbase.tx=android-hmd-rvo3
+ro.product.device=RDD
+ro.product.model.num=00WW
+ro.boot.hardware.revision=V1.0
+persist.emdoor.ambient.Notifications=0
+ro.product.product.name=Riddler_00WW
+ro.vm.socket.disable=true
+ro.com.android.prov_mobiledata=false
+ro.com.google.ime.showicon=false
+ro.build.display.id=6000F_3_220_B01
+persist.vendor.cam.hdr.version=3
+persist.vendor.cam.zsl.buffer=8
+persist.vendor.cam.sensitivityRange.id0=50,4200
+persist.vendor.cam.fast.thumb=11111
+persist.vendor.cam.ba.blur.version=1
+persist.sys.cam.fast.blur=false
+persist.sys.cam.beauty.filter.enable=true
+persist.vendor.cam.cnr.mode=1
+persist.vendor.cam.hdr.cnr.mode=1
+ro.sf.lcd_density=280
+ro.sf.lcd_width=54
+ro.sf.lcd_height=96
+ro.build.software.subversion=B01
+persist.sys.setupwizard.join_user_experience_program=false
+ro.netflix.signup=1
+ro.netflix.channel=a0936ad0a17611eab9d55b5e87136a35
+ro.odm.oemcrypto.enabled=false
+ro.vendor.wcn.hardware.product=marlin3_lite
+persist.bluetooth.a2dp_offload.disabled=true
+ro.media.xml_variant.codecs=_c2_secure
+ro.media.xml_variant.codecs_performance=_c2_secure
+persist.vendor.cam.fdr.enable=2
+persist.vendor.cam.fdr.sel=1
+vendor.cam.hw.framesync.on=0
+persist.vendor.cam.sprdUltraDistortionCorrectEnable=1
+persist.vendor.cam.dcam.mipi.raw.align=16
+persist.vendor.cam.facebeauty.corp=3
+persist.sys.cam.manual.shutter=true
+persist.sys.cam.manual.focus=true
+persist.sys.cam.3dnr=true
+persist.sys.cam.beauty.fullfuc=true
+persist.sys.cam.wide.8M=true
+persist.sys.cam.wide.power=true
+persist.sys.cam.eois.dc.back=false
+persist.sys.cam.eois.dc.front=false
+persist.sys.cam.eois.dv.back=true
+persist.sys.cam.eois.dv.front=false
+persist.vendor.cam.3dnr.version=1
+# Removed by post_process_props.py because overridden by persist.vendor.cam.ba.blur.version=1
+#persist.vendor.cam.ba.blur.version?=6
+persist.vendor.cam.fr.blur.version=1
+persist.vendor.cam.blur.fast.thumb=1
+persist.vendor.cam.api.version=0
+persist.sys.3d.calibraion=1
+persist.sys.cam3.type=back_blur
+persist.sys.cam3.multi.cam.id=2
+ro.vendor.camera.dualcamera_cali_enable=1
+ro.vendor.camera.dualcamera_cali_time=3
+persist.vendor.cam.res.bokeh=RES_8M
+persist.vendor.cam.multicam.cali.veri=0
+persist.vendor.cam.opticszoom.cali.mode=3
+persist.vendor.cam.focus.distance=300
+persist.vendor.cam.res.multi.camera=RES_MULTI
+# Removed by post_process_props.py because overridden by persist.vendor.cam.cnr.mode=1
+#persist.vendor.cam.cnr.mode?=1
+# Removed by post_process_props.py because overridden by persist.vendor.cam.hdr.cnr.mode=1
+#persist.vendor.cam.hdr.cnr.mode?=0
+persist.vendor.cam.ee.mode=1
+persist.vendor.cam.ai.scence.enable=2
+persist.vendor.cam.wt.enable=0
+persist.vendor.cam.hdr.zsl=1
+persist.vendor.cam.multi.fps.limit.bg=1005
+persist.vendor.cam.multi.section=3
+persist.vendor.cam.multi.camera.enable=1
+persist.vendor.cam.ultra.wide.enable=1
+persist.vendor.cam.night.pro.enable=1
+persist.vendor.cam.video.face.beauty.enable=1
+persist.vendor.cam.fov.fusion.enable=1
+persist.vendor.cam.dual.view.video.enable=1
+# Removed by post_process_props.py because overridden by persist.vendor.cam.portrait.scene.enable?=2
+#persist.vendor.cam.portrait.scene.enable?=1
+persist.vendor.cam.ba.portrait.enable=1
+persist.vendor.cam.fr.portrait.enable=1
+persist.vendor.cam.lightportrait.ba.enable=1
+persist.vendor.cam.lightportrait.fr.enable=1
+persist.vendor.cam.dv.ba.eispro.enable=1
+persist.vendor.cam.capture.torch.enable=0
+persist.vendor.cam.fd.enable=true
+persist.vendor.cam.singleportrait.hdmf=3
+persist.vendor.cam.bokeh.hdmf=3
+persist.vendor.cam.ip.portrait.back.replace=2
+persist.vendor.cam.portrait.scene.enable=2
+persist.vendor.cam.nightpro.hdr.mfnr.enable=1
+# Removed by post_process_props.py because overridden by persist.vendor.cam.fast.thumb=11111
+#persist.vendor.cam.fast.thumb?=11111
+persist.vendor.cam.auto.fast.thumb=1
+persist.vendor.cam.faceid.version=1
+persist.vendor.faceid.livenessgrade=2
+ro.vendor.tui.support=false
+ro.vendor.soter.support=false
+ro.vendor.faceid.support=true
+ro.vendor.gnsschip=marlin3lite
+ro.vendor.wcn.gpschip=marlin3lite
+persist.vendor.radio.phone_count=1
+persist.radio.multisim.config=ssss
+qemu.hw.mainkeys=0
+# end of file
+ro.product.manufacturer=HMD Global
+ro.product.nickname=Nokia T20
+import /odm/${ro.boot.versiontype}/etc/build.prop
+import /odm/etc/adb${ro.boot.adb_def_on}/build.prop

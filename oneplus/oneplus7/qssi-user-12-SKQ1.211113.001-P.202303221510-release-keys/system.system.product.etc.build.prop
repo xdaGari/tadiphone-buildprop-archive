@@ -1,0 +1,44 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=oplus
+ro.product.product.device=ossi
+ro.product.product.manufacturer=oplus
+ro.product.product.model=ossi
+ro.product.product.name=ossi
+ro.product.build.date=Fri Mar 17 19:29:06 CST 2023
+ro.product.build.date.utc=1679052546
+ro.product.build.fingerprint=oplus/ossi/ossi:12/SKQ1.211113.001/1679052546577:user/release-keys
+ro.product.build.id=SKQ1.211113.001
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=1679052546577
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=system
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

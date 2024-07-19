@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=alps
+ro.product.bootimage.device=k65v1_64_bsp
+ro.product.bootimage.manufacturer=alps
+ro.product.bootimage.model=k65v1_64_bsp
+ro.product.bootimage.name=vnd_k65v1_64_bsp
+ro.bootimage.build.date=Thu Dec  1 15:52:24 CST 2022
+ro.bootimage.build.date.utc=1669881144
+ro.bootimage.build.fingerprint=alps/vnd_k65v1_64_bsp/k65v1_64_bsp:12/SKQ1.210908.001/root12011552:user/release-keys
+ro.bootimage.build.id=SKQ1.210908.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=eng.root.20221201.155255
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

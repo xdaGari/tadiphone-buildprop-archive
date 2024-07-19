@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Xiaomi
+ro.product.odm_dlkm.device=diting
+ro.product.odm_dlkm.manufacturer=Xiaomi
+ro.product.odm_dlkm.model=diting
+ro.product.odm_dlkm.cert=
+ro.product.odm_dlkm.name=diting
+ro.product.odm_dlkm.marketname=
+ro.odm_dlkm.build.date=Mon Nov  7 18:01:45 CST 2022
+ro.odm_dlkm.build.date.utc=1667815305
+ro.odm_dlkm.build.fingerprint=Xiaomi/diting/diting:12/SKQ1.220303.001/V13.0.10.0.SLFCNXM:user/release-keys
+ro.odm_dlkm.build.id=SKQ1.220303.001
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=V13.0.10.0.SLFCNXM
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

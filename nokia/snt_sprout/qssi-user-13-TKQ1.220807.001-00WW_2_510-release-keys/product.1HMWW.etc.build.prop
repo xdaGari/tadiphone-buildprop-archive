@@ -1,0 +1,13 @@
+### create for oneimage 1HMWW
+ro.config.ringtone=Arrival.mp3
+ro.config.ringtone2=Arrival.mp3
+ro.config.notification_sound=Cadenza.mp3
+ro.config.alarm_alert=Spirals.mp3
+ro.com.google.clientidbase=android-hmd
+ro.com.google.clientidbase.ms=android-hmd-terr1-rso1
+ro.com.google.clientidbase.vs=android-hmd-terr1-rso1
+ro.com.google.clientidbase.tx=android-hmd-terr1-rso1
+ro.com.google.clientidbase.pg=android-hmd-deo1
+persist.sys.customanim.boot=/product/media/hmww/bootanimation.zip
+import /product/1HMWW/etc/fingerprint.prop
+

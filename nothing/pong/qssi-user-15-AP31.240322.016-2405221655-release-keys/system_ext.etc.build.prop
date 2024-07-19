@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=qti
+ro.product.system_ext.device=qssi
+ro.product.system_ext.manufacturer=QUALCOMM
+ro.product.system_ext.model=qssi system image for arm64
+ro.product.system_ext.name=qssi
+ro.system_ext.build.date=Wed May 22 16:55:58 CST 2024
+ro.system_ext.build.date.utc=1716368158
+ro.system_ext.build.fingerprint=qti/qssi/qssi:15/AP31.240322.016/2405221655:user/release-keys
+ro.system_ext.build.id=AP31.240322.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=2405221655
+ro.system_ext.build.version.release=15
+ro.system_ext.build.version.release_or_codename=15
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.audio.ihaladaptervendorextension_enabled=true
+bluetooth.profile.sap.server.enabled=true
+bluetooth.profile.pbap.sim.enabled=true
+bluetooth.hfp.codec_aptx_voice.enabled=true
+ro.bluetooth.leaudio_offload.supported=true
+persist.bluetooth.leaudio_offload.disabled=false
+persist.bluetooth.leaudio.allow.multiple.context=false
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=essi
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-A356E
+ro.product.system_ext.name=a35xjvxx
+ro.product.name_for_attestation=
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.system_ext.build.date=Wed Apr 24 14:54:49 +07 2024
+ro.system_ext.build.date.utc=1713945289
+ro.system_ext.build.fingerprint=samsung/a35xjvxx/essi:14/UP1A.231005.007/A356EXXU1AXD4:user/release-keys
+ro.system_ext.build.id=UP1A.231005.007
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=A356EXXU1AXD4
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
+

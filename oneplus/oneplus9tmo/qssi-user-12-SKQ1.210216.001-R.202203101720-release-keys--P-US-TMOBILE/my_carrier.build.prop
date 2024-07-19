@@ -1,0 +1,19 @@
+import /mnt/vendor/my_carrier/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_carrier.type=P_US_TMOBILE_OnePlus
+ro.oplus.image.my_carrier.date=2022-03-10 14:13:21
+ro.oplus.image.my_carrier.date.utc=1646892801
+ro.oplus.image.my_carrier.version_name=X00USTM00
+ro.oplus.pipeline.carrier=P-US-TMOBILE
+ro.config.ringtone=T-Jingle.ogg
+ro.com.google.clientidbase=android-oneplus
+ro.com.google.clientidbase.ms=android-tmus-us-revc
+ro.com.google.clientidbase.vs=android-tmus-us-revc
+ro.com.google.clientidbase.tx=android-oneplus-rvo3
+ro.oplus.rsa3.support=true
+ro.none.clear.switch.first=true
+sys.override.simswitch.property=1
+ro.oplus.radio.lte_rsrp_thresholds=-125,-120,-115,-110,-100,-44
+ro.oplus.radio.nrca_support=1
+ro.vendor.oplus.radio.multisim.config=ssss
+ro.oplus.image.my_carrier.version=20854.3.21.202203101409205958728.ab7e0915

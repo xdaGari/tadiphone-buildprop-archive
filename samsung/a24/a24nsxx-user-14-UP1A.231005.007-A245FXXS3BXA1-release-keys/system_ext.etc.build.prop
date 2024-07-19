@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=a24
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-A245F
+ro.product.system_ext.name=a24nsxx
+ro.product.name_for_attestation=
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.system_ext.build.date=Wed Jan 17 17:13:05 KST 2024
+ro.system_ext.build.date.utc=1705479185
+ro.system_ext.build.fingerprint=samsung/a24nsxx/a24:14/UP1A.231005.007/A245FXXS3BXA1:user/release-keys
+ro.system_ext.build.id=UP1A.231005.007
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=A245FXXS3BXA1
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
+

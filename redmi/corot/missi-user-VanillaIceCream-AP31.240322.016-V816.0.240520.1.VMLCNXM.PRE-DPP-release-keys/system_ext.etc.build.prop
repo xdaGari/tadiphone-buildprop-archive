@@ -1,0 +1,48 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Xiaomi
+ro.product.system_ext.device=missi
+ro.product.system_ext.manufacturer=Xiaomi
+ro.product.system_ext.model=missi
+ro.product.system_ext.name=missi
+ro.system_ext.build.date=Mon May 20 18:40:26 CST 2024
+ro.system_ext.build.date.utc=1716201626
+ro.system_ext.build.fingerprint=Xiaomi/missi/missi:VanillaIceCream/AP31.240322.016/V816.0.240520.1.VMLCNXM.PRE-DPP:user/release-keys
+ro.system_ext.build.id=AP31.240322.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=V816.0.240520.1.VMLCNXM.PRE-DPP
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=VanillaIceCream
+ro.system_ext.build.version.sdk=35
+####################################
+# from build/make/target/board/gsi_system_ext_user.prop
+####################################
+# GSI always generate dex pre-opt in system image
+ro.cp_system_other_odex=0
+# GSI disables non-AOSP nnapi extensions on product partition
+ro.nnapi.extensions.deny_on_product=true
+# TODO(b/120679683): disable RescueParty before all problem apps solved
+persist.sys.disable_rescue=true
+# TODO(b/78105955): disable privapp_permissions checking before the bug solved
+ro.control_privapp_permissions=disable
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.sys.mcd_config_file=/system_ext/etc/mcd_default.conf
+ro.secureboot.devicelock=1
+ro.miui.ui.fonttype=mipro
+ro.miui.ui.font.theme_apply=true
+ro.miui.ui.font.animation=disable
+ro.miui.ui.font.version=3
+ro.miui.ui.font.mi_font_path=/system/fonts/MiSansVF.ttf
+ro.rom.zone=1
+ro.support_one_handed_mode=true
+persist.sys.support_view_smoothcorner=true
+persist.sys.support_window_smoothcorner=true
+persist.sys.timezone=Asia/Shanghai
+ro.config.isolated_compilation_enabled=true
+# end of file
+

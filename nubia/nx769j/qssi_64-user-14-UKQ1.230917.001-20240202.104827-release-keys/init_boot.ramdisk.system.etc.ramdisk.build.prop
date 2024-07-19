@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=nubia
+ro.product.bootimage.device=NX769J
+ro.product.bootimage.manufacturer=nubia
+ro.product.bootimage.model=NX769J
+ro.product.bootimage.name=NX769J-UN
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.bootimage.build.date=Fri Feb  2 10:55:20 CST 2024
+ro.bootimage.build.date.utc=1706842520
+ro.bootimage.build.fingerprint=nubia/NX769J-UN/NX769J:14/UKQ1.230917.001/20240202.110008:user/release-keys
+ro.bootimage.build.id=UKQ1.230917.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=eng.zte.20240202.110008
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end of file

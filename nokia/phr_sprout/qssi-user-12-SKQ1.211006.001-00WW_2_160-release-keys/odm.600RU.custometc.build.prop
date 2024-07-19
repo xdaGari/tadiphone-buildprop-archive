@@ -1,0 +1,10 @@
+### create for oneimage 600RU
+ro.product.odm.brand=Nokia
+ro.product.odm.device=PHR
+ro.product.odm.manufacturer=HMD Global
+ro.product.odm.model=Nokia G50
+ro.product.odm.name=Punisher_00RU
+ro.product.vendor.device=PHR
+ro.product.vendor.name=Punisher_00RU
+import /odm/600RU/custometc/600RUfingerprint.prop
+

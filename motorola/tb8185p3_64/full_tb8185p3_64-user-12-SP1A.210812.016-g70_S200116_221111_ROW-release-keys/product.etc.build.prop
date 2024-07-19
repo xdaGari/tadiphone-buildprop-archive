@@ -1,0 +1,40 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Lenovo
+ro.product.product.device=tb8185p3_64
+ro.product.product.manufacturer=Motorola
+ro.product.product.model=moto tab g70
+ro.product.product.name=full_tb8185p3_64
+ro.product.build.date=Fri Nov 11 21:42:40 CST 2022
+ro.product.build.date.utc=1668174160
+ro.product.build.fingerprint=Motorola/mototabg70/mototabg70:12/SP1A.210812.016/g70_S200116_221111_ROW:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=g70_S200116_221111_ROW
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=tablet
+ro.product.ab_ota_partitions=boot,system,vendor,vbmeta,vbmeta_system,vbmeta_vendor,preloader,spmfw,scp,sspm,lk,tee,dtbo,cam_vpu1,cam_vpu2,cam_vpu3,gz,product
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.setupwizard.rotation_locked=false
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+setupwizard.feature.baseline_setupwizard_enabled=true
+ro.com.google.gmsversion=12_202202
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+ro.netflix.channel=f3cc56c0-6ab5-11e8-b889-55952777bc6e
+ro.netflix.signup=1
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

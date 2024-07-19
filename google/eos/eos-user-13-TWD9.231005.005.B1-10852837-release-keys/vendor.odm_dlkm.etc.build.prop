@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=google
+ro.product.odm_dlkm.device=eos
+ro.product.odm_dlkm.manufacturer=Google
+ro.product.odm_dlkm.model=Google Pixel Watch 2
+ro.product.odm_dlkm.name=eos
+ro.odm_dlkm.build.date=Sat Sep 23 07:02:00 UTC 2023
+ro.odm_dlkm.build.date.utc=1695452520
+ro.odm_dlkm.build.fingerprint=google/eos/eos:13/TWD9.231005.005.B1/10852837:user/release-keys
+ro.odm_dlkm.build.id=TWD9.231005.005.B1
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=10852837
+ro.odm_dlkm.build.version.release=13
+ro.odm_dlkm.build.version.release_or_codename=13
+ro.odm_dlkm.build.version.sdk=33
+# end of file
+

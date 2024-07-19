@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=cheetah
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 7 Pro
+ro.product.system_ext.name=cheetah
+ro.system_ext.build.date=Fri Aug 12 14:38:25 UTC 2022
+ro.system_ext.build.date.utc=1660315105
+ro.system_ext.build.fingerprint=google/cheetah/cheetah:13/TD1A.220804.009.A2/8940162:user/release-keys
+ro.system_ext.build.id=TD1A.220804.009.A2
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=8940162
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+# end of file
+

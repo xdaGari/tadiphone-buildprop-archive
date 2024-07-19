@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Blackview
+ro.product.odm_dlkm.device=A200Pro
+ro.product.odm_dlkm.manufacturer=Blackview
+ro.product.odm_dlkm.model=A200 Pro
+ro.product.odm_dlkm.name=A200Pro_NEU
+ro.odm_dlkm.build.date=Wed Nov 15 12:39:32 CST 2023
+ro.odm_dlkm.build.date.utc=1700023172
+ro.odm_dlkm.build.fingerprint=Blackview/A200Pro_NEU/A200Pro:13/TP1A.220624.014/65533:user/release-keys
+ro.odm_dlkm.build.id=SP1A.210812.016
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=65533
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=ZTE
+ro.product.system_ext.device=P898F01
+ro.product.system_ext.manufacturer=ZTE
+ro.product.system_ext.model=ZTE A2023PG
+ro.product.system_ext.name=EEA_P898F01
+ro.system_ext.build.date=Thu Jul 14 01:19:50 CST 2022
+ro.system_ext.build.date.utc=1657732790
+ro.system_ext.build.fingerprint=ZTE/EEA_P898F01/P898F01:12/SKQ1.220213.001/20220714.011432:user/release-keys
+ro.system_ext.build.id=SKQ1.220213.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=20220714.011432
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=0
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

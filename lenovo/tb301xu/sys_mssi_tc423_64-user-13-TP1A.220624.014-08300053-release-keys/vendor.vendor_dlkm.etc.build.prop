@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Lenovo
+ro.product.vendor_dlkm.device=TB301XU
+ro.product.vendor_dlkm.manufacturer=LENOVO
+ro.product.vendor_dlkm.model=TB301XU
+ro.product.vendor_dlkm.name=TB301XU
+ro.vendor_dlkm.build.date=Wed Aug 30 00:40:24 CST 2023
+ro.vendor_dlkm.build.date.utc=1693327224
+ro.vendor_dlkm.build.fingerprint=Lenovo/TB301XU/TB301XU:13/TP1A.220624.014/S000083_230830_ROW:user/release-keys
+ro.vendor_dlkm.build.id=SP1A.210812.016
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=TB301XU_USR_S000083_230830_MP1V1111_ROW
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

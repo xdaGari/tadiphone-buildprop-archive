@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=ROGA_sprout
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia G10
+ro.product.system_ext.name=Rogue_00WW
+persist.radio.imei_ver=54
+ro.system_ext.build.date=Wed Mar 22 16:03:23 UTC 2023
+ro.system_ext.build.date.utc=1679501003
+ro.system_ext.build.fingerprint=Nokia/Rogue_00WW/ROGA_sprout:13/TP1A.220624.014/00WW_3_300:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=00WW_3_300
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.support_one_handed_mode=false
+# end of file
+

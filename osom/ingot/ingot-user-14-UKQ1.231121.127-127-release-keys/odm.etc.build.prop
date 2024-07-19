@@ -1,0 +1,35 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=OSOM
+ro.product.odm.device=ingot
+ro.product.odm.manufacturer=Solana Mobile
+ro.product.odm.model=Saga
+ro.product.odm.name=ingot
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Fri Apr  5 02:34:08 PDT 2024
+ro.odm.build.date.utc=1712309648
+ro.odm.build.fingerprint=OSOM/ingot/ingot:14/UKQ1.231121.127/127:user/release-keys
+ro.odm.build.id=UKQ1.231121.127
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=127
+ro.odm.build.version.release=14
+ro.odm.build.version.release_or_codename=14
+ro.odm.build.version.sdk=34
+####################################
+# from device/osom/ingot/odm.prop
+####################################
+import /odm/etc/build_${ro.boot.hardware.sku}.prop
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+

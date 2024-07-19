@@ -1,0 +1,70 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Ulefone
+ro.product.product.device=Note_15
+ro.product.product.manufacturer=Ulefone
+ro.product.product.model=Note 15
+ro.product.product.name=Note_15_EEA
+ro.product.build.date=Thu Jul 27 18:25:57 CST 2023
+ro.product.build.date.utc=1690453557
+ro.product.build.fingerprint=Ulefone/Note_15_EEA/Note_15:12/SP1A.210812.016/2305082113:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=2305082113
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+dalvik.vm.systemservercompilerfilter=speed-profile
+ro.product.vndk.version=31
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.com.google.acsa=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.setupwizard.enable_bypass=true
+setupwizard.feature.checkin_timeout_enabled=false
+ro.com.google.gmsversion=12_202212.go
+ro.com.google.clientidbase=android-gotron
+ro.com.android.mobiledata=false
+odm.teksun.support.psensor=true
+ro.factory.invisible.passbutton=true
+ro.factory.colortest7=true
+ro.factory.switchlanguage=true
+ro.secretcode.newmodem=true
+odm.teksun.delete.dialog=true
+ro.hxy.navigationbar.support=true
+ro.com.android.mobiledata=false
+odm.teksun.support.psensor=true
+persist.device_config.runtime_native.usap_pool_enabled=false
+persist.device_config.runtime_native.usap_pool_enabled=false
+odm.teksun.support.psensor=true
+ro.factory.invisible.passbutton=true
+ro.factory.colortest7=true
+ro.factory.switchlanguage=true
+ro.secretcode.newmodem=true
+odm.teksun.delete.dialog=true
+ro.hxy.navigationbar.support=true
+ro.com.android.mobiledata=false
+odm.teksun.support.psensor=true
+odm.teksun.fingerprint.chip=NONE
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
+# begin fota properties
+ro.fota.platform=MTK6580_12.0
+ro.fota.type=phone
+ro.fota.app=5
+ro.fota.battery=30
+ro.fota.oem=hongxiangyuan6580_12.0
+ERROR: model do not exist in system/build.prop,Please define it

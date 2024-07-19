@@ -1,0 +1,51 @@
+##### Overwrite prop values by composition #####
+ro.product.build.id=61.1.A.7.35
+ro.product.product.brand=Sony
+ro.product.build.tags=release-keys
+ro.product.build.fingerprint=Sony/qssi/qssi:12/SKQ1.211006.001/1:user/release-keys
+ro.product.build.date=Sat Mar 26 09:35:13 JST 2022
+ro.product.build.date.utc=1648254913
+
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.device=qssi
+ro.product.product.manufacturer=Sony
+ro.product.product.model=Qssi
+ro.product.product.name=qssi
+ro.product.build.type=user
+ro.product.build.version.incremental=1
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=system,system_ext,product,vbmeta_system
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+ro.support_one_handed_mode=true
+ro.com.google.lens.oem_camera_package=com.sonymobile.photopro
+ro.postinstall.fstab.prefix=/product
+ro.apex.updatable=true
+pinner.pin_camera=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

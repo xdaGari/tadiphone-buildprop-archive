@@ -1,0 +1,35 @@
+# build porp start
+ro.oplus.image.my_region.type=IN_Realme
+ro.oplus.image.my_region.date=2022-09-27 08:43:16
+ro.oplus.image.my_region.date.utc=1664239396
+ro.oplus.image.my_region.version_name=21675.6.9-X00IN00
+ro.oplus.pipeline.region=IN
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+adjust.preinstall.path=/data/etc/appchannel/adjust.preinstall
+io.branch.preinstall.apps.path=/data/etc/appchannel/pre_install_apps.branch
+ro.trackingId.com.daraz.appid=/data/etc/appchannel/darazChannel.txt
+ro.trackingId.com.lzd.appid=/data/etc/appchannel/lazadaChannel.txt
+ro.trackingId.com.shop.appid=/data/etc/appchannel/shopChannel.txt
+ro.oplus.region.custom=2.0.77_IN
+ro.facebook.partnerid=oppo:de8df4f5-bc34-4319-892c-cdf507e7e268
+ro.com.google.lens.oem_camera_package=com.oplus.camera
+ro.com.google.lens.oem_image_package=com.coloros.gallery3d
+ro.oem.key1=IN
+ro.oplus.rsa3.support=true
+ro.com.google.rlz_ap_whitelist=YF
+ro.com.google.rlzbrandcode=OPPO
+ro.com.google.clientidbase=android-oppo
+ro.com.google.clientidbase.ms=android-oppo-rvo3
+ro.com.google.clientidbase.vs=android-oppo-rvo3
+ro.com.google.clientidbase.tx=android-oppo-rvo3
+persist.sys.timezone=America/New_York
+persist.sys.oplus.region=IN
+ro.vendor.oplus.regionmark=IN
+ro.vendor.oplus.version=pu
+ro.vendor.oplus.radio.sar_regionmark=IN
+ro.oplus.radio.region_netlock_enable=true
+ro.oplus.radio.region_netlock_country=IN
+ro.oplus.server_url_1=https://fourier-newds01-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.image.my_region.version=21675.6.9.2022092704090711058984.93510db4

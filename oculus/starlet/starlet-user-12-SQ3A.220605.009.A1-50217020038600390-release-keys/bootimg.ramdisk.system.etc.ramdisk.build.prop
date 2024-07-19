@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=oculus
+ro.product.bootimage.device=starlet
+ro.product.bootimage.manufacturer=Oculus
+ro.product.bootimage.model=Quest Touch Pro
+ro.product.bootimage.name=starlet
+ro.bootimage.build.date=Sun Jul 30 13:25:10 PDT 2023
+ro.bootimage.build.date.utc=1690748710
+ro.bootimage.build.fingerprint=oculus/starlet/starlet:12/SQ3A.220605.009.A1/50217020038600390:user/release-keys
+ro.bootimage.build.id=SQ3A.220605.009.A1
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=50217020038600390
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

@@ -1,0 +1,36 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Nothing
+ro.product.odm.device=Pong
+ro.product.odm.manufacturer=Nothing
+ro.product.odm.model=A065
+ro.product.odm.name=Pong
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Sun Jul  9 23:09:16 CST 2023
+ro.odm.build.date.utc=1688915356
+ro.odm.build.fingerprint=Nothing/Pong/Pong:12/SKQ1.221207.001/2307092309:user/release-keys
+ro.odm.build.id=SKQ1.221207.001
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=2307092309
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=32
+####################################
+# from vendor/noth/configs/odm/etc/build.prop
+####################################
+import /odm/etc/build_${ro.boot.hardware.sku}.prop
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

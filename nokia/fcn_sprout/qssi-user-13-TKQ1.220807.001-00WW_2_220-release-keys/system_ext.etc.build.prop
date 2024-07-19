@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=FCN_sprout
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia X30 5G
+ro.product.system_ext.name=Falcon_00WW
+ro.system_ext.build.date=Thu Mar 23 08:52:30 UTC 2023
+ro.system_ext.build.date.utc=1679561550
+ro.system_ext.build.fingerprint=Nokia/Falcon_00WW/FCN_sprout:13/TKQ1.220807.001/00WW_2_220:user/release-keys
+ro.system_ext.build.id=TKQ1.220807.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.jenkin.20230323.085451
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file
+

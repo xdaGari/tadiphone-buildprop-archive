@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=redmi
+ro.product.system_ext.device=missi
+ro.product.system_ext.manufacturer=xiaomi
+ro.product.system_ext.model=missi
+ro.product.system_ext.name=missi
+ro.system_ext.build.date=Mon Oct 24 16:20:46 CST 2022
+ro.system_ext.build.date.utc=1666599646
+ro.system_ext.build.fingerprint=redmi/missi/missi:12/SP1A.210812.016/V13.1.22.10.24.DEV:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=V13.1.22.10.24.DEV
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

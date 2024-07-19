@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=DOOGEE
+ro.product.system_ext.device=M23U
+ro.product.system_ext.manufacturer=DOOGEE
+ro.product.system_ext.model=V30Pro
+ro.product.system_ext.name=M23U_EEA
+ro.system_ext.build.date=Wed Mar  6 19:15:51 CST 2024
+ro.system_ext.build.date.utc=1709723751
+ro.system_ext.build.fingerprint=DOOGEE/M23U_EEA/M23U:13/TP1A.220624.014/1709723751:user/release-keys
+ro.system_ext.build.id=DOOGEE-V30Pro-EEA-Android13.0-20240315
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=p1rck6985v164P35
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+ro.system_ext.custom.version=R12
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
+
+# begin fota properties
+ro.fota.platform=MTK6789_13.0
+ro.fota.type=phone
+ro.fota.app=5
+ro.fota.battery=30
+ro.boot.vendor.overlay.theme=com.doogee.update.overlay
+ro.fota.oem=dazhi6789_13.0
+ERROR: model do not exist in system/build.prop,Please define it

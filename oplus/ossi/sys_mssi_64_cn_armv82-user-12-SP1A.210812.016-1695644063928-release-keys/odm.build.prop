@@ -1,0 +1,53 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.alwayson.enable=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+persist.vendor.radio.telecom.vibrate=0
+ro.build.device_family=OPMT6893
+ro.soc.model=MT6893
+ro.soc.manufacturer=Mediatek
+ro.build.kernel.id=4.14.186
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=440
+ro.camera.portrait.blur.level.enable=1
+ro.camera.high.resolution.video.filter.enable=1
+ro.camera.ignore.input.stream.check.enable=1
+ro.oplus.screenhole.border=8
+ro.separate.soft=20741
+ro.product.authentication=0
+ro.product.hw=20741
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.product.model=RMX2156
+ro.build.product=RMX2156
+ro.vendor.product.oem=RMX2156
+ro.product.device=RMX2156L1
+ro.vendor.product.device.oem=RMX2156
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.display.id=RMX2156_11_A.01
+ro.build.display.id_ims=RMX2156_11_A.01_231011
+ro.mediatek.version.release=RMX2156_11_A.01_231011
+ro.vendor.mediatek.version.release=RMX2156_11_A.01_231011
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+ro.lmk.limit_killing_array_kb=2097152,1572864,1258291,665600
+ro.boot.product.hardware.sku=dsds
+odm.dirac.path=/odm/etc/dirac
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=20741
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.1f4bf161

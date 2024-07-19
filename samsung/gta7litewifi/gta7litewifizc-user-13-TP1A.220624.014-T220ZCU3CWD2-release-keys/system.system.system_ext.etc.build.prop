@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=gta7litewifi
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-T220
+ro.product.system_ext.name=gta7litewifizc
+ro.system_ext.build.date=Fri Apr 21 18:11:24 KST 2023
+ro.system_ext.build.date.utc=1682068284
+ro.system_ext.build.fingerprint=samsung/gta7litewifizc/gta7litewifi:13/TP1A.220624.014/T220ZCU3CWD2:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=T220ZCU3CWD2
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

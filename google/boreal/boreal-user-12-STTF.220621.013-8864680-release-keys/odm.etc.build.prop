@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=google
+ro.product.odm.device=boreal
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Chromecast HD
+ro.product.odm.name=boreal
+ro.odm.product.cpu.abilist=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=
+ro.odm.build.date=Sun Jul 24 07:07:50 UTC 2022
+ro.odm.build.date.utc=1658646470
+ro.odm.build.fingerprint=google/boreal/boreal:12/STTF.220621.013/8864680:user/release-keys
+ro.odm.build.id=STTF.220621.013
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=8864680
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

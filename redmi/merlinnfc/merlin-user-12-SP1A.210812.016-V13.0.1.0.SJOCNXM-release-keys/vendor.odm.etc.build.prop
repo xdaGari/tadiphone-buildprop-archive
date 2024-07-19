@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Redmi
+ro.product.odm.device=merlin
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=merlin
+ro.product.odm.name=merlin
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Tue Jun  7 22:29:52 CST 2022
+ro.odm.build.date.utc=1654612192
+ro.odm.build.fingerprint=Redmi/merlin/merlin:12/SP1A.210812.016/V13.0.1.0.SJOCNXM:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=V13.0.1.0.SJOCNXM
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+import /vendor/odm/etc/build_${ro.boot.product.hardware.sku}.prop
+

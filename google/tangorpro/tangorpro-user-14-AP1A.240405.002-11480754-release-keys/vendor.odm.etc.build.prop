@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=google
+ro.product.odm.device=tangorpro
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Pixel Tablet
+ro.product.odm.name=tangorpro
+ro.odm.build.date=Thu Feb 22 00:17:06 UTC 2024
+ro.odm.build.date.utc=1708561026
+ro.odm.build.fingerprint=google/tangorpro/tangorpro:14/AP1A.240405.002/11480754:user/release-keys
+ro.odm.build.id=AP1A.240405.002
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=11480754
+ro.odm.build.version.release=14
+ro.odm.build.version.release_or_codename=14
+ro.odm.build.version.sdk=34
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+

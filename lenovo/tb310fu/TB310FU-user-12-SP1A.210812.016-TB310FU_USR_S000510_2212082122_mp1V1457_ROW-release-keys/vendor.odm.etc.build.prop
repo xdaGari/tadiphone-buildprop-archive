@@ -1,0 +1,43 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Lenovo
+ro.product.odm.device=TB310FU
+ro.product.odm.manufacturer=LENOVO
+ro.product.odm.model=TB310FU
+ro.product.odm.name=TB310FU
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Thu Dec  8 22:16:47 CST 2022
+ro.odm.build.date.utc=1670509007
+###################################
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=TB310FU_USR_S000510_2212082122_mp1V1457_ROW
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+ro.odm.lenovo.region=row
+ro.odm.lenovo.wificert=no
+ro.config.notification_sound=Pollux.ogg
+ro.config.alarm_alert=Cesium.ogg
+ro.odm.lenovo.device=tablet
+ro.odm.lenovo.tablet=wifi
+ro.odm.lenovo.platform=MTK
+ro.odm.lenovo.operator=open
+ro.odm.lenovo.camerainfo=2+8
+ro.odm.lenovo.feature.smarthorizontalscreen.support=true
+ro.odm.lenovo.feature.dolbyfourchannel.support=true
+ro.odm.lenovo.lcdsize=8.95
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

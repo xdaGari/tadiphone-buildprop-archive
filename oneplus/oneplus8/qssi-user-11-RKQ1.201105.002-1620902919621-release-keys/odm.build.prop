@@ -1,0 +1,32 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+persist.vendor.radio.custom_ecc=0
+ro.sf.lcd_density=480
+ro.separate.soft=19821
+ro.rom.featrue=allnet
+ro.product.authentication=2019CP13047
+ro.product.brand_replace=OnePlus
+ro.product.manufacturer_replace=OnePlus
+ro.product.model_replace=IN2010
+ro.oppo.market.name=OnePlus 8
+ro.product.hw=AE008
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+ro.build.product=IN2010
+ro.vendor.product.oem=IN2010
+ro.vendor.product.device.oem=OnePlus8
+ro.build.display.id=IN2010_11_A.01
+ro.build.display.full_id=IN2010_11_A.01_210513
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V11.2
+ro.build.kernel.id=4.19.125
+ro.com.google.clientidbase=android-oneplus
+ro.product.sar=1.7
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=19821
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=qssi
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-X216B
+ro.product.system_ext.name=gta9pxxx
+ro.product.name_for_attestation=
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.system_ext.build.date=Fri May 24 20:16:37 +07 2024
+ro.system_ext.build.date.utc=1716556597
+ro.system_ext.build.fingerprint=samsung/gta9pxxx/qssi:14/UP1A.231005.007/X216BXXU2CXE7:user/release-keys
+ro.system_ext.build.id=UP1A.231005.007
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=X216BXXU2CXE7
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+# end of file
+

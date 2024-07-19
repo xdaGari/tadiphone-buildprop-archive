@@ -1,0 +1,34 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=blackshark
+ro.product.system_ext.device=missi
+ro.product.system_ext.manufacturer=QUALCOMM
+ro.product.system_ext.model=SHARK KTUS-A0
+ro.product.system_ext.cert=
+ro.product.system_ext.name=KTUS-A0
+ro.product.system_ext.marketname=
+ro.system_ext.build.date=Wed Aug 10 01:08:23 CST 2022
+ro.system_ext.build.date.utc=1660064903
+ro.system_ext.build.fingerprint=blackshark/KTUS-H0/katyusha:12/KTUS2208100OS00MP2/V11.0.4.0.JOYUI:user/release-keys
+ro.system_ext.build.id=KTUS2208100OS00MP2
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=V11.0.0.0.SKTUSOS
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=1
+ro.telephony.sim_slots.count=1
+telephony.active_modems.max_count=2
+persist.sys.gps.polaris=true
+persist.sys.gps.fence=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
+

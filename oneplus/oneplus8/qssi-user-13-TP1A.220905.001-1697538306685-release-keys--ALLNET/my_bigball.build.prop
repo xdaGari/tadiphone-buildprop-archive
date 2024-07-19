@@ -1,0 +1,10 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=domestic_19823_OnePlus_CN_ALLNET
+ro.oplus.image.my_bigball.date=2023-07-16 06:19:17
+ro.oplus.image.my_bigball.date.utc=1689459557
+ro.oplus.image.my_bigball.version_name=my_bigball19823_1310_T.0.0
+ro.oplus.server_url_1=https://newds-api-cn-01.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://newds-api-cn-02.allawntech.com/autotime/dateandtime.xml?number=
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_bigball.version=19823_1310_T.0.0.2023071606034618843753.217ed597

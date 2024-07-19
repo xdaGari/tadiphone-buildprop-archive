@@ -1,0 +1,5 @@
+### create for oneimage 6EUEEA
+ro.product.odm.name=Sentry_00EEA
+ro.vendor.product.nickname=Nokia XR21 Sentry
+import /odm/6EUEEA/etc/fingerprint.prop
+

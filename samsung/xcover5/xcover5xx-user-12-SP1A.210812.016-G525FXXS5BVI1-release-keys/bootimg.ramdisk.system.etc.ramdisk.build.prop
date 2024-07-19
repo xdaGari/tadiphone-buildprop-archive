@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=samsung
+ro.product.bootimage.device=xcover5
+ro.product.bootimage.manufacturer=samsung
+ro.product.bootimage.model=SM-G525F
+ro.product.bootimage.name=xcover5xx
+ro.bootimage.build.date=Tue Sep 20 09:43:51 KST 2022
+ro.bootimage.build.date.utc=1663634631
+ro.bootimage.build.fingerprint=samsung/xcover5xx/xcover5:12/SP1A.210812.016/G525FXXS5BVI1:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=G525FXXS5BVI1
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

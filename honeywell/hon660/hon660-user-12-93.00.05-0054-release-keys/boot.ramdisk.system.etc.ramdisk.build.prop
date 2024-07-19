@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.device=hon660
+ro.product.bootimage.model=sdm660 for arm64
+ro.product.bootimage.name=hon660
+ro.product.bootimage.brand=Honeywell
+ro.product.bootimage.manufacturer=Honeywell
+ro.bootimage.build.date=Thu Nov  9 14:21:51 CST 2023
+ro.bootimage.build.date.utc=1699510911
+ro.bootimage.build.fingerprint=Honeywell/hon660/hon660:12/93.00.05/0054:user/release-keys
+ro.bootimage.build.id=93.00.05
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=0054
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# end of file
+

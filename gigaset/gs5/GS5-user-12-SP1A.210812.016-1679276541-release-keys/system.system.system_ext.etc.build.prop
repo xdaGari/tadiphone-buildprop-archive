@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Gigaset
+ro.product.system_ext.device=GS5
+ro.product.system_ext.manufacturer=Gigaset
+ro.product.system_ext.model=E940-2796-00
+ro.product.system_ext.name=GS5_EEA
+ro.system_ext.build.date=Mon Mar 20 09:42:21 CST 2023
+ro.system_ext.build.date.utc=1679276541
+ro.system_ext.build.fingerprint=Gigaset/GS5_EEA/GS5:12/SP1A.210812.016/1679276541:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=1679276541
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
+
+# begin fota properties
+ro.fota.type=phone
+ro.fota.app=5
+ro.fota.battery=30
+ro.boot.vendor.overlay.theme=com.asdeviceop.carecenter.overlay
+ro.fota.platform=MTK6769_12.0
+ro.fota.oem=boruizhiheng6769_12.0
+ERROR: model do not exist in system/build.prop,Please define it

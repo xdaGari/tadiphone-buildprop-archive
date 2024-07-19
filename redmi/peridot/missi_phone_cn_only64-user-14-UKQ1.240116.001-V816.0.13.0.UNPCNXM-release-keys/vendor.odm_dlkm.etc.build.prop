@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Xiaomi
+ro.product.odm_dlkm.device=mivendor
+ro.product.odm_dlkm.manufacturer=Xiaomi
+ro.product.odm_dlkm.model=Xiaomi for arm64
+ro.product.odm_dlkm.name=mivendor_sm8650_cn
+ro.product.odm_dlkm.cert=
+ro.product.odm_dlkm.marketname=
+ro.odm_dlkm.build.date=Fri May 10 14:05:21 UTC 2024
+ro.odm_dlkm.build.date.utc=1715349921
+ro.odm_dlkm.build.fingerprint=Xiaomi/mivendor_sm8650_cn/mivendor:14/UKQ1.240116.001/V816.0.13.0.UNPCNXM:user/release-keys
+ro.odm_dlkm.build.id=UKQ1.240116.001
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=V816.0.13.0.UNPCNXM
+ro.odm_dlkm.build.version.release=14
+ro.odm_dlkm.build.version.release_or_codename=14
+ro.odm_dlkm.build.version.sdk=34
+# end of file
+

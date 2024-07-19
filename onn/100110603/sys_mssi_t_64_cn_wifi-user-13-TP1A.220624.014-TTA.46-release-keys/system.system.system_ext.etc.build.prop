@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=onn
+ro.product.system_ext.device=100110603
+ro.product.system_ext.manufacturer=onn
+ro.product.system_ext.model=100110603
+ro.product.system_ext.name=100110603
+ro.system_ext.build.date=Mon Apr  3 10:40:18 CST 2023
+ro.system_ext.build.date.utc=1680489618
+ro.system_ext.build.fingerprint=onn/100110603/100110603:13/TP1A.220624.014/TTA.46:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=TTA.46
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file

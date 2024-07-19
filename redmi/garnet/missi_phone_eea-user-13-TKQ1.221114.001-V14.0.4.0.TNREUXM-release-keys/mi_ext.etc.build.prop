@@ -1,0 +1,5 @@
+ro.miui.cota_app_del_support=true
+ro.miui.google.csp=true
+ro.product.mod_device=garnet_eea_global
+ro.miui.build.region=eea
+ro.vendor.imeisv=52

@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=Xiaomi
+ro.product.system_dlkm.device=nuwa
+ro.product.system_dlkm.manufacturer=Xiaomi
+ro.product.system_dlkm.model=2210132G
+ro.product.system_dlkm.cert=2210132G
+ro.product.system_dlkm.name=nuwa_global
+ro.product.system_dlkm.marketname=Xiaomi 13 Pro
+ro.system_dlkm.build.date=Tue Aug 22 07:47:56 UTC 2023
+ro.system_dlkm.build.date.utc=1692690476
+ro.system_dlkm.build.fingerprint=Xiaomi/nuwa_global/nuwa:13/TKQ1.220905.001/V14.0.13.0.TMBMIXM:user/release-keys
+ro.system_dlkm.build.id=TKQ1.220905.001
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=V14.0.13.0.TMBMIXM
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

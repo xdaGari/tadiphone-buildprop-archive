@@ -1,0 +1,16 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=export_22352_OPPO-Light_IN_NA
+ro.oplus.image.my_bigball.date=2023-11-02 00:55:54
+ro.oplus.image.my_bigball.date.utc=1698857754
+ro.oplus.image.my_bigball.version_name=my_bigball22352_1311_T.0.0
+ro.oplus.rsa=rsa4-tier2
+ro.oplus.server_url_1=https://fourier-newds01-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.radio.global_regionlock.enabled=true
+ro.oplus.radio.global_regionlock.info=IN
+ro.oplus.radio.global_regionlock.cert=1661243042741,IN
+ro.oplus.radio.global_regionlock.log=true
+ro.oplus.radio.global_regionlockflag=4
+ro.oplus.radio.region_netlock_disable=true
+ro.oplus.image.my_bigball.version=22352_1311_T.0.0.2023110200453121273732.9c3a11e7

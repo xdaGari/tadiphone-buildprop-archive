@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Redmi
+ro.product.system_ext.device=merlin
+ro.product.system_ext.manufacturer=Xiaomi
+ro.product.system_ext.model=merlin
+ro.product.system_ext.name=merlin
+ro.system_ext.build.date=Tue Jun  7 22:29:52 CST 2022
+ro.system_ext.build.date.utc=1654612192
+ro.system_ext.build.fingerprint=Redmi/merlin/merlin:12/SP1A.210812.016/V13.0.1.0.SJOCNXM:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=V13.0.1.0.SJOCNXM
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+import /system/system_ext/build_${ro.boot.product.hardware.sku}.prop
+

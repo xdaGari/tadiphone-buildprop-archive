@@ -1,0 +1,33 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.oplus.system.camera.name=com.oplus.camera
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=440
+ro.camera.portrait.blur.level.enable=1
+ro.oplus.screenhole.border=14
+ro.separate.soft=20831
+ro.build.kernel.id=4.14.186
+ro.rom.featrue=allnet
+ro.vendor.product.oem=DN2103
+ro.vendor.product.device.oem=OP515B
+ro.commonsoft.ota=OP515BL1
+ro.com.google.clientidbase=android-oneplus
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.oplusrom=V11.3
+ro.vendor.oplus.market.name=OnePlus Nord2 5G
+ro.build.display.id=DN2103_11_A.01
+ro.build.display.id_ims=DN2103_11_A.01_220413
+ro.mediatek.version.release=DN2103_11_A.01_220413
+ro.vendor.mediatek.version.release=DN2103_11_A.01_220413
+ro.sys.reserve.integrate=true
+ro.csc.spotify.music.referrerid=oneplus-mobile-global
+ro.csc.spotify.music.partnerid=oneplus-mobile-global
+odm.dirac.path=/odm/etc/dirac
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=20831
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

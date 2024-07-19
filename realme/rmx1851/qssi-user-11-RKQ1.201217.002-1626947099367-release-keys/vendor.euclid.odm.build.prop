@@ -1,0 +1,26 @@
+# build prop start
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+persist.vendor.radio.custom_ecc=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.separate.soft=18621
+ro.rom.featrue=allnet
+ro.build.version.opporom=V11.1
+ro.oppo.market.name=realme 3 Pro
+ro.product.hw=AD070
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.build.product=RMX1851
+ro.vendor.product.oem=RMX1851
+ro.vendor.product.device.oem=RMX1851
+ro.build.display.full_id=RMX1851_11_F.01_210923
+ro.build.display.id=RMX1851_11_F.01
+ro.com.google.clientidbase=android-oppo
+ro.oplus.system.camera.name=com.oppo.camera
+odm.dirac.path=/odm/etc/dirac
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=18621
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

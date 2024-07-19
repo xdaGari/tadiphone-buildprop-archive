@@ -1,0 +1,24 @@
+# build porp start
+ro.oplus.image.my_region.version=20821.8.10.202202220000045544958
+ro.oplus.image.my_region.type=IN_OnePlus
+ro.oplus.image.my_region.date=2022-02-22 00:05:04
+ro.oplus.image.my_region.date.utc=1645459504
+ro.oplus.image.my_region.version_name=X00IN00
+ro.oplus.pipeline.region=IN
+ro.oplus.server_url_1=https://fourier-newds01-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.vendor.oplus.radio.sar_regionmark=IN
+ro.oplus.radio.region_netlock_enable=true
+ro.oplus.radio.region_netlock_country=IN
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+ro.oplus.region.custom=1.0.34_IN
+ro.oplus.rsa3.support=true
+ro.com.google.clientidbase=android-oneplus
+ro.com.google.clientidbase.ms=android-oneplus-rvo3
+ro.com.google.clientidbase.vs=android-oneplus-rvo3
+ro.com.google.clientidbase.tx=android-oneplus-rvo3
+persist.sys.timezone=America/New_York
+persist.sys.oplus.region=IN
+ro.vendor.oplus.regionmark=IN
+ro.vendor.oplus.version=pu

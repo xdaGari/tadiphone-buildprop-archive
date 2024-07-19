@@ -1,0 +1,52 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.alwayson.enable=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+persist.vendor.radio.telecom.vibrate=0
+ro.build.device_family=OPMT6853
+ro.soc.model=MT6853V/TNZA
+ro.soc.manufacturer=Mediatek
+ro.build.kernel.id=4.14.186
+ro.oplus.system.camera.name=com.oplus.camera
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=420
+ro.oplus.screenhole.border=9
+dalvik.vm.madvise.vdexfile.size=0
+dalvik.vm.madvise.odexfile.size=0
+dalvik.vm.madvise.artfile.size=0
+ro.separate.soft=20686
+ro.vendor.product.oem=RMX2117
+ro.vendor.product.device.oem=RMX2117
+ro.vendor.oplus.market.name=RMX2117
+ro.commonsoft.ota=RMX2117L1
+ro.sys.reserve.integrate=true
+persist.sys.oplus.fusionlight=true
+persist.sys.obrain_obfuscate.enable=1
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.display.id=RMX2117_11_A.01
+ro.build.display.id_ims=RMX2117_11_A.01_230403
+ro.mediatek.version.release=RMX2117_11_A.01_230403
+ro.vendor.mediatek.version.release=RMX2117_11_A.01_230403
+persist.sys.oplus.dex2oat_current=true
+persist.sys.oplus.dex2oat_level=16
+ro.boot.product.hardware.sku=dsds
+persist.sys.oplus.wifi.sla.game_high_temperature=43
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=20686
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.f6177f33

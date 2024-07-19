@@ -1,0 +1,10 @@
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=rpm,tz,hyp,pmic,modemlite,modem,keymaster64,keymaster,cmnlib,cmnlib64,bluetooth,devcfg,dsp,xbl,abl,boot,system,vendor,version
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+# end of file
+

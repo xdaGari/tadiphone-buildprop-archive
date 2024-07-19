@@ -1,0 +1,20 @@
+### create for oneimage 600EEA
+##ro.config.ringtone=Andromeda.ogg
+##ro.config.alarm_alert=Oxygen.ogg
+##ro.config.notification_sound=Beat_Box_Android.ogg
+ro.com.google.clientidbase=android-hmd
+ro.product.board=SM4350
+ro.product.nickname=Nokia X20
+ro.com.google.assistantchannel=hmd
+ro.build.product=QKS_sprout
+ro.com.google.clientidbase.ms=android-hmd-rvo3
+ro.com.google.clientidbase.vs=android-hmd-rvo3
+ro.com.google.clientidbase.tx=android-hmd-rvo3
+ro.product.model.num=00EEA
+ro.build.product.name=Quicksilver_00EEA
+ro.opa.device_model_id=hmd2019products-quicksilver-ron0q7
+ro.product.product.name=Quicksilver_00EEA
+ro.product.system.name=Quicksilver_00EEA
+ro.product.system_ext.name=Quicksilver_00EEA
+import /product/600EEA/etc/600EEAfingerprint.prop
+

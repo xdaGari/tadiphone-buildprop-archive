@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=oculus
+ro.product.system_ext.device=seacliff
+ro.product.system_ext.manufacturer=Oculus
+ro.product.system_ext.model=Quest Pro
+ro.product.system_ext.name=seacliff
+ro.system_ext.build.date=Sat Jan  6 01:15:19 PST 2024
+ro.system_ext.build.date.utc=1704532519
+ro.system_ext.build.fingerprint=oculus/seacliff/seacliff:12/SQ3A.220605.009.A1/50134520068700330:user/release-keys
+ro.system_ext.build.id=SQ3A.220605.009.A1
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=50134520068700330
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=32
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

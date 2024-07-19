@@ -1,0 +1,29 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Lenovo
+ro.product.system_ext.device=TB320FC
+ro.product.system_ext.manufacturer=LENOVO
+ro.product.system_ext.model=TB320FC
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_ext.build.date=Wed Jun 26 21:23:54 CST 2024
+ro.system_ext.build.date.utc=1719408234
+ro.system_ext.build.id=UKQ1.231025.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=TB320FC_CN_OPEN_USER_Q00031.0_U_ZUI_16.0.336_ST_240626
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.setupwizard.mode=ENABLED
+ro.zui.filemanager.authorization=true
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

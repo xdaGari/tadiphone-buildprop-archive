@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=POCO
+ro.product.odm_dlkm.device=mondrian
+ro.product.odm_dlkm.manufacturer=Xiaomi
+ro.product.odm_dlkm.model=23013PC75G
+ro.product.odm_dlkm.cert=23013PC75G
+ro.product.odm_dlkm.name=mondrian_global
+ro.product.odm_dlkm.marketname=POCO F5 Pro
+ro.odm_dlkm.build.date=Tue Jan  9 04:16:02 UTC 2024
+ro.odm_dlkm.build.date.utc=1704773762
+ro.odm_dlkm.build.fingerprint=POCO/mondrian_global/mondrian:12/SKQ1.230401.001/V816.0.2.0.UMNMIXM:user/release-keys
+ro.odm_dlkm.build.id=SKQ1.230401.001
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=V816.0.2.0.UMNMIXM
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

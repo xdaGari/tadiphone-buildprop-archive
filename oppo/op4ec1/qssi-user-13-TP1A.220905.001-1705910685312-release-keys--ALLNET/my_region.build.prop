@@ -1,0 +1,15 @@
+# build porp start
+ro.oplus.image.my_region.type=CN_all
+ro.oplus.image.my_region.date=2024-01-08 05:14:19
+ro.oplus.image.my_region.date.utc=1704662059
+ro.oplus.image.my_region.version_name=13.1.02331-my_region13.0.02331
+ro.oplus.pipeline.region=CN
+ro.sys.custom.permissioncontroller=true
+ro.sys.custom.apexcontroller=true
+ro.vendor.oplus.radio.cn_nvbk=TRUE
+ro.vendor.oplus.radio.cn_ims_register=true
+ro.vendor.oplus.radio.cn_use_3gpp2=true
+ro.vendor.oplus.radio.cn_use_nitz=true
+ro.vendor.oplus.modemdump_enable=1
+ro.oplus.radio.enable_ims_caused_sa_fail_opt=true
+ro.oplus.image.my_region.version=13.1.02331.2024010805004122737028.aa4e4265

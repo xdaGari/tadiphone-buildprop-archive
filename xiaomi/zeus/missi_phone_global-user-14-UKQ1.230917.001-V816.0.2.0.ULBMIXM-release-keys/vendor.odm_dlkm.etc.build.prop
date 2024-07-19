@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Xiaomi
+ro.product.odm_dlkm.device=zeus
+ro.product.odm_dlkm.manufacturer=Xiaomi
+ro.product.odm_dlkm.model=2201122G
+ro.product.odm_dlkm.cert=2201122G
+ro.product.odm_dlkm.name=zeus_global
+ro.product.odm_dlkm.marketname=Xiaomi 12 Pro
+ro.odm_dlkm.build.date=Sun Apr  7 09:22:15 UTC 2024
+ro.odm_dlkm.build.date.utc=1712481735
+ro.odm_dlkm.build.fingerprint=Xiaomi/zeus_global/zeus:12/SKQ1.230401.001/V816.0.2.0.ULBMIXM:user/release-keys
+ro.odm_dlkm.build.id=SKQ1.230401.001
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=V816.0.2.0.ULBMIXM
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Blackview
+ro.product.vendor_dlkm.device=BV9200
+ro.product.vendor_dlkm.manufacturer=Blackview
+ro.product.vendor_dlkm.model=BV9200
+ro.product.vendor_dlkm.name=BV9200_RU
+ro.vendor_dlkm.build.date=Sat Dec 31 19:34:52 CST 2022
+ro.vendor_dlkm.build.date.utc=1672486492
+ro.vendor_dlkm.build.fingerprint=Blackview/BV9200_RU/BV9200:12/SP1A.210812.016/1671791443:user/release-keys
+ro.vendor_dlkm.build.id=BV9200_S1_221231
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=1rck61v164bspP11
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+ro.vendor_dlkm.custom.version=R08_20221231
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

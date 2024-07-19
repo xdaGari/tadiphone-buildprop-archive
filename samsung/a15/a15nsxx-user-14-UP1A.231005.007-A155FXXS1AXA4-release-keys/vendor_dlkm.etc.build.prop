@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=samsung
+ro.product.vendor_dlkm.device=a15
+ro.product.vendor_dlkm.manufacturer=samsung
+ro.product.vendor_dlkm.model=SM-A155F
+ro.product.vendor_dlkm.name=a15nsxx
+ro.vendor_dlkm.build.date=Wed Jan 24 09:27:23 KST 2024
+ro.vendor_dlkm.build.date.utc=1706056043
+ro.vendor_dlkm.build.fingerprint=samsung/a15nsxx/a15:12/SP1A.210812.016/A155FXXS1AXA4:user/release-keys
+ro.vendor_dlkm.build.id=SP1A.210812.016
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=A155FXXS1AXA4
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

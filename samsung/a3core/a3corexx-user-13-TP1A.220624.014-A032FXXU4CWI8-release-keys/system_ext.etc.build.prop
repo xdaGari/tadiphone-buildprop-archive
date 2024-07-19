@@ -1,0 +1,51 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=a3core
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-A032F
+ro.product.system_ext.name=a3corexx
+ro.system_ext.build.date=Wed Sep 20 21:13:45 KST 2023
+ro.system_ext.build.date.utc=1695212025
+ro.system_ext.build.fingerprint=samsung/a3corexx/a3core:13/TP1A.220624.014/A032FXXU4CWI8:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=A032FXXU4CWI8
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.system.component.label=13--230920
+ro.sprd.superresolution=0
+ro.sr.displaysize.defaultresolution=1
+ro.sr.displaysize.lowresolution=1
+ro.sprd.displayenhance=true
+ro.sprd.nightdisplay.enhance=true
+ro.media.recoderEIS.enabled=true
+ro.media.wfd.rgb.enabled=true
+ro.media.ssbranch.enabled=true
+ro.lmk.kill_timeout_ms=200
+ro.vendor.lmk.enable_kill_heaviest_task=false
+ro.sys.pwctl.ultrasaving=1
+ro.iorapd.enable=false
+ro.launcher.badge=true
+ro.product.assistanttouch=false
+persist.sys.support.vt=true
+persist.sys.csvt=false
+ro.telephony.se.enable=false
+# Removed by post_process_props.py because overridden by ro.telephony.se.enable=false
+#ro.telephony.se.enable?=true
+keyguard.no_require_sim=true
+ro.com.android.dataroaming=false
+ro.simlock.unlock.autoshow=1
+ro.simlock.unlock.bynv=0
+ro.simlock.onekey.lock=0
+persist.vendor.radio.mdrec.simpin.cache=1
+persist.nhmonitor.enable=off
+# end of file
+

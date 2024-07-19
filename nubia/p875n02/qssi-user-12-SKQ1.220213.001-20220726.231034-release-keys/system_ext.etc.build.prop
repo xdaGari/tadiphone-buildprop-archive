@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=nubia
+ro.product.system_ext.device=P875N02
+ro.product.system_ext.manufacturer=nubia
+ro.product.system_ext.model=NX667J
+ro.product.system_ext.name=CN_P875N02
+ro.system_ext.build.date=Tue Jul 26 23:10:48 CST 2022
+ro.system_ext.build.date.utc=1658848248
+ro.system_ext.build.fingerprint=nubia/CN_P875N02/P875N02:12/SKQ1.220213.001/20220726.231034:user/release-keys
+ro.system_ext.build.id=SKQ1.220213.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=20220726.231034
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=0
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

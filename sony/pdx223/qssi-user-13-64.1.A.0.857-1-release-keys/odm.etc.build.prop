@@ -1,0 +1,99 @@
+##### Overwrite prop values by composition #####
+ro.odm.build.id=64.1.A.0.857
+ro.product.odm.brand=Sony
+ro.odm.build.tags=release-keys
+ro.odm.build.fingerprint=Sony/pdx223/pdx223:12/SKQ1.220714.001/1:user/release-keys
+ro.odm.build.date=Thu Nov 17 21:24:07 JST 2022
+ro.odm.build.date.utc=1668687847
+import /mnt/oem/etc/customization/config.prop *
+
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.device=pdx223
+ro.product.odm.manufacturer=Sony
+ro.product.odm.model=Pdx223
+ro.product.odm.name=pdx223
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.type=user
+ro.odm.build.version.incremental=1
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=32
+####################################
+# from device/somc/nagara/odm.prop
+####################################
+#
+# platform specific part of odm.prop
+#
+# property to turn off CdmaLTEPhone always
+telephony.lteOnCdmaDevice=0
+# disable data roaming
+ro.com.android.dataroaming=false
+# Bluetooth address setting
+ro.vendor.bt.bdaddr_path=/data/vendor/etc/bluetooth_bdaddr
+# Touch
+sys.preactivated.smart_on_display=0
+sys.config_orientation=0
+sys.enable.doze_mode=0
+sys.enable_grip_rejection=0
+sys.enable.smart_on_doze=0
+# Setup Wizard
+ro.com.android.prov_mobiledata=false
+# Import sony customizations from config.prop
+import /odm/etc/customization/${ro.boot.hardware.sku}/config.prop
+# Customization. Set property so preloaded APKs in folder
+# "/data/preloads/file_cache" will be deleted by the system
+# when data partition is full.
+persist.sys.preloads.file_cache_expired=1
+# Enable Color-Gamut
+persist.vendor.display.colorgamut.mode=1
+persist.vendor.display.sspp_color_mode=1
+persist.vendor.display.opec_mode=0
+vendor.display.hmd_mode=0
+# RID010783
+ro.odm.service.fpscontroller.supported=true
+# RID012364
+persist.vendor.display.libhdr.enable_dyn_tm=0
+# PCC matrix default values : pcc[0].R,pcc[0].G,pcc[0].B,pcc[1].R,pcc[1].G,pcc[1].B
+persist.vendor.display.pcc_matrix=0.000000,0.000000,0.000000,0.000000,0.117647,0.235294
+# Enable SDR dimming for HWC
+vendor.display.disable_sdr_dimming=0
+vendor.display.force_tonemapping=1
+# Unsupported Audio Jack
+ro.vendor.audio.audio_jack_status=/sys/bus/platform/devices/wcd938x-codec/extcon/extcon3/state
+# Dolby Atmos
+ro.vendor.sony.effect.dolby_atmos=true
+####################################
+# from device/somc/pdx223/odm.prop
+####################################
+#
+# product common part of odm.prop
+#
+# Display
+vendor.enable.always_on_display=0
+# 4K for Youtube
+sys.display-size=3840x1644
+# Enable burn in protection
+sys.enable.burn_in=true
+####################################
+# from device/somc/pdx223/pdx223_generic/odm.prop
+####################################
+#
+# operator specific part of odm.prop
+#
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+persist.vendor.qcom.bluetooth.aac_abr_support=true
+persist.vendor.qcom.bluetooth.aptxadaptiver2_2_support=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

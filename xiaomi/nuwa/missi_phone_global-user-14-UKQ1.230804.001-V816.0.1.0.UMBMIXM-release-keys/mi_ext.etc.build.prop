@@ -1,0 +1,10 @@
+ro.miui.google.csp=true
+ro.product.mod_device=nuwa_global
+ro.miui.build.region=global
+ro.vendor.miui.support_esim=true
+ro.com.google.ime.system_lm_dir=product/usr/share/ime/google/d3_lms/
+ro.miui.customized_clientid=2
+ro.mi.os.version.publish=true
+ro.mi.os.version.code=1
+ro.mi.os.version.name=OS1.0
+ro.mi.os.version.incremental=OS1.0.1.0.UMBMIXM

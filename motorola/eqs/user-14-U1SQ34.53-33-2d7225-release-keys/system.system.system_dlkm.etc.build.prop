@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=motorola
+ro.product.system_dlkm.device=msi
+ro.product.system_dlkm.manufacturer=motorola
+ro.product.system_dlkm.model=XT2241-1
+ro.product.system_dlkm.name=eqs_cn
+ro.system_dlkm.build.date=Fri Jan 26 00:10:37 CST 2024
+ro.system_dlkm.build.date.utc=1706249437
+ro.system_dlkm.build.fingerprint=motorola/eqs_cn/msi:14/U1SQ34M.53-33/dc62e:user/release-keys
+ro.system_dlkm.build.id=U1SQ34M.53-33
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=dc62e
+ro.system_dlkm.build.version.release=14
+ro.system_dlkm.build.version.release_or_codename=14
+ro.system_dlkm.build.version.sdk=34
+# end of file
+

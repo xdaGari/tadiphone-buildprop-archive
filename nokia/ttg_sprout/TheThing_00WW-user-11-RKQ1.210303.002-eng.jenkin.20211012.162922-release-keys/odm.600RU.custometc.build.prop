@@ -1,0 +1,9 @@
+### create for oneimage 600RU
+ro.product.odm.brand=Nokia
+ro.product.odm.device=TTG
+ro.product.odm.manufacturer=HMD Global
+ro.product.odm.name=TheThing_00RU
+ro.product.vendor.device=TTG
+ro.product.vendor.name=TheThing_00RU
+import /odm/600RU/custometc/600RUfingerprint.prop
+

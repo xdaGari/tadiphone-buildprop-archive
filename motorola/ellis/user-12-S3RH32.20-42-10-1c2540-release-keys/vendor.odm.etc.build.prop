@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=motorola
+ro.product.odm.device=ellis
+ro.product.odm.manufacturer=motorola
+ro.product.odm.model=moto g pure
+ro.product.odm.name=ellis_retail
+ro.odm.product.cpu.abilist=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=
+ro.odm.build.date=Wed Sep 14 23:17:31 UTC 2022
+ro.odm.build.date.utc=1663197451
+ro.odm.build.fingerprint=motorola/ellis_retail/ellis:12/S3RH32.20-42-10/1c2540:user/release-keys
+ro.odm.build.id=S3RH32.20-42-10
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=1c2540
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

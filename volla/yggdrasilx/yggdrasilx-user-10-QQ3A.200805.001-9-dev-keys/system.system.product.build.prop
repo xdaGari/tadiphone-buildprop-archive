@@ -1,0 +1,8 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=default
+ro.config.ringtone=volla_ringtone.ogg
+ro.config.notification_sound=volla_notification.ogg
+ro.config.alarm_alert=volla_alarm.ogg

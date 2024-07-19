@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=qti
+ro.product.odm.device=sdm660_64
+ro.product.odm.manufacturer=QUALCOMM
+ro.product.odm.model=sdm660 for arm64
+ro.product.odm.name=sdm660_64
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Sat Jan  6 11:52:30 CST 2024
+ro.odm.build.date.utc=1704513150
+ro.odm.build.fingerprint=qti/sdm660_64/sdm660_64:13/S10A_123/zhangzy01061152:user/test-keys
+ro.odm.build.id=S10A_123
+ro.odm.build.tags=test-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=eng.zhangz.20240106.115454
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file

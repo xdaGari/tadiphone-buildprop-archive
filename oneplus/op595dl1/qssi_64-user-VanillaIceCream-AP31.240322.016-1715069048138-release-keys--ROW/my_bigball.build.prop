@@ -1,0 +1,9 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=GDPR_22877_OnePlus_ROW_NA
+ro.oplus.image.my_bigball.date=2024-04-29 23:39:21
+ro.oplus.image.my_bigball.date.utc=1714405161
+ro.oplus.image.my_bigball.version_name=my_bigball22877_1500_V.9.9999
+ro.oplus.rsa=rsa4-tier3
+persist.sys.radio.global_regionlock.allcheck=true
+ro.oplus.image.my_bigball.version=22877_1500_V.9.9999.2024042923355725003998.09b21810

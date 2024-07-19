@@ -1,0 +1,52 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=realme
+ro.product.system_ext.device=RE58C6
+ro.product.system_ext.manufacturer=realme
+ro.product.system_ext.model=ums9230_hulk_Natv
+ro.product.system_ext.name=RMX3761
+ro.system_ext.build.date=Sun Aug 13 17:53:55 CST 2023
+ro.system_ext.build.date.utc=1691920435
+ro.system_ext.build.fingerprint=realme/RMX3761/RE58C6:13/TP1A.220624.014/T.R4T2.1691917416:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=464
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+import /system_ext/build_${ro.boot.product.regionmark}.prop
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.system.component.label=13-realme/t/sprd/release/ums9230-230813
+ro.sprd.superresolution=1
+ro.sr.displaysize.defaultresolution=0
+ro.sr.displaysize.lowresolution=1
+ro.media.recoderEIS.enabled=true
+ro.media.wfd.rgb.enabled=true
+ro.sprd.pwctl.ultra.message=1
+ro.sys.pwctl.ultrasaving=1
+persist.device_config.runtime_native.usap_pool_enabled=false
+ro.launcher.multimode=true
+ro.launcher.dynamic=false
+ro.launcher.desktopgrid=true
+ro.launcher.notifbadge.count=true
+ro.product.assistanttouch=false
+persist.sys.support.vt=true
+persist.sys.csvt=false
+ro.telephony.se.enable=true
+keyguard.no_require_sim=true
+ro.com.android.dataroaming=false
+ro.simlock.unlock.autoshow=0
+ro.simlock.unlock.bynv=0
+ro.simlock.onekey.lock=0
+persist.vendor.radio.mdrec.simpin.cache=1
+persist.nhmonitor.enable=on
+persist.unipnp.clickboost=true
+ro.unipnp.switch=true
+ro.support_one_handed_mode=true
+persist.sys.bl.clearuserdata=true
+# end of file

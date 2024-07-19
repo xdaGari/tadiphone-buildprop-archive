@@ -1,0 +1,69 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=qti
+ro.product.system_ext.device=qssi
+ro.product.system_ext.manufacturer=QUALCOMM
+ro.product.system_ext.model=qssi system image for arm64
+ro.product.system_ext.name=qssi
+ro.system_ext.build.date=Fri Apr 15 04:15:29 CST 2022
+ro.system_ext.build.date.utc=1649967329
+ro.system_ext.build.fingerprint=qti/qssi-UN/qssi-UN:12/SKQ1.211113.001/eng.nubia.20220415.041941:user/release-keys
+ro.system_ext.build.id=SKQ1.211113.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.nubia.20220415.041941
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# Auto-added by post_process_props.py
+PRODUCT_SHIPPING_API_LEVEL=31
+# Auto-added by post_process_props.py
+persist.sys.country=US
+# Auto-added by post_process_props.py
+persist.sys.device.country=US
+# Auto-added by post_process_props.py
+persist.sys.devicename=REDMAGIC 7Pro
+# Auto-added by post_process_props.py
+persist.sys.gms.name=US
+# Auto-added by post_process_props.py
+persist.sys.language=en
+# Auto-added by post_process_props.py
+ro.apex.updatable=true
+# Auto-added by post_process_props.py
+ro.com.android.mobiledata=true
+# Auto-added by post_process_props.py
+ro.config.devicename=REDMAGIC 7Pro
+# Auto-added by post_process_props.py
+ro.nubia.device.recognition_screen=0
+# Auto-added by post_process_props.py
+ro.nubia.pre.fingerprint.enable=0
+# Auto-added by post_process_props.py
+ro.nubia.with.tencent.coop=0
+# Auto-added by post_process_props.py
+ro.product.device=NX709J-UN
+# Auto-added by post_process_props.py
+ro.product.first_api_level=31
+# Auto-added by post_process_props.py
+ro.product.name=NX709J-UN
+# Auto-added by post_process_props.py
+ro.com.google.clientidbase=android-zte
+# Auto-added by post_process_props.py
+ro.com.google.clientidbase.am=
+# Auto-added by post_process_props.py
+ro.com.google.clientidbase.ms=
+# Auto-added by post_process_props.py
+ro.com.google.clientidbase.wal=
+# Auto-added by post_process_props.py
+ro.com.google.gmsversion=12_202112
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

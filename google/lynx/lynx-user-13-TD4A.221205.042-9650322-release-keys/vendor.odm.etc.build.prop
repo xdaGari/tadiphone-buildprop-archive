@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=google
+ro.product.odm.device=lynx
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Pixel 7a
+ro.product.odm.name=lynx
+ro.odm.build.date=Fri Feb 24 06:46:02 UTC 2023
+ro.odm.build.date.utc=1677221162
+ro.odm.build.fingerprint=google/lynx/lynx:13/TD4A.221205.042/9650322:user/release-keys
+ro.odm.build.id=TD4A.221205.042
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=9650322
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+

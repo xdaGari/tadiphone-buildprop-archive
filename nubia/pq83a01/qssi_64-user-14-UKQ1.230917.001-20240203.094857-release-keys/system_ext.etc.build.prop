@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=nubia
+ro.product.system_ext.device=PQ83A01
+ro.product.system_ext.manufacturer=nubia
+ro.product.system_ext.model=NX721J
+ro.product.system_ext.name=PQ83A01-UN
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_ext.build.date=Sat Feb  3 09:49:27 CST 2024
+ro.system_ext.build.date.utc=1706924967
+ro.system_ext.build.fingerprint=nubia/PQ83A01-UN/PQ83A01:14/UKQ1.230917.001/20240203.094857:user/release-keys
+ro.system_ext.build.id=UKQ1.230917.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=20240203.094857
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

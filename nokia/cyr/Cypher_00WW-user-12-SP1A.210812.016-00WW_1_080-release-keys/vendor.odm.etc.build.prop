@@ -1,0 +1,37 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Nokia
+ro.product.odm.device=CYR
+ro.product.odm.manufacturer=HMD Global
+ro.linkedin.channel=HMD Global_PRELOAD
+ro.product.odm.model=Nokia C02
+ro.product.odm.name=Cypher_00WW
+ro.odm.product.cpu.abilist=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=
+ro.odm.build.date=Mon Feb 20 14:23:31 UTC 2023
+ro.odm.build.date.utc=1676903011
+ro.odm.build.fingerprint=Nokia/Cypher_00WW/CYR:12/SP1A.210812.016/00WW_1_080:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=00WW_1_080
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from device/sprd/sharkle/sp9832e_1h10_go/odm.prop
+####################################
+import /odm/${ro.boot.skuid}/etc/build.prop
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

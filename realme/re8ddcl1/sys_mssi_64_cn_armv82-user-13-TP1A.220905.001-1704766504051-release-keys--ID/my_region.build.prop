@@ -1,0 +1,11 @@
+# build porp start
+ro.oplus.image.my_region.type=ID_all
+ro.oplus.image.my_region.date=2023-11-21 04:08:32
+ro.oplus.image.my_region.date.utc=1700510912
+ro.oplus.image.my_region.version_name=X00ID00
+ro.oplus.pipeline.region=ID
+persist.sys.ocloud.url=https://ocloud-httpdns-sg.heytapmobile.com
+sys.oppo.nw.optimize=1
+ro.vendor.oplus.modemdump_enable=1
+persist.sys.ocloud.url=https://ocloud-httpdns-sg.heytapmobile.com
+ro.oplus.image.my_region.version=13.0.02331.2023112104004421716983.2ec5f05d

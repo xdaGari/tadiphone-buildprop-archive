@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Nokia
+ro.product.odm_dlkm.device=WVR_sprout
+ro.product.odm_dlkm.manufacturer=HMD Global
+ro.product.odm_dlkm.model=Nokia 2.4
+ro.product.odm_dlkm.name=Wolverine_00WW
+persist.radio.imei_ver=37
+ro.product.carriercustomization.version=202204190940
+ro.build.display.wtid=SW_T99651AA2_V210_M10_NF_NOKIA_Iris_USR_MP
+ro.vendor.build.display.wtid=SW_T99651AA2_V210_M10_NF_NOKIA_Iris_USR_MP
+ro.odm_dlkm.build.date=Wed Apr 20 11:19:03 UTC 2022
+ro.odm_dlkm.build.date.utc=1650453543
+ro.odm_dlkm.build.fingerprint=Nokia/Wolverine_00WW/WVR_sprout:12/SP1A.210812.016/00WW_3_210:user/release-keys
+ro.odm_dlkm.build.id=SP1A.210812.016
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=00WW_3_210
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

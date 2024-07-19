@@ -1,0 +1,47 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Xiaomi
+ro.product.odm.device=garnet
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=xiaomi for arm64
+ro.product.odm.cert=
+ro.product.odm.name=garnet
+ro.product.odm.marketname=garnet
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Tue Jun 11 09:33:28 UTC 2024
+ro.odm.build.date.utc=1718098408
+ro.odm.build.fingerprint=Xiaomi/garnet/garnet:12/SKQ1.230401.001/V816.0.9.0.UNRMIXM:user/release-keys
+ro.odm.build.id=SKQ1.230401.001
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=V816.0.9.0.UNRMIXM
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+ro.vendor.audio.karaoke.enable=true
+ro.vendor.audio.karaoke.enable=true
+ro.vendor.soundtrigger.dfs.support=1
+ro.vendor.audio.karaoke.suppot.lowlatency=true
+ro.vendor.nfc.wallet_fusion=1
+sys.haptic.device_type=agm
+persist.sys.miui.camera.quickcamera.supported=true
+persist.sys.miui.camera.boost.killAdj_threshold=251:200:100:50
+debug.game.video.support=true
+ro.hardware.fp.mievent=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+import /odm/etc/${ro.boot.product.hardware.sku}_build.prop
+import /odm/etc/${ro.boot.product.hardware.sku}_${ro.boot.hwversion}.prop
+# end of file
+

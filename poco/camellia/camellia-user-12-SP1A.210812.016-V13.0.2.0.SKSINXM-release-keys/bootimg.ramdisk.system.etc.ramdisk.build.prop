@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.device=camellia
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=M2103K19C
+ro.product.bootimage.name=camellia
+ro.product.bootimage.marketname=Redmi Note 10
+ro.bootimage.build.date=Thu Jun 16 21:41:29 CST 2022
+ro.bootimage.build.date.utc=1655386889
+ro.bootimage.build.fingerprint=Redmi/camellia/camellia:12/SP1A.210812.016/V13.0.2.0.SKSINXM:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V13.0.2.0.SKSINXM
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+ro.miui.product.home=com.miui.home
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

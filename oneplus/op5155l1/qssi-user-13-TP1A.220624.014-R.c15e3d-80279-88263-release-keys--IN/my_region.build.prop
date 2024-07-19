@@ -1,0 +1,11 @@
+# build porp start
+ro.oplus.image.my_region.type=IN_all
+ro.oplus.image.my_region.date=2022-10-17 22:12:52
+ro.oplus.image.my_region.date.utc=1666015972
+ro.oplus.image.my_region.version_name=X00IN00
+ro.oplus.pipeline.region=IN
+ro.vendor.oplus.radio.sar_regionmark=IN
+ro.oplus.radio.region_netlock_enable=true
+ro.oplus.radio.region_netlock_country=IN
+ro.vendor.oplus.modemdump_enable=1
+ro.oplus.image.my_region.version=13.0.02331.2022101722090711575871.09e52613

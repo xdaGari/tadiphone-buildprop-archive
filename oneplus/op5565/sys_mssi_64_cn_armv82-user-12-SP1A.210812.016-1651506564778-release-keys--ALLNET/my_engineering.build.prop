@@ -1,0 +1,7 @@
+# build prop start
+ro.oplus.image.my_engineering.date=2022-05-03 00:25:50
+ro.oplus.image.my_engineering.date.utc=1651508750
+# Auto-added by post_process_props.py
+ro.oplus.image.my_engineering.type=release
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_engineering.version=version_stub.2787fcd7

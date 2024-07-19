@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=asus
+ro.product.system_ext.device=ASUS_AI2401
+ro.product.system_ext.manufacturer=asus
+ro.product.system_ext.model=ASUS_AI2401
+ro.product.system_ext.name=WW_AI2401
+ro.product.brand_for_attestation=asus
+ro.product.device_for_attestation=ASUS_AI2401
+ro.product.manufacturer_for_attestation=asus
+ro.system_ext.build.date=Wed Apr 24 00:00:17 CST 2024
+ro.system_ext.build.date.utc=1713888017
+ro.system_ext.build.fingerprint=asus/WW_AI2401/ASUS_AI2401:14/UKQ1.231003.002/34.1420.1420.387-0:user/release-keys
+ro.system_ext.build.id=UKQ1.231003.002
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=34.1420.1420.387-0
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

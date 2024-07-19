@@ -1,0 +1,18 @@
+# build porp start
+ro.oplus.image.my_region.type=CN_all
+ro.oplus.image.my_region.date=2023-12-25 04:48:44
+ro.oplus.image.my_region.date.utc=1703450924
+ro.oplus.pipeline.region=CN
+ro.vendor.oplus.radio.cn_nvbk=TRUE
+ro.vendor.oplus.radio.cn_ims_register=true
+ro.vendor.oplus.radio.cn_use_3gpp2=true
+ro.vendor.oplus.radio.cn_use_nitz=true
+ro.vendor.oplus.modemdump_enable=1
+ro.vendor.oplus.radio.carrier_detect_mode=1
+persist.sys.oplus.radio.default_sa=true
+ro.oplus.ltw.domestic=true
+ro.oplus.radio.auto_nr_mode=3
+ro.oplus.radio.auto_nr_mode_sub=3
+ro.oplus.bpf.region.support=1
+persist.sys.ocloud.newurl=https://ostorage-ocloud-cn.allawntech.com
+ro.oplus.image.my_region.version=14.0.02341.2023122504043822445726.a444d402

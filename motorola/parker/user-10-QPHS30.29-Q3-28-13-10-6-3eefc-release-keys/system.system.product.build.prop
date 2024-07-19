@@ -1,0 +1,36 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=default
+ro.postinstall.fstab.prefix=/product
+ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html
+ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/privacy.html
+ro.com.google.rlzbrandcode=MOTC
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.android.prov_mobiledata=false
+ro.com.google.gmsversion=10_202005
+ro.com.google.ime.theme_id=4
+ro.gwfcactivation.disabled_carriers=1187,576,1962,1895,2020,1403,1404,2021,2008,1492,28,1839
+ro.mot.build.customerid=retail
+ro.product.property_source_order=product,product_services,odm,vendor,system
+#
+# PRODUCT OEM PROPERTIES OVERIDES
+#
+import /oem/oem.prop ro.product.product.brand
+import /oem/oem.prop ro.product.product.name
+import /oem/oem.prop ro.product.product.model
+import /oem/oem.prop ro.product.product.device
+import /oem/oem.prop ro.product.product.manufacturer
+import /oem/oem.prop ro.mot.build.customerid
+
+#
+# from device/moto/init/props/product.prop
+#
+import /product/etc/motorola/props/sku.${ro.boot.sku_variant}.prop
+import /product/etc/motorola/props/hardware.sku.${ro.boot.hardware.sku}.prop
+import /product/etc/motorola/props/carrier.${ro.boot.carrier}.prop
+# end of device/moto/init/props/product.prop
+

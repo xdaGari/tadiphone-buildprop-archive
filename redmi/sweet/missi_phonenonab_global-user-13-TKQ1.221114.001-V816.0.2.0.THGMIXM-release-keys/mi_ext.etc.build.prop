@@ -1,0 +1,7 @@
+ro.miui.google.csp=true
+ro.microsoft.onedrive_partner_code=/mi_ext/product/etc/onedrive_token.txt
+ro.product.mod_device=sweet_k6a_global
+ro.miui.build.region=global
+ro.mi.os.version.code=1
+ro.mi.os.version.name=OS1.0
+ro.mi.os.version.incremental=OS1.0.2.0.THGMIXM

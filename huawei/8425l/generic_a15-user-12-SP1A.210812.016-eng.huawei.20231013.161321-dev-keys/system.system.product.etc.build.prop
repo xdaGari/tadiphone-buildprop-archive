@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Huawei
+ro.product.product.device=generic_a15
+ro.product.product.manufacturer=unknown
+ro.product.product.model=generic_a15
+ro.product.product.name=generic_a15
+ro.product.build.date=Fri Oct 13 16:23:29 CST 2023
+ro.product.build.date.utc=1697185409
+ro.product.build.fingerprint=Huawei/generic_a15/generic_a15:12/SP1A.210812.016/huawei10131623:user/dev-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=dev-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=20231013161321
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=system
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=manufacture,adb
+# end of file

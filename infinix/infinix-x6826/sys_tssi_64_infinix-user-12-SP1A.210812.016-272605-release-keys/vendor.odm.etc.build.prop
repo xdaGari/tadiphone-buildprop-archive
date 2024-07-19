@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Infinix
+ro.product.odm.device=Infinix-X6826
+ro.product.odm.manufacturer=INFINIX
+ro.product.odm.model=Infinix X6826
+ro.product.odm.name=X6826-OP
+ro.product.odm.tran.device.name.default=
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Tue Mar 14 03:03:53 CST 2023
+ro.odm.build.date.utc=1678734233
+ro.odm.build.fingerprint=Infinix/X6826-OP/Infinix-X6826:12/SP1A.210812.016/230314V934:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=230314V934
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

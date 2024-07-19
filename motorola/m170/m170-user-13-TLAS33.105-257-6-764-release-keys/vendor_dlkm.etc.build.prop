@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=motorola
+ro.product.vendor_dlkm.device=m170
+ro.product.vendor_dlkm.manufacturer=motorola
+ro.product.vendor_dlkm.model=SabahLite
+ro.product.vendor_dlkm.name=m170
+ro.vendor_dlkm.build.date=Tue Jan 16 16:26:50 CST 2024
+ro.vendor_dlkm.build.date.utc=1705393610
+ro.vendor_dlkm.build.fingerprint=motorola/m170/m170:13/TLAS33.105-257-6/764:user/release-keys
+ro.vendor_dlkm.build.id=TLAS33.105-257-6
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=105-257-6
+ro.vendor.product.display=moto e13
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=33
+# end of file

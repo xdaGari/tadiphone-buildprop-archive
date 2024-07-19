@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Xiaomi
+ro.product.vendor_dlkm.device=cupid
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=2201123G
+ro.product.vendor_dlkm.cert=2201123G
+ro.product.vendor_dlkm.name=cupid_global
+ro.product.vendor_dlkm.marketname=Xiaomi 12
+ro.vendor_dlkm.build.date=Wed Sep 13 09:39:16 UTC 2023
+ro.vendor_dlkm.build.date.utc=1694597956
+ro.vendor_dlkm.build.fingerprint=Xiaomi/cupid_global/cupid:13/SKQ1.220303.001/V14.0.6.0.TLCMIXM:user/release-keys
+ro.vendor_dlkm.build.id=SKQ1.220303.001
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=V14.0.6.0.TLCMIXM
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

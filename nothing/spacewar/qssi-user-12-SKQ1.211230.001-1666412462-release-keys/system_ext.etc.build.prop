@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nothing
+ro.product.system_ext.device=Spacewar
+ro.product.system_ext.manufacturer=Nothing
+ro.product.system_ext.model=A063
+ro.product.system_ext.name=Spacewar
+ro.system_ext.build.date=Sat Oct 22 12:49:49 CST 2022
+ro.system_ext.build.date.utc=1666414189
+ro.system_ext.build.fingerprint=Nothing/Spacewar/Spacewar:12/SKQ1.211230.001/1666412462:user/release-keys
+ro.system_ext.build.id=SKQ1.211230.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=1666412462
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

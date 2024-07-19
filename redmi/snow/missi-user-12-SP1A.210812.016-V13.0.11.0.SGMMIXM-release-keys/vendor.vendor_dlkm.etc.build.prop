@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Redmi
+ro.product.vendor_dlkm.device=ice
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=ice
+ro.product.vendor_dlkm.name=ice_global
+ro.vendor_dlkm.build.date=Tue Oct 18 22:03:16 CST 2022
+ro.vendor_dlkm.build.date.utc=1666101796
+ro.vendor_dlkm.build.fingerprint=Redmi/ice_global/ice:12/SP1A.210812.016/V13.0.11.0.SGMMIXM:user/release-keys
+ro.vendor_dlkm.build.id=SP1A.210812.016
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=V13.0.11.0.SGMMIXM
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

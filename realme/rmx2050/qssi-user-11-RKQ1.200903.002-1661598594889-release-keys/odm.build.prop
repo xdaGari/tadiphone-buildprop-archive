@@ -1,0 +1,37 @@
+# build prop start
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+persist.vendor.radio.custom_ecc=0
+persist.vendor.ims.disableQXDMLogs=0
+persist.vendor.ims.disableADBLogs=0
+persist.vendor.ims.disableDebugLogs=0
+persist.vendor.ims.disableIMSLogs=0
+persist.vendor.ims.rtp.enableqxdm=3
+persist.vendor.ims.vt.enableadb=3
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.oplus.system.camera.name=com.oppo.camera
+ro.camera.hfr.enable=1
+ro.camera.portrait.blur.level.enable=1
+ro.separate.soft=20667
+ro.rom.featrue=allnet
+ro.product.authentication=0
+ro.oppo.market.name=realme narzo 20A
+ro.product.hw=brandon
+ro.sys.reserve.integrate=true
+ro.build.product=RMX2050
+ro.vendor.product.oem=RMX2050
+ro.vendor.product.device.oem=RMX2050
+ro.build.display.id=RMX2050_11_C.01
+ro.build.display.full_id=RMX2050_11_C.01_220827
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V11.1
+ro.build.kernel.id=4.14.180
+ro.build.device_family=OPSM6125
+ro.rf_version=TDD_FDD_CH_A_20667_QS
+gsm.lte.ca.support=0
+ro.oplus.image.odm.version=version_stub
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

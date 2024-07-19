@@ -1,0 +1,16 @@
+# build porp start
+ro.oplus.image.my_region.version=11.2.51.202103260000001416737
+ro.oplus.image.my_region.type=CN_OnePlus
+ro.oplus.image.my_region.date=2021-03-26 00:01:53
+ro.oplus.image.my_region.date.utc=1616688113
+ro.oplus.image.my_region.version_name=my_region1.0.1
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+persist.sys.timezone=Asia/Shanghai
+persist.sys.oppo.region=CN
+persist.sys.oplus.region=CN
+ro.vendor.oplus.regionmark=CN
+ro.vendor.oppo.version=cn
+ro.vendor.oplus.version=cn
+ro.sys.custom.permissioncontroller=true
+ro.vendor.oplus.radio.cn_nvbk=TRUE

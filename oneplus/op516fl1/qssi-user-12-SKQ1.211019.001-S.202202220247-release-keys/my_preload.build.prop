@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_preload.type=export_2084A_OnePlus
+ro.oplus.image.my_preload.date=2022-02-21 22:26:16
+ro.oplus.image.my_preload.date.utc=1645453576
+ro.oplus.preload.custom=2.0.41_US_P-US-TMOBILE-USKU
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_preload.version=0.0.1.202202212223215544050.5f3425b1

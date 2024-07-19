@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=qti
+ro.product.system_ext.device=qssi
+ro.product.system_ext.manufacturer=QUALCOMM
+ro.product.system_ext.model=qssi system image for arm64
+ro.product.system_ext.name=qssi
+ro.system_ext.build.date=Tue Dec 27 16:44:57 CST 2022
+ro.system_ext.build.date.utc=1672130697
+ro.system_ext.build.fingerprint=qti/qssi/qssi:13/TKQ1.220915.002/eng.nubia.20221114.110025:user/release-keys
+ro.system_ext.build.id=TKQ1.220915.002
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.nubia.20221114.110025
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file
+

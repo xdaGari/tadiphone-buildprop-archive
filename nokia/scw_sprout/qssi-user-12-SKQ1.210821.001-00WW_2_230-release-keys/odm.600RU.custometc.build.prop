@@ -1,0 +1,10 @@
+### create for oneimage 600RU
+ro.product.odm.brand=Nokia
+ro.product.odm.device=SCW
+ro.product.odm.manufacturer=HMD Global
+ro.product.odm.model=Nokia X10
+ro.product.odm.name=ScarletWitch_00RU
+ro.product.vendor.device=SCW
+ro.product.vendor.name=ScarletWitch_00RU
+import /odm/600RU/custometc/600RUfingerprint.prop
+

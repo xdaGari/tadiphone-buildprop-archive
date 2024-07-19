@@ -1,0 +1,9 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=GDPR_20847_OnePlus_EUEX_NA
+ro.oplus.image.my_bigball.date=2022-10-16 22:14:20
+ro.oplus.image.my_bigball.date.utc=1665929660
+ro.oplus.image.my_bigball.version_name=my_bigball20847.0.0
+ro.oplus.server_url_1=https://fourier-newds01-eu.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-eu.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.image.my_bigball.version=20847.0.0.2022101622045811544518.3cbd72ae

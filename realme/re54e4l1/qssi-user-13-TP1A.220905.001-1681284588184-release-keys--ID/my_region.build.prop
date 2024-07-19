@@ -1,0 +1,9 @@
+# build porp start
+ro.oplus.image.my_region.type=ID_all
+ro.oplus.image.my_region.date=2023-04-07 00:03:25
+ro.oplus.image.my_region.date.utc=1680797005
+ro.oplus.image.my_region.version_name=X00ID00
+ro.oplus.pipeline.region=ID
+sys.oppo.nw.optimize=1
+ro.vendor.oplus.modemdump_enable=1
+ro.oplus.image.my_region.version=13.0.02331.2023040700002616264392.6e7dbc9b

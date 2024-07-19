@@ -1,0 +1,7 @@
+### create for oneimage 600EEA
+ro.com.google.clientidbase=android-hmd
+ro.com.google.clientidbase.ms=android-hmd-rvo3
+ro.com.google.clientidbase.vs=android-hmd-rvo3
+ro.com.google.clientidbase.tx=android-hmd-rvo3
+import /product/600EEA/etc/fingerprint.prop
+

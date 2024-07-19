@@ -1,0 +1,19 @@
+# build porp start
+ro.build.release_type=false
+persist.sys.assert.panic=true
+persist.sys.assert.state=false
+persist.sys.assert.enabletip=0
+persist.sys.dump=1
+persist.sys.adbroot=1
+persist.sys.powerkeydump=1
+SPECIAL_OPPO_CONFIG=1
+persist.sys.log.main=50|70
+persist.sys.log.radio=20|10
+persist.sys.log.event=20|5
+persist.sys.log.kernel=50|30
+persist.sys.log.tcpdump=100|50
+persist.sys.log.user=0
+persist.sys.oppo.log.config=0
+ro.secure=0
+ro.adb.secure=0
+ro.debuggable=1

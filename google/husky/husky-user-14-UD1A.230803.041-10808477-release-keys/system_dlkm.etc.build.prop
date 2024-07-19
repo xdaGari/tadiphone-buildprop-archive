@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=google
+ro.product.system_dlkm.device=husky
+ro.product.system_dlkm.manufacturer=Google
+ro.product.system_dlkm.model=Pixel 8 Pro
+ro.product.system_dlkm.name=husky
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_dlkm.build.date=Thu Sep 14 10:57:19 UTC 2023
+ro.system_dlkm.build.date.utc=1694689039
+ro.system_dlkm.build.fingerprint=google/husky/husky:14/UD1A.230803.041/10808477:user/release-keys
+ro.system_dlkm.build.id=UD1A.230803.041
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=10808477
+ro.system_dlkm.build.version.release=14
+ro.system_dlkm.build.version.release_or_codename=14
+ro.system_dlkm.build.version.sdk=34
+# end of file
+

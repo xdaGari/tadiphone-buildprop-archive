@@ -1,0 +1,35 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=vivo
+ro.product.product.device=V2144
+ro.product.product.manufacturer=vivo
+ro.product.product.model=V2144
+ro.product.product.name=V2144
+ro.product.build.date=Wed Sep 21 23:27:50 CST 2022
+ro.product.build.date.utc=1663774070
+ro.product.build.fingerprint=vivo/V2144/V2144:12/SP1A.210812.003/compiler09212330:user/release-keys
+ro.product.build.id=SP1A.210812.003
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=compiler09212330
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.setupwizard.rotation_locked=true
+ro.setupwizard.wifi_on_exit=false
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_beta
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

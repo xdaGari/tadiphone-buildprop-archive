@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=oplus
+ro.product.bootimage.device=ossi
+ro.product.bootimage.manufacturer=oplus
+ro.product.bootimage.model=ossi
+ro.product.bootimage.name=ossi
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.bootimage.build.date=Thu Jan 25 15:24:42 CST 2024
+ro.bootimage.build.date.utc=1706167482
+ro.bootimage.build.fingerprint=oplus/ossi/ossi:14/UKQ1.230924.001/1706167482766:user/release-keys
+ro.bootimage.build.id=UKQ1.230924.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=1706167482766
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end of file

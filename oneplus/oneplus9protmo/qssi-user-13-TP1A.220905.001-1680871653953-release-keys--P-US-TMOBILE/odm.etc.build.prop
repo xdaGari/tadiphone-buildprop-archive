@@ -1,0 +1,4 @@
+import /odm/build.prop
+import /odm/etc/${ro.boot.prjname}/build.gsi.prop
+import /odm/etc/${ro.boot.prjname}/build.${ro.boot.flag}.prop
+import /mnt/vendor/my_product/etc/${ro.boot.prjname}/build.${ro.boot.flag}.prop

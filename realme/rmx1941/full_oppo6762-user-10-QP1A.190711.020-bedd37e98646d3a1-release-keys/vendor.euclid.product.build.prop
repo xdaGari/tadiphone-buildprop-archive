@@ -1,0 +1,44 @@
+# build porp start
+persist.bluetooth.disableabsvol=false
+persist.bluetooth.absvolume_support=true
+persist.vendor.bt.iotinfo.report.enable=true
+persist.sys.nfc.disPowerSave=1
+ro.product.brand=Realme
+ro.product.brand.sub=Realme
+ro.product.product.device=RMX1941
+ro.product.manufacturer=Realme
+ro.product.model=RMX1941
+ro.product.supported_versions=18540 18541 18542 18543 18545 18546 18547
+ro.build.version.ota=RMX1941EX_11.C.53_1530_202102012004
+ro.build.display.ota=RMX1941EX_11_C.53
+ro.build.version.google_patch=20210105
+ro.com.google.clientidbase=android-oppo
+ro.mediatek.platform=MT6785
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V7.2
+ro.build.kernel.id=4.14.141
+setupwizard.feature.baseline_setupwizard_enabled = true
+############################## Add OPPO Info Common Begin ##############################
+persist.sys.oem_smooth=1
+persist.sys.nw_lab_test=0
+persist.sys.cfu_auto=1
+persist.sys.nw_mbn_icon=0
+ro.vendor.mtk_sim_hot_swap_common_slot=1
+persist.vendor.entitlement_enabled=1
+############################## Add OPPO Info Common End ##############################
+ro.display.rc.size=74,74,74,74
+ro.lcd.backlight.txd_ili=11,971,15,344,520,819,1089,1355,1653,1800,2041,2047
+ro.lcd.backlight.ls_ili=11,971,15,344,520,819,1089,1355,1653,1800,2041,2047
+ro.lcd.backlight.hlt_hx=11,971,15,344,520,819,1089,1355,1653,1800,2041,2047
+ro.oppo.screen.heteromorphism=235,0:467,52
+persist.dirac.acs.controller=afm
+persist.dirac.afm.mode=global
+persist.dirac.acs.startAtBoot=3
+ro.dirac.poolsize=2
+ro.dirac.max_active.headset=5
+ro.dirac.acs.storeSettings=1
+ro.dirac.max_active.powersound=3
+ro.dirac.config=136
+persist.dirac.acs.ignore_error=1
+multimedia.audio.effect.type=dirac

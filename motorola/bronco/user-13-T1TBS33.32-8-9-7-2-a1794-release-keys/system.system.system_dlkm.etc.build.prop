@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=motorola
+ro.product.system_dlkm.device=msi
+ro.product.system_dlkm.manufacturer=motorola
+ro.product.system_dlkm.model=ThinkPhone by motorola
+ro.product.system_dlkm.name=bronco_g
+ro.system_dlkm.build.date=Thu Apr 20 13:24:39 CDT 2023
+ro.system_dlkm.build.date.utc=1682015079
+ro.system_dlkm.build.fingerprint=motorola/bronco_g/msi:13/T1TBS33M.32-8-9-7-2/1eb02:user/release-keys
+ro.system_dlkm.build.id=T1TBS33M.32-8-9-7-2
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=1eb02
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

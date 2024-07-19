@@ -1,0 +1,49 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Lenovo
+ro.product.product.device=mssi_tc423_64
+ro.product.product.manufacturer=LENOVO
+ro.product.product.model=TB301XU
+ro.product.product.name=sys_mssi_tc423_64
+ro.product.build.date=Wed Aug 30 00:53:15 CST 2023
+ro.product.build.date.utc=1693327995
+ro.product.build.fingerprint=Lenovo/TB301XU/TB301XU:13/TP1A.220624.014/S000083_230830_ROW:user/release-keys
+ro.product.build.id=TP1A.220624.014
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=TB301XU_USR_S000083_230830_MP1V1111_ROW
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=tablet
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.custom.build.version=TB301XU_S000083_230830_ROW
+ro.internal.build.version=TB301XU_USR_S000083_230830_MP1V1111_ROW
+persist.device_config.runtime_native.usap_pool_enabled=true
+persist.device_config.runtime_native.usap_pool_size_max=2
+ro.custom.build.version=TB301XU_S000083_230830_ROW
+ro.internal.build.version=TB301XU_USR_S000083_230830_MP1V1111_ROW
+persist.vendor.sys.mtk_app_aal_support=1
+ro.setupwizard.rotation_locked=false
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=13_202304
+setupwizard.feature.baseline_setupwizard_enabled=true
+setupwizard.phenotype_sync_timeout_ms=300000
+ro.custom.build.version=TB301XU_S000083_230830_ROW
+ro.internal.build.version=TB301XU_USR_S000083_230830_MP1V1111_ROW
+persist.device_config.runtime_native.usap_pool_enabled=true
+persist.device_config.runtime_native.usap_pool_size_max=2
+ro.custom.build.version=TB301XU_S000083_230830_ROW
+ro.internal.build.version=TB301XU_USR_S000083_230830_MP1V1111_ROW
+persist.vendor.sys.mtk_app_aal_support=1
+# end of file

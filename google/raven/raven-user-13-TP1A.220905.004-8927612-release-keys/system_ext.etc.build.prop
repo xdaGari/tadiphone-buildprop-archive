@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=raven
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 6 Pro
+ro.product.system_ext.name=raven
+ro.system_ext.build.date=Wed Aug 10 01:57:47 UTC 2022
+ro.system_ext.build.date.utc=1660096667
+ro.system_ext.build.fingerprint=google/raven/raven:13/TP1A.220905.004/8927612:user/release-keys
+ro.system_ext.build.id=TP1A.220905.004
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=8927612
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+# end of file
+

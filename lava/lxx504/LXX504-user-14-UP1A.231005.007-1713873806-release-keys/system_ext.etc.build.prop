@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=LAVA
+ro.product.system_ext.device=LXX504
+ro.product.system_ext.manufacturer=LAVA
+ro.product.system_ext.model=LAVA LXX504
+ro.product.system_ext.name=LXX504
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_ext.build.date=Tue Apr 23 19:43:26 CST 2024
+ro.system_ext.build.date.utc=1713872606
+ro.system_ext.build.fingerprint=LAVA/LXX504/LXX504:14/UP1A.231005.007/1713872606:user/release-keys
+ro.system_ext.build.id=UP1A.231005.007
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=1713872606
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file

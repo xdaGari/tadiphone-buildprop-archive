@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=samsung
+ro.product.odm.device=r11q
+ro.product.odm.manufacturer=samsung
+ro.product.odm.model=SM-S711U1
+ro.product.odm.name=r11quew
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Wed Apr  3 20:16:30 KST 2024
+ro.odm.build.date.utc=1712142990
+ro.odm.build.fingerprint=samsung/r11quew/r11q:12/SP1A.210812.016/S711U1UES3CXD2:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=S711U1UES3CXD2
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

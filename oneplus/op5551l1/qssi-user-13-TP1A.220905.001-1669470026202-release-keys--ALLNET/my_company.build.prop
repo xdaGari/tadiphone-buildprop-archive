@@ -1,0 +1,13 @@
+# build prop start
+ro.vendor.oplus.market.name=一加 Ace Pro 原神限定版
+ro.vendor.oplus.market.enname=OnePlus Ace Pro Genshin Impact
+ro.oplus.image.my_company.type=Ovaltine_YuanShen_OnePlus
+ro.oplus.image.my_company.date=2022-11-28 11:31:25
+ro.oplus.image.my_company.date.utc=1669606285
+ro.config.ringtone=ringtone_hutao.ogg
+ro.config.ringtone_sim2=ringtone_hutao.ogg
+ro.config.notification_sound=notification_hutao.ogg
+ro.config.notification_sms=sms_hutao.ogg
+ro.config.notification_sim2=sms_hutao.ogg
+ro.config.alarm_alert=alarm_hutao.ogg
+ro.oplus.image.my_company.version=13.0.21841.2022112811275812884196.e169e76c

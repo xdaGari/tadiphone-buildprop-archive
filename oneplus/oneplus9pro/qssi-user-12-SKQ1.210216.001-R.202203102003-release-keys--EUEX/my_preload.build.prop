@@ -1,0 +1,6 @@
+# build porp start
+ro.oplus.image.my_preload.type=GDPR_20858_OnePlus
+ro.oplus.image.my_preload.date=2022-03-10 03:17:48
+ro.oplus.image.my_preload.date.utc=1646853468
+ro.oplus.preload.custom=2.0.44_EUEX
+ro.oplus.image.my_preload.version=0.0.1.202203100200535942497.e5bfe77f

@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Teracube
+ro.product.odm.device=Teracube_2e
+ro.product.odm.manufacturer=Teracube
+ro.product.odm.model=Teracube 2e
+ro.product.odm.name=Teracube_2e
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Sat Apr 27 07:07:01 CEST 2024
+ro.odm.build.date.utc=1714194421
+ro.odm.build.fingerprint=Teracube/Teracube_2e/Teracube_2e:13/TQ3A.230805.001.B1/t0pr4emerniabsp:user/release-keys
+ro.odm.build.id=TQ3A.230805.001.B1
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=t0pr4emerniabsp
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+

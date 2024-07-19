@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=samsung
+ro.product.system_dlkm.device=essi
+ro.product.system_dlkm.manufacturer=samsung
+ro.product.system_dlkm.model=SM-E146B
+ro.product.system_dlkm.name=m14xins
+ro.system_dlkm.build.date=Mon Mar 27 16:19:38 KST 2023
+ro.system_dlkm.build.date.utc=1679901578
+ro.system_dlkm.build.fingerprint=samsung/m14xins/essi:13/TP1A.220624.014/E146BXXU1AWC5:user/release-keys
+ro.system_dlkm.build.id=TP1A.220624.014
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=E146BXXU1AWC5
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

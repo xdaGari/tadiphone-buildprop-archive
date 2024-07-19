@@ -1,0 +1,24 @@
+# build prop start
+ro.oplus.image.my_engineering.date=2022-07-01 11:58:31
+ro.oplus.image.my_engineering.date.utc=1656647911
+# Auto-added by post_process_props.py
+ro.oplus.image.my_engineering.type=release
+# build prop start
+persist.version.confidential=true
+ro.version.confidential=true
+ro.product.cputype=SDM670
+ro.product.ramsize=8G
+ro.product.romsize=128G
+ro.product.androidver=13
+ro.build.version.oplusrom=V12.1
+ro.build.kernel.id=4.9.80
+# Auto-added by post_process_props.py
+# Do not write image version and type prop for /my_engineering.confidential
+# build prop start
+ro.oplus.image.my_engineering.type=softwareconfidential
+ro.oplus.image.my_engineering.date=2022-07-01 11:58:31
+ro.oplus.image.my_engineering.date.utc=1656647911
+ro.version.softwareconfidential=true
+# Auto-added by post_process_props.py
+# Do not write image version and type prop for /my_engineering.softwareconfidential
+ro.oplus.image.my_engineering.version=version_stub.1fe5b9f3

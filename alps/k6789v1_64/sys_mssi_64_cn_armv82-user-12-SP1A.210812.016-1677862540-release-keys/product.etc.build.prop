@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=alps
+ro.product.product.device=k6789v1_64
+ro.product.product.manufacturer=alps
+ro.product.product.model=mssi_64_cn_armv82
+ro.product.product.name=vext_k6789v1_64
+ro.product.build.date=Sat Mar  4 00:54:18 CST 2023
+ro.product.build.date.utc=1677862458
+ro.product.build.fingerprint=alps/vext_k6789v1_64/k6789v1_64:12/SP1A.210812.016/1677862540:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=1677862540
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

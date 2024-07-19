@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=motorola
+ro.product.system_dlkm.device=devonn
+ro.product.system_dlkm.manufacturer=motorola
+ro.product.system_dlkm.model=moto g power 5G - 2023
+ro.product.system_dlkm.name=devonn_g_sys
+ro.system_dlkm.build.date=Sun Feb 26 02:08:52 CST 2023
+ro.system_dlkm.build.date.utc=1677398932
+ro.system_dlkm.build.fingerprint=motorola/devonn_g_sys/devonn:13/T1TO33M.33-45/b36f10:user/release-keys
+ro.system_dlkm.build.id=T1TO33M.33-45
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=b36f10
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

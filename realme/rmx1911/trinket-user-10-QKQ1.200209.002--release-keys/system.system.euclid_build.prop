@@ -1,0 +1,24 @@
+#
+# ADDITIONAL SYSTEM EUCLID PROPERTIES
+#
+ro.oppo.ad_test_sys=1
+ro.build.date.Ymd=210510
+ro.build.date.ymd=210510
+ro.build.date.YmdHM=202105101811
+ro.xxversion=V0.5
+ro.oppo.version=US
+persist.sys.timezone=America/New_York
+persist.sys.oppo.region=US
+ro.build.master.date=202105101811
+persist.sys.disable_rescue=true
+sys.oppo.hasPhysicalGyroscope=true
+persist.vendor.entitlement_enabled=0
+persist.sys.oem_smooth=1
+persist.sys.nw_lab_test=0
+persist.sys.cfu_auto=1
+persist.sys.nw_mbn_icon=0
+persist.sys.adddevdiag=0
+persist.vendor.radio.rat_on=combine
+persist.vendor.radio.poweron_opt=1
+persist.radio.hvolte.enable=1
+persist.vendor.radio.wait_for_pbm=1

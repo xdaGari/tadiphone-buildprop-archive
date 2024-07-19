@@ -1,0 +1,298 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=POCO
+ro.product.odm.device=peridot
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=24069PC21G
+ro.product.odm.name=peridot_global
+ro.product.odm.cert=24069PC21G
+ro.product.odm.marketname=POCO F6
+ro.product.model_for_attestation=24069PC21G
+ro.product.brand_for_attestation=POCO
+ro.product.name_for_attestation=peridot_global
+ro.product.device_for_attestation=peridot
+ro.product.manufacturer_for_attestation=Xiaomi
+ro.vendor.build.fingerprint=POCO/peridot_global/peridot:14/UKQ1.240116.001/V816.0.4.0.UNPMIXM:user/release-keys
+ro.odm.product.cpu.abilist=arm64-v8a
+ro.odm.product.cpu.abilist32=
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Thu May 23 14:46:54 UTC 2024
+ro.odm.build.date.utc=1716475614
+ro.odm.build.fingerprint=POCO/peridot_global/peridot:14/UKQ1.240116.001/V816.0.4.0.UNPMIXM:user/release-keys
+ro.odm.build.id=UKQ1.240116.001
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=V816.0.4.0.UNPMIXM
+ro.odm.build.version.release=14
+ro.odm.build.version.release_or_codename=14
+ro.odm.build.version.sdk=34
+####################################
+# from device/xiaomi/peridot/odm/special_ro.prop
+####################################
+# start
+ro.miui.support.light.fov=1
+####################################
+# from device/xiaomi/mivendor/common_ro.prop
+####################################
+# prop for app copy during installation
+ro.miui.pm.install.buffer.size=49152
+#logd buffer size
+ro.logd.size=2M
+#support dual wifi feature
+ro.vendor.net.enable_dual_wifi=1
+# adjust property source order to odm first
+ro.product.property_source_order=odm,vendor,product,system_ext,system
+# Set network mode to (NR_LTE_TDSCDMA_CDMA_EVDO_GSM_WCDMA, NR_LTE_TDSCDMA_CDMA_EVDO_GSM_WCDMA) for 8+8 mode device on DSDS mode
+ro.telephony.default_network=33,33
+####################################
+# from device/xiaomi/mivendor/common_rw.prop
+####################################
+#Add display-P3 support
+debug.config.video.p3.encode.support=true
+debug.config.video.p3.decode.support=true
+# add for videorecovery
+debug.video.recovery.killenable=true
+#add wifi sar property
+persist.vendor.wifi.interrupt_test_mode=true
+####################################
+# from device/xiaomi/peridot/odm/special_rw.prop
+####################################
+#enable ssr
+persist.vendor.ssr.restart_level=ALL_ENABLE
+#support battery health
+persist.vendor.battery.health=true
+persist.vendor.battery.health.optimise=true
+#enable extreme battery
+persist.vendor.extreme.mode=true
+#support low cutoff
+persist.vendor.low.cutoff=true
+#support sbms3.0 new display scheme of soh
+#persist.vendor.smart.battMntor=true
+#support smart charge engine 1 1110
+persist.vendor.smartchg=30
+#support dfs
+persist.vendor.tracking.dfs=true
+# support accelerate charge property
+persist.vendor.accelerate.charge=true
+#support moisture detection
+persist.vendor.moisture.detection=true
+#support high temp dialog
+persist.vendor.hightemp.notice=true
+#support sensor-dfx-n16t-collision
+persist.vendor.debug.collision.dfx=true
+# enable sar feature.
+persist.vendor.radio.dynamic_sar=1
+#camera wechat beauty
+persist.vendor.vcb.ability=true
+persist.vendor.vcb.enable=false
+#enable sensor event to onetrack
+persist.vendor.sensor.onetrack=true
+#enable device orient event to onetrack
+persist.vendor.sensor.deviceorient=true
+#enable sensor mis check
+persist.vendor.sensor.mischeck=true
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.product.first_api_level=34
+ro.product.board=peridot
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+ro.vendor.touchfeature.type=243
+persist.vendor.touchfeature.gameturbotool.version=v3
+ro.vendor.audio.spatializer.support.speaker=true
+vendor.audio.useXiaomiSpatializer=true
+audio.spatializer.pose_predictor_type=2
+audio.spatializer.prediction_duration_ms=50
+persist.vendor.audio.effectimplenter=dolby
+persist.vendor.audio.spatializer.enable=false
+ro.vendor.audio.dolby.spatial.profile=dynamic
+ro.vendor.audio.karaoke.enable=true
+ro.surface_flinger.enable_frame_rate_override=false
+ro.vendor.colorpick_adjust=true
+ro.vendor.all_modes.colorpick_adjust=true
+ro.vendor.display.type=oled
+ro.vendor.histogram.enable=true
+ro.vendor.bcbc.enable=true
+ro.vendor.dfps.enable=false
+ro.vendor.fps.switch.default=true
+ro.vendor.sre.enable=true
+ro.vendor.gcp.enable=1
+ro.vendor.localhbm.enable=true
+ro.vendor.video_box.version=2
+ro.vendor.soft_backlight.enable=true
+ro.vendor.display.nature_mode.enable=false
+ro.vendor.display.ai_disp.enable=false
+ro.vendor.standard.video.enable=true
+vendor.display.use_layer_ext=0
+ro.vendor.display.mi_calib.enable=true
+sys.displayfeature.entry.enable=true
+persist.vendor.dc_backlight.enable=false
+vendor.display.enable_fb_scaling=1
+ro.vendor.display.touch.idle.enable=true
+ro.vendor.display.idle_default_fps=60
+ro.vendor.display.fod_monitor_default_fps=120
+ro.vendor.fps.switch.thermal=true
+vendor.display.disable_3d_adaptive_tm=1
+ro.vendor.display.dolbyvision.support=true
+persist.vendor.disable_idle_fps=true
+persist.vendor.disable_idle_fps.threshold=1350
+vendor.display.disable_stc_dimming=1
+ro.vendor.display.skip_idle_for_90hz=true
+ro.vendor.mi_sf.skip_90hz_forVrrVote=true
+ro.vendor.display.standard_d75_enable=true
+ro.vendor.display.mode_change_optimize.enable=true
+vendor.perf.framepacing.window_apis=0x6
+ro.vendor.display.update_dbi_by_temperature=true
+ro.vendor.mi_sf.support_aidl_display_config=true
+vendor.display.boost_cpu_layer_number_threshold=10
+vendor.display.multi_display_boost_cpu=1
+sys.rhythmic_mode_default_level=50
+ro.vendor.display.dobly_dpu.enable=true
+ro.vendor.display.bl_lut_calib.enable=false
+ro.vendor.display.adaptive_hdr.enable=true
+vendor.display.disable_sdr_dimming=0
+vendor.display.support_function_timer=0
+ro.vendor.display.kernel_recoder_enable=false
+vendor.display.disable_dynamic_sf_idle=1
+vendor.display.disable_cwb_idle_fallback=1
+vendor.display.idle_time=80
+vendor.display.support_video_mode_30hz_aod=1
+ro.vendor.display.darkmode_dither.enable=true
+ro.vendor.mi_sf.support_source_p3_ProjectionScreen=true
+vendor.display.disable_llcc_during_aod=1
+ro.vendor.display.disable_update_systemUIFlag=true
+ro.vendor.display.video_or_camera_fps.support=true
+ro.vendor.display.set_fps_stat_timer_ms=250
+debug.sf.set_idle_timer_ms=1100
+vendor.display.force_tonemapping=1
+ro.vendor.audio.spatializer.support.speaker=true
+vendor.audio.useXiaomiSpatializer=true
+audio.spatializer.pose_predictor_type=2
+audio.spatializer.prediction_duration_ms=50
+persist.vendor.audio.effectimplenter=dolby
+persist.vendor.audio.spatializer.enable=false
+ro.vendor.audio.dolby.spatial.profile=dynamic
+ro.vendor.audio.karaoke.enable=true
+ro.vendor.audio.us.proximity=true
+ro.vendor.audio.elus.enable=true
+vendor.audio.ultrasound.stoplatency=60
+vendor.audio.ultrasound.usync=100
+ro.vendor.audio.us.proximity_waitfornegative_feature=true
+ro.vendor.audio.soundtrigger.xiaomievent=1
+ro.vendor.audio.soundtrigger.permian=1
+ro.vendor.audio.soundtrigger.wakeupword=3
+ro.vendor.audio.soundtrigger.snr=-100
+ro.vendor.audio.soundtrigger.sva-7.0=1
+ro.vendor.audio.soundtrigger.snr.enable=0
+ro.vendor.audio.camera.loopback.support=false
+ro.miui.audio.karaoke.suppot.lowlatency=true
+ro.vendor.audio.record.customized.support=true
+vendor.audio.mic.status=off
+ro.vendor.audio.aac.para.modify.support=true
+vendor.audio.compress_capture.aac.cut_off_freq=24000
+ro.vendor.audio.usb.safe.volume.index.support=true
+vendor.audio.dolby.control.support=true
+vendor.audio.rt.mode=19
+vendor.audio.rt.mode.onlyfast=false
+vendor.audio.cpu.sched=31
+vendor.audio.cpu.sched.cpuset.at=248
+vendor.audio.cpu.sched.cpuset.af=248
+vendor.audio.cpu.sched.cpuset.hb=248
+vendor.audio.cpu.sched.cpuset.hso=248
+vendor.audio.cpu.sched.cpuset.he=248
+vendor.audio.cpu.sched.cpus=8
+vendor.audio.cpu.sched.onlyfast=false
+persist.vendor.audio.fpsop.game.effect=true
+persist.vendor.audio.fpsop.game.effect.speaker=true
+ro.vendor.soundtrigger.dfs.support=1
+persist.vendor.audio.spf_restart=true
+ro.vendor.audio.fweffect=true
+ro.vendor.audio.aw.monitor=true
+ro.miui.allow_app_playbackcapture=true
+ro.hardware.wlan.vendor=qcom
+ro.hardware.wlan.chip=qca_cld3_qca6750
+ro.hardware.wlan.mimo=1
+ro.hardware.wlan.dbs=0
+ro.vendor.se.type=HCE,UICC
+ro.vendor.nfc.repair=1
+ro.vendor.nfc.dispatch_optim=2
+ro.vendor.nfc.disable.i2c=false
+ro.vendor.se.info=18-1010212
+ro.vendor.se.chip.model=SN220T
+ro.vendor.nfc.wallet_fusion=1
+ro.vendor.nfc.debounce_field_on=1
+ro.vendor.nfc.field_on_debounce=800
+ro.vendor.nfc.mibeam=1
+nfc.fw.is_downloading=false
+ro.odm.mm.vibrator.sys_path=/sys/bus/i2c/drivers/awinic_haptic/2-005a
+ro.odm.mm.vibrator.device_type=ff
+ro.odm.mm.vibrator.resonant_frequency=170
+ro.odm.mm.vibrator.slide_effect_protect_time=20
+ro.odm.mm.vibrator.si_sys_path=/sys/bus/i2c/drivers/sih_haptic_688X/2-006b
+ro.odm.mm.vibrator.device_type=ff
+sys.haptic.motor=linear
+sys.haptic.infinitelevel=true
+sys.haptic.dynamiceffect=true
+sys.haptic.dynamiceffect.richtap=true
+sys.haptic.down.weak=0
+sys.haptic.down.normal=2
+sys.haptic.down.strong=5
+sys.haptic.down=5,2
+sys.haptic.tap.normal=3,2
+sys.haptic.tap.light=5,2
+sys.haptic.flick=5,2
+sys.haptic.flick.light=7,2
+sys.haptic.switch=9,2
+sys.haptic.mesh.heavy=8,2
+sys.haptic.mesh.normal=5,2
+sys.haptic.mesh.light=5,1
+sys.haptic.long.press=0,1
+sys.haptic.popup.normal=6,2
+sys.haptic.popup.light=6,1
+sys.haptic.pickup=2,2
+sys.haptic.scroll.edge=7,0
+sys.haptic.trigger.drawer=2,0
+sys.haptic.hold=4,0
+sys.haptic.runin=13
+sys.haptic.intensityforkeyboard=true
+sys.haptic.version=2.0
+sys.haptic.boundary_spatial=0,2
+sys.haptic.boundary_time=1,2
+sys.haptic.button_large=2,2
+sys.haptic.button_middle=3,2
+sys.haptic.button_small=4,2
+sys.haptic.gear_light=5,2
+sys.haptic.gear_heavy=6,2
+sys.haptic.keyboard=7,2
+sys.haptic.alert=8,2
+sys.haptic.zaxis_switch=9,2
+ro.hardware.fp.fod=true
+persist.vendor.sys.fp.expolevel=0x88
+persist.vendor.sys.fp.fod.location.X_Y=505,2333
+persist.vendor.sys.fp.fod.size.width_height=210,210
+ro.hardware.fp.fod.location=low
+ro.hardware.fp.fod.touch.ctl.version=2.0
+ro.hardware.fp.fod.lowlight.lux.threshold=3
+ro.hardware.fp.fod.lowlight.brightness.threshold=411
+ro.hardware.fp.mievent=true
+ro.vendor.xiaomi.sr.support=true
+debug.game.video.support=true
+ro.vendor.media_performance_class=0
+ro.odm.build.media_performance_class=0
+debug.config.media.video.dolby_vision_suports=true
+debug.config.media.video.dolby_capture_supports=false
+vendor.wv.oemcrypto.debug.enable_prov40=true
+ro.camerax.extensions.enabled=false
+debug.video.codec.capability.apilevel=1
+debug.video.codec.capability.support=15357
+persist.sys.miui.camera.quickcamera.supported=true
+persist.sys.miui.camera.quickcamera.supported=true
+import /odm/etc/${ro.boot.product.hardware.sku}_${ro.boot.ptcountrycode}_build.prop
+import /odm/etc/${ro.boot.product.hardware.sku}_${ro.boot.hwversion}.prop
+# end of file
+

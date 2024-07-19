@@ -1,0 +1,8 @@
+# build porp start
+ro.oplus.image.my_carrier.type=ALLNET_all
+ro.oplus.image.my_carrier.date=2022-04-25 03:38:17
+ro.oplus.image.my_carrier.date.utc=1650829097
+ro.oplus.image.my_carrier.version_name=X00CNQW00
+ro.oplus.pipeline.carrier=ALLNET
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_carrier.version=12.1.02311.202204250202197063149.f65aa465

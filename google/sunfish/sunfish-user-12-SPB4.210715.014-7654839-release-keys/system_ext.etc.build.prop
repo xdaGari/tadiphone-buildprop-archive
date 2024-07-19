@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=sunfish
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 4a
+ro.product.system_ext.name=sunfish
+ro.system_ext.build.date=Wed Aug 18 20:26:00 UTC 2021
+ro.system_ext.build.date.utc=1629318360
+ro.system_ext.build.fingerprint=google/sunfish/sunfish:12/SPB4.210715.014/7654839:user/release-keys
+ro.system_ext.build.id=SPB4.210715.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=7654839
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

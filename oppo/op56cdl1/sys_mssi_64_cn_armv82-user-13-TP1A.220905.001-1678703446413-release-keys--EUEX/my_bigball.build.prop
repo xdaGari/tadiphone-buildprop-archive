@@ -1,0 +1,10 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=GDPR_22221_OPPO_EUEX_NA
+ro.oplus.image.my_bigball.date=2023-03-02 23:44:12
+ro.oplus.image.my_bigball.date.utc=1677771852
+ro.oplus.image.my_bigball.version_name=my_bigball22221.0.0
+ro.oplus.rsa=rsa4-tier3
+ro.oplus.server_url_1=https://fourier-newds01-eu.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-eu.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.image.my_bigball.version=22221_1300_T.0.0.2023030223361615367790.82fb8a46

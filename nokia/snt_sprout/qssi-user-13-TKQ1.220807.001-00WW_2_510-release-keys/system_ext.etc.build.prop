@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=SNT_sprout
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia XR21
+ro.product.system_ext.name=Sentry_00WW
+ro.system_ext.build.date=Fri May 17 16:20:57 UTC 2024
+ro.system_ext.build.date.utc=1715962857
+ro.system_ext.build.fingerprint=Nokia/Sentry_00WW/SNT_sprout:13/TKQ1.220807.001/00WW_2_510:user/release-keys
+ro.system_ext.build.id=TKQ1.220807.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.jenkin.20240517.162254
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file
+

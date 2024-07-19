@@ -1,0 +1,5 @@
+ro.omc.build.version=N975U1OYM7ZUKI
+ro.omc.build.id=46695398
+ro.omc.changetype=DATA_RESET_OFF,TRUE
+ro.simbased.changetype=XAA,SED
+ro.omc.disabler=FALSE

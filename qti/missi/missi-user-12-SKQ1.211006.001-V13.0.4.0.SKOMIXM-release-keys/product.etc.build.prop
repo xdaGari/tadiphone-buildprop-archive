@@ -1,0 +1,90 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=qti
+ro.product.product.device=missi
+ro.product.product.manufacturer=QUALCOMM
+ro.product.product.model=missi system image for arm64
+ro.product.product.cert=
+ro.product.product.name=missi
+ro.product.product.marketname=
+ro.product.build.date=Tue Apr 12 13:28:01 CST 2022
+ro.product.build.date.utc=1649741281
+ro.product.build.fingerprint=qti/missi/missi:12/SKQ1.211006.001/V13.0.4.0.SKOMIXM:user/release-keys
+ro.product.build.id=SKQ1.211006.001
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=V13.0.4.0.SKOMIXM
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=system,system_ext,product,vbmeta_system
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.miui.google.csp=true
+ro.miui.google.csp=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202112
+ro.com.google.ime.system_lm_dir=product/usr/share/ime/google/d3_lms/
+ro.com.google.acsa=true
+ro.miui.build.region=global
+ro.config.ringtone=MiRemix.ogg
+ro.config.notification_sound=WaterDrop_preview.ogg
+ro.config.alarm_alert=Fireflies.ogg
+ro.product.property_source_order=product,odm,vendor,system_ext,system
+vendor.audio_hal.period_size=192
+vendor.audio.tunnel.encode=false
+vendor.audio.offload.buffer.size.kb=32
+vendor.audio.offload.track.enable=false
+vendor.voice.path.for.pcm.voip=true
+vendor.audio.offload.multiaac.enable=true
+vendor.audio.offload.multiple.enabled=false
+vendor.audio.parser.ip.buffer.size=262144
+vendor.audio.flac.sw.decoder.24bit=true
+persist.vendor.bt.a2dp_offload_cap=sbc-aptx-aptxtws-aptxhd-aac-ldac
+vendor.audio.use.sw.alac.decoder=true
+vendor.audio.use.sw.ape.decoder=true
+vendor.audio.hw.aac.encoder=true
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=1
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+persist.sys.qseelogd=true
+ro.com.android.dataroaming=false
+persist.miui.density_v2=440
+debug.sf.disable_backpressure=1
+persist.sys.minfree_def=73728,92160,110592,154832,482560,579072
+persist.sys.minfree_6g=73728,92160,110592,258048,663552,903168
+persist.sys.minfree_8g=73728,92160,110592,387072,1105920,1451520
+persist.sys.miui_animator_sched.bigcores=4-6
+persist.sys.miui.sf_cores=4-7
+persist.vendor.display.miui.composer_boost=4-7
+persist.sys.minfree_def=73728,92160,110592,154832,482560,579072
+persist.sys.minfree_6g=73728,92160,110592,258048,663552,903168
+persist.sys.minfree_8g=73728,92160,110592,387072,1105920,1451520
+persist.sys.usap_pool_enabled=false
+persist.miui.extm.enable=1
+ro.miui.notch=1
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+import /product/etc/${ro.boot.product.hardware.sku}_build.prop
+# end of file
+

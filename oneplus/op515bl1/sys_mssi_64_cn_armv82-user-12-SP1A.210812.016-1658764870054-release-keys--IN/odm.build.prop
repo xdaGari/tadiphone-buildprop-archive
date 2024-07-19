@@ -1,0 +1,53 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.alwayson.enable=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.com.android.dataroaming=false
+persist.vendor.radio.telecom.vibrate=0
+ro.build.device_family=OPMT6893
+ro.soc.model=MT6893
+ro.soc.manufacturer=Mediatek
+ro.build.kernel.id=4.14.186
+ro.oplus.system.camera.name=com.oplus.camera
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=440
+ro.camera.portrait.blur.level.enable=1
+odm.dirac.path=/odm/etc/dirac
+persist.vendor.sys.pq.disp.ccorr.silky.brightness=1
+ro.camera.notify_nfc=1
+ro.separate.soft=20827
+ro.rom.featrue=allnet
+ro.vendor.product.oem=DN2101
+ro.vendor.product.device.oem=OP515B
+ro.commonsoft.ota=OP515BL1
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.oplusrom=V12.1
+ro.vendor.oplus.market.name=OnePlus Nord2 5G
+ro.build.display.id=DN2101_11_A.01
+ro.build.display.id_ims=DN2101_11_A.01_220726
+ro.mediatek.version.release=DN2101_11_A.01_220726
+ro.vendor.mediatek.version.release=DN2101_11_A.01_220726
+ro.sys.reserve.integrate=true
+persist.sys.obrain_obfuscate.enable=1
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+persist.sys.oplus.hybridswap_app_memcg=true
+ro.boot.product.hardware.sku=dsds
+ro.oplus.minidump.kernel.log.support=true
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=20827
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.45779a65

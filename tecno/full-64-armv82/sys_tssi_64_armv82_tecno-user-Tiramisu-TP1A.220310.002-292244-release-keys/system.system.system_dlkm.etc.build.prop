@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=TECNO
+ro.product.system_dlkm.device=FULL-64-ARMV82
+ro.product.system_dlkm.manufacturer=TECNO
+ro.product.system_dlkm.model=
+ro.product.system_dlkm.name=TSSI
+ro.system_dlkm.build.date=Thu May  5 12:56:27 CST 2022
+ro.system_dlkm.build.date.utc=1651726587
+ro.system_dlkm.build.fingerprint=TECNO/TSSI/FULL-64-ARMV82:Tiramisu/TP1A.220310.002/220505V36:user/release-keys
+ro.system_dlkm.build.id=TP1A.220310.002
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=220505V36
+ro.system_dlkm.build.version.release=12
+ro.system_dlkm.build.version.release_or_codename=Tiramisu
+ro.system_dlkm.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

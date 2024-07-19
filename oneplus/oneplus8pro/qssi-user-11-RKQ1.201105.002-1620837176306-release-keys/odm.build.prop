@@ -1,0 +1,30 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+persist.vendor.radio.custom_ecc=0
+ro.sf.lcd_density=640
+ro.separate.soft=19811
+ro.rom.featrue=allnet
+ro.product.authentication=2020CP6134
+ro.oppo.market.name=OnePlus 8 Pro
+ro.product.hw=AE008
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+ro.build.product=IN2020
+ro.vendor.product.oem=IN2020
+ro.vendor.product.device.oem=OnePlus8Pro
+ro.build.display.id=IN2020_11_A.01
+ro.build.display.full_id=IN2020_11_A.01_210513
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V11.2
+ro.build.kernel.id=4.19.125
+ro.com.google.clientidbase=android-oneplus
+ro.product.sar=1.7
+ro.vendor.oplus.audio.ozo.license=ee007
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=19811
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

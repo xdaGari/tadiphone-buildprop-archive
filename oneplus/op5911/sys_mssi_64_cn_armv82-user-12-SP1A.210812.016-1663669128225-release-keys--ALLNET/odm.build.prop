@@ -1,0 +1,66 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.alwayson.enable=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+persist.oplus.bt.em.adb.tool=true
+ro.netflix.bsp_rev=MTK6895-35027-1
+ro.com.android.dataroaming=false
+persist.vendor.radio.telecom.vibrate=0
+ro.build.device_family=OPMT6895
+ro.soc.model=MT6895
+ro.soc.manufacturer=Mediatek
+ro.build.kernel.id=5.10.66
+ro.oplus.system.camera.name=com.oplus.camera
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=440
+ro.camera.portrait.blur.level.enable=1
+ro.oplus.screenhole.border=9
+ro.separate.soft=22801
+ro.rom.featrue=allnet
+ro.product.authentication=2022CP5936
+ro.product.first_api_level=30
+ro.product.vndk.version=31
+ro.vendor.oplus.market.name=PGZ110
+ro.vendor.product.oem=PGZ110
+ro.vendor.product.device.oem=OP5911
+ro.commonsoft.ota=OP5911
+ro.odm.build.media_performance_class=30
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+persist.sys.obrain_obfuscate.enable=1
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.sys.reserve.integrate=true
+persist.sys.aging.2.0=true
+ro.oplus.fusionlight=true
+oplus.dex.tempcontrol=true
+dalvik.vm.heapgrowthlimit=384m
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.oplusrom=V12.1
+ro.build.version.oplusrom.confidential=V12.1
+ro.build.display.id=PGZ110_11_A.01
+ro.build.display.id_ims=PGZ110_11_A.01_220903
+ro.mediatek.version.release=PGZ110_11_A.01_220903
+ro.vendor.mediatek.version.release=PGZ110_11_A.01_220903
+ro.product.oplus.cpuinfo=MT6895Z/TC
+ro.boot.product.hardware.sku=dsds
+ro.product.cuptsm=ONEPLUS|ESE|01|02
+ro.camera.notify_nfc=1
+odm.dirac.path=/odm/etc/dirac
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=22801
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.eb93acc5

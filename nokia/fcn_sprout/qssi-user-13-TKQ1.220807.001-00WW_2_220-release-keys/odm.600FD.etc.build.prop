@@ -1,0 +1,5 @@
+### create for oneimage 600FD
+ro.product.odm.name=Falcon_00FD
+import /odm/600FD/etc/fingerprint.prop
+
+

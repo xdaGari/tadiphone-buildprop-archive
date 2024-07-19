@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=lge
+ro.product.system_ext.device=flashlmdd
+ro.product.system_ext.manufacturer=LGE
+ro.product.system_ext.model=LM-V500N
+ro.product.system_ext.name=flashlmdd_lao_com
+ro.system_ext.build.date=Thu Oct 27 12:21:53 KST 2022
+ro.system_ext.build.date.utc=1666840913
+ro.system_ext.build.fingerprint=lge/flashlmdd_lao_com/flashlmdd:12/SKQ1.211103.001/22300122594d9:user/release-keys
+ro.system_ext.build.id=SKQ1.211103.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=22300122594d9
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+telephony.active_modems.max_count=2
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
+####################################
+# import hw vari
+####################################
+import /system_ext/etc/${ro.boot.vendor.lge.product.name:-default}.prop
+

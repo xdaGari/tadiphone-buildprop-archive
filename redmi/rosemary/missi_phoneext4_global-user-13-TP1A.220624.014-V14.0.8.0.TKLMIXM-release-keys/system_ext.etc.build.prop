@@ -1,0 +1,42 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Xiaomi
+ro.product.system_ext.device=missi
+ro.product.system_ext.manufacturer=Xiaomi
+ro.product.system_ext.model=missi
+ro.product.system_ext.name=missi
+ro.system_ext.build.date=Sat Oct  7 08:24:45 UTC 2023
+ro.system_ext.build.date.utc=1696667085
+ro.system_ext.build.fingerprint=Xiaomi/missi/missi:13/TP1A.220624.014/V14.0.8.0.TKLMIXM:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=V14.0.8.0.TKLMIXM
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.sys.mcd_config_file=/system/etc/mcd_default.conf
+persist.sys.oom_crash_on_watchdog=true
+persist.sys.sysrqOnAnr_D_state=true
+persist.sys.miui_scout_enable=true
+ro.secureboot.devicelock=1
+ro.miui.block_device_path=/dev/block/bootdevice/by-name
+ro.miui.has_cust_partition=true
+persist.sys.debug.fdtrack_abort_threshold=4096
+persist.sys.debug.fdtrack_enable_threshold=2048
+persist.miui.extm.enable=1
+persist.miui.extm.version=3.0
+ro.miui.pm.install.speedinstall=/data/apk-tmp
+ro.malloc.impl=jemalloc
+ro.miui.remove_uri_80_flag=1
+persist.wm.enable_remote_keyguard_animation=0
+ro.surface_flinger.supports_background_blur=1
+ro.rom.zone=2
+ro.fota.oem=Xiaomi
+# end of file
+

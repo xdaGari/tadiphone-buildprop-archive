@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=samsung
+ro.product.vendor_dlkm.device=b5q
+ro.product.vendor_dlkm.manufacturer=samsung
+ro.product.vendor_dlkm.model=SM-F731U
+ro.product.vendor_dlkm.name=b5qsqw
+ro.vendor_dlkm.build.date=Wed Jul  5 19:57:55 KST 2023
+ro.vendor_dlkm.build.date.utc=1688554675
+ro.vendor_dlkm.build.fingerprint=samsung/b5qsqw/b5q:13/TP1A.220624.014/F731USQU1AWG3:user/release-keys
+ro.vendor_dlkm.build.id=TP1A.220624.014
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=F731USQU1AWG3
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=33
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

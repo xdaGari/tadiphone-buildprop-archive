@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_preload.type=export_19830_OnePlus_US_NA
+ro.oplus.image.my_preload.date=2022-11-02 17:37:29
+ro.oplus.image.my_preload.date.utc=1667381849
+ro.oplus.image.my_preload.version_name=my_preload_export_US_1645493495
+ro.oplus.preload.custom=2.0.46_US
+ro.oplus.image.my_preload.version=0.0.1.2022110217323612079186.9d5864db

@@ -1,0 +1,8 @@
+# build porp start
+ro.oplus.image.my_stock.type=domestic_Realme
+ro.oplus.image.my_stock.date=2022-08-11 10:09:35
+ro.oplus.image.my_stock.date.utc=1660183775
+ro.product.brand.ui=realmeUI
+sys.disable_bootvideo=1
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_stock.version=8.4.9.2.202208111005179831957.12c3f90a

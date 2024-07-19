@@ -1,0 +1,40 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Lenovo
+ro.product.product.device=TB125FU
+ro.product.product.manufacturer=LENOVO
+ro.product.product.model=Lenovo TB125FU
+ro.product.product.name=TB125FU
+ro.product.build.date=Wed Jun  8 17:27:29 CST 2022
+ro.product.build.date.utc=1654680449
+ro.product.build.fingerprint=Lenovo/TB125FU/TB125FU:12/SP1A.210812.016/S000070_220608_ROW:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=TB125FU_USR_S000070_2206081450_MP1RC_ROW
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=tablet
+ro.product.ab_ota_partitions=boot,system,vendor,vbmeta,vbmeta_system,vbmeta_vendor,preloader,md1img,spmfw,scp,sspm,lk,tee,dtbo,gz,product
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+ro.setupwizard.rotation_locked=false
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202201
+setupwizard.feature.baseline_setupwizard_enabled=true
+ro.netflix.channel=f3cc56c0-6ab5-11e8-b889-55952777bc6e
+ro.netflix.signup=1
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

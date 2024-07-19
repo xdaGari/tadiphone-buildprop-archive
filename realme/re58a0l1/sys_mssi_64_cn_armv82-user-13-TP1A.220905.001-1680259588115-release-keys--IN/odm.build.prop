@@ -1,0 +1,55 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.alwayson.enable=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+persist.vendor.radio.telecom.vibrate=0
+sys.oplus.pin_launcher_bytes=12582912
+ro.build.device_family=OPMT6833
+ro.soc.manufacturer=Mediatek
+ro.build.kernel.id=4.19.191
+ro.oplus.system.camera.name=com.oplus.camera
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=440
+ro.camera.portrait.blur.level.enable=1
+ro.oplus.screenhole.border=16
+ro.vendor.oplus.camera.isHasselbladCamera=0
+ro.vendor.oplus.camera.isSupportExplorer=0
+ro.vendor.oplus.camera.backCamSize=64MP+2MP+2MP
+ro.vendor.oplus.camera.frontCamSize=16MP
+ro.separate.soft=216A0
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+ro.vendor.oplus.market.name=RMX3381
+ro.build.product=RMX3381
+ro.vendor.product.oem=RMX3381
+ro.vendor.product.device.oem=RE58A0L1
+ro.com.google.clientidbase=android-oppo
+persist.sys.oplus.nandswap.condition=true
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.display.id=RMX3381_11_A.01
+ro.build.display.id_ims=RMX3381_11_A.01_230331
+ro.mediatek.version.release=RMX3381_11_A.01_230331
+ro.vendor.mediatek.version.release=RMX3381_11_A.01_230331
+ro.lmk.limit_killing_array_kb=2097152,2097152,1258291,665600
+ro.boot.product.hardware.sku=dsds
+ro.camera.notify_nfc=1
+ro.product.cuptsm=REALME|ESE|01|02
+ro.oplus.nfc.support.tee=true
+ro.oplus.minidump.kernel.log.support=true
+odm.dirac.path=/odm/etc/dirac
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=216A0
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+ro.oplus.image.odm.version=version_stub.b04a1639

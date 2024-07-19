@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=PHR_sprout
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia G50
+ro.product.system_ext.name=Punisher_00WW
+ro.system_ext.build.date=Wed Jun 14 13:10:53 UTC 2023
+ro.system_ext.build.date.utc=1686748253
+ro.system_ext.build.fingerprint=Nokia/Punisher_00WW/PHR_sprout:13/TKQ1.220807.001/00WW_3_320:user/release-keys
+ro.system_ext.build.id=TKQ1.220807.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.jenkin.20230614.131238
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

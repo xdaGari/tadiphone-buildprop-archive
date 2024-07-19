@@ -1,0 +1,8 @@
+# build porp start
+ro.oplus.image.my_heytap.version=11.2.0.202105101745071796799
+ro.oplus.image.my_heytap.type=domestic
+ro.oplus.image.my_heytap.date=2021-05-10 17:48:17
+ro.oplus.image.my_heytap.date.utc=1620640097
+ro.sys.heytap.test_version=cn
+ro.vendor.heytap.test_version=cn
+ro.com.google.gmsversion=11_202103

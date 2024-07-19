@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=beyondx
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-G977N
+ro.product.system_ext.name=beyondxks
+ro.system_ext.build.date=Mon Nov 29 16:10:30 KST 2021
+ro.system_ext.build.date.utc=1638169830
+ro.system_ext.build.fingerprint=samsung/beyondxks/beyondx:12/SP1A.210812.016/G977NKSU6ZUKI:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=G977NKSU6ZUKI
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

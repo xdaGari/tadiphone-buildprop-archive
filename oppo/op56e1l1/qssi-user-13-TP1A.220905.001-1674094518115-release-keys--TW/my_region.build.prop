@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_region.type=TW_all
+ro.oplus.image.my_region.date=2023-01-03 14:13:57
+ro.oplus.image.my_region.date.utc=1672726437
+ro.oplus.image.my_region.version_name=X00TW00
+ro.oplus.pipeline.region=TW
+ro.oplus.image.my_region.version=13.0.02331.2023010314095213908694.494ae719

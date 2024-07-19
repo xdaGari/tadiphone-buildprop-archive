@@ -1,0 +1,5 @@
+ro.miui.google.csp=true
+ro.product.mod_device=gale_mx_tc_global
+ro.miui.customized.region=mx_telcel
+ro.miui.build.region=global
+ro.vendor.imeisv=01

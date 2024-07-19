@@ -1,0 +1,55 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=asus
+ro.product.product.device=ASUS_AI2203
+ro.product.product.manufacturer=asus
+ro.product.product.model=ASUS_AI2203_D
+ro.product.product.name=WW_AI2203
+ro.product.build.date=Thu Oct 20 17:20:26 CST 2022
+ro.product.build.date.utc=1666257626
+ro.product.build.fingerprint=asus/WW_AI2203/ASUS_AI2203:12/SP1A.210812.016/31.0840.0840.42:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=31.0840.0840.42
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+asus.app-prebuilt.tools=true
+asus.app-prebuilt.config=true
+asus.app-prebuilt.xrom=false
+asus.app-prebuilt.data=true
+asus.app-prebuilt.release=true
+ro.com.google.clientidbase=android-asus
+ro.com.google.clientidbase.ms=android-asus
+ro.com.google.lens.oem_camera_package=com.asus.camera
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+setupwizard.feature.deferred_setup_suggestion=false
+ro.com.google.ime.key_border=false
+ro.com.google.gmsversion=12_202204
+persist.sys.onehandctrl.enable=1
+ro.support_one_handed_mode=true
+persist.sys.godoverlay.enable=1
+persist.sys.fpsctrl.enable=1
+persist.sys.autofps.mode=1
+ro.surface_flinger.set_idle_timer_ms=1500
+ro.surface_flinger.set_touch_timer_ms=1500
+ro.surface_flinger.enable_frame_rate_override=1
+debug.sf.frame_rate_multiple_threshold=120
+persist.sys.thermal_policy_update=1
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

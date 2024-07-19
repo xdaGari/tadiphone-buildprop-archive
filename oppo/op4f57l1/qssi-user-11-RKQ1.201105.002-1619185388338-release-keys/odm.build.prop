@@ -1,0 +1,31 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+ro.oplus.system.camera.name=com.oppo.camera
+ro.separate.soft=20311
+ro.build.kernel.id=5.4.61
+ro.vendor.product.oem=CPH2173
+ro.vendor.product.device.oem=OP4F57L1
+ro.commonsoft.ota=OP4F57L1
+ro.com.google.clientidbase=android-oppo
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V11.2
+ro.oppo.market.name=CPH2173
+ro.build.display.id=CPH2173_11_A.01
+ro.build.display.full_id=CPH2173_11_A.01_210423
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.facebook.partnerid=oppo:de8df4f5-bc34-4319-892c-cdf507e7e268
+ro.oplus.support_gota=OPG03_jp_kdi
+ro.product.sar=1.7
+ro.oplus.radio.project=1
+ro.vendor.oplus.audio.ozo.license=x3_x3pro
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=20311
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

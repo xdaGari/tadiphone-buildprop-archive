@@ -1,0 +1,7 @@
+ro.product.mod_device=sky_in_global
+ro.miui.build.region=in
+ro.miui.customized_clientid=2
+ro.mi.os.version.publish=true
+ro.mi.os.version.code=1
+ro.mi.os.version.name=OS1.0
+ro.mi.os.version.incremental=OS1.0.1.0.UMWINXM

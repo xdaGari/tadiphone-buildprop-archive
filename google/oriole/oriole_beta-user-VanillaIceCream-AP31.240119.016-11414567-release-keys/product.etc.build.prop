@@ -1,0 +1,110 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=google
+ro.product.product.device=oriole
+ro.product.product.manufacturer=Google
+ro.product.product.model=Pixel 6
+ro.product.product.name=oriole_beta
+ro.product.name_for_attestation=oriole
+ro.product.build.date=Wed Feb  7 00:47:39 UTC 2024
+ro.product.build.date.utc=1707266859
+ro.product.build.fingerprint=google/oriole_beta/oriole:VanillaIceCream/AP31.240119.016/11414567:user/release-keys
+ro.product.build.id=AP31.240119.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=11414567
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=VanillaIceCream
+ro.product.build.version.sdk=34
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.build.16k_page.enabled=false
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=abl,bl1,bl2,bl31,boot,dtbo,gsa,ldfw,modem,pbl,product,system,system_ext,tzsw,vbmeta,vbmeta_system,vbmeta_vendor,vendor,vendor_boot,vendor_dlkm
+ro.product.cpu.pagesize.max=4096
+ro.dalvik.vm.enable_uffd_gc=true
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+persist.radio.reboot_on_modem_change=false
+persist.vendor.ril.camp_on_earlier=1
+bluetooth.device.class_of_device=90,2,12
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.bas.client.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+bluetooth.profile.sap.server.enabled=true
+persist.bluetooth.bqr.event_mask=30
+persist.bluetooth.bqr.min_interval_ms=500
+persist.sys.fuse.passthrough.enable=true
+ro.postinstall.fstab.prefix=/product
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+persist.vendor.testing_battery_profile=2
+masterclear.allow_retain_esim_profiles_after_fdr=true
+ro.thermal_warmreset=true
+ro.preventative_fsck=1
+persist.bluetooth.a2dp_aac.vbr_supported=true
+persist.bluetooth.firmware.selection=BCM.hcd
+ro.vendor.vibrator.hal.long.frequency.shift=15
+ro.vendor.vibrator.hal.device.mass=0.205
+ro.vendor.vibrator.hal.loc.coeff=2.25
+persist.vendor.vibrator.hal.chirp.enabled=0
+ro.com.google.ime.kb_pad_port_b=10
+ro.support_hide_display_cutout=true
+persist.vendor.fingerprint.disable.fake.override=none
+ro.support_one_handed_mode=true
+vendor.audio.hapticgenerator.distortion.output.gain=0.5
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+persist.bluetooth.opus.enabled=true
+ro.quick_start.oem_id=00e0
+ro.quick_start.device_id=oriole
+# Removed by post_process_props.py because overridden by ro.config.alarm_alert=Fresh_start.ogg
+#ro.config.alarm_alert?=Bright_morning.ogg
+# Removed by post_process_props.py because overridden by ro.config.notification_sound=Eureka.ogg
+#ro.config.notification_sound?=Popcorn.ogg
+# Removed by post_process_props.py because overridden by ro.config.ringtone=Your_new_adventure.ogg
+#ro.config.ringtone?=The_big_adventure.ogg
+ro.opa.eligible_device=true
+ro.atrace.core.services=com.google.android.gms,com.google.android.gms.ui,com.google.android.gms.persistent
+ro.com.android.dataroaming=false
+ro.com.google.clientidbase=android-google
+ro.error.receiver.system.apps=com.google.android.gms
+ro.setupwizard.enterprise_mode=1
+ro.setupwizard.esim_cid_ignore=00000001
+setupwizard.feature.baseline_setupwizard_enabled=true
+setupwizard.feature.enable_gil=
+setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false
+setupwizard.feature.skip_button_use_mobile_data.carrier1839=true
+setupwizard.theme=glif_v4_light
+aoj.feature.contract=
+aoj.feature.node_logging=
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+setupwizard.feature.show_pixel_tos=true
+ro.storage_manager.show_opt_in=false
+setupwizard.feature.show_support_link_in_deferred_setup=false
+setupwizard.feature.enable_wifi_tracker=true
+ro.carriersetup.vzw_consent_page=true
+setupwizard.feature.day_night_mode_enabled=true
+setupwizard.feature.portal_notification=true
+setupwizard.feature.lifecycle_refactoring=true
+setupwizard.feature.notification_refactoring=true
+ro.config.alarm_alert=Fresh_start.ogg
+ro.config.notification_sound=Eureka.ogg
+ro.config.ringtone=Your_new_adventure.ogg
+ro.vendor.camera.extensions.package=com.google.android.apps.camera.services
+ro.vendor.camera.extensions.service=com.google.android.apps.camera.services.extensions.service.PixelExtensions
+# end of file
+

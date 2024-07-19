@@ -1,0 +1,56 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Nokia
+ro.product.product.device=WVR_sprout
+ro.product.product.manufacturer=HMD Global
+ro.product.product.model=Nokia 2.4
+ro.product.product.name=Wolverine_00WW
+persist.radio.imei_ver=37
+ro.product.carriercustomization.version=202204190940
+ro.build.display.wtid=SW_T99651AA2_V210_M10_NF_NOKIA_Iris_USR_MP
+ro.vendor.build.display.wtid=SW_T99651AA2_V210_M10_NF_NOKIA_Iris_USR_MP
+ro.product.build.date=Wed Apr 20 11:19:03 UTC 2022
+ro.product.build.date.utc=1650453543
+ro.product.build.fingerprint=Nokia/Wolverine_00WW/WVR_sprout:12/SP1A.210812.016/00WW_3_210:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=00WW_3_210
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from device/hmd/T99651/product.prop
+####################################
+import /product/${ro.boot.skuid}/prop/build.prop
+import /product/${ro.boot.skuid}/prop/fingerprint.prop
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor,product,hmd_custom_amx,product,preloader,gz,logo,md1img,spmfw,scp,sspm,lk,dtbo,tee,vbmeta,vbmeta_system,vbmeta_vendor,wt_custom
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202111
+setupwizard.feature.baseline_setupwizard_enabled=true
+ro.com.google.lens.oem_image_package=com.hmdglobal.app.camera
+ro.opa.device_model_id=hmd2019products-wolverine-5gca8b
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+ro.netflix.channel=a0936ad0a17611eab9d55b5e87136a35
+ro.netflix.signup=1
+ro.config.ringtone=NokiaTune.ogg
+ro.config.ringtone_sim2=NokiaTune.ogg
+ro.config.notification_sound=NokiaMessage01.ogg
+ro.config.alarm_alert=NokiaAlarmClock.ogg
+ro.config.ringtone_battery_full=Timer.ogg
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

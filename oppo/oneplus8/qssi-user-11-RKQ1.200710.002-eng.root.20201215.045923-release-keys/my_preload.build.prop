@@ -1,0 +1,6 @@
+# build porp start
+ro.oplus.image.my_preload.type=domestic_19821_OPPO
+ro.oplus.image.my_preload.version=0.0.1.20201215003708.519964
+ro.oplus.image.my_preload.date=2020-12-15 00:44:27
+ro.oplus.image.my_preload.date.utc=1607964267
+ro.oplus.preload.custom=1.2.35-CN

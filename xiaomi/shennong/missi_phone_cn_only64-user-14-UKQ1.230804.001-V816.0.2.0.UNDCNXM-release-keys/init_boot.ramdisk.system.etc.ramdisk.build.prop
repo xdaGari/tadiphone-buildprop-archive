@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=shennong
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=23116PN5BC
+ro.product.bootimage.name=shennong
+ro.product.bootimage.cert=23116PN5BC
+ro.product.bootimage.marketname=Xiaomi 14 Pro
+ro.bootimage.build.date=Fri Jan 26 11:35:39 UTC 2024
+ro.bootimage.build.date.utc=1706268939
+ro.bootimage.build.fingerprint=Xiaomi/shennong/shennong:14/UKQ1.230804.001/V816.0.2.0.UNDCNXM:user/release-keys
+ro.bootimage.build.id=UKQ1.230804.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V816.0.2.0.UNDCNXM
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end of file
+

@@ -1,0 +1,53 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.build.device_family=OPSM8450
+qemu.hw.mainkeys=0
+ro.product.oplus.cpuinfo=SM8450
+ro.build.kernel.id=5.10.81
+ro.soc.model=SM8450
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+ro.vendor.qti.va_odm.support=1
+ro.netflix.bsp_rev=Q8450-34634-1
+ro.com.android.dataroaming=false
+oplus.software.camera.10bit=1
+ro.separate.soft=216AC
+ro.build.product=RMX3301
+ro.vendor.product.oem=RMX3301
+ro.vendor.product.device.oem=RED8AC
+ro.vendor.oplus.market.name=RMX3301
+ro.sys.reserve.integrate=true
+ro.product.authentication=0
+ro.product.manufacturer=realme
+ro.product.brand=realme
+persist.sys.aging.2.0=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.facebook.partnerid=oppo:de8df4f5-bc34-4319-892c-cdf507e7e268
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.display.id=RMX3301_11_A.01
+ro.build.display.full_id=RMX3301_11_A.01_220507
+persist.sys.oplus.dex2oat_current=true
+persist.sys.oplus.dex2oat_level=3
+oplus.dex.tempcontrol=true
+ro.product.sar=1.7
+ro.vendor.oplus.radio.project=1
+persist.sys.oplus.wifi.sla.game_high_temperature=43
+ro.vendor.oplus.audio.ozo.license=x3_x3pro
+vendor.display.primary_mixer_stages=9
+vendor.display.disable_spec_fence=1
+vendor.display.disable_noise_layer=1
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=216AC
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.4851c8da

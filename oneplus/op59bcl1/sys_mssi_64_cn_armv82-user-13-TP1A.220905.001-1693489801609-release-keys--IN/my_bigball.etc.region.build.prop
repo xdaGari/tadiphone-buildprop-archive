@@ -1,0 +1,16 @@
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+adjust.preinstall.path=/data/etc/appchannel/adjust.preinstall
+io.branch.preinstall.apps.path=/data/etc/appchannel/pre_install_apps.branch
+ro.trackingId.com.lzd.appid=/data/etc/appchannel/lazadaChannel.txt
+ro.trackingId.com.arise.appid=/data/etc/appchannel/ariseChannel.txt
+ro.oem.key1=IN
+ro.com.google.clientidbase=android-oneplus
+ro.com.google.clientidbase.tx=android-oneplus-terr1-rso3
+ro.com.google.clientidbase.ms=android-oneplus-terr1-rso3
+ro.com.google.clientidbase.vs=android-oneplus-terr1-rso3
+ro.com.google.clientidbase.pg=android-oneplus-deo3
+persist.sys.timezone=America/New_York
+persist.sys.oplus.region=IN
+ro.vendor.oplus.regionmark=IN
+ro.vendor.oplus.version=pu

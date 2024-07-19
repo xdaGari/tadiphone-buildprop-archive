@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=google
+ro.product.vendor_dlkm.device=monaco
+ro.product.vendor_dlkm.manufacturer=QUALCOMM
+ro.product.vendor_dlkm.model=Dialga
+ro.product.vendor_dlkm.name=monaco
+ro.vendor_dlkm.build.date=Mon Feb 19 11:53:40 CST 2024
+ro.vendor_dlkm.build.date.utc=1708314820
+ro.vendor_dlkm.build.fingerprint=google/monaco/monaco:13/TWR7.231113.001/455:user/release-keys
+ro.vendor_dlkm.build.id=TWR7.231113.001
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=455
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=33
+# end of file

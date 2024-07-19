@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=POCO
+ro.product.odm_dlkm.device=xaga
+ro.product.odm_dlkm.manufacturer=Xiaomi
+ro.product.odm_dlkm.model=xaga
+ro.product.odm_dlkm.name=xaga_eea
+ro.product.odm_dlkm.marketname=xaga
+ro.odm_dlkm.build.date=Tue May 31 00:07:52 CST 2022
+ro.odm_dlkm.build.date.utc=1653926872
+ro.odm_dlkm.build.fingerprint=POCO/xaga_eea/xaga:12/SP1A.210812.016/V13.0.1.0.SLOEUXM:user/release-keys
+ro.odm_dlkm.build.id=SP1A.210812.016
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=V13.0.1.0.SLOEUXM
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

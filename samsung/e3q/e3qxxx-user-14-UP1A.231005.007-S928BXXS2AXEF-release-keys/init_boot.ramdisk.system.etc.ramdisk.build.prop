@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=samsung
+ro.product.bootimage.device=e3q
+ro.product.bootimage.manufacturer=samsung
+ro.product.bootimage.model=SM-S928B
+ro.product.bootimage.name=e3qxxx
+ro.product.name_for_attestation=
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.bootimage.build.date=Thu May 30 15:04:16 KST 2024
+ro.bootimage.build.date.utc=1717049056
+ro.bootimage.build.fingerprint=samsung/e3qxxx/e3q:14/UP1A.231005.007/S928BXXS2AXEF:user/release-keys
+ro.bootimage.build.id=UP1A.231005.007
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=S928BXXS2AXEF
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end of file
+

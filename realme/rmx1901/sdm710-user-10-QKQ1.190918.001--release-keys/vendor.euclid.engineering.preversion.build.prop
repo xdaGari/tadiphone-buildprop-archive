@@ -1,0 +1,10 @@
+# build porp start
+ro.sys.engineering.pre=true
+persist.sys.oppo.log.config=1
+persist.sys.assert.panic=false
+persist.sys.log.user=1
+persist.vendor.ssr.enable_ramdumps=1
+persist.sys.enable_wcnss_dump=1
+persist.sys.enable_modem_dump=1
+ro.build.version.ota=PCAM00PRE_11.C.10_1100_202103181539
+ro.build.display.id=PCAM00PRE_11_C.10

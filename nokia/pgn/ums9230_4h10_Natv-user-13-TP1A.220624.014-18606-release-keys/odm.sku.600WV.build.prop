@@ -1,0 +1,15 @@
+
+####################################
+# from variable PRODUCT_PROPERTY_SKU_600WV
+####################################
+ro.boot.skuid=600WV
+ro.boot.skuname=600WV
+ro.product.model.num=00WV
+ro.product.odm.name=Penguin_00WV
+ro.product.vendor.name=Penguin_00WV
+ro.product.vendor_dlkm.name=Penguin_00WV
+ro.odm.build.fingerprint=Nokia/Penguin_00WV/PGN:13/TP1A.220624.014/00WW_2_310:user/release-keys
+ro.vendor.build.fingerprint=Nokia/Penguin_00WV/PGN:13/TP1A.220624.014/00WW_2_310:user/release-keys
+ro.vendor_dlkm.build.fingerprint=Nokia/Penguin_00WV/PGN:13/TP1A.220624.014/00WW_2_310:user/release-keys
+# end of file
+

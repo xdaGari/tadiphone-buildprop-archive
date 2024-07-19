@@ -1,0 +1,9 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=domestic_21631_realme_CN_ALLNET
+ro.oplus.image.my_bigball.date=2023-06-07 14:25:57
+ro.oplus.image.my_bigball.date.utc=1686119157
+ro.oplus.image.my_bigball.version_name=my_bigball21631_1400_U.0.0
+ro.oplus.server_url_1=https://newds-api-cn-01.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://newds-api-cn-02.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.image.my_bigball.version=21631_1400_U.0.0.2023060714180817908002.589321f7

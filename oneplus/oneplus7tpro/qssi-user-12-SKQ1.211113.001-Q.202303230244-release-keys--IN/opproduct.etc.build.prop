@@ -1,0 +1,6 @@
+#prop for mclaren
+ro.config.ringtone=cust_ringtone.ogg
+ro.config.ringtone_sim2=cust_ringtone.ogg
+ro.config.notification_sms=cust_mms_notification.ogg
+ro.config.notification_sim2=cust_mms_notification.ogg
+ro.config.notification_sound=cust_notification_sound.ogg

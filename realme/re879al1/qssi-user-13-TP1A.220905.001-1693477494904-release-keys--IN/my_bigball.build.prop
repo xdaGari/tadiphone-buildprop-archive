@@ -1,0 +1,11 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=export_2169A_realme_IN_NA
+ro.oplus.image.my_bigball.date=2023-08-31 05:35:20
+ro.oplus.image.my_bigball.date.utc=1693431320
+ro.oplus.image.my_bigball.version_name=my_bigball2169A_1310_T.0.0
+ro.oplus.server_url_1=https://fourier-newds01-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.radio.region_netlock_enable=false
+ro.oplus.radio.region_netlock_country=
+ro.oplus.image.my_bigball.version=2169A_1310_T.0.0.2023083105035219863319.06b0f49f

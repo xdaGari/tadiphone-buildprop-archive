@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.device=ruby
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=ruby
+ro.product.bootimage.cert=ruby
+ro.product.bootimage.name=ruby
+ro.product.bootimage.marketname=ruby
+ro.bootimage.build.date=Sat Nov 19 00:46:03 CST 2022
+ro.bootimage.build.date.utc=1668789963
+ro.bootimage.build.fingerprint=Redmi/ruby/ruby:12/SP1A.210812.016/V13.0.8.0.SMOCNXM:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V13.0.8.0.SMOCNXM
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

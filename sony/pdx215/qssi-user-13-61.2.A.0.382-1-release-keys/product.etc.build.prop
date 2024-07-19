@@ -1,0 +1,74 @@
+##### Overwrite prop values by composition #####
+ro.product.build.id=61.2.A.0.382
+ro.product.product.brand=Sony
+ro.product.build.tags=release-keys
+ro.product.build.fingerprint=Sony/qssi/qssi:13/TKQ1.220807.001/1:user/release-keys
+ro.product.build.date=Thu Nov 24 00:55:36 JST 2022
+ro.product.build.date.utc=1669218936
+
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.device=qssi
+ro.product.product.manufacturer=Sony
+ro.product.product.model=Qssi
+ro.product.product.name=qssi
+ro.product.build.type=user
+ro.product.build.version.incremental=1
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from device/somc/qssi/product.prop
+####################################
+#
+# product prop for sony qssi
+#
+import /mnt/oem/etc/customization/config.prop *
+import /mnt/oem/etc/customization/${ro.boot.hardware.sku}/config.prop *
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=product,system,system_ext,vbmeta_system
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.avrcp.controller.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+ro.support_one_handed_mode=true
+audio.sys.routing.latency=750
+ro.com.google.lens.oem_camera_package=com.sonymobile.photopro
+ro.postinstall.fstab.prefix=/product
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=13_202209
+ro.apex.updatable=true
+pinner.pin_camera=true
+# end of file

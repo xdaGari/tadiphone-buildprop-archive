@@ -1,0 +1,19 @@
+
+ro.vendor.build.fingerprint=Nokia/Riddler_00WW/RDD:11/RP1A.201005.001/00WW_1_250:user/release-keys
+ro.vendor.build.fingerprint=Nokia/Riddler_00WW/RDD:11/RP1A.201005.001/00WW_1_250:user/release-keys
+ro.odm.build.fingerprint=Nokia/Riddler_00WW/RDD:11/RP1A.201005.001/00WW_1_250:user/release-keys
+#
+# ADDITIONAL ODM 600WW_WIFI BUILD PROPERTIES
+#
+ro.com.google.clientidbase=android-hmd
+ro.com.google.clientidbase.ms=android-hmd-rvo3
+ro.com.google.clientidbase.vs=android-hmd-rvo3
+ro.com.google.clientidbase.tx=android-hmd-rvo3
+ro.build.product.name=RiddlerWifi_00WW
+ro.product.name=RiddlerWifi_00WW
+ro.product.odm.name=RiddlerWifi_00WW
+ro.product.product.name=RiddlerWifi_00WW
+ro.product.system.name=RiddlerWifi_00WW
+ro.product.system_ext.name=RiddlerWifi_00WW
+ro.product.vendor.name=RiddlerWifi_00WW
+ro.build.display.id=00WW_1_250

@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=POCO
+ro.product.system_dlkm.device=vermeer
+ro.product.system_dlkm.manufacturer=Xiaomi
+ro.product.system_dlkm.model=23113RKC6G
+ro.product.system_dlkm.cert=23113RKC6G
+ro.product.system_dlkm.name=vermeer_global
+ro.product.system_dlkm.marketname=POCO F6 Pro
+ro.system_dlkm.build.date=Thu Mar 28 04:34:23 UTC 2024
+ro.system_dlkm.build.date.utc=1711600463
+ro.system_dlkm.build.fingerprint=POCO/vermeer_global/vermeer:13/TKQ1.221114.001/V816.0.2.0.UNKMIXM:user/release-keys
+ro.system_dlkm.build.id=TKQ1.221114.001
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=V816.0.2.0.UNKMIXM
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

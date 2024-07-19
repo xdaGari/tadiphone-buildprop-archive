@@ -1,0 +1,28 @@
+# build prop start
+ro.oplus.image.my_engineering.date=2022-03-09 00:31:52
+ro.oplus.image.my_engineering.date.utc=1646757112
+ro.sys.engineering.pre=true
+persist.sys.debuglog.config=network
+persist.sys.assert.panic=true
+persist.sys.log.user=1
+persist.vendor.ssr.enable_ramdumps=1
+persist.sys.enable_wcnss_dump=1
+persist.sys.enable_modem_dump=1
+persist.sys.assert.mtklogon=true
+persist.sys.mdlog_dumpback=1
+ro.oplus.connectivity.prevision_build=true
+# Auto-added by post_process_props.py
+ro.oplus.image.my_engineering.type=preversion
+# build prop start
+persist.version.confidential=true
+ro.version.confidential=true
+ro.product.cputype=SDM670
+ro.product.ramsize=8G
+ro.product.romsize=128G
+ro.product.androidver=11
+ro.build.version.oplusrom=V11.3
+ro.build.kernel.id=4.9.80
+# Auto-added by post_process_props.py
+# Do not write image version and type prop for /my_engineering.confidential
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_engineering.version=version_stub.0b8d3834

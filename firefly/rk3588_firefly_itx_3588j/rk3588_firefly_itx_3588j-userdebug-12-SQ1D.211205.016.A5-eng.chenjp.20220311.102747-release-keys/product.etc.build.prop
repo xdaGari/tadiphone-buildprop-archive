@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Firefly
+ro.product.product.device=rk3588_firefly_itx_3588j
+ro.product.product.manufacturer=Firefly
+ro.product.product.model=ITX-3588J
+ro.product.product.name=rk3588_firefly_itx_3588j
+ro.product.build.date=Fri Mar 11 10:26:06 CST 2022
+ro.product.build.date.utc=1646965566
+ro.product.build.fingerprint=Firefly/rk3588/rk3588:12/SQ1D.211205.016.A5/chenjp03111026:userdebug/release-keys
+ro.build.fingerprint=Firefly/rk3588/rk3588:12/SQ1D.211205.016.A5/chenjp03111026:userdebug/release-keys
+ro.product.build.id=SQ1D.211205.016.A5
+ro.product.build.tags=release-keys
+ro.product.build.type=userdebug
+ro.product.build.version.incremental=eng.chenjp.20220311.102747
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=tablet
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

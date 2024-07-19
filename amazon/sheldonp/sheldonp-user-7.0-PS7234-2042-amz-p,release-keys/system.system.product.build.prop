@@ -1,0 +1,6 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.mount.fs=EXT4
+launcher.focusAnimationEnable=false

@@ -1,0 +1,23 @@
+ro.vendor.build.fingerprint=Nokia/Riddler_00WW/RDD:12/SP1A.210812.016/00WW_2_260:user/release-keys
+ro.odm.build.fingerprint=Nokia/Riddler_00WW/RDD:12/SP1A.210812.016/00WW_2_260:user/release-keys
+#
+# ADDITIONAL ODM 600RU_WIFI BUILD PROPERTIES
+#
+ro.com.google.clientidbase=android-hmd
+ro.com.google.clientidbase.ms=android-hmd-rvo3
+ro.com.google.clientidbase.vs=android-hmd-rvo3
+ro.com.google.clientidbase.tx=android-hmd-rvo3
+ro.product.model.num=00RU
+ro.build.product.name=RiddlerWifi_00RU
+ro.product.name=RiddlerWifi_00RU
+ro.product.odm.name=RiddlerWifi_00RU
+ro.product.product.name=RiddlerWifi_00RU
+ro.product.system.name=RiddlerWifi_00RU
+ro.product.system_ext.name=RiddlerWifi_00RU
+ro.product.vendor.name=RiddlerWifi_00RU
+persist.sys.locale=ru-RU
+ro.product.bootimage.name=RiddlerWifi_00RU
+ro.product.vendor_dlkm.name=RiddlerWifi_00RU
+ro.build.display.id=00WW_2_260_RU
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none

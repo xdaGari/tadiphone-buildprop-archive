@@ -1,0 +1,4 @@
+ro.oplus.image.my_carrier.type=empty
+# Add for ALM@2550783.
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_carrier.version=20211021102052.1036395840ab0dca.00d747ff

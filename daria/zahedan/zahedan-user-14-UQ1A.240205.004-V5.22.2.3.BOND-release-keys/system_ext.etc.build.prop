@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.system_ext.build.date=Fri Mar  8 13:24:16 UTC 2024
+ro.system_ext.build.date.utc=1709904256
+ro.system_ext.build.fingerprint=Daria/zahedan/zahedan:14/UQ1A.240205.004/V5.22.2.3.BOND:user/release-keys
+ro.system_ext.build.id=UQ1A.240205.004
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=V5.22.2.3.BOND
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+ro.product.system_ext.brand=Daria
+ro.product.system_ext.device=zahedan
+ro.product.system_ext.manufacturer=Daria
+ro.product.system_ext.model=DM-B50104
+ro.product.system_ext.name=zahedan
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
+

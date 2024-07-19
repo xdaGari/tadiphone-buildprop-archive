@@ -1,0 +1,15 @@
+# build porp start
+ro.oplus.image.my_preload.version=0.0.1.202205051110117320714
+ro.oplus.image.my_preload.type=export_19691_Realme_IN_NA
+ro.oplus.image.my_preload.date=2022-05-05 11:13:20
+ro.oplus.image.my_preload.date.utc=1651720400
+ro.oplus.preload.custom=1.2.117_IN
+ro.facebook.partnerid=oppo:de8df4f5-bc34-4319-892c-cdf507e7e268
+ro.com.google.clientidbase=android-oppo
+ro.com.google.clientidbase.ms=android-oppo-rev1
+persist.sys.timezone=America/New_York
+persist.sys.oppo.region=IN
+persist.sys.oplus.region=IN
+ro.vendor.oplus.regionmark=IN
+ro.vendor.oppo.version=pu
+ro.vendor.oplus.version=pu

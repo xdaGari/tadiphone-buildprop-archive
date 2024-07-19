@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Amlogic
+ro.product.odm.device=ohm
+ro.product.odm.manufacturer=Amlogic
+ro.product.odm.model=ohm
+ro.product.odm.name=ohm_gtv
+ro.odm.product.cpu.abilist=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=
+ro.odm.build.date=Thu Feb 23 17:35:27 CST 2023
+ro.odm.build.date.utc=1677144927
+ro.odm.build.fingerprint=Amlogic/ohm_gtv/ohm:12/SC/bin.yang02231735:userdebug/test-keys
+ro.odm.build.id=SC
+ro.odm.build.tags=test-keys
+ro.odm.build.type=userdebug
+ro.odm.build.version.incremental=eng.bin.ya.20230223.173800
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

@@ -1,0 +1,65 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+persist.vendor.radio.telecom.vibrate=0
+sys.oplus.pin_launcher_bytes=12582912
+ro.build.kernel.id=4.14.186
+ro.oplus.system.camera.name=com.oplus.camera
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=420
+ro.separate.soft=21831
+ro.rom.featrue=allnet
+ro.product.authentication=0
+ro.vendor.oplus.market.name=CPH2389
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.build.product=CPH2389
+ro.vendor.product.oem=CPH2389
+ro.vendor.product.device.oem=OP5547
+ro.mediatek.version.release=CPH2389_11_A.01_221015
+ro.vendor.mediatek.version.release=CPH2389_11_A.01_221015
+ro.build.display.id_ims=CPH2389_11_A.01_221015
+ro.build.display.id=CPH2389_11_A.01
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.oplusrom=V12.1
+ro.build.version.oplusrom.confidential=V12.1
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+ro.oplus.ifaa.support=false
+ro.oplus.soter.support=false
+persist.vendor.operator.optr=OP08
+persist.vendor.mtk_rcs_single_reg_support=1
+persist.vendor.mtk_uce_support=1
+persist.vendor.mtk_rcs_ua_support=1
+dalvik.vm.madvise.vdexfile.size=0
+dalvik.vm.madvise.odexfile.size=0
+dalvik.vm.madvise.artfile.size=0
+############################## Add OPPO Info Common Begin ##############################
+persist.vendor.radio.nr_display_rule=1
+persist.vendor.radio.lte_con_stat_delay_timer=0
+persist.vendor.radio.scg_con_stat_delay_timer=0
+persist.vendor.radio.support_optimized_nr=true
+ro.oplus.radio.osl=1
+############################## Add OPPO Info Common End ##############################
+ro.oppo.mtk_gps_mpe=1
+ro.vendor.local.nlp=com.amap.android.location
+odm.dirac.path=/odm/etc/dirac
+ro.sf.lcd_density=320
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=21831
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.f35c9033

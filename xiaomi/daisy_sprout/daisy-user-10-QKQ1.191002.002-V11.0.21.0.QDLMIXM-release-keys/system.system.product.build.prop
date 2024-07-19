@@ -1,0 +1,12 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=nosdcard
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=10_202005
+ro.com.google.clientidbase=android-xiaomi
+ro.com.google.clientidbase.ms=android-xiaomi-rev2
+

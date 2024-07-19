@@ -1,0 +1,16 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=nosdcard
+audio.sys.noisy.broadcast.delay=600
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+setupwizard.feature.deferred_setup_suggestion=false
+setupwizard.theme=glif_v3_light
+ro.setupwizard.rotation_locked=true
+setupwizard.feature.deferred_snooze_allow_never=true
+ro.com.android.prov_mobiledata=false
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=10_202102
+

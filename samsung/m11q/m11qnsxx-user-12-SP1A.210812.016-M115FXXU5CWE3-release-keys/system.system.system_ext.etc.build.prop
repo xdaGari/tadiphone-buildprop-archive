@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=m11q
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-M115F
+ro.product.system_ext.name=m11qnsxx
+ro.system_ext.build.date=Wed May 24 09:39:00 +07 2023
+ro.system_ext.build.date.utc=1684895940
+ro.system_ext.build.fingerprint=samsung/m11qnsxx/m11q:12/SP1A.210812.016/M115FXXU5CWE3:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=M115FXXU5CWE3
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

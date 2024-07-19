@@ -1,0 +1,77 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.alwayson.enable=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+ro.build.keystore.path=/sdcard/.lii/
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+persist.vendor.radio.telecom.vibrate=0
+ro.soc.manufacturer=Mediatek
+ro.build.kernel.id=4.19.191
+ro.camera.hfr.enable=0
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=440
+ro.camera.portrait.blur.level.enable=1
+ro.vendor.oplus.camera.frontCamSize=5MP
+ro.vendor.oplus.camera.backCamSize=50MP+2MP
+ro.vendor.oplus.camera.isSupportExplorer=0
+ro.vendor.oplus.camera.isHasselbladCamera=0
+dalvik.vm.madvise.vdexfile.size=0
+dalvik.vm.madvise.odexfile.size=0
+dalvik.vm.madvise.artfile.size=0
+ro.separate.soft=22362
+ro.product.authentication=0
+ro.product.hw=22362
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+ro.product.model=CPH2579
+ro.build.product=CPH2579
+ro.vendor.product.oem=CPH2579
+ro.product.device=CPH2579
+ro.vendor.product.device.oem=CPH2579
+ro.product.oplus.cpuinfo=MT6769V/CZ
+ro.build.device_family=OPMT6769
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+persist.sys.oplus.hybridswap_app_memcg=true
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.display.id=CPH2579_11_A.01
+ro.build.display.id_ims=CPH2579_11_A.01_230824
+ro.mediatek.version.release=CPH2579_11_A.01_230824
+ro.vendor.mediatek.version.release=CPH2579_11_A.01_230824
+ro.lmk.psi_complete_stall_ms=500
+ro.lmk.psi_complete_stall_ms_dup=150
+ro.lmk.downgrade_pressure=60
+ro.lmk.thrashing_limit_decay=50
+ro.lmk.limit_killing_array_kb=2097152,1572864,1258291,665600
+persist.sys.oplus.wmark_extra_free_kbytes_4g=36846
+persist.sys.oplus.wmark_extra_free_kbytes_8g=65536
+persist.sys.oplus.wmark_extra_free_kbytes_12g=73728
+persist.sys.oplus.wmark_extra_free_kbytes_16g=81920
+############################## Add OPPO Info Common Begin ##############################
+persist.vendor.radio.nr_display_rule=1
+persist.vendor.radio.lte_con_stat_delay_timer=0
+persist.vendor.radio.scg_con_stat_delay_timer=0
+persist.vendor.radio.support_optimized_nr=true
+persist.vendor.entitlement_enabled=1
+############################## Add OPPO Info Common End ##############################
+ro.vendor.local.nlp=com.amap.android.location
+ro.oplus.connectivity.oversea=true
+ro.oplus.minidump.kernel.log.support=true
+odm.dirac.path=/odm/etc/dirac
+ro.vendor.oplus.aal.backlight.bits=12
+ro.sf.lcd_density=320
+ro.oplus.display.screenSizeInches.primary=6.56
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=22362
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+ro.oplus.image.odm.version=version_stub.28ea34c7

@@ -1,0 +1,10 @@
+# build porp start
+ro.oplus.image.my_region.type=EUEX_all
+ro.oplus.image.my_region.date=2022-11-18 04:09:09
+ro.oplus.image.my_region.date.utc=1668715749
+ro.oplus.image.my_region.version_name=21733.4.24-XEU0000
+ro.oplus.pipeline.region=EUEX
+ro.vendor.oplus.radio.sar_regionmark=EUEX
+ro.vendor.oplus.nwopt=true
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_region.version=21733.4.24.2022111802061712561633.d9375ad1

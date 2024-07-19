@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.device=vermeer
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=23113RKC6C
+ro.product.bootimage.cert=23113RKC6C
+ro.product.bootimage.name=vermeer
+ro.product.bootimage.marketname=Redmi K70
+ro.bootimage.build.date=Wed Jul  3 16:12:56 UTC 2024
+ro.bootimage.build.date.utc=1720023176
+ro.bootimage.build.fingerprint=Redmi/vermeer/vermeer:13/TKQ1.221114.001/V816.0.17.0.UNKCNXM:user/release-keys
+ro.bootimage.build.id=TKQ1.221114.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V816.0.17.0.UNKCNXM
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
+

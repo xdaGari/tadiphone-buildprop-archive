@@ -1,0 +1,14 @@
+# build porp start
+ro.oplus.image.my_region.version=12.0.070.202203180001376131594
+ro.oplus.image.my_region.type=CN_OnePlus
+ro.oplus.image.my_region.date=2022-03-18 01:03:16
+ro.oplus.image.my_region.date.utc=1647536596
+ro.oplus.image.my_region.version_name=my_region12.0.070
+ro.oplus.pipeline.region=CN
+ro.oplus.server_url_1=https://newds-api-cn-01.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://newds-api-cn-02.allawntech.com/autotime/dateandtime.xml?number=
+ro.vendor.oplus.radio.cn_nvbk=TRUE
+ro.vendor.oplus.radio.cn_ims_register=true
+ro.vendor.oplus.radio.cn_use_3gpp2=true
+ro.vendor.oplus.radio.cn_use_nitz=true
+ro.sys.custom.permissioncontroller=true

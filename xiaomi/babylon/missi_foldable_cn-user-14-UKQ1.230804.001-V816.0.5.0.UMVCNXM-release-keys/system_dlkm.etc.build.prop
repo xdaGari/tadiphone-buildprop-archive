@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=Xiaomi
+ro.product.system_dlkm.device=babylon
+ro.product.system_dlkm.manufacturer=Xiaomi
+ro.product.system_dlkm.model=2308CPXD0C
+ro.product.system_dlkm.cert=2308CPXD0C
+ro.product.system_dlkm.name=babylon
+ro.product.system_dlkm.marketname=Xiaomi MIX Fold 3
+ro.system_dlkm.build.date=Thu Mar 28 02:53:49 UTC 2024
+ro.system_dlkm.build.date.utc=1711594429
+ro.system_dlkm.build.fingerprint=Xiaomi/babylon/babylon:13/TKQ1.221114.001/V816.0.5.0.UMVCNXM:user/release-keys
+ro.system_dlkm.build.id=TKQ1.221114.001
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=V816.0.5.0.UMVCNXM
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

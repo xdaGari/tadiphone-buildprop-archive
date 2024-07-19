@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=qti
+ro.product.system_ext.device=qssi
+ro.product.system_ext.manufacturer=QUALCOMM
+ro.product.system_ext.model=qssi system image for arm64
+ro.product.system_ext.name=qssi
+ro.system_ext.build.date=Sat May  7 00:20:36 CST 2022
+ro.system_ext.build.date.utc=1651854036
+ro.system_ext.build.fingerprint=qti/qssi/qssi:Tiramisu/TKQ1.220327.001/2.05.07.native.user.dpp:user/release-keys
+ro.system_ext.build.id=TKQ1.220327.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=2.05.07.native.user.dpp
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=Tiramisu
+ro.system_ext.build.version.sdk=32
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

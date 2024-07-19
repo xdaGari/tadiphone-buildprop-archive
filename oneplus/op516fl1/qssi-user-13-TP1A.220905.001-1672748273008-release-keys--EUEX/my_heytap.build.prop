@@ -1,0 +1,11 @@
+# build porp start
+ro.oplus.image.my_heytap.type=GDPR
+ro.oplus.image.my_heytap.date=2022-12-28 17:48:04
+ro.oplus.image.my_heytap.date.utc=1672220884
+ro.opa.device_model_id=ga-oplus-skill-os121-211011
+setupwizard.feature.baseline_setupwizard_enabled=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=13_202211
+ro.oplus.image.my_heytap.version=2.0.37.14.2022122817435013747951.ba9f408b

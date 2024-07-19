@@ -1,0 +1,99 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=google
+ro.product.product.device=tangorpro
+ro.product.product.manufacturer=Google
+ro.product.product.model=Pixel Tablet
+ro.product.product.name=tangorpro
+ro.product.build.date=Wed Jun 14 02:59:27 UTC 2023
+ro.product.build.date.utc=1686711567
+ro.product.build.fingerprint=google/tangorpro/tangorpro:13/TQ3A.230805.001.B1/10317384:user/release-keys
+ro.product.build.id=TQ3A.230805.001.B1
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=10317384
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=tablet
+ro.product.ab_ota_partitions=abl,bl1,bl2,bl31,boot,dtbo,gsa,init_boot,ldfw,pbl,product,pvmfw,system,system_dlkm,system_ext,tzsw,vbmeta,vbmeta_system,vbmeta_vendor,vendor,vendor_boot,vendor_dlkm,vendor_kernel_boot
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+setupwizard.feature.show_digital_warranty=true
+# Removed by post_process_props.py because overridden by ro.config.alarm_alert=Fresh_start.ogg
+#ro.config.alarm_alert?=Bright_morning.ogg
+# Removed by post_process_props.py because overridden by ro.config.notification_sound=Eureka.ogg
+#ro.config.notification_sound?=Popcorn.ogg
+# Removed by post_process_props.py because overridden by ro.config.ringtone=Your_new_adventure.ogg
+#ro.config.ringtone?=The_big_adventure.ogg
+ro.opa.eligible_device=true
+ro.atrace.core.services=com.google.android.gms,com.google.android.gms.ui,com.google.android.gms.persistent
+ro.com.android.dataroaming=false
+ro.com.google.clientidbase=android-google
+ro.error.receiver.system.apps=com.google.android.gms
+ro.setupwizard.enterprise_mode=1
+ro.setupwizard.esim_cid_ignore=00000001
+setupwizard.feature.baseline_setupwizard_enabled=true
+setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false
+setupwizard.feature.skip_button_use_mobile_data.carrier1839=true
+setupwizard.theme=glif_v3_light
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+setupwizard.feature.show_pixel_tos=true
+ro.storage_manager.show_opt_in=false
+setupwizard.feature.show_support_link_in_deferred_setup=false
+setupwizard.feature.enable_wifi_tracker=true
+ro.carriersetup.vzw_consent_page=true
+setupwizard.feature.day_night_mode_enabled=true
+setupwizard.feature.portal_notification=true
+setupwizard.feature.lifecycle_refactoring=true
+setupwizard.feature.notification_refactoring=true
+ro.config.alarm_alert=Fresh_start.ogg
+ro.config.notification_sound=Eureka.ogg
+ro.config.ringtone=Your_new_adventure.ogg
+ro.gwfcactivation.disabled_carriers=1492
+persist.wm.extensions.enabled=true
+ro.vendor.camera.extensions.package=com.google.android.apps.camera.services
+ro.vendor.camera.extensions.service=com.google.android.apps.camera.services.extensions.service.PixelExtensions
+persist.radio.reboot_on_modem_change=false
+persist.radio.multisim.config=dsds
+persist.vendor.ril.camp_on_earlier=1
+bluetooth.device.class_of_device=90,65,16
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.bas.client.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.hid.host.enabled=true
+# Removed by post_process_props.py because overridden by bluetooth.profile.map.server.enabled=false
+#bluetooth.profile.map.server.enabled?=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+# Removed by post_process_props.py because overridden by bluetooth.profile.pbap.server.enabled=false
+#bluetooth.profile.pbap.server.enabled?=true
+# Removed by post_process_props.py because overridden by bluetooth.profile.sap.server.enabled=false
+#bluetooth.profile.sap.server.enabled?=true
+persist.bluetooth.bqr.event_mask=30
+persist.bluetooth.bqr.min_interval_ms=500
+persist.sys.fuse.passthrough.enable=true
+ro.postinstall.fstab.prefix=/product
+persist.vendor.testing_battery_profile=2
+masterclear.allow_retain_esim_profiles_after_fdr=true
+ro.thermal_warmreset=true
+persist.bluetooth.firmware.selection=BTFW.hcd
+bluetooth.profile.map.server.enabled=false
+bluetooth.profile.pbap.server.enabled=false
+bluetooth.profile.sap.server.enabled=false
+ro.odm.cast.ssid_suffix=ynn
+# end of file
+

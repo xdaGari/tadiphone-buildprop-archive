@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=WVR_sprout
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia 2.4
+ro.product.system_ext.name=Wolverine_00WW
+persist.radio.imei_ver=37
+ro.product.carriercustomization.version=202204190940
+ro.build.display.wtid=SW_T99651AA2_V210_M10_NF_NOKIA_Iris_USR_MP
+ro.vendor.build.display.wtid=SW_T99651AA2_V210_M10_NF_NOKIA_Iris_USR_MP
+ro.system_ext.build.date=Wed Apr 20 11:53:56 UTC 2022
+ro.system_ext.build.date.utc=1650455636
+ro.system_ext.build.fingerprint=Nokia/Wolverine_00WW/WVR_sprout:12/SP1A.210812.016/00WW_3_210:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=00WW_3_210
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.support_one_handed_mode=false
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

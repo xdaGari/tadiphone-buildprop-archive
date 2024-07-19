@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_carrier.version=11.2.51.202104150114021574360
+ro.oplus.image.my_carrier.type=ALLNET_OnePlus
+ro.oplus.image.my_carrier.date=2021-04-15 02:15:24
+ro.oplus.image.my_carrier.date.utc=1618424124
+ro.oplus.image.my_carrier.version_name=11.2.5-X00CNQW00
+ro.oplus.pipeline.carrier=ALLNET

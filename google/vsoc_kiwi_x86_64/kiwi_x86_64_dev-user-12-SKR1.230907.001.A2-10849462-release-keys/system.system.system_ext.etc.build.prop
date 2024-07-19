@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=vsoc_kiwi_x86_64
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=HPE device
+ro.product.system_ext.name=kiwi_x86_64_dev
+ro.system_ext.build.date=Fri Sep 22 18:20:28 UTC 2023
+ro.system_ext.build.date.utc=1695406828
+ro.system_ext.build.fingerprint=google/kiwi_x86_64_dev/vsoc_kiwi_x86_64:12/SKR1.230907.001.A2/10849462:user/release-keys
+ro.system_ext.build.id=SKR1.230907.001.A2
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=10849462
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=32
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=DRS_sprout
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia 3.4
+ro.product.system_ext.name=DoctorStrange_00WW
+ro.product.system_ext.board=DoctorStrange
+ro.system_ext.build.date=Wed Jul 20 09:12:22 IST 2022
+ro.system_ext.build.date.utc=1658288542
+ro.system_ext.build.fingerprint=Nokia/DoctorStrange_00WW/DRS_sprout:12/SKQ1.220119.001/00WW_3_280:user/release-keys
+ro.system_ext.build.id=SKQ1.220119.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=00WW_3_280
+ro.system_ext.build.display.id=00WW_3_280
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

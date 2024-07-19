@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=oculus
+ro.product.product.device=hollywood
+ro.product.product.manufacturer=Oculus
+ro.product.product.model=Quest 2
+ro.product.product.name=hollywood
+ro.product.build.date=Wed Jan 17 15:47:32 PST 2024
+ro.product.build.date.utc=1705535252
+ro.product.build.fingerprint=oculus/hollywood/hollywood:12/SQ3A.220605.009.A1/50765700030900150:user/release-keys
+ro.product.build.id=SQ3A.220605.009.A1
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=50765700030900150
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=abl,aop,boot,cmnlib,cmnlib64,devcfg,dtbo,hyp,imagefv,keymaster,modem,qupfw,recovery,system,system_ext,tz,uefisecapp,vbmeta,vbmeta_system,vbmeta_vendor,vendor,product,xbl,xbl_config
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.surface_flinger.use_min_framebuffer_surface=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

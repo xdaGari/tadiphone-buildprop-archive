@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Zebra
+ro.product.odm.device=helios
+ro.product.odm.manufacturer=Zebra Technologies
+ro.product.odm.model=helios
+ro.product.odm.name=helios
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Wed Oct 18 09:22:34 UTC 2023
+ro.odm.build.date.utc=1697620954
+ro.odm.build.fingerprint=Zebra/helios/helios:13/13-22-18.00-TG-U00-STD-HEL-04/62:user/release-keys
+ro.odm.build.fp=Zebra/helios/helios:13/13-22-18.00-TG-U00-STD-HEL-04/62:user/release-keys
+ro.build.platform=helios
+ro.odm.build.id=13-22-18.00-TG-U00-STD-HEL-04
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=62
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file

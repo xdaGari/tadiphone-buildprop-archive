@@ -1,0 +1,63 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+qemu.hw.mainkeys=0
+ro.build.kernel.id=5.10.81
+oplus.dex.tempcontrol=true
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.alwayson.enable=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+ro.vendor.qti.va_odm.support=1
+ro.netflix.bsp_rev=Q8450-34634-1
+ro.com.android.dataroaming=false
+ro.oplus.system.camera.name=com.oplus.camera
+oplus.software.camera.10bit=1
+ro.separate.soft=21842
+ro.rom.featrue=allnet
+ro.vendor.product.device.oem=OP5552
+ro.sys.reserve.integrate=true
+ro.product.authentication=0
+ro.product.manufacturer=OnePlus
+ro.product.brand=OnePlus
+persist.sys.aging.2.0=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.oplusrom=V12.1
+ro.build.version.oplusrom.confidential=V12.1
+ro.build.display.id=CPH2413_11_A.01
+ro.build.display.full_id=CPH2413_11_A.01_220914
+persist.sys.obrain_obfuscate.enable=1
+persist.sys.oplus.wmark_extra_free_kbytes_8g=65536
+persist.sys.oplus.wmark_extra_free_kbytes_12g=73728
+persist.sys.oplus.wmark_extra_free_kbytes_16g=73728
+ro.build.device_family=OPSM8475
+ro.product.oplus.cpuinfo=SM8475
+ro.soc.model=SM8475
+ro.product.sar=1.7
+ro.vendor.oplus.radio.project=2
+ro.vendor.oplus.radio.na.multisim.config=ssss
+ro.oplus.nfc.frequency.support=true
+ro.oplus.bsp.security.fido2=1
+ro.oplus.nfc.current.support=true
+ro.oplus.nfc.nearsensor_control_polling_mode=true
+ro.vendor.oplus.audio.ozo.license=x3_x3pro
+ro.vendor.oplus.display.cwb.postprocess=1
+ro.vendor.oplus.display.cwb.roi=1
+ro.vendor.oplus.display.cwb.aod_forbidden=1
+ro.vendor.oplus.display.cwb.fod_forbidden=1
+vendor.display.primary_mixer_stages=9
+vendor.display.disable_noise_layer=1
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=21842
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.86f5c38c

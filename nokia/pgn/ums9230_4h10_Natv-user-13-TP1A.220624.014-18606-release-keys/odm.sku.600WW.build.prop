@@ -1,0 +1,12 @@
+
+####################################
+# from variable PRODUCT_PROPERTY_SKU_600WW
+####################################
+ro.boot.skuid=600WW
+ro.boot.skuname=600WW
+ro.product.model.num=00WW
+ro.product.odm.name=Penguin_00WW
+ro.product.vendor.name=Penguin_00WW
+ro.product.vendor_dlkm.name=Penguin_00WW
+# end of file
+

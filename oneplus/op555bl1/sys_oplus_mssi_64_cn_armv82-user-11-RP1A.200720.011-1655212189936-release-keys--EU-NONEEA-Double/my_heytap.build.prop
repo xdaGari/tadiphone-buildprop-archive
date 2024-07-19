@@ -1,0 +1,14 @@
+# build porp start
+ro.oplus.image.my_heytap.version=21876.1.0.202206142036418354423.6e944496
+ro.oplus.image.my_heytap.type=GDPR
+ro.oplus.image.my_heytap.date=2022-06-14 20:41:21
+ro.oplus.image.my_heytap.date.utc=1655210481
+ro.opa.device_model_id=ga-oplus-skill-os120-210607
+ro.sys.heytap.test_version=eu
+ro.vendor.heytap.test_version=eu
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=11_202111
+setupwizard.feature.baseline_setupwizard_enabled=true
+ro.opa.device_model_id=ga-what-can-this-phone-do-what-can-this-phone-do-njtdvq

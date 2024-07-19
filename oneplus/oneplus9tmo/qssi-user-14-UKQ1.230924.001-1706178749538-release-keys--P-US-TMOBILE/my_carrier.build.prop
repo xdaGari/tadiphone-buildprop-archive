@@ -1,0 +1,11 @@
+# build porp start
+ro.oplus.image.my_carrier.type=P_US_TMOBILE_all
+ro.oplus.image.my_carrier.date=2024-01-10 16:12:23
+ro.oplus.image.my_carrier.date.utc=1704874343
+ro.oplus.image.my_carrier.version_name=X00USTM00
+ro.oplus.pipeline.carrier=P-US-TMOBILE
+persist.sys.oplus.radio.recovery_config=0,0,0,0
+ro.vendor.oplus.radio.multisim.config=ssss
+ro.vendor.oplus.audiodriver.operator=TMO
+ro.oplus.radio.vonr_sa_backoff_feature_enabled=false
+ro.oplus.image.my_carrier.version=14.0.02341.2024011016100822787826.53ca15e7

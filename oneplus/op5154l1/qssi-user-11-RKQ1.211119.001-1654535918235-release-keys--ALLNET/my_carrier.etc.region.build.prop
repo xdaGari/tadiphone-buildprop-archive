@@ -1,0 +1,8 @@
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+ro.oplus.region.custom=1.0.34_CN_ALLNET
+ro.com.baidu.searchbox=/data/etc/appchannel/
+persist.sys.timezone=Asia/Shanghai
+persist.sys.oplus.region=CN
+ro.vendor.oplus.regionmark=CN
+ro.vendor.oplus.version=cn

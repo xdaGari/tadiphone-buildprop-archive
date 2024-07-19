@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=iQOO
+ro.product.system_ext.device=I2220
+ro.product.system_ext.manufacturer=vivo
+ro.product.system_ext.model=I2220
+ro.product.system_ext.name=I2220T
+ro.system_ext.build.date=Tue Nov 28 01:45:32 CST 2023
+ro.system_ext.build.date.utc=1701107132
+ro.system_ext.build.fingerprint=iQOO/I2220T/I2220:14/UP1A.231005.007/compiler11280145:user/release-keys
+ro.system_ext.build.id=UP1A.231005.007
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.compil.20231128.014532
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

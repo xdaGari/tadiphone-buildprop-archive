@@ -1,0 +1,51 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=RDD
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia T20
+ro.product.system_ext.name=Riddler_00WW
+ro.system_ext.build.date=Fri Jul 21 00:55:22 UTC 2023
+ro.system_ext.build.date.utc=1689900922
+ro.system_ext.build.fingerprint=Nokia/Riddler_00WW/RDD:13/TP1A.220624.014/00WW_3_220:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=00WW_3_220
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.default.rotation=1
+ro.vendor.minui.hwrotation=90
+ro.system.component.label=13--230721
+ro.sprd.superresolution=1
+ro.sr.displaysize.defaultresolution=0
+ro.sr.displaysize.lowresolution=1
+ro.media.recoderEIS.enabled=true
+ro.media.wfd.rgb.enabled=true
+ro.sprd.pwctl.ultra.message=1
+ro.sys.pwctl.ultrasaving=1
+ro.launcher.multimode=true
+ro.launcher.dynamic=false
+ro.launcher.desktopgrid=true
+ro.launcher.notifbadge.count=true
+ro.product.assistanttouch=false
+persist.sys.support.vt=true
+persist.sys.csvt=false
+ro.telephony.se.enable=true
+keyguard.no_require_sim=true
+ro.com.android.dataroaming=false
+ro.simlock.unlock.autoshow=1
+ro.simlock.unlock.bynv=0
+ro.simlock.onekey.lock=0
+persist.vendor.radio.mdrec.simpin.cache=1
+persist.nhmonitor.enable=on
+ro.unipnp.switch=true
+ro.support_one_handed_mode=true
+persist.sys.bl.clearuserdata=true
+# end of file

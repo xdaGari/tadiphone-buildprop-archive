@@ -1,0 +1,15 @@
+# build prop start
+ro.oppo.market.name=OPPO Reno7 Pro LOLWR 限定版
+ro.vendor.oplus.market.name=OPPO Reno7 Pro LOLWR 限定版
+ro.oppo.market.enname=Reno7 Pro LOLWR Edition
+ro.vendor.oplus.market.enname=Reno7 Pro LOLWR Edition
+ro.vendor.oplus.market.watermark=OPPO LOLWR Edition
+ro.product.littletail_model=PFDM00_LOLWR
+ro.oplus.image.my_company.type=LOLm_OPPO
+ro.oplus.image.my_company.date=2024-01-31 15:15:34
+ro.oplus.image.my_company.date.utc=1706685334
+ro.config.ringtone=canyon_call.ogg
+ro.config.ringtone_sim2=canyon_call.ogg
+ro.config.notification_sound=mystic_store.ogg
+ro.config.charging_sound=lol_charging.ogg
+ro.oplus.image.my_company.version=13.1.0424.2024013115123123223489.6b3e046e

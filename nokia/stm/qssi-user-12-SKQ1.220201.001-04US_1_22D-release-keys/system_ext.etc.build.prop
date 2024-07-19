@@ -1,0 +1,29 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=STM
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia G400 5G
+ro.product.system_ext.name=Styles_04US
+ro.system_ext.build.date=Thu Jan 19 02:35:30 UTC 2023
+ro.system_ext.build.date.utc=1674095730
+ro.system_ext.build.fingerprint=Nokia/Styles_04US/STM:12/SKQ1.220201.001/04US_1_22D:user/release-keys
+ro.system_ext.build.id=SKQ1.220201.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.jenkin.20230119.023854
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

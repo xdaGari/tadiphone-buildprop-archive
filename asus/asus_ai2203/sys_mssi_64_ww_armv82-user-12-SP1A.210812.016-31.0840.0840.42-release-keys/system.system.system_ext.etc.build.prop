@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=asus
+ro.product.system_ext.device=ASUS_AI2203
+ro.product.system_ext.manufacturer=asus
+ro.product.system_ext.model=ASUS_AI2203_D
+ro.product.system_ext.name=WW_AI2203
+ro.system_ext.build.date=Thu Oct 20 17:20:26 CST 2022
+ro.system_ext.build.date.utc=1666257626
+ro.system_ext.build.fingerprint=asus/WW_AI2203/ASUS_AI2203:12/SP1A.210812.016/31.0840.0840.42:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=31.0840.0840.42
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

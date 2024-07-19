@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=asus
+ro.product.system_dlkm.device=ASUS_I006D
+ro.product.system_dlkm.manufacturer=asus
+ro.product.system_dlkm.model=ASUS_I006D
+ro.product.system_dlkm.name=WW_I006D
+ro.system_dlkm.build.date=Sat May 13 04:04:46 CST 2023
+ro.system_dlkm.build.date.utc=1683921886
+ro.system_dlkm.build.fingerprint=asus/WW_I006D/ASUS_I006D:13/TKQ1.220807.001/33.0210.0210.296:user/release-keys
+ro.system_dlkm.build.id=TKQ1.220807.001
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=33.0210.0210.296
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file

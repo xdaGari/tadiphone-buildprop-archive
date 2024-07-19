@@ -1,0 +1,75 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Redmi
+ro.product.odm.device=air
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=air
+ro.product.odm.name=air
+ro.product.odm.marketname=
+ro.product.odm.cert=
+ro.product.odm.home=
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Fri Dec  8 07:26:04 UTC 2023
+ro.odm.build.date.utc=1702020364
+ro.odm.build.fingerprint=Redmi/air/air:13/TP1A.220624.014/V14.0.4.0.TGQINXM:user/release-keys
+ro.odm.build.id=TP1A.220624.014
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=V14.0.4.0.TGQINXM
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from device/xiaomi/air/odm/special_ro.prop
+####################################
+# device special_ro prop
+#displayfeature for LC at 20230703 start
+# White Point Calibration
+ro.vendor.whitepoint_calibration_enable=false
+#Property for display feature histogram
+ro.vendor.histogram.enable=false
+# support unlimited color temperature adjust
+ro.vendor.colorpick_adjust=true
+ro.vendor.all_modes.colorpick_adjust=true
+# displayfeature use poll to monitor backlight brightness
+ro.vendor.xiaomi.bl.poll=true
+#Property for NewGamePQ
+ro.vendor.gcp.enable=false
+# prop for cabc
+ro.vendor.cabc.enable=true
+#Property for dimlayer
+ro.vendor.fod.dimlayer.enable=false
+# VRR support only
+ro.surface_flinger.use_content_detection_for_refresh_rate=true
+ro.surface_flinger.set_touch_timer_ms=1100
+vendor.display.idle_time=1100
+#displayfeature for LC at 20230703 end
+####################################
+# from device/xiaomi/air/odm/special_rw.prop
+####################################
+# device special_ro prop
+#displayfeature for LC at 20230703 start
+#system property for displayfeature hidl
+sys.displayfeature_hidl=true
+# displayfeature and displayfeatureservice use it to debug pq effect
+vendor.displayfeature.entry.enable=true
+#system property for HBM mode
+vendor.hbm.enable=true
+#system prop for dc backlight
+persist.vendor.dc_backlight.enable=false
+#system prop for switch refreshrate
+ro.vendor.fps.switch.default=true
+#displayfeature for LC at 20230703 end
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+import /odm/etc/${ro.boot.product.hardware.sku}_build.prop
+# end of file
+

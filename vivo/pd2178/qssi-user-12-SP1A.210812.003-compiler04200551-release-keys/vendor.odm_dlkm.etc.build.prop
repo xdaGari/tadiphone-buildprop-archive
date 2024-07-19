@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=vivo
+ro.product.odm_dlkm.device=PD2178
+ro.product.odm_dlkm.manufacturer=vivo
+ro.product.odm_dlkm.model=V2178A
+ro.product.odm_dlkm.name=PD2178
+ro.odm_dlkm.build.date=Wed Apr 20 06:39:14 CST 2022
+ro.odm_dlkm.build.date.utc=1650407954
+ro.odm_dlkm.build.fingerprint=vivo/PD2178/PD2178:12/SP1A.210812.003/compiler04200643:user/release-keys
+ro.odm_dlkm.build.id=SP1A.210812.003
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=compiler04200643
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

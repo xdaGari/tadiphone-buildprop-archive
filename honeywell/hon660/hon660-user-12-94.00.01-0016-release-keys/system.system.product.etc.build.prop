@@ -1,0 +1,14 @@
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=rpm,tz,hyp,pmic,modemlite,modem,km4,keymaster64,keymaster,cmnlib,cmnlib64,bluetooth,devcfg,dsp,xbl,abl,boot,system,vendor,version
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202207
+# end of file
+

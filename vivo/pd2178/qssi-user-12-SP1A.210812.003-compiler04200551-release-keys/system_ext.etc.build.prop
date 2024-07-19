@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=vivo
+ro.product.system_ext.device=PD2178
+ro.product.system_ext.manufacturer=vivo
+ro.product.system_ext.model=V2178A
+ro.product.system_ext.name=PD2178
+ro.system_ext.build.date=Wed Apr 20 05:48:49 CST 2022
+ro.system_ext.build.date.utc=1650404929
+ro.system_ext.build.fingerprint=vivo/PD2178/PD2178:12/SP1A.210812.003/compiler04200551:user/release-keys
+ro.system_ext.build.id=SP1A.210812.003
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=compiler04200551
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

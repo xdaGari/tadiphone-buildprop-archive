@@ -1,0 +1,42 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=8849
+ro.product.odm.device=TANK_MINI_1
+ro.product.odm.manufacturer=OBLUE
+ro.product.odm.model=TANK MINI 1
+ro.product.odm.name=TANK_MINI_1
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Wed Dec 13 12:56:27 CST 2023
+ro.odm.build.date.utc=1702443387
+ro.odm.build.fingerprint=8849/TANK_MINI_1/TANK_MINI_1:12/SP1A.210812.016/root.20231213.125627:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=root.20231213.125627
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+ro.agui.platform_name=mt6789
+ro.agui.version_release=12
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
+# begin fota properties
+ro.fota.platform=mt6789_12.0
+ro.fota.oem=agold_mt6789_12.0
+ro.fota.type=phone
+ro.fota.app=5
+ro.fota.battery=30
+ro.boot.vendor.overlay.theme=com.adups.fota.overlay
+# ERROR: model do not exist in system/build.prop,Please define it

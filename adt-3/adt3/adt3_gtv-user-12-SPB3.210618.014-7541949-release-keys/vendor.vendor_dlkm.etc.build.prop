@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=ADT-3
+ro.product.vendor_dlkm.device=adt3
+ro.product.vendor_dlkm.manufacturer=askey
+ro.product.vendor_dlkm.model=ADT-3
+ro.product.vendor_dlkm.name=adt3_gtv
+ro.vendor_dlkm.build.date=Mon Jul 12 18:07:43 UTC 2021
+ro.vendor_dlkm.build.date.utc=1626113263
+ro.vendor_dlkm.build.fingerprint=ADT-3/adt3_gtv/adt3:12/SPB3.210618.014/7541949:user/release-keys
+ro.vendor_dlkm.build.id=SPB3.210618.014
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=7541949
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

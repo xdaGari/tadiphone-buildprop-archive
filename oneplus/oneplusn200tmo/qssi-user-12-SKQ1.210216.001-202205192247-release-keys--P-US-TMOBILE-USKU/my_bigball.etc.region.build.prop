@@ -1,0 +1,17 @@
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+adjust.preinstall.path=/data/etc/appchannel/adjust.preinstall
+io.branch.preinstall.apps.path=/data/etc/appchannel/pre_install_apps.branch
+ro.trackingId.com.daraz.appid=/data/etc/appchannel/darazChannel.txt
+ro.trackingId.com.lzd.appid=/data/etc/appchannel/lazadaChannel.txt
+ro.trackingId.com.shop.appid=/data/etc/appchannel/shopChannel.txt
+ro.oplus.region.custom=2.0.70_US_P-US-TMOBILE-USKU
+ro.com.google.lens.oem_camera_package=com.oplus.camera
+ro.com.google.lens.oem_image_package=com.oneplus.gallery
+ro.oem.key1=P-US-TMOBILE-USKU
+ro.com.google.clientidbase=android-oneplus
+ro.com.google.clientidbase.ms=android-oneplus-rvo3
+persist.sys.timezone=America/New_York
+persist.sys.oplus.region=US
+ro.vendor.oplus.regionmark=US
+ro.vendor.oplus.version=pu

@@ -1,0 +1,6 @@
+ro.omc.build.version=A405SSKC5CWA2
+ro.omc.build.id=61669579
+ro.omc.changetype=DATA_RESET_ON,FALSE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=TRUE
+ro.omc.region=KOR

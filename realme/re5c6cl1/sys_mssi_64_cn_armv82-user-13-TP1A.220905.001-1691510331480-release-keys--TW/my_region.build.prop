@@ -1,0 +1,9 @@
+# build porp start
+ro.oplus.image.my_region.type=TW_all
+ro.oplus.image.my_region.date=2023-07-15 01:26:05
+ro.oplus.image.my_region.date.utc=1689355565
+ro.oplus.image.my_region.version_name=X00TW00
+ro.oplus.pipeline.region=TW
+persist.sys.ocloud.url=https://ocloud-httpdns-sg.heytapmobile.com
+ro.vendor.oplus.radio.carrier_detect_mode=1
+ro.oplus.image.my_region.version=13.2.02331.2023071501235818806875.4c001e55

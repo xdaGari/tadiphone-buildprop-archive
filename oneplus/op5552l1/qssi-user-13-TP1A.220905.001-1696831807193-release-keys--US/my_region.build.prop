@@ -1,0 +1,25 @@
+# build porp start
+ro.oplus.image.my_region.type=US_all
+ro.oplus.image.my_region.date=2023-07-17 04:16:36
+ro.oplus.image.my_region.date.utc=1689538596
+ro.oplus.image.my_region.version_name=X00US00
+ro.oplus.pipeline.region=US
+ro.telephony.default_network=26,22
+gsm.lte.ca.support=1
+sys.oppo.nw.optimize=1
+persist.vendor.ims.disableADBLogs=0
+persist.vendor.ims.disableDebugLogs=0
+persist.vendor.ims.disableQXDMLogs=0
+persist.vendor.ims.disableIMSLogs=0
+persist.vendor.ims.rtp.enableqxdm=15
+persist.vendor.ims.vt.enableadb=3
+persist.vendor.ims.loglevel=255
+persist.ims.disableADBLogs=0
+persist.ims.disableDebugLogs=0
+persist.ims.disableQXDMLogs=0
+persist.ims.disableIMSLogs=0
+ro.vendor.oplus.radio.sar_regionmark=FCC
+persist.vendor.entitlement_enabled=0
+persist.sys.rm_sensitive_data=1
+persist.vendor.rm_sensitive_data=1
+ro.oplus.image.my_region.version=13.1.02331.2023071704085218859909.7d42a23b

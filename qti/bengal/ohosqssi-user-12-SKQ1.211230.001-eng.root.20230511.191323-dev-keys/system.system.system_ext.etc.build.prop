@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Huawei
+ro.product.system_ext.device=ohosqssi
+ro.product.system_ext.manufacturer=QUALCOMM
+ro.product.system_ext.model=ohosqssi system image for arm64
+ro.product.system_ext.name=ohosqssi
+ro.system_ext.build.date=Thu May 11 19:21:12 CST 2023
+ro.system_ext.build.date.utc=1683804072
+ro.system_ext.build.fingerprint=Huawei/ohosqssi/ohosqssi:12/SKQ1.211230.001/root05111921:user/dev-keys
+ro.system_ext.build.id=SKQ1.211230.001
+ro.system_ext.build.tags=dev-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.root.20230511.191323
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# Auto-added by post_process_props.py
+persist.sys.usb.config=manufacture,adb
+# end of file

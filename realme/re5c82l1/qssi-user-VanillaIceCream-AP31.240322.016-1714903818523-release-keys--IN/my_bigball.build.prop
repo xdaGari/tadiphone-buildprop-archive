@@ -1,0 +1,15 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=export_23682_realme_IN_NA
+ro.oplus.image.my_bigball.date=2024-05-05 15:06:14
+ro.oplus.image.my_bigball.date.utc=1714892774
+ro.oplus.image.my_bigball.version_name=my_bigball23682_1500_V.9.100
+ro.oplus.rsa=rsa4-tier2
+ro.oplus.radio.global_regionlock.enabled=true
+ro.oplus.radio.global_regionlock.info=IN
+ro.oplus.radio.global_regionlock.cert=1661243042741,IN
+ro.oplus.radio.global_regionlock.log=true
+ro.oplus.radio.global_regionlockflag=4
+ro.oplus.radio.global_regionlockupgrade=true
+ro.oplus.radio.region_netlock_disable=true
+ro.oplus.image.my_bigball.version=23682_1500_V.9.100.2024050515031525088978.a9ef8899

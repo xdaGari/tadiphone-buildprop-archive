@@ -1,0 +1,39 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Ulefone
+ro.product.odm.device=Note_15
+ro.product.odm.manufacturer=Ulefone
+ro.product.odm.model=Note 15
+ro.product.odm.name=Note_15_EEA
+ro.odm.product.cpu.abilist=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=
+ro.odm.build.date=Thu Jul 27 18:25:57 CST 2023
+ro.odm.build.date.utc=1690453557
+ro.odm.build.fingerprint=Ulefone/Note_15_EEA/Note_15:12/SP1A.210812.016/2305082113:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=2305082113
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
+# begin fota properties
+ro.fota.platform=MTK6580_12.0
+ro.fota.type=phone
+ro.fota.app=5
+ro.fota.battery=30
+ro.fota.oem=hongxiangyuan6580_12.0
+ERROR: model do not exist in system/build.prop,Please define it

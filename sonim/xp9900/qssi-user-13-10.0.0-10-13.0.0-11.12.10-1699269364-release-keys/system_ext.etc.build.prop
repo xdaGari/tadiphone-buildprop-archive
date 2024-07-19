@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Sonim
+ro.product.system_ext.device=XP9900
+ro.product.system_ext.manufacturer=Sonimtech
+ro.product.system_ext.model=XP9900
+ro.product.system_ext.name=XP9904
+ro.system_ext.build.date=Mon Nov  6 19:16:04 CST 2023
+ro.system_ext.build.date.utc=1699269364
+ro.system_ext.build.fingerprint=Sonim/XP9904/XP9900:13/10.0.0-10-13.0.0-11.12.10/1699269364:user/release-keys
+ro.system_ext.build.id=TKQ1.230531.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=376
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

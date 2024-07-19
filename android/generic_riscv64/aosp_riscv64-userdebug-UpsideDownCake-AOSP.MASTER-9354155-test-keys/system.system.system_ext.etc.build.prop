@@ -1,0 +1,39 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Android
+ro.product.system_ext.device=generic_riscv64
+ro.product.system_ext.manufacturer=unknown
+ro.product.system_ext.model=AOSP on Riscv64
+ro.product.system_ext.name=aosp_riscv64
+ro.system_ext.build.date=Wed Nov 30 22:30:21 UTC 2022
+ro.system_ext.build.date.utc=1669847421
+ro.system_ext.build.fingerprint=Android/aosp_riscv64/generic_riscv64:UpsideDownCake/AOSP.MASTER/9354155:userdebug/test-keys
+ro.system_ext.build.id=AOSP.MASTER
+ro.system_ext.build.tags=test-keys
+ro.system_ext.build.type=userdebug
+ro.system_ext.build.version.incremental=9354155
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=UpsideDownCake
+ro.system_ext.build.version.sdk=33
+####################################
+# from build/make/target/board/gsi_system_ext.prop
+####################################
+# GSI always generate dex pre-opt in system image
+ro.cp_system_other_odex=0
+# GSI always disables adb authentication
+ro.adb.secure=0
+# GSI disables non-AOSP nnapi extensions on product partition
+ro.nnapi.extensions.deny_on_product=true
+# TODO(b/120679683): disable RescueParty before all problem apps solved
+persist.sys.disable_rescue=true
+# TODO(b/78105955): disable privapp_permissions checking before the bug solved
+ro.control_privapp_permissions=disable
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.lockscreen.disable.default=1
+ro.com.google.locationfeatures=1
+ro.setupwizard.mode=DISABLED
+# end of file

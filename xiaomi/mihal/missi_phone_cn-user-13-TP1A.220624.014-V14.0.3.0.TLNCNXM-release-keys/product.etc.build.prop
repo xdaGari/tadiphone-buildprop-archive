@@ -1,0 +1,71 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=missi
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=miproduct
+ro.product.product.name=miproduct_rubens_cn
+ro.product.build.date=Mon Dec  5 21:22:38 CST 2022
+ro.product.build.date.utc=1670246558
+ro.product.build.fingerprint=Redmi/miproduct_rubens_cn/missi:13/TP1A.220624.014/V14.0.3.0.TLNCNXM:user/release-keys
+ro.product.build.id=TP1A.220624.014
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=V14.0.3.0.TLNCNXM
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=product
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+persist.sys.mdlog_dumpback=2
+persist.vendor.mdlog.need_dump=1
+persist.vendor.mdlog.max_dump_file_count=10,*.muxz,*.bin
+ro.com.android.dataroaming=false
+debug.sf.disable_backpressure=1
+ro.miui.ui.version.code=14
+ro.miui.ui.version.name=V140
+ro.com.android.mobiledata=false
+ro.miui.build.region=cn
+ro.product.mod_device=rubens
+persist.sys.disable_bganimate=false
+ro.miui.has_gmscore=1
+ro.miui.product.home=com.miui.home
+persist.sys.adoptable=force_off
+ro.miui.notch=1
+ro.sf.lcd_density=560
+persist.miui.density_v2=560
+persist.sys.miui_sptm.enable=true
+persist.sys.miui_sptm.enable_pl_type=2
+persist.sys.preload.enable=true
+persist.sys.spc.cpulimit.enabled=true
+persist.miui.extm.enable=1
+dalvik.vm.heaptargetutilization=0.5
+dalvik.vm.heapminfree=2m
+persist.miui.miperf.enable=true
+persist.sys.gz.enable=true
+persist.sys.spc.bindvisible.enabled=true
+persist.sys.enable_rtmode=true
+ro.miui.block_device_path=/dev/block/by-name
+vendor.debug.sf.cpupolicy=0
+ro.sf.blurs_are_expensive=1
+persist.sys.scout_binder_gki=true
+persist.sys.device_config_gki=true
+persist.sys.debug.enable_scout_memory_monitor=true
+persist.sys.debug.enable_scout_memory_resume=true
+bluetooth.profile.bap.unicast.client.enabled=true
+bluetooth.profile.csip.set_coordinator.enabled=true
+bluetooth.profile.mcp.server.enabled=true
+bluetooth.profile.ccp.server.enabled=true
+bluetooth.profile.vcp.controller.enabled=true
+persist.vendor.gnss.hpLocSetUI=true
+# end of file
+

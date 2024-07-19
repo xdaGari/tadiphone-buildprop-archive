@@ -1,0 +1,34 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+ro.oplus.system.camera.name=com.oppo.camera
+ro.separate.soft=21675
+ro.build.kernel.id=5.4.57
+ro.vendor.product.oem=RMX3360
+ro.vendor.product.device.oem=RMX3360L1
+ro.commonsoft.ota=RMX3360L1
+ro.com.google.clientidbase=android-oppo
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V11.2
+ro.build.version.realmeui=V2.0
+ro.oppo.market.name=RMX3360
+ro.build.display.id=RMX3360_11_A.01
+ro.build.display.full_id=RMX3360_11_A.01_211221
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.facebook.partnerid=oppo:de8df4f5-bc34-4319-892c-cdf507e7e268
+ro.build.device_family=OPSM7325
+ro.product.sar=1.7
+ro.oplus.radio.project=1
+persist.sys.oplus.nfc.antenna_area=bottom
+odm.dirac.path=/odm/etc/dirac
+ro.oplus.screenhole.border=8
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=21675
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

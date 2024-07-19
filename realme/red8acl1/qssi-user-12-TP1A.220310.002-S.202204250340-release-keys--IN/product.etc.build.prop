@@ -1,0 +1,46 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=oplus
+ro.product.product.device=ossi
+ro.product.product.manufacturer=oplus
+ro.product.product.model=ossi
+ro.product.product.name=ossi
+ro.product.build.date=Sat May  7 05:08:48 CST 2022
+ro.product.build.date.utc=1651871328
+ro.product.build.fingerprint=oplus/ossi/ossi:Tiramisu/TP1A.220310.002/1651871328008:user/release-keys
+ro.product.build.id=TP1A.220310.002
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=1651871328008
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=Tiramisu
+ro.product.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=Tiramisu
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=product,system,system_ext,vbmeta_system
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.apex.updatable=false
+ro.apex.updatable=false
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

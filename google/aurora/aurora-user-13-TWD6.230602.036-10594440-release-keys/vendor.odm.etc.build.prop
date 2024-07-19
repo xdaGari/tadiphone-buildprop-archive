@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=google
+ro.product.odm.device=aurora
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Google Pixel Watch 2
+ro.product.odm.name=aurora
+ro.odm.product.cpu.abilist=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=
+ro.odm.build.date=Tue Aug  1 20:05:20 UTC 2023
+ro.odm.build.date.utc=1690920320
+ro.odm.build.fingerprint=google/aurora/aurora:13/TWD6.230602.036/10594440:user/release-keys
+ro.odm.build.id=TWD6.230602.036
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=10594440
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+

@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=HMD
+ro.product.bootimage.device=LGD
+ro.product.bootimage.manufacturer=HMD Global
+ro.product.bootimage.model=Legend
+ro.product.bootimage.name=Legend_00EEA
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.bootimage.build.date=Tue Apr 16 10:06:25 UTC 2024
+ro.bootimage.build.date.utc=1713261985
+ro.bootimage.build.fingerprint=HMD/Legend_00EEA/LGD:14/UP1A.231005.007/00WW_1_120:user/release-keys
+ro.bootimage.build.id=UP1A.231005.007
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=00WW_1_120
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+####################################
+# Load sku properties
+####################################
+import /product/etc/bootimage/one_image/${ro.boot.board_device}/${ro.boot.skuid}/${ro.boot.nfc_support}/odm_custom.prop
+# end of file
+

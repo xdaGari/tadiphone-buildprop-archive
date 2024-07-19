@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Infinix
+ro.product.system_ext.device=Infinix-X6739
+ro.product.system_ext.manufacturer=INFINIX
+ro.product.system_ext.model=Infinix X6739
+ro.product.system_ext.name=X6739-GL
+ro.product.system_ext.tran.device.name.default=Infinix GT 10 Pro
+ro.system_ext.build.date=Sun Feb  4 01:25:03 CST 2024
+ro.system_ext.build.date.utc=1706981103
+ro.system_ext.build.fingerprint=Infinix/X6739-GL/Infinix-X6739:13/TP1A.220624.014/240204V3069:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=240204V3069
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file

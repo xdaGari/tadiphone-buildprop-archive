@@ -1,0 +1,4 @@
+persist.sys.language=fr
+persist.sys.country=FR
+ro.odm.pmc.FOTA.operatorgroup=Open
+ro.odm.pmc.FOTA.operator=France

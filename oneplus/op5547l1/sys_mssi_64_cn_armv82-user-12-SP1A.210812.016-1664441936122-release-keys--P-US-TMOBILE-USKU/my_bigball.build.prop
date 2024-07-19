@@ -1,0 +1,19 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=export_21831_OnePlus_US_P_US_TMOBILE_USKU
+ro.oplus.image.my_bigball.date=2022-09-29 16:24:06
+ro.oplus.image.my_bigball.date.utc=1664439846
+ro.oplus.image.my_bigball.version_name=my_bigball21831.6.5
+ro.oplus.server_url_1=https://fourier-newds01-us.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-us.allawnos.com/autotime/dateandtime.xml?number=
+ro.com.google.clientidbase=android-oneplus
+ro.com.google.clientidbase.ms=android-tmus-us-rvc3
+ro.com.google.clientidbase.vs=android-tmus-us-rvc3
+ro.com.google.clientidbase.pg=android-tmus-inca
+sys.override.simswitch.property=1
+ro.oplus.rsa3.support=true
+ro.boot.opcarrier=none
+ro.imei.check=yes
+ro.oplus.control.shutdown.delaytime=8
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_bigball.version=21831.6.5.2022092916150111127638.369ce635

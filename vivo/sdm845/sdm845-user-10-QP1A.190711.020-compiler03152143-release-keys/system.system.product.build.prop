@@ -1,0 +1,11 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=overseas
+ro.setupwizard.stat_bar_disable=0
+ro.setupwizard.rotation_locked=true
+ro.setupwizard.wifi_on_exit=false
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=10_202002

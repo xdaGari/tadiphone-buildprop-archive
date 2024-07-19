@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=Xiaomi
+ro.product.system_dlkm.device=missi
+ro.product.system_dlkm.manufacturer=Xiaomi
+ro.product.system_dlkm.model=missi
+ro.product.system_dlkm.name=missi
+ro.system_dlkm.build.date=Thu Jul 13 05:50:34 UTC 2023
+ro.system_dlkm.build.date.utc=1689227434
+ro.system_dlkm.build.fingerprint=Xiaomi/missi_phoneext4_global/missi:13/TP1A.220624.014/V14.0.3.0.TKPTRXM:user/release-keys
+ro.system_dlkm.build.id=TP1A.220624.014
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=V14.0.3.0.TKPTRXM
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

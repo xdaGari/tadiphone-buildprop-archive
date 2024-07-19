@@ -1,0 +1,42 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=samsung
+ro.product.product.device=gta7litewifi
+ro.product.product.manufacturer=samsung
+ro.product.product.model=SM-T220
+ro.product.product.name=gta7litewifixx
+ro.product.build.date=Wed Jul 27 15:22:37 KST 2022
+ro.product.build.date.utc=1658902957
+ro.product.build.fingerprint=samsung/gta7litewifixx/gta7litewifi:12/SP1A.210812.016/T220XXU1BVGB:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=T220XXU1BVGB
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=tablet
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+restore.feature.use_samsung_smart_switch_flow=1
+setupwizard.feature.enable_stencil_partner_customization=1
+ro.com.google.clientidbase=android-samsung-ss
+ro.setupwizard.rotation_locked=false
+setupwizard.theme=glif_v3_light
+ro.setupwizard.wifi_on_exit=false
+ro.setupwizard.mode=OPTIONAL
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202204
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

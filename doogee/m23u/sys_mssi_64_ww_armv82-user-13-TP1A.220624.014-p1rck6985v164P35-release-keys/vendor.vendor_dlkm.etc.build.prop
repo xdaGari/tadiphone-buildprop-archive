@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=DOOGEE
+ro.product.vendor_dlkm.device=M23U
+ro.product.vendor_dlkm.manufacturer=DOOGEE
+ro.product.vendor_dlkm.model=V30Pro
+ro.product.vendor_dlkm.name=M23U_EEA
+ro.vendor_dlkm.build.date=Wed Mar  6 19:15:51 CST 2024
+ro.vendor_dlkm.build.date.utc=1709723751
+ro.vendor_dlkm.build.fingerprint=DOOGEE/M23U_EEA/M23U:12/SP1A.210812.016/1709723751:user/release-keys
+ro.vendor_dlkm.build.id=DOOGEE-V30Pro-EEA-Android13.0-20240315
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=1rck61v164bspP62
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

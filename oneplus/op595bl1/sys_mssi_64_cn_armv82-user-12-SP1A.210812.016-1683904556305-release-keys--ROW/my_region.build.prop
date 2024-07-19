@@ -1,0 +1,10 @@
+# build porp start
+ro.oplus.image.my_region.type=ROW_all
+ro.oplus.image.my_region.date=2023-05-11 13:04:17
+ro.oplus.image.my_region.date.utc=1683781457
+ro.oplus.image.my_region.version_name=1EP0000
+ro.oplus.pipeline.region=ROW
+ro.vendor.oplus.radio.sar_regionmark=EUEX
+ro.vendor.oplus.modemdump_enable=1
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_region.version=12.1.12311.2023051113015917190310.4c419002

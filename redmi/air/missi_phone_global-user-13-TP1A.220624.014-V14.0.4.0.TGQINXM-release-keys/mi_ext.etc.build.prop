@@ -1,0 +1,4 @@
+ro.miui.trustonic.packagename=com.trustonic.telecoms.standard.dpc
+ro.product.mod_device=air_in_global
+ro.com.google.acsa=true
+ro.miui.build.region=in

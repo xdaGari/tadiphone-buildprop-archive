@@ -1,0 +1,55 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Redmi
+ro.product.system_ext.device=missi
+ro.product.system_ext.manufacturer=Xiaomi
+ro.product.system_ext.model=missi
+ro.product.system_ext.name=missi_global
+ro.product.model_for_attestation=missi
+ro.product.brand_for_attestation=Redmi
+ro.product.name_for_attestation=missi_global
+ro.product.manufacturer_for_attestation=Xiaomi
+ro.product.device_for_attestation=missi
+ro.system_ext.build.display.id=14 V816.0.3.0.UGSMIXM
+ro.system_ext.build.description=missi_global-user 14 UP1A.231005.007 V816.0.3.0.UGSMIXM release-keys
+ro.system_ext.build.date=Wed May 22 20:33:51 CST 2024
+ro.system_ext.build.date.utc=1716381231
+ro.system_ext.build.fingerprint=Redmi/missi/missi:14/UP1A.231005.007/V816.0.3.0.UGSMIXM:user/release-keys
+ro.system_ext.build.id=UP1A.231005.007
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=V816.0.3.0.UGSMIXM
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.system.component.label=SYSTEM-Android14--U1.0-W24.21.3
+ro.sprd.superresolution=1
+ro.sr.displaysize.defaultresolution=0
+ro.sr.displaysize.lowresolution=1
+ro.media.recoderEIS.enabled=true
+ro.media.wfd.rgb.enabled=true
+ro.sprd.pwctl.ultra.message=1
+ro.sys.pwctl.ultrasaving=1
+ro.launcher.multimode=true
+ro.launcher.dynamic=false
+ro.launcher.desktopgrid=true
+ro.launcher.notifbadge.count=true
+ro.product.assistanttouch=false
+ro.telephony.se.enable=true
+keyguard.no_require_sim=true
+ro.com.android.dataroaming=false
+ro.simlock.unlock.autoshow=1
+ro.simlock.unlock.bynv=0
+ro.simlock.onekey.lock=0
+persist.vendor.radio.mdrec.simpin.cache=0
+persist.nhmonitor.enable=on
+ro.unipnp.switch=true
+ro.support_one_handed_mode=true
+persist.sys.bl.clearuserdata=true
+# end of file
+

@@ -1,0 +1,38 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=CUBOT
+ro.product.product.device=P60
+ro.product.product.manufacturer=CUBOT
+ro.product.product.model=P60
+ro.product.product.name=P60_EEA
+ro.product.build.date=Wed Sep 28 14:14:32 CST 2022
+ro.product.build.date.utc=1664345672
+ro.product.build.fingerprint=CUBOT/P60_EEA/P60:12/SP1A.210812.016/39338:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=39338
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,product,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.com.google.acsa=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202207
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

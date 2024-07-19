@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=monaco
+ro.product.system_ext.manufacturer=QUALCOMM
+ro.product.system_ext.model=Dialga
+ro.product.system_ext.name=monaco
+ro.system_ext.build.date=Sat May 11 18:20:33 CST 2024
+ro.system_ext.build.date.utc=1715422833
+ro.system_ext.build.fingerprint=google/monaco/monaco:13/TWR7.231113.001/1089:user/release-keys
+ro.system_ext.build.id=TWR7.231113.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=1089
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=0
+telephony.active_modems.max_count=2
+# end of file

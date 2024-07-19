@@ -1,0 +1,57 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=vivo
+ro.product.product.device=PD2243
+ro.product.product.manufacturer=vivo
+ro.product.product.model=V2243A
+ro.product.product.name=PD2243
+ro.product.build.date=Tue Dec  6 09:07:13 CST 2022
+ro.product.build.date.utc=1670288833
+ro.product.build.fingerprint=vivo/PD2243/PD2243:13/TP1A.220624.014/compiler12060907:user/release-keys
+ro.product.build.id=TP1A.220624.014
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.compil.20221206.090713
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=vendor,aop,vgc,vm-bootsys,vbmeta_oem,multiimgoem,dsp,recovery,xbl_config,vbmeta_vgc,cpucp,tz,imagefv,system,vendor_dlkm,dtbo,devcfg,vbmeta,boot,odm,system_dlkm,system_ext,bluetooth,product,multiimgqti,xbl_ramdump,vbmeta_system,hyp,oem,shrm,init_boot,xbl,uefisecapp,qupfw,vendor_boot,featenabler,modem,uefi,abl,aop_config,keymaster,storage
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.avrcp.controller.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=13_202211
+# end of file

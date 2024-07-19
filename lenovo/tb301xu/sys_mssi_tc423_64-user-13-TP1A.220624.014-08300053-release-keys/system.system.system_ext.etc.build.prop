@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Lenovo
+ro.product.system_ext.device=mssi_tc423_64
+ro.product.system_ext.manufacturer=LENOVO
+ro.product.system_ext.model=TB301XU
+ro.product.system_ext.name=sys_mssi_tc423_64
+ro.system_ext.build.date=Wed Aug 30 00:53:15 CST 2023
+ro.system_ext.build.date.utc=1693327995
+ro.system_ext.build.fingerprint=Lenovo/TB301XU/TB301XU:13/TP1A.220624.014/S000083_230830_ROW:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=TB301XU_USR_S000083_230830_MP1V1111_ROW
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file

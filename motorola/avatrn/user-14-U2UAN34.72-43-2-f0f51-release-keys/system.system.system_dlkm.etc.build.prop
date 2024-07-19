@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=motorola
+ro.product.system_dlkm.device=msi
+ro.product.system_dlkm.manufacturer=motorola
+ro.product.system_dlkm.model=motorola edge 2024
+ro.product.system_dlkm.name=avatrn_g
+ro.system_dlkm.build.date=Mon May 20 08:09:42 CDT 2024
+ro.system_dlkm.build.date.utc=1716210582
+ro.system_dlkm.build.fingerprint=motorola/avatrn_g/msi:14/U2UAN34M.72-43-2/5ad2c8:user/release-keys
+ro.system_dlkm.build.id=U2UAN34M.72-43-2
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=5ad2c8
+ro.system_dlkm.build.version.release=14
+ro.system_dlkm.build.version.release_or_codename=14
+ro.system_dlkm.build.version.sdk=34
+# end of file
+

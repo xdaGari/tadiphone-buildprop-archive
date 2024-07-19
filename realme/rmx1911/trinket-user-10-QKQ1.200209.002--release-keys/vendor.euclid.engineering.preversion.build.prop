@@ -1,0 +1,8 @@
+# build porp start
+ro.sys.engineering.pre=true
+persist.sys.oppo.log.config=0
+persist.sys.assert.panic=true
+persist.sys.log.user=1
+persist.vendor.ssr.enable_ramdumps=1
+persist.sys.enable_wcnss_dump=1
+persist.sys.enable_modem_dump=1

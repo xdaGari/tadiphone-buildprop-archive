@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=Android
+ro.product.system_dlkm.device=generic_x86_64
+ro.product.system_dlkm.manufacturer=unknown
+ro.product.system_dlkm.model=AOSP on x86_64
+ro.product.system_dlkm.name=aosp_x86_64
+ro.system_dlkm.build.date=Tue Jul 12 01:24:05 UTC 2022
+ro.system_dlkm.build.date.utc=1657589045
+ro.system_dlkm.build.fingerprint=Android/aosp_x86_64/generic_x86_64:13/TP1A.220624.014/8819323:user/release-keys
+ro.system_dlkm.build.id=TP1A.220624.014
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=8819323
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file
+

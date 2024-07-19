@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Ulefone
+ro.product.bootimage.device=Note_15
+ro.product.bootimage.manufacturer=Ulefone
+ro.product.bootimage.model=Note 15
+ro.product.bootimage.name=Note_15_EEA
+ro.bootimage.build.date=Thu Jul 27 18:25:57 CST 2023
+ro.bootimage.build.date.utc=1690453557
+ro.bootimage.build.fingerprint=Ulefone/Note_15_EEA/Note_15:12/SP1A.210812.016/2305082113:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=2305082113
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
+# begin fota properties
+ro.fota.platform=MTK6580_12.0
+ro.fota.type=phone
+ro.fota.app=5
+ro.fota.battery=30
+ro.fota.oem=hongxiangyuan6580_12.0
+ERROR: model do not exist in system/build.prop,Please define it

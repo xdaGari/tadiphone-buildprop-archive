@@ -1,0 +1,13 @@
+### create for oneimage 1HMEEA
+ro.config.ringtone=Arrival.mp3
+ro.config.ringtone2=Arrival.mp3
+ro.config.notification_sound=Cadenza.mp3
+ro.config.alarm_alert=Spirals.mp3
+ro.com.google.clientidbase=android-hmd
+ro.com.google.clientidbase.ms=android-hmd-terr2-rso1
+ro.com.google.clientidbase.vs=android-hmd-terr2-rso1
+ro.com.google.clientidbase.tx=android-hmd-terr2-rso1
+ro.com.google.clientidbase.pg=android-hmd-deo1
+persist.sys.customanim.boot=/product/media/hmeea/bootanimation.zip
+import /product/1HMEEA/etc/fingerprint.prop
+

@@ -1,0 +1,28 @@
+ro.vendor.build.fingerprint=Nokia/AgentWifi_00WW/AGTA:12/SP1A.210812.016/00WW_1_320:user/release-keys
+ro.odm.build.fingerprint=Nokia/AgentWifi_00WW/AGTA:12/SP1A.210812.016/00WW_1_320:user/release-keys
+ro.system.build.fingerprint=Nokia/AgentWifi_00WW/AGTA:12/SP1A.210812.016/00WW_1_320:user/release-keys
+ro.product.build.fingerprint=Nokia/AgentWifi_00WW/AGTA:12/SP1A.210812.016/00WW_1_320:user/release-keys
+ro.system_ext.build.fingerprint=Nokia/AgentWifi_00WW/AGTA:12/SP1A.210812.016/00WW_1_320:user/release-keys
+ro.vendor_dlkm.build.fingerprint=Nokia/AgentWifi_00WW/AGTA:12/SP1A.210812.016/00WW_1_320:user/release-keys
+ro.bootimage.build.fingerprint=Nokia/AgentWifi_00WW/AGTA:12/SP1A.210812.016/00WW_1_320:user/release-keys
+#
+# ADDITIONAL ODM 600CLA_WIFI BUILD PROPERTIES
+#
+ro.com.google.clientidbase=android-hmd
+ro.com.google.clientidbase.ms=android-americamovil-{country}-revc
+ro.com.google.clientidbase.am=android-americamovil-{country}
+ro.com.google.clientidbase.vs=android-americamovil-{country}-revc
+ro.com.google.clientidbase.tx=android-hmd-rvo3
+ro.build.product.name=AgentWifi_00WW
+ro.product.model.num=00WW
+ro.product.name=AgentWifi_00WW
+ro.product.odm.name=AgentWifi_00WW
+ro.product.product.name=AgentWifi_00WW
+ro.product.system.name=AgentWifi_00WW
+ro.product.system_ext.name=AgentWifi_00WW
+ro.product.vendor.name=AgentWifi_00WW
+ro.product.bootimage.name=AgentWifi_00WW
+ro.product.vendor_dlkm.name=AgentWifi_00WW
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+

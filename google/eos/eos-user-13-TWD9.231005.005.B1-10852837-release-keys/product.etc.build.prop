@@ -1,0 +1,58 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=google
+ro.product.product.device=eos
+ro.product.product.manufacturer=Google
+ro.product.product.model=Google Pixel Watch 2
+ro.product.product.name=eos
+ro.product.build.date=Sat Sep 23 07:02:00 UTC 2023
+ro.product.build.date.utc=1695452520
+ro.product.build.fingerprint=google/eos/eos:13/TWD9.231005.005.B1/10852837:user/release-keys
+ro.product.build.id=TWD9.231005.005.B1
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=10852837
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from vendor/google_devices/eos/prebuilts/nonhlos_versions.prop
+####################################
+ro.vendor.qc_release.adsp=ADSP.IT.2.1-00061-ATHERTON-2
+ro.vendor.qc_release.apps=LW.UM.2.1.r1-04000-SW5100.0-1
+ro.vendor.qc_release.boot=BOOT.XF.4.3-00232-ATHERTONLAZ-1
+ro.vendor.qc_release.build=SW5100.LW.2.0 ES6 0.0.078.3a OEM 5D002.c.1 366372
+ro.vendor.qc_release.glue=GLUE.ATHERTON_LW.2.0-00046-NOOP_TEST-1
+ro.vendor.qc_release.modem=MPSS.HA.2.0-00439-ATHERTON_GEN_PACK-2
+ro.vendor.qc_release.rpm=RPM.BF.1.12-00102-ATHERTONAAAAANAZR-1
+ro.vendor.qc_release.tz_apps=TZ.APPS.2.0.1-00103-KAMORTAAAAAANAZT-2
+ro.vendor.qc_release.tz=TZ.XF.5.1.5-00292-ATHERTONAAAANBZT-2
+ro.vendor.qc_release.wlan=WLAN.HL.3.4.1.c1-00182-QCAHLSWMTPLZ-1
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+dalvik.vm.systemservercompilerfilter=speed-profile
+ro.product.vndk.version=33
+ro.build.characteristics=nosdcard,watch
+ro.product.ab_ota_partitions=abl,adsp_oda,boot,devcfg,dtbo,eseproxy,eseservice,hyp,imagefv,init_boot,keymaster,modem,multiimgoem,product,qupfw,rpm,system,system_dlkm,system_ext,tz,uefisecapp,vbmeta,vbmeta_system,vendor,vendor_boot,vendor_dlkm,vendor_kernel_boot,xbl,xbl_config
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+audio.offload.min.duration.secs=30
+ro.af.client_heap_size_kbyte=7168
+af.fast_track_multiplier=1
+persist.traced.enable=1
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/wear_lms
+ro.com.google.ime.asr_lm_dir=/product/usr/share/ime/google/wear_asr_lms
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.avrcp.controller.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hid.device.enabled=true
+ro.oem.enable_fido_smart_setup=true
+ro.lmk.log_stats=true
+# end of file
+

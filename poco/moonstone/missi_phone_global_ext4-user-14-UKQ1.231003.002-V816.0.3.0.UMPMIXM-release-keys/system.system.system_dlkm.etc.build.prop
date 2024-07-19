@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=Android
+ro.product.system_dlkm.device=missi
+ro.product.system_dlkm.manufacturer=QUALCOMM
+ro.product.system_dlkm.model=missi_phoneext4_global system image for arm64
+ro.product.system_dlkm.name=missi_phoneext4_global
+ro.product.system_dlkm.cert=
+ro.product.system_dlkm.marketname=
+ro.system_dlkm.build.date=Fri Jan 12 08:49:33 UTC 2024
+ro.system_dlkm.build.date.utc=1705049373
+ro.system_dlkm.build.fingerprint=Android/missi_phoneext4_global/missi:14/UKQ1.231003.002/V816.0.3.0.UMPMIXM:user/release-keys
+ro.system_dlkm.build.id=UKQ1.231003.002
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=V816.0.3.0.UMPMIXM
+ro.system_dlkm.build.version.release=14
+ro.system_dlkm.build.version.release_or_codename=14
+ro.system_dlkm.build.version.sdk=34
+# end of file
+

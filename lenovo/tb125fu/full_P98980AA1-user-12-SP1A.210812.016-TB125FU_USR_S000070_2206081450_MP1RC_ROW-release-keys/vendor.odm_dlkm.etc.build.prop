@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Lenovo
+ro.product.odm_dlkm.device=TB125FU
+ro.product.odm_dlkm.manufacturer=LENOVO
+ro.product.odm_dlkm.model=Lenovo TB125FU
+ro.product.odm_dlkm.name=TB125FU
+ro.odm_dlkm.build.date=Wed Jun  8 17:27:29 CST 2022
+ro.odm_dlkm.build.date.utc=1654680449
+ro.odm_dlkm.build.fingerprint=Lenovo/TB125FU/TB125FU:12/SP1A.210812.016/S000070_220608_ROW:user/release-keys
+ro.odm_dlkm.build.id=SP1A.210812.016
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=TB125FU_USR_S000070_2206081450_MP1RC_ROW
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=SHARP
+ro.product.bootimage.device=STTM21VAPP
+ro.product.bootimage.manufacturer=SHARP
+ro.product.bootimage.model=STTM21VAPP
+ro.product.bootimage.name=VZW_STTM21VAPP
+ro.product.bootimage.nickname=ROUVO V
+ro.bootimage.build.date=Fri Jun 24 16:50:02 CST 2022
+ro.bootimage.build.date.utc=1656060602
+ro.bootimage.build.fingerprint=SHARP/VZW_STTM21VAPP/STTM21VAPP:12/SP1A.210812.016/1KN0_0_460:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=1KN0_0_460
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+ro.vendor.model.sar=1KN0
+ro.build.display.id=STTM21VAPP_0460
+ro.product.nickname=ROUVO V
+vendor.ro.product.product.brand=SHARP
+vendor.ro.product.model.display=STTM21VAPP
+vendor.ro.product.product.name=VZW_STTM21VAPP
+vendor.ro.build.version.release=12
+vendor.ro.product.build.version.incremental=1KN0_0_460
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

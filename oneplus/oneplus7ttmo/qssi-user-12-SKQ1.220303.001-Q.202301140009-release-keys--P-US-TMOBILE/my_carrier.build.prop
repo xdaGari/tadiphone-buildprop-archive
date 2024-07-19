@@ -1,0 +1,10 @@
+# build porp start
+ro.oplus.image.my_carrier.type=P_US_TMOBILE_all
+ro.oplus.image.my_carrier.date=2022-09-29 07:39:26
+ro.oplus.image.my_carrier.date.utc=1664408366
+ro.oplus.image.my_carrier.version_name=X00USTM00
+ro.oplus.pipeline.carrier=P-US-TMOBILE
+ro.oplus.radio.lte_rsrp_thresholds=-125,-120,-115,-110,-100,-44
+ro.oplus.radio.wcdma_rsrp_thresholds=-120,-113,-103,-97,-89,-25
+ro.vendor.oplus.radio.multisim.config=ssss
+ro.oplus.image.my_carrier.version=12.1.12311.2022092904044311116688.6fa4cf43

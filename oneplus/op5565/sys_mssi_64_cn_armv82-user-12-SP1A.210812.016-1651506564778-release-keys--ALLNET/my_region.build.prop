@@ -1,0 +1,14 @@
+# build porp start
+ro.oplus.image.my_region.type=CN_all
+ro.oplus.image.my_region.date=2022-04-21 17:49:15
+ro.oplus.image.my_region.date.utc=1650534555
+ro.oplus.image.my_region.version_name=21861.3.200-null
+ro.oplus.pipeline.region=CN
+ro.vendor.oplus.radio.cn_nvbk=TRUE
+ro.vendor.oplus.radio.cn_ims_register=true
+ro.vendor.oplus.radio.cn_use_3gpp2=true
+ro.vendor.oplus.radio.cn_use_nitz=true
+ro.sys.custom.permissioncontroller=true
+ro.sys.custom.apexcontroller=true
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_region.version=21861.3.200.202204211746156975052.f2b292f7

@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=meizu
+ro.product.odm.device=Meizu21Note
+ro.product.odm.manufacturer=meizu
+ro.product.odm.model=MEIZU 21 Note
+ro.product.odm.name=Meizu_21Note_CN
+ro.build.fingerprint=meizu/Meizu_21Note_CN/Meizu21Note:14/UKQ1.230917.001/1711913844:user/release-keys
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Tue May  7 18:25:49 CST 2024
+ro.odm.build.date.utc=1715077549
+ro.odm.build.fingerprint=meizu/Meizu_21Note_CN/Meizu21Note:14/UKQ1.230917.001/1711913844:user/release-keys
+ro.odm.build.id=TKQ1.230929.001
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=1711913844
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file

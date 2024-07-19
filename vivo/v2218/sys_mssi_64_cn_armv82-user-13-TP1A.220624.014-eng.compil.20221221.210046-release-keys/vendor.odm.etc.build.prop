@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=vivo
+ro.product.odm.device=V2218
+ro.product.odm.manufacturer=vivo
+ro.product.odm.model=V2218
+ro.product.odm.name=V2218
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Wed Dec 21 20:57:33 CST 2022
+ro.odm.build.date.utc=1671627453
+ro.odm.build.fingerprint=vivo/V2218/V2218:13/TP1A.220624.014/compiler12212057:user/release-keys
+ro.odm.build.id=TP1A.220624.014
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=eng.compil.20221221.210045
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+import  /oem/odm.prop ro.*
+# end of file

@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=vivo
+ro.product.system_dlkm.device=V2219
+ro.product.system_dlkm.manufacturer=vivo
+ro.product.system_dlkm.model=V2219
+ro.product.system_dlkm.name=V2219
+ro.system_dlkm.build.date=Thu Sep 21 00:10:25 CST 2023
+ro.system_dlkm.build.date.utc=1695226225
+ro.system_dlkm.build.fingerprint=vivo/V2219/V2219:13/TP1A.220624.014/compiler09210010:user/release-keys
+ro.system_dlkm.build.id=TP1A.220624.014
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=eng.compil.20230921.001412
+ro.system_dlkm.build.version.release=13
+ro.system_dlkm.build.version.release_or_codename=13
+ro.system_dlkm.build.version.sdk=33
+# end of file

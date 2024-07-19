@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Fairphone
+ro.product.system_ext.device=qssi
+ro.product.system_ext.manufacturer=Fairphone
+ro.product.system_ext.model=FP5
+ro.product.system_ext.name=qssi
+ro.system_ext.build.date=Tue Aug 22 16:49:23 CST 2023
+ro.system_ext.build.date.utc=1692694163
+ro.system_ext.build.fingerprint=Fairphone/FP5/FP5:13/TKQ1.230127.002/TT3G:user/release-keys
+ro.system_ext.build.id=TKQ1.230127.002
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=TT3G
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.sys.disable_rescue=true
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

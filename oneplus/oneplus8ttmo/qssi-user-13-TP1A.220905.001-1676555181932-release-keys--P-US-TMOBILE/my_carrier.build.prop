@@ -1,0 +1,11 @@
+# build porp start
+ro.oplus.image.my_carrier.type=P_US_TMOBILE_all
+ro.oplus.image.my_carrier.date=2022-12-24 02:12:43
+ro.oplus.image.my_carrier.date.utc=1671819163
+ro.oplus.image.my_carrier.version_name=X00USTM00
+ro.oplus.pipeline.carrier=P-US-TMOBILE
+ro.vendor.oplus.radio.multisim.config=ssss
+persist.sys.oplus.radio.recovery_config=0,0,0,0
+ro.oplus.radio.vonr_sa_backoff_feature_enabled=false
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_carrier.version=13.0.02331.2022122402002113618080.2e82c3c8

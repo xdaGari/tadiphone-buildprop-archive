@@ -1,0 +1,11 @@
+# build porp start
+ro.oplus.image.my_region.type=EUEX_all
+ro.oplus.image.my_region.date=2022-08-25 18:08:01
+ro.oplus.image.my_region.date.utc=1661422081
+ro.oplus.image.my_region.version_name=XEU0000
+ro.oplus.pipeline.region=EUEX
+ro.vendor.oplus.radio.sar_regionmark=EUEX
+ro.vendor.oplus.nwopt=true
+ro.vendor.oplus.audiodriver.region=EU
+ro.vendor.oplus.feature.mute_left_spk=1
+ro.oplus.image.my_region.version=13.0.02331.2022082518034210194592.abb2bc66

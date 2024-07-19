@@ -1,0 +1,50 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.build.device_family=OPSM8350
+oplus.dex.tempcontrol=true
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=SM8350
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+persist.sys.enable_slpi_dump=1
+ro.oplus.system.camera.name=com.oplus.camera
+ro.separate.soft=20821
+ro.rom.featrue=allnet
+ro.build.product=MT2111
+ro.vendor.product.oem=MT2111
+ro.vendor.product.device.oem=OP5155
+ro.vendor.oplus.market.name=OnePlus 9RT 5G
+ro.sys.reserve.integrate=true
+ro.product.authentication=0
+ro.product.first_api_level=30
+ro.product.manufacturer=OnePlus
+ro.product.brand=OnePlus
+persist.sys.aging.2.0=true
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.oplusrom=V12.1
+ro.build.display.id=MT2111_11_C.01
+ro.build.display.full_id=MT2111_11_C.01_220531
+ro.com.google.lens.oem_camera_package=com.oppo.camera
+ro.com.google.lens.oem_image_package=com.oneplus.gallery
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+ro.oplus.support_gota=MT2111_IND
+ro.build.kernel.id=5.4.147
+ro.oplus.nfc.support.tee=true
+ro.oplus.connectivity.oversea=true
+ro.camera.notify_nfc=1
+ro.oplus.image.odm.type=20821
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.f570e45b

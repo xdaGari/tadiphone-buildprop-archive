@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Murena
+ro.product.bootimage.device=one
+ro.product.bootimage.manufacturer=Murena
+ro.product.bootimage.model=Murena One
+ro.product.bootimage.name=lineage_one
+ro.bootimage.build.date=Wed Sep 13 22:01:47 UTC 2023
+ro.bootimage.build.date.utc=1694642507
+ro.bootimage.build.fingerprint=Murena/lineage_one/one:12/SQ3A.220705.004/root09132201:userdebug/dev-keys
+ro.bootimage.build.id=SQ3A.220705.004
+ro.bootimage.build.tags=dev-keys
+ro.bootimage.build.type=userdebug
+ro.bootimage.build.version.incremental=eng.root.20230913.220248
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

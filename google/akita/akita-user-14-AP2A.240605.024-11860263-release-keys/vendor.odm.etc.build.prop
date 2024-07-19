@@ -1,0 +1,35 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=google
+ro.product.odm.device=akita
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Pixel 8a
+ro.product.odm.name=akita
+ro.product.model_for_attestation=Pixel 8a
+ro.product.brand_for_attestation=google
+ro.product.name_for_attestation=akita
+ro.product.device_for_attestation=akita
+ro.product.manufacturer_for_attestation=Google
+ro.odm.product.cpu.abilist=arm64-v8a
+ro.odm.product.cpu.abilist32=
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Sat May 18 07:09:59 UTC 2024
+ro.odm.build.date.utc=1716016199
+ro.odm.build.fingerprint=google/akita/akita:14/AP2A.240605.024/11860263:user/release-keys
+ro.odm.build.id=AP2A.240605.024
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=11860263
+ro.odm.build.version.release=14
+ro.odm.build.version.release_or_codename=14
+ro.odm.build.version.sdk=34
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+

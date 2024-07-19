@@ -1,0 +1,29 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=oplus
+ro.product.product.device=ossi
+ro.product.product.manufacturer=oplus
+ro.product.product.model=ossi
+ro.product.product.name=ossi
+ro.product.build.date=Tue Jan  3 11:27:32 CST 2023
+ro.product.build.date.utc=1672716452
+ro.product.build.fingerprint=oplus/ossi/ossi:13/TP1A.220905.001/1672716452343:user/release-keys
+ro.product.build.id=TP1A.220905.001
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=1672716452343
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+# end of file

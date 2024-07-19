@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Redmi
+ro.product.odm_dlkm.device=sky
+ro.product.odm_dlkm.manufacturer=Xiaomi
+ro.product.odm_dlkm.model=parrot for arm64
+ro.product.odm_dlkm.name=sky
+ro.odm_dlkm.build.date=Wed Jan 24 22:54:24 CST 2024
+ro.odm_dlkm.build.date.utc=1706108064
+ro.odm_dlkm.build.fingerprint=Redmi/sky/sky:12/SKQ1.230118.001/V816.0.1.0.UMWINXM:user/release-keys
+ro.odm_dlkm.build.id=SKQ1.230118.001
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=V816.0.1.0.UMWINXM
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

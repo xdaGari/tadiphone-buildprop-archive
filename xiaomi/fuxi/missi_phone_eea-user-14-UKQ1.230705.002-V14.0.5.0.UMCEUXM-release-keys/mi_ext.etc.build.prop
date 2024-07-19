@@ -1,0 +1,4 @@
+ro.miui.google.csp=true
+ro.product.mod_device=fuxi_eea_global
+ro.miui.build.region=eea
+ro.vendor.imeisv=70

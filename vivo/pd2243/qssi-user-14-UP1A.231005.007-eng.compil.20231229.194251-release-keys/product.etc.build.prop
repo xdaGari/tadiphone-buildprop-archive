@@ -1,0 +1,62 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=vivo
+ro.product.product.device=PD2243
+ro.product.product.manufacturer=vivo
+ro.product.product.model=V2243A
+ro.product.product.name=PD2243
+ro.product.build.date=Fri Dec 29 19:42:51 CST 2023
+ro.product.build.date.utc=1703850171
+ro.product.build.fingerprint=vivo/PD2243/PD2243:14/UP1A.231005.007/compiler12291942:user/release-keys
+ro.product.build.id=UP1A.231005.007
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.compil.20231229.194251
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=14
+ro.product.build.version.sdk=34
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=34
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=imagefv,hyp,bluetooth,vbmeta,xbl_config,vendor,storage,multiimgoem,boot,system_ext,vbmeta_vgc,multiimgqti,recovery,system_dlkm,qupfw,devcfg,vbmeta_oem,product,abl,cpucp,xbl_ramdump,dsp,vbmeta_system,odm,init_boot,shrm,uefi,vgc,xbl,oem,aop,system,tz,vm-bootsys,dtbo,modem,keymaster,vendor_dlkm,vendor_boot,uefisecapp,aop_config,featenabler
+ro.product.cpu.pagesize.max=4096
+ro.dalvik.vm.enable_uffd_gc=false
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+remote_provisioning.enable_rkpd=true
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.avrcp.controller.enabled=false
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=14_frc1
+persist.sys.fuse.bpf.override=false
+# end of file

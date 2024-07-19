@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=cheetah
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 7 Pro
+ro.product.system_ext.name=cheetah_beta
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_ext.build.date=Tue Feb 28 00:57:24 UTC 2023
+ro.system_ext.build.date.utc=1677545844
+ro.system_ext.build.fingerprint=google/cheetah_beta/cheetah:UpsideDownCake/UPP2.230217.004/9663077:user/release-keys
+ro.system_ext.build.id=UPP2.230217.004
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=9663077
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=UpsideDownCake
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+# end of file
+

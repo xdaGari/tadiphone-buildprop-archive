@@ -1,0 +1,8 @@
+# build porp start
+ro.oplus.image.my_company.type=Conan_OPPO
+ro.oplus.image.my_company.date=2024-01-15 20:27:00
+ro.oplus.image.my_company.date.utc=1705321620
+custom_theme_path_default_prop=/my_company/media/theme/default/
+ro.oplus.company_id=1001
+ro.oplus.ota.prefix.addition=20163
+ro.oplus.image.my_company.version=13.1.20163.2024011520251922888345.971d22e9

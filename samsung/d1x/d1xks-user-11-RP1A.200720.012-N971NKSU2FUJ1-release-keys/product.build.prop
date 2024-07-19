@@ -1,0 +1,6 @@
+ro.omc.build.version=N971NOKR2FUJ1
+ro.omc.build.id=44930631
+ro.omc.changetype=DATA_RESET_ON,FALSE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=TRUE
+ro.omc.region=KOR

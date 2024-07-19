@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Redmi
+ro.product.odm.device=gold
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=gold
+ro.product.odm.name=vnd_gold
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Thu May 23 10:05:03 UTC 2024
+ro.odm.build.date.utc=1716458703
+ro.odm.build.fingerprint=Redmi/vnd_gold/gold:12/UP1A.231005.007/V816.0.2.0.UNQCNXM:user/release-keys
+ro.odm.build.id=UP1A.231005.007
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=V816.0.2.0.UNQCNXM
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+import /vendor/odm/etc/build_${ro.boot.product.hardware.sku}.prop
+

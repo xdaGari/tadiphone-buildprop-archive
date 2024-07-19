@@ -1,0 +1,111 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=motorola
+# Removed by post_process_props.py because ro.product.product.device is a disallowed key
+#ro.product.product.device=tundra
+ro.product.product.manufacturer=motorola
+ro.product.product.model=XT2243-2
+ro.product.product.name=tundra_cn
+ro.product.build.date=Thu Mar 30 12:56:07 CDT 2023
+ro.product.build.date.utc=1680198967
+ro.product.build.fingerprint=motorola/tundra_cn/tundra:13/T1SJC33M.51-11-2/794553:user/release-keys
+ro.product.build.id=T1SJC33M.51-11-2
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=794553
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=product,system,system_ext
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.com.google.ime.kb_pad_port_l=11
+ro.com.google.ime.kb_pad_port_r=11
+persist.vendor.rcs.singlereg.feature=1
+persist.vendor.radio.force_gba_over_isim_app=1
+ro.telephony.default_network=27,27
+ro.config.zuk.operator=open
+ro.vendor.product.display.plain_text=moto S30 Pro
+ro.vendor.radio.imei.sv=1
+ro.product.carrier_revision=S3SJ32-1
+ro.apex.updatable=true
+setupwizard.theme=glif_v3_light
+ro.product.locale=zh-Hans-CN
+ro.product.is_prc=true
+ro.lenovo.region=prc
+ro.product.property_source_order=product,odm,vendor,system_ext,system
+ro.lenovo.single_hand=1
+ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural
+ril.subscription.types=RUIM
+ro.config.ringtone=MotoRetro.ogg
+ro.config.ringtone_2=MotoRetro.ogg
+ro.config.notification_sound=Bounce.ogg
+ro.config.alarm_alert=Helium.ogg
+ro.config.wallpaper=product/media/wallpapers/default_moto_wallpaper.jpg
+persist.carrier.support_smart_5g=1
+persist.carrier.enable_smart_5g=0
+persist.mot.support_data_stall_detect=1
+ro.mot.data_stall.lowest_time=20
+persist.mot.support_networkstate_service=1
+persist.mot.support_networkstate_pingpong_detect=1
+persist.mot.support_lte_fast_return=1
+vendor.mm.enable.qcom_parser=70178
+media.stagefright.thumbnail.prefer_hw_codecs=false
+ro.audio.lvacfs.enable=true
+ro.vendor.audio.crystal_talk.supported=true
+ro.audio.monitorWindowRotation=true
+ro.window_manager.high_refresh_rate_blacklist_length=1
+ro.window_manager.high_refresh_rate_blacklist_entry1=com.maxgames.stickwarlegacy
+ro.postinstall.fstab.prefix=/product
+af.fast_track_multiplier=1
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.avrcp.controller.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+bluetooth.profile.sap.server.enabled=true
+ro.mot.build.customerid=china
+persist.mot_bt.aptx_cert=true
+ro.support_one_handed_mode=true
+ro.surface_flinger.enable_frame_rate_override=true
+persist.vendor.sys.reduce_qdss_log=1
+ro.product.hid_ui=true
+persist.sys.fuse.passthrough.enable=true
+ro.mot.ota.reserved.space=1024
+ro.config.privacy_wallpaper=product/media/wallpapers/default_moto_privacy_wallpaper.jpg
+
+#
+# from device/moto/init/props/product.prop
+#
+import /product/etc/motorola/props/sku.${ro.boot.sku_variant}.prop
+import /product/etc/motorola/props/hardware.sku.${ro.boot.hardware.sku}.prop
+import /product/etc/motorola/props/carrier.${ro.boot.carrier}.prop
+# end of device/moto/init/props/product.prop
+# end of file
+

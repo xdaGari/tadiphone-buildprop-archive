@@ -1,0 +1,4 @@
+### create for oneimage 600EEA
+ro.product.odm.name=Apollo_00EEA
+import /odm/600EEA/etc/fingerprint.prop
+

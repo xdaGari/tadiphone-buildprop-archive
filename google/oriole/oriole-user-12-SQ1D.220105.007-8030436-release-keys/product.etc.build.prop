@@ -1,0 +1,77 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=google
+ro.product.product.device=oriole
+ro.product.product.manufacturer=Google
+ro.product.product.model=Pixel 6
+ro.product.product.name=oriole
+ro.product.build.date=Sun Dec 26 15:14:07 UTC 2021
+ro.product.build.date.utc=1640531647
+ro.product.build.fingerprint=google/oriole/oriole:12/SQ1D.220105.007/8030436:user/release-keys
+ro.product.build.id=SQ1D.220105.007
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=8030436
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=system,system_ext,product,vbmeta_system,boot,vendor_boot,dtbo,vbmeta,vbmeta_vendor,vendor,vendor_dlkm,bl1,pbl,bl2,abl,bl31,tzsw,gsa,ldfw,modem
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+persist.radio.reboot_on_modem_change=false
+persist.vendor.ril.camp_on_earlier=1
+persist.bluetooth.bqr.event_mask=30
+persist.bluetooth.bqr.min_interval_ms=500
+persist.sys.fuse.passthrough.enable=true
+ro.postinstall.fstab.prefix=/product
+persist.vendor.testing_battery_profile=2
+masterclear.allow_retain_esim_profiles_after_fdr=true
+persist.bluetooth.a2dp_aac.vbr_supported=true
+ro.vendor.vibrator.hal.long.frequency.shift=15
+vendor.powerhal.adpf.rate=11111111
+ro.com.google.ime.kb_pad_port_b=10
+persist.vendor.fingerprint.disable.fake.override=none
+ro.support_one_handed_mode=true
+# Removed by post_process_props.py because overridden by ro.config.alarm_alert=Fresh_start.ogg
+#ro.config.alarm_alert?=Bright_morning.ogg
+# Removed by post_process_props.py because overridden by ro.config.notification_sound=Eureka.ogg
+#ro.config.notification_sound?=Popcorn.ogg
+# Removed by post_process_props.py because overridden by ro.config.ringtone=Your_new_adventure.ogg
+#ro.config.ringtone?=The_big_adventure.ogg
+ro.opa.eligible_device=true
+ro.atrace.core.services=com.google.android.gms,com.google.android.gms.ui,com.google.android.gms.persistent
+ro.com.android.dataroaming=false
+ro.com.google.clientidbase=android-google
+ro.error.receiver.system.apps=com.google.android.gms
+ro.setupwizard.enterprise_mode=1
+ro.setupwizard.esim_cid_ignore=00000001
+ro.setupwizard.rotation_locked=true
+setupwizard.feature.baseline_setupwizard_enabled=true
+setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false
+setupwizard.feature.skip_button_use_mobile_data.carrier1839=true
+setupwizard.theme=glif_v3_light
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+setupwizard.feature.show_pixel_tos=true
+ro.llkd.enable=false
+ro.storage_manager.show_opt_in=false
+setupwizard.feature.show_support_link_in_deferred_setup=false
+ro.carriersetup.vzw_consent_page=true
+setupwizard.feature.day_night_mode_enabled=true
+ro.config.alarm_alert=Fresh_start.ogg
+ro.config.notification_sound=Eureka.ogg
+ro.config.ringtone=Your_new_adventure.ogg
+ro.vendor.camera.extensions.package=com.google.android.apps.camera.services
+ro.vendor.camera.extensions.service=com.google.android.apps.camera.services.extensions.service.PixelExtensions
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

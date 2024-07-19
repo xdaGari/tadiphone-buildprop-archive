@@ -1,0 +1,60 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=HMD
+ro.product.system_ext.device=LGD
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Legend
+ro.product.system_ext.name=Legend_00EEA
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_ext.build.display.id=UP1A.231005.007 release-keys
+ro.system_ext.build.description=Legend_00EEA-user 14 UP1A.231005.007 V1.120_B01 release-keys
+ro.system_ext.build.date=Tue Apr 16 10:06:25 UTC 2024
+ro.system_ext.build.date.utc=1713261985
+ro.system_ext.build.fingerprint=HMD/Legend_00EEA/LGD:14/UP1A.231005.007/00WW_1_120:user/release-keys
+ro.system_ext.build.id=UP1A.231005.007
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=00WW_1_120
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.com.android.prov_mobiledata=false
+ro.system.component.label=SYSTEM-Android14-Legend_dev_PR1.1_A14_system-U1.0-W24.16.2
+ro.vendor.radio.fallback.enable=true
+ro.product.carriercustomization.version=202404072000
+ro.sprd.superresolution=1
+ro.sr.displaysize.defaultresolution=0
+ro.sr.displaysize.lowresolution=1
+ro.media.recoderEIS.enabled=true
+ro.media.wfd.rgb.enabled=true
+ro.sprd.pwctl.ultra.message=1
+ro.sys.pwctl.ultrasaving=1
+ro.launcher.multimode=true
+ro.launcher.dynamic=false
+ro.launcher.desktopgrid=true
+ro.launcher.notifbadge.count=true
+ro.product.assistanttouch=false
+ro.telephony.se.enable=true
+keyguard.no_require_sim=true
+ro.com.android.dataroaming=false
+ro.simlock.unlock.autoshow=1
+ro.simlock.unlock.bynv=0
+ro.simlock.onekey.lock=0
+persist.vendor.radio.mdrec.simpin.cache=1
+persist.nhmonitor.enable=on
+ro.unipnp.switch=true
+ro.support_one_handed_mode=true
+persist.sys.bl.clearuserdata=true
+####################################
+# Load sku properties
+####################################
+import /system_ext/etc/one_image/${ro.boot.board_device}/${ro.boot.skuid}/${ro.boot.nfc_support}/odm_custom.prop
+# end of file
+

@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=felix
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel Fold
+ro.product.system_ext.name=felix_beta
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_ext.build.date=Thu Jul  6 01:02:06 UTC 2023
+ro.system_ext.build.date.utc=1688605326
+ro.system_ext.build.fingerprint=google/felix_beta/felix:14/UPB4.230623.005/10442412:user/release-keys
+ro.system_ext.build.id=UPB4.230623.005
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=10442412
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+# end of file
+

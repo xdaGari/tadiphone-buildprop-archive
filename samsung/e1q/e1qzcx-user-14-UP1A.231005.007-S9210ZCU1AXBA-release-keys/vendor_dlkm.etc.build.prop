@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=samsung
+ro.product.vendor_dlkm.device=e1q
+ro.product.vendor_dlkm.manufacturer=samsung
+ro.product.vendor_dlkm.model=SM-S9210
+ro.product.vendor_dlkm.name=e1qzcx
+ro.product.name_for_attestation=
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.vendor_dlkm.build.date=Tue Feb 20 20:16:53 KST 2024
+ro.vendor_dlkm.build.date.utc=1708427813
+ro.vendor_dlkm.build.fingerprint=samsung/e1qzcx/e1q:14/UP1A.231005.007/S9210ZCU1AXBA:user/release-keys
+ro.vendor_dlkm.build.id=UP1A.231005.007
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=S9210ZCU1AXBA
+ro.vendor_dlkm.build.version.release=14
+ro.vendor_dlkm.build.version.release_or_codename=14
+ro.vendor_dlkm.build.version.sdk=34
+# end of file
+

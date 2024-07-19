@@ -1,0 +1,13 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+persist.vendor.camera.expose.aux=1
+persist.camera.expose.aux=1
+ro.bluetooth.library_name=libbluetooth_qti.so
+camera.disable_zsl_mode=1
+ro.build.version.gsi=00WW_0_3YD
+persist.vendor.usb.config=mtp,mass_storage
+vendor.voice.path.for.pcm.voip=false
+ro.opa.eligible_device=true
+ro.com.android.prov_mobiledata=false

@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=T-Mobile
+ro.product.system_ext.device=Bethpage
+ro.product.system_ext.manufacturer=Wingtech
+ro.product.system_ext.model=TMAF025G
+ro.product.system_ext.name=Bethpage
+ro.system_ext.build.date=Fri Jul 15 05:14:19 CST 2022
+ro.system_ext.build.date.utc=1657833259
+ro.system_ext.build.fingerprint=T-Mobile/Bethpage/Bethpage:12/SP1A.210812.016/SW_S98122AA1_V050:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=SW_S98122AA1_V050
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

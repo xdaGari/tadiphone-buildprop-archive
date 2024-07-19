@@ -1,0 +1,55 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=gta8wifi
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-X200
+ro.product.system_ext.name=gta8wifixx
+ro.system_ext.build.date=Wed Apr 12 20:16:25 KST 2023
+ro.system_ext.build.date.utc=1681298185
+ro.system_ext.build.fingerprint=samsung/gta8wifixx/gta8wifi:13/TP1A.220624.014/X200XXS2CWD2:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=X200XXS2CWD2
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.system.component.label=13--230412
+ro.sprd.superresolution=1
+ro.sr.displaysize.defaultresolution=0
+ro.sr.displaysize.lowresolution=1
+ro.sprd.displayenhance=true
+ro.sprd.nightdisplay.enhance=true
+ro.media.recoderEIS.enabled=true
+ro.media.wfd.rgb.enabled=true
+ro.media.ssbranch.enabled=true
+ro.lmk.use_minfree_levels=true
+ro.lmk.kill_timeout_ms=200
+ro.vendor.lmk.enable_kill_heaviest_task=false
+ro.sys.pwctl.ultrasaving=1
+ro.launcher.multimode=true
+ro.launcher.dynamic=false
+ro.launcher.desktopgrid=true
+ro.launcher.notifbadge.count=true
+ro.product.assistanttouch=false
+persist.sys.support.vt=true
+persist.sys.csvt=false
+ro.telephony.se.enable=true
+keyguard.no_require_sim=true
+ro.com.android.dataroaming=false
+ro.simlock.unlock.autoshow=1
+ro.simlock.unlock.bynv=0
+ro.simlock.onekey.lock=0
+persist.vendor.radio.mdrec.simpin.cache=1
+persist.nhmonitor.enable=off
+ro.support_one_handed_mode=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=oculus
+ro.product.odm.device=starlet
+ro.product.odm.manufacturer=Oculus
+ro.product.odm.model=Quest Touch Pro
+ro.product.odm.name=starlet
+ro.odm.product.cpu.abilist=arm64-v8a
+ro.odm.product.cpu.abilist32=
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Sun Jul 30 13:25:10 PDT 2023
+ro.odm.build.date.utc=1690748710
+ro.odm.build.fingerprint=oculus/starlet/starlet:12/SQ3A.220605.009.A1/50217020038600390:user/release-keys
+ro.odm.build.id=SQ3A.220605.009.A1
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=50217020038600390
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

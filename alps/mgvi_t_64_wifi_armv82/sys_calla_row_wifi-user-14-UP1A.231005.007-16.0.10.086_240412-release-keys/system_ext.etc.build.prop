@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=alps
+ro.product.system_ext.device=TB351FU
+ro.product.system_ext.manufacturer=alps
+ro.product.system_ext.model=TB351FU
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_ext.build.date=Fri Apr 12 03:35:42 CST 2024
+ro.system_ext.build.date.utc=1712864142
+ro.system_ext.build.id=UP1A.231005.007
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=TB351FU_ROW_OPEN_USER_M15125.2_U_ZUI_16.0.10.086_ST_240412
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.setupwizard.mode=ENABLED
+# end of file

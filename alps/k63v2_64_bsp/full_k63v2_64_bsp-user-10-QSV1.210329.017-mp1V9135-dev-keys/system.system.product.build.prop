@@ -1,0 +1,10 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=default
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+ro.config.ringtone=volla_ringtone.ogg
+ro.config.notification_sound=volla_notification.ogg
+ro.config.alarm_alert=volla_alarm.ogg

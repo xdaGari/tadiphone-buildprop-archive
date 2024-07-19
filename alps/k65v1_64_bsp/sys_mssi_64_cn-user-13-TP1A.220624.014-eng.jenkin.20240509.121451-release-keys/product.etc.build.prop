@@ -1,0 +1,29 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=alps
+ro.product.product.device=mssi_64_cn
+ro.product.product.manufacturer=alps
+ro.product.product.model=mssi_64_cn
+ro.product.product.name=sys_mssi_64_cn
+ro.product.build.date=Thu May  9 12:11:04 CST 2024
+ro.product.build.date.utc=1715227864
+ro.product.build.fingerprint=alps/sys_mssi_64_cn/mssi_64_cn:13/TP1A.220624.014/20240509121715:user/release-keys
+ro.product.build.id=TP1A.220624.014
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.jenkin.20240509.121451
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+# end of file

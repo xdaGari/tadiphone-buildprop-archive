@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=TECNO
+ro.product.odm_dlkm.device=TECNO-LG8n
+ro.product.odm_dlkm.manufacturer=TECNO
+ro.product.odm_dlkm.model=TECNO LG8n
+ro.product.odm_dlkm.name=LG8n-GL
+ro.product.odm_dlkm.tran.device.name.default=
+ro.odm_dlkm.build.date=Wed Mar 13 21:27:27 CST 2024
+ro.odm_dlkm.build.date.utc=1710336447
+ro.odm_dlkm.build.fingerprint=TECNO/LG8n-GL/TECNO-LG8n:12/SP1A.210812.016/240313V1796:user/release-keys
+ro.odm_dlkm.build.id=SP1A.210812.016
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=240313V1796
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

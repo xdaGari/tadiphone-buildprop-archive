@@ -1,0 +1,53 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Nokia
+ro.product.product.device=RDD
+ro.product.product.manufacturer=HMD Global
+ro.product.product.model=Nokia T20
+ro.product.product.name=Riddler_00WW
+ro.product.build.date=Fri Jul 21 00:55:22 UTC 2023
+ro.product.build.date.utc=1689900922
+ro.product.build.fingerprint=Nokia/Riddler_00WW/RDD:13/TP1A.220624.014/00WW_3_220:user/release-keys
+ro.product.build.id=TP1A.220624.014
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=00WW_3_220
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=tablet
+ro.product.ab_ota_partitions=boot,dtbo,l_agdsp,l_cdsp,l_deltanv,l_fixnv1,l_fixnv2,l_gdsp,l_ldsp,l_modem,mmcblk0boot1,odm,pm_sys,product,sml,system,system_ext,teecfg,trustos,uboot,vbmeta,vbmeta_odm,vbmeta_product,vbmeta_system,vbmeta_system_ext,vbmeta_vendor,vendor,vendor_boot,vendor_dlkm
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.carrier=oversea
+sys.internal.emulated=1
+persist.storage.type=2
+persist.netmon.linger=10000
+oem_trusted_authority=com.sprd.android.USCPhotosProvider.providers.SpecialTypesProvider
+oem_trusted_certificate=27196E386B875E76ADF700E7EA84E4C6EEE33DFA
+ro.base_build=noah
+ro.com.google.acsa=true
+ro.setupwizard.rotation_locked=true
+setupwizard.feature.baseline_setupwizard_enabled=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+setupwizard.feature.checkin_timeout_enabled=false
+ro.com.google.gmsversion=13_202304
+service.window.extensions=true
+ro.secure_boot.state=1
+ro.product.hardware=ums512_1h10
+persist.sys.fuse.passthrough.enable=true
+ro.postinstall.fstab.prefix=/product
+apr.flag.bootmode=1
+persist.sys.extrainfo=
+ro.config.ringtone=Nk_Tune.ogg
+ro.config.notification_sound=Nk_Message_1.ogg
+ro.config.alarm_alert=Nk_Alarm_Clock.ogg
+# end of file

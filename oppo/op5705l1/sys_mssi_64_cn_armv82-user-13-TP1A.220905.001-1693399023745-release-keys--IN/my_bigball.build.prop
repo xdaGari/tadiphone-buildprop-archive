@@ -1,0 +1,16 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=export_22277_OPPO_IN_NA
+ro.oplus.image.my_bigball.date=2023-08-20 23:10:40
+ro.oplus.image.my_bigball.date.utc=1692544240
+ro.oplus.image.my_bigball.version_name=my_bigball22277_1311_T.0.0
+ro.oplus.rsa=rsa4-tier2
+ro.oplus.server_url_1=https://fourier-newds01-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.radio.global_regionlock.enabled=true
+ro.oplus.radio.global_regionlock.info=IN
+ro.oplus.radio.global_regionlock.cert=1661243042741,IN
+ro.oplus.radio.global_regionlock.log=true
+ro.oplus.radio.global_regionlockflag=4
+ro.oplus.radio.region_netlock_disable=true
+ro.oplus.image.my_bigball.version=22277_1311_T.0.0.2023082023012019632731.f00c00df

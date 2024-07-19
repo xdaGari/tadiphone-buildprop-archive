@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Xiaomi
+ro.product.vendor_dlkm.device=marble
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=marble
+ro.product.vendor_dlkm.cert=
+ro.product.vendor_dlkm.name=marble
+ro.product.vendor_dlkm.marketname=
+ro.vendor_dlkm.build.date=Wed Oct 11 02:47:58 UTC 2023
+ro.vendor_dlkm.build.date.utc=1696992478
+ro.vendor_dlkm.build.fingerprint=Xiaomi/marble/marble:13/SKQ1.221022.001/V14.0.25.0.TMRCNXM:user/release-keys
+ro.vendor_dlkm.build.id=SKQ1.221022.001
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=V14.0.25.0.TMRCNXM
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+import /vendor_dlkm/etc/${ro.boot.product.hardware.sku}_build.prop
+# end of file
+

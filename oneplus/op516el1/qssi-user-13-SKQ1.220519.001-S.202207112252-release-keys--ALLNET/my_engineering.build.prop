@@ -1,0 +1,13 @@
+# build prop start
+ro.oplus.image.my_engineering.date=2022-08-03 20:30:56
+ro.oplus.image.my_engineering.date.utc=1659529856
+# Auto-added by post_process_props.py
+ro.oplus.image.my_engineering.type=release
+# build prop start
+ro.oplus.image.my_engineering.type=softwareconfidential
+ro.oplus.image.my_engineering.date=2022-08-03 20:30:56
+ro.oplus.image.my_engineering.date.utc=1659529856
+ro.version.softwareconfidential=true
+# Auto-added by post_process_props.py
+# Do not write image version and type prop for /my_engineering.softwareconfidential
+ro.oplus.image.my_engineering.version=version_stub.f40eebda

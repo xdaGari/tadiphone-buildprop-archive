@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=nuwa
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=2210132G
+ro.product.bootimage.cert=2210132G
+ro.product.bootimage.name=nuwa_eea
+ro.product.bootimage.marketname=Xiaomi 13 Pro
+ro.bootimage.build.date=Tue Jan 16 15:10:36 UTC 2024
+ro.bootimage.build.date.utc=1705417836
+ro.bootimage.build.fingerprint=Xiaomi/nuwa_eea/nuwa:13/TKQ1.221114.001/V816.0.4.0.UMBEUXM:user/release-keys
+ro.bootimage.build.id=TKQ1.221114.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V816.0.4.0.UMBEUXM
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
+

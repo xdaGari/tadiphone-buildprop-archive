@@ -1,0 +1,86 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=meizu
+ro.product.product.device=meizu20
+ro.product.product.manufacturer=meizu
+ro.product.product.model=MEIZU 20
+ro.product.product.name=meizu_20_CN
+ro.build.fingerprint=meizu/meizu_20_CN/meizu20:13/TKQ1.221114.001/1673212581:user/release-keys
+ro.product.build.date=Sat Sep  9 02:22:56 CST 2023
+ro.product.build.date.utc=1694197376
+ro.product.build.fingerprint=meizu/meizu_20_CN/meizu20:13/TKQ1.221114.001/1673212581:user/release-keys
+ro.product.build.id=TKQ1.221114.001
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=1673212581
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=product,system,system_ext,vbmeta_system
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.avrcp.controller.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+bluetooth.profile.sap.server.enabled=true
+ro.control_privapp_permissions=enforce
+ro.audio.monitorRotation=true
+ro.hardware.hifi.support=true
+ro.config.ringtone=001_Coming_call.ogg
+ro.config.notification_sound=02_Reminder.ogg
+ro.config.alarm_alert=001_Alarm.ogg
+ro.vendor.meizu.config.mms_sound=002_Celesta.ogg
+ro.vendor.meizu.config.email_sound=02_Reminder.ogg
+ro.vendor.meizu.config.calendar_sound=03_Doorbell.ogg
+persist.sys.flyme.icon.style.type=0
+ro.com.google.gmsversion=13_202304
+ro.vendor.meizu.cn.gms=true
+ro.com.google.clientidbase=android-meizu
+ro.surface_flinger.supports_background_blur=1
+sys.use_fifo_ui=1
+ro.sf.lcd_density=450
+ro.product.cuptsm=MEIZU|ESE|01|02
+ro.support_one_handed_mode=true
+ro.boot.wificountrycode=CN
+ro.com.android.dataroaming=false
+ro.surface_flinger.set_idle_timer_ms=200
+ro.surface_flinger.use_content_detection_for_refresh_rate=true
+ro.surface_flinger.set_touch_timer_ms=1000
+ro.surface_flinger.set_display_power_timer_ms=400
+ro.channel.cn.wps.moffice_eng=oem00204
+persist.sys.delay_jit=true
+feature_starrynet_setting_support=true
+ro.meizu.dmdebug=false
+ro.apex.updatable=true
+# end of file

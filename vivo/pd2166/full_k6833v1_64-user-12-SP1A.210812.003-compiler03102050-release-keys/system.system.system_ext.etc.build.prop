@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=vivo
+ro.product.system_ext.device=PD2166
+ro.product.system_ext.manufacturer=vivo
+ro.product.system_ext.model=V2166A
+ro.product.system_ext.name=PD2166
+ro.system_ext.build.date=Thu Mar 10 20:49:02 CST 2022
+ro.system_ext.build.date.utc=1646916542
+ro.system_ext.build.fingerprint=vivo/PD2166B/PD2166:12/SP1A.210812.003/compiler03102050:user/release-keys
+ro.system_ext.build.id=SP1A.210812.003
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=compiler03102050
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

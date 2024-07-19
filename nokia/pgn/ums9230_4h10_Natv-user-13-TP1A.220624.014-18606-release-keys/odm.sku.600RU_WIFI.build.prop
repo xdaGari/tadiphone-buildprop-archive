@@ -1,0 +1,15 @@
+
+####################################
+# from variable PRODUCT_PROPERTY_SKU_600RU_WIFI
+####################################
+ro.boot.skuid=600RU
+ro.boot.skuname=600RU_WIFI
+ro.product.model.num=00RU
+ro.product.odm.name=PenguinWifi_00RU
+ro.product.vendor.name=PenguinWifi_00RU
+ro.product.vendor_dlkm.name=PenguinWifi_00RU
+ro.odm.build.fingerprint=Nokia/PenguinWifi_00RU/PGN:13/TP1A.220624.014/00WW_2_310:user/release-keys
+ro.vendor.build.fingerprint=Nokia/PenguinWifi_00RU/PGN:13/TP1A.220624.014/00WW_2_310:user/release-keys
+ro.vendor_dlkm.build.fingerprint=Nokia/PenguinWifi_00RU/PGN:13/TP1A.220624.014/00WW_2_310:user/release-keys
+# end of file
+

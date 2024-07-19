@@ -1,0 +1,6 @@
+### create for oneimage 1HMWW
+ro.product.odm.name=Sentry_HMWW
+ro.product.odm.brand=HMD
+ro.product.odm.device=SNT
+import /odm/1HMWW/etc/fingerprint.prop
+

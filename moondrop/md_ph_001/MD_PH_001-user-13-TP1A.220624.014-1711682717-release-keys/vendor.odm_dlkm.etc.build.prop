@@ -1,0 +1,18 @@
+persist.sys.usb.config=none
+ro.odm_dlkm.build.date=Fri Mar 29 11:08:48 CST 2024
+ro.odm_dlkm.build.date.utc=1711681728
+ro.odm_dlkm.build.fingerprint=MOONDROP/MD_PH_001/MD_PH_001:12/SP1A.210812.016/1711681716:user/release-keys
+ro.odm_dlkm.build.id=SP1A.210812.016
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=ASW2301_CM_1201_V2013
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+ro.product.odm_dlkm.brand=alps
+ro.product.odm_dlkm.device=k6877v1_64_k419
+ro.product.odm_dlkm.manufacturer=alps
+ro.product.odm_dlkm.model=k6877v1_64_k419
+ro.product.odm_dlkm.name=vnd_k6877v1_64_k419
+ro.vendor.mtklog_internal=1
+# end of file

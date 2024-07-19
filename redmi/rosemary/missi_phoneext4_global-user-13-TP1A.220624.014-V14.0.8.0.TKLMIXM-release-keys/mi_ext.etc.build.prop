@@ -1,0 +1,3 @@
+ro.microsoft.onedrive_partner_code=/mi_ext/product/etc/onedrive_token.txt
+ro.product.mod_device=rosemary_global
+ro.miui.build.region=global

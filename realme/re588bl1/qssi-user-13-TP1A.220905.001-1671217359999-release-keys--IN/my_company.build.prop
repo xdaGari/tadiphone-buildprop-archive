@@ -1,0 +1,9 @@
+# build porp start
+ro.oplus.image.my_company.type=Luigi-Cocacola_realme
+ro.oplus.image.my_company.date=2022-12-21 23:24:48
+ro.oplus.image.my_company.date.utc=1671636288
+ro.config.ringtone=Glockenspiel_ring.ogg
+ro.config.ringtone_sim2=Glockenspiel_ring.ogg
+ro.config.notification_sound=Glockenspiel_notification.ogg
+ro.vendor.oplus.market.name=realme 10 Pro 5G
+ro.oplus.image.my_company.version=13.0.22667.2022122123175813558870.86b2b03e

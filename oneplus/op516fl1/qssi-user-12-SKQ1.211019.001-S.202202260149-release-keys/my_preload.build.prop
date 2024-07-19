@@ -1,0 +1,9 @@
+# build porp start
+ro.oplus.image.my_preload.type=GDPR_20847_OnePlus
+ro.oplus.image.my_preload.date=2022-02-11 02:35:16
+ro.oplus.image.my_preload.date.utc=1644518116
+ro.netflix.channel=5687eaa0-047a-11e9-b731-9f73876061f5
+ro.netflix.signup=1
+ro.oplus.preload.custom=2.0.39_EUEX
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_preload.version=0.0.1.202202110033445296275.ddc1c4ba

@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=asus
+ro.product.odm.device=ASUS_AI2203
+ro.product.odm.manufacturer=asus
+ro.product.odm.model=ASUS_AI2203_D
+ro.product.odm.name=WW_AI2203
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Thu Oct 20 19:10:22 CST 2022
+ro.odm.build.date.utc=1666264222
+ro.odm.build.fingerprint=asus/WW_AI2203/ASUS_AI2203:12/SP1A.210812.016/31.0840.0840.42:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=31.0840.0840.42
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+import /odm/etc/build_${ro.boot.product.override}.prop
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

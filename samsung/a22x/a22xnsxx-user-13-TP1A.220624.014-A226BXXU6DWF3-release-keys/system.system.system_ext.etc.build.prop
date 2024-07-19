@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=a22x
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-A226B
+ro.product.system_ext.name=a22xnsxx
+ro.system_ext.build.date=Tue Jun 13 13:23:09 KST 2023
+ro.system_ext.build.date.utc=1686630189
+ro.system_ext.build.fingerprint=samsung/a22xnsxx/a22x:13/TP1A.220624.014/A226BXXU6DWF3:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=A226BXXU6DWF3
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.boot.tag=S96801AA3_Deliver_20220709162242
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

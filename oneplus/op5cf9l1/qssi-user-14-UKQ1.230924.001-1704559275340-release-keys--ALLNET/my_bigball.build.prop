@@ -1,0 +1,18 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=domestic_23801_OnePlus_CN_ALLNET
+ro.oplus.image.my_bigball.date=2024-01-04 00:00:29
+ro.oplus.image.my_bigball.date.utc=1704297629
+ro.oplus.image.my_bigball.version_name=my_bigball23801_1400_U.0.0
+ro.oplus.rsa=rsa4-non
+ro.oplus.server_url_1=https://newds-api-cn-01.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://newds-api-cn-02.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.radio.global_regionlock.enabled=true
+ro.oplus.radio.global_regionlock.info=CN
+ro.oplus.radio.global_regionlock.cert=1661243744237,CN
+ro.oplus.radio.global_regionlock.log=true
+ro.oplus.radio.global_regionlockflag=6
+ro.oplus.radio.global_regionlockupgrade=true
+ro.oplus.radio.checkservice=true
+persist.sys.radio.global_regionlock.allcheck=true
+ro.oplus.image.my_bigball.version=23801_1400_U.0.0.2024010323564222645454.2454e44d

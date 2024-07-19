@@ -1,0 +1,29 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+ro.separate.soft=19815
+ro.build.kernel.id=5.4.61
+ro.rom.featrue=allnet
+ro.vendor.product.oem=OnePlus9Pro_CH
+ro.vendor.product.device.oem=OnePlus9Pro
+ro.commonsoft.ota=OnePlus9Pro
+ro.com.google.clientidbase=android-oneplus
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V11.2
+ro.oppo.market.name=OnePlus9Pro_CH
+ro.build.display.id=LE2120_11_A.01
+ro.build.display.full_id=LE2120_11_A.01_210415
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+ro.product.sar=2.0
+ro.oplus.radio.project=2
+ro.oplus.nfc.support.tee=true
+ro.vendor.oplus.audio.ozo.license=ee003
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=19815
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

@@ -1,0 +1,46 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=cannong
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=M2007J22G
+ro.product.product.name=cannong_global
+ro.product.product.marketname=Redmi Note 9T
+ro.product.build.date=Fri Jul 15 03:00:03 CST 2022
+ro.product.build.date.utc=1657825203
+ro.product.build.fingerprint=Redmi/cannong_global/cannong:12/SP1A.210812.016/V13.0.2.0.SJEMIXM:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=V13.0.2.0.SJEMIXM
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.miui.google.csp=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202204
+ro.com.google.ime.system_lm_dir=product/usr/share/ime/google/d3_lms/
+ro.com.google.acsa=true
+ro.miui.build.region=global
+ro.config.ringtone=MiRemix.ogg
+ro.config.notification_sound=WaterDrop_preview.ogg
+ro.config.alarm_alert=Fireflies.ogg
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+ro.miui.affinity.sfre=6-7
+ro.miui.affinity.sfui=6-7
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

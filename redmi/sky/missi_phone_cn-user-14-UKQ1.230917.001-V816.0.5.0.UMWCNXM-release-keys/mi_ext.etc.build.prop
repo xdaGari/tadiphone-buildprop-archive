@@ -1,0 +1,7 @@
+ro.miui.support.system.app.uninstall.v2=true
+ro.product.mod_device=sky
+ro.miui.build.region=cn
+ro.mi.os.version.publish=true
+ro.mi.os.version.code=1
+ro.mi.os.version.name=OS1.0
+ro.mi.os.version.incremental=OS1.0.5.0.UMWCNXM

@@ -1,0 +1,35 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Xiaomi
+ro.product.odm.device=cupid
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=2201123G
+ro.product.odm.cert=2201123G
+ro.product.odm.name=cupid_global
+ro.product.odm.marketname=Xiaomi 12
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Wed Jun 21 04:27:39 UTC 2023
+ro.odm.build.date.utc=1687321659
+ro.odm.build.fingerprint=Xiaomi/cupid_global/cupid:13/SKQ1.220303.001/V14.0.4.0.TLCMIXM:user/release-keys
+ro.odm.build.id=SKQ1.220303.001
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=V14.0.4.0.TLCMIXM
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

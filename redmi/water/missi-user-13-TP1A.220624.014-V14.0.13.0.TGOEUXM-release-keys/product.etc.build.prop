@@ -1,0 +1,52 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=missi
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=missi
+ro.product.product.name=product_water
+ro.product.build.date=Tue Jan  9 23:43:25 CST 2024
+ro.product.build.date.utc=1704815005
+ro.product.build.fingerprint=Redmi/product_water/missi:13/TP1A.220624.014/V14.0.13.0.TGOEUXM:user/release-keys
+ro.product.build.id=TP1A.220624.014
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=V14.0.13.0.TGOEUXM
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+dalvik.vm.systemservercompilerfilter=speed-profile
+ro.product.vndk.version=33
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.carrier=unknown
+ro.config.notification_sound=Xylophone.ogg
+ro.config.alarm_alert=Fireflies.ogg
+ro.config.ringtone=MiRemix.ogg
+ro.miui.ui.version.code=13
+ro.miui.ui.version.name=V130
+ro.appsflyer.preinstall.path=/data/system/pai/pre_install.appsflyer
+ro.miui.pai.preinstall.path=/data/system/pai/
+ro.miui.customized_clientid=2
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=13_202211.go
+ro.com.google.acsa=true
+setupwizard.feature.baseline_setupwizard_enabled=true
+ro.product.mod_device=water_eea_global
+ro.miui.build.region=eea
+ro.miui.google.csp=true
+persist.miui.extm.enable=1
+persist.miui.extm.version=3.0
+# end of file
+import /product/build_${ro.boot.product.vendor.sku}.prop
+

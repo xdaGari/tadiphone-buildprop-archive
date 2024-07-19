@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=google
+ro.product.odm_dlkm.device=cheetah
+ro.product.odm_dlkm.manufacturer=Google
+ro.product.odm_dlkm.model=Pixel 7 Pro
+ro.product.odm_dlkm.name=cheetah_beta
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.odm_dlkm.build.date=Tue Feb 28 00:57:24 UTC 2023
+ro.odm_dlkm.build.date.utc=1677545844
+ro.odm_dlkm.build.fingerprint=google/cheetah_beta/cheetah:UpsideDownCake/UPP2.230217.004/9663077:user/release-keys
+ro.odm_dlkm.build.id=UPP2.230217.004
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=9663077
+ro.odm_dlkm.build.version.release=13
+ro.odm_dlkm.build.version.release_or_codename=UpsideDownCake
+ro.odm_dlkm.build.version.sdk=33
+# end of file
+

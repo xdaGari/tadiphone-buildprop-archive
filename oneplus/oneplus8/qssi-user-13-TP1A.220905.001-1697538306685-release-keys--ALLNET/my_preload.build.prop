@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_preload.type=domestic_19823_OnePlus_CN_ALLNET
+ro.oplus.image.my_preload.date=2023-08-24 07:07:34
+ro.oplus.image.my_preload.date.utc=1692832054
+ro.oplus.image.my_preload.version_name=my_preload_domestic_CN_ALLNET_1674034539
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_preload.version=0.0.1.2023082407004419716733.ecfa65bc

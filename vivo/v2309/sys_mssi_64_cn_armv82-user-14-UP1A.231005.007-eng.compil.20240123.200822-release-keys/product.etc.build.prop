@@ -1,0 +1,37 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=vivo
+ro.product.product.device=V2309
+ro.product.product.manufacturer=vivo
+ro.product.product.model=V2309
+ro.product.product.name=V2309_EEA
+ro.product.build.date=Tue Jan 23 19:59:38 CST 2024
+ro.product.build.date.utc=1706011178
+ro.product.build.fingerprint=vivo/V2309_EEA/V2309:14/UP1A.231005.007/compiler01231959:user/release-keys
+ro.product.build.id=UP1A.231005.007
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.compil.20240123.200822
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=14
+ro.product.build.version.sdk=34
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=34
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=ccu,cust,gpueb,pvmfw,vbmeta,vbmeta_vgc,vendor_boot,apusys,connsys_gnss,dpm,odm_dlkm,gz,vendor,tee,pi_img,modem,spmfw,boot,mvpu_algo,logo,sspm,storage,odm,audio_dsp,system,preloader_raw,system_ext,vcp,vgc,scp,mcupm,mcf_ota,vbmeta_system,system_dlkm,vendor_dlkm,lk,ise,vbmeta_vendor,product,init_boot,dtbo,vbmeta_oem
+ro.product.cpu.pagesize.max=4096
+ro.dalvik.vm.enable_uffd_gc=false
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+ro.setupwizard.rotation_locked=true
+ro.setupwizard.wifi_on_exit=false
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=14_202310
+# end of file

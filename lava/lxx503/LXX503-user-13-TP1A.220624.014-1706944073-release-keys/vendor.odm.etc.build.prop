@@ -1,0 +1,29 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=LAVA
+ro.product.odm.device=LXX503
+ro.product.odm.manufacturer=LAVA
+ro.product.odm.model=LAVA LXX503
+ro.product.odm.name=LXX503
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Sat Feb  3 14:37:09 CST 2024
+ro.odm.build.date.utc=1706942229
+ro.odm.build.fingerprint=LAVA/LXX503/LXX503:13/TP1A.220624.014/1706942229:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=1706942229
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file

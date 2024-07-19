@@ -1,0 +1,56 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=motorola
+ro.product.system_ext.device=hanoip
+ro.product.system_ext.manufacturer=motorola
+ro.product.system_ext.model=moto g(60)
+ro.product.system_ext.name=hanoip_retail
+ro.system_ext.build.date=Tue Jun  7 04:12:54 UTC 2022
+ro.system_ext.build.date.utc=1654575174
+ro.system_ext.build.fingerprint=motorola/hanoip_retail/hanoip:12/S2RI32M.32-20-7/70dcd:user/release-keys
+ro.system_ext.build.id=S2RI32M.32-20-7
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=70dcd
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+audio.deep_buffer.media=true
+audio.offload.disable=false
+audio.offload.video=false
+audio.offload.min.duration.secs=60
+audio.offload.gapless.enabled=false
+persist.sys.bootupvolume=5
+persist.vendor.dpm.feature=11
+####################################
+# from variable PRODUCT_SYSTEM_PROPERTY_OVERRIDES
+####################################
+persist.audio.qti.flac.decoder=true
+persist.audio.endcall.delay=250
+persist.vendor.audio.dualmic.config=endfire
+persist.vendor.audio.fluence.voicecall=true
+persist.vendor.audio.fluence.voicecomm=true
+persist.vendor.audio.fluence.voicerec=false
+persist.vendor.audio.fluence.speaker=false
+vendor.mm.en.sec.smoothstreaming=false
+media.recorder.show_manufacturer_and_model=true
+vendor.audio.parser.ip.buffer.size=262144
+persist.vendor.audio_fx.current=mmi
+vendor.audio.snd_card.open.retries=50
+ro.mot.security.enable=true
+ro.boot.wificountrycode=00
+ro.mot.build.version.sdk_int=31
+persist.vendor.camera.expose.aux=1
+vendor.camera.aux.packagelist=com.motorola.camera2,com.motorola.camera3,com.motorola.motocit
+vendor.camera.aux.packagelist2=com.motorola.ccc,com.android.settings,com.motorola.motointelligence
+vendor.mm.enable.qcom_parser=33554978
+ro.cp_system_other_odex=1
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

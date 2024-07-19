@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=motorola
+ro.product.bootimage.device=eqe
+ro.product.bootimage.manufacturer=motorola
+ro.product.bootimage.model=motorola edge 50 pro
+ro.product.bootimage.name=eqe_ap
+ro.bootimage.build.date=Tue Feb 27 05:12:57 CST 2024
+ro.bootimage.build.date.utc=1709032377
+ro.bootimage.build.fingerprint=motorola/eqe_ap/eqe:13/U2UM34.27-35/410ad:user/release-keys
+ro.bootimage.build.id=U2UM34.27-35
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=410ad
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
+

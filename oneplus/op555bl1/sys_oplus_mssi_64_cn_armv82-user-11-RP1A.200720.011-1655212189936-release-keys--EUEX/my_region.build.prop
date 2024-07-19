@@ -1,0 +1,21 @@
+# build porp start
+ro.oplus.image.my_region.version=21876.1.0.202206142038118354477.6e944496
+ro.oplus.image.my_region.type=EUEX_OnePlus
+ro.oplus.image.my_region.date=2022-06-14 20:41:34
+ro.oplus.image.my_region.date.utc=1655210494
+ro.oplus.image.my_region.version_name=XEU0000
+ro.oplus.pipeline.region=EUEX
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+ro.oplus.region.custom=1.0.34_EUEX
+ro.oplus.rsa3.support=true
+ro.com.google.clientidbase=android-oneplus
+ro.com.google.clientidbase.ms=android-oneplus-rvo3
+ro.com.google.clientidbase.vs=android-oneplus-rvo3
+ro.com.google.clientidbase.tx=android-oneplus-rvo3
+persist.sys.timezone=America/New_York
+persist.sys.oplus.region=US
+ro.vendor.oplus.regionmark=EUEX
+ro.vendor.oplus.version=eu
+ro.vendor.oplus.radio.sar_regionmark=EUEX
+ro.vendor.oplus.nwopt=true

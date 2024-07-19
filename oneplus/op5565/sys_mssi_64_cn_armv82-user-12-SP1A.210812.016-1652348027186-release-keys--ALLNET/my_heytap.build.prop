@@ -1,0 +1,6 @@
+# build porp start
+ro.oplus.image.my_heytap.type=domestic
+ro.oplus.image.my_heytap.date=2022-05-11 19:44:17
+ro.oplus.image.my_heytap.date.utc=1652269457
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_heytap.version=3.6.6.9.202205111940547487742.e8608e6a

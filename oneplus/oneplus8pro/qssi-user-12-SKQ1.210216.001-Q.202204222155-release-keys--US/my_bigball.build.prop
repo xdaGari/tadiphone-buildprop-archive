@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_bigball.type=export_19811_OnePlus_US_NA
+ro.oplus.image.my_bigball.date=2022-04-02 04:34:41
+ro.oplus.image.my_bigball.date.utc=1648845281
+ro.oplus.image.my_bigball.version_name=my_bigball0.0.1
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_bigball.version=0.0.1.202204020202576503712.fbc1371f

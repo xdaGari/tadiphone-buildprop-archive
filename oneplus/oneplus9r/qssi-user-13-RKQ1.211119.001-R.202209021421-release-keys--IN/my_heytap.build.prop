@@ -1,0 +1,12 @@
+# build porp start
+ro.oplus.image.my_heytap.type=export
+ro.oplus.image.my_heytap.date=2022-09-15 16:03:05
+ro.oplus.image.my_heytap.date.utc=1663228985
+setupwizard.feature.baseline_setupwizard_enabled=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=13_202208
+ro.opa.device_model_id=ga-oplus-skill-os121-211011
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_heytap.version=1.0.61.1.2022091515580210732708.32d0bdd9

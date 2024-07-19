@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=SCW_sprout
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia X10
+ro.product.system_ext.name=ScarletWitch_00WW
+ro.system_ext.build.date=Fri Nov 11 09:35:20 UTC 2022
+ro.system_ext.build.date.utc=1668159320
+ro.system_ext.build.fingerprint=Nokia/ScarletWitch_00WW/SCW_sprout:13/TKQ1.220807.001/00WW_3_270:user/release-keys
+ro.system_ext.build.id=TKQ1.220807.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.jenkin.20221111.093744
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

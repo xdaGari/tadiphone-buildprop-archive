@@ -1,0 +1,64 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=RDD
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia T20
+ro.product.system_ext.name=Riddler_00WW
+ro.system_ext.build.date=Thu Oct 27 08:37:10 UTC 2022
+ro.system_ext.build.date.utc=1666859830
+ro.system_ext.build.fingerprint=Nokia/Riddler_00WW/RDD:12/SP1A.210812.016/00WW_2_260:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=00WW_2_260
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.default.rotation=1
+ro.minui.hwrotation=90
+ro.support_one_handed_mode=true
+persist.default.rotation=1
+ro.minui.hwrotation=90
+ro.bootanimation.orientation=90
+ro.product.hardware=ums512_1h10
+ro.audio.whale_hal=true
+ro.audio.offload_wakelock=false
+ro.boot.product.vendor.sku=sprd
+ro.sprd.displayenhance=true
+ro.sprd.nightdisplay.enhance=true
+ro.sprd.superresolution=1
+ro.sr.displaysize.defaultresolution=0
+ro.sr.displaysize.lowresolution=1
+ro.media.recoderEIS.enabled=true
+ro.media.wfd.rgb.enabled=true
+ro.media.wfd.resolution=2
+ro.lmk.use_minfree_levels=true
+ro.lmk.kill_timeout_ms=200
+ro.vendor.lmk.enable_kill_heaviest_task=false
+ro.sprd.pwctl.ultra.message=1
+ro.sys.pwctl.ultrasaving=1
+persist.device_config.runtime_native.usap_pool_enabled=true
+ro.launcher.multimode=true
+ro.launcher.dynamic=false
+ro.launcher.desktopgrid=true
+ro.launcher.notifbadge.count=true
+ro.product.assistanttouch=false
+persist.sys.audio.source=true
+persist.sys.support.vt=true
+persist.sys.csvt=false
+keyguard.no_require_sim=true
+ro.com.android.dataroaming=false
+ro.simlock.unlock.autoshow=1
+ro.simlock.unlock.bynv=0
+ro.simlock.onekey.lock=0
+persist.vendor.radio.mdrec.simpin.cache=1
+ro.telephony.se.enable=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

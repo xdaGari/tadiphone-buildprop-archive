@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=volla
+ro.product.system_ext.device=vidofnir
+ro.product.system_ext.manufacturer=Volla
+ro.product.system_ext.model=Volla Phone X23
+ro.product.system_ext.name=vidofnir
+ro.system_ext.build.date=Wed May 29 08:26:11 UTC 2024
+ro.system_ext.build.date.utc=1716971171
+ro.system_ext.build.fingerprint=volla/vidofnir/vidofnir:13/TQ3A.230901.001/129:user/release-keys
+ro.system_ext.build.id=TQ3A.230901.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=129
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file

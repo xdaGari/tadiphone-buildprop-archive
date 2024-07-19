@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=alps
+ro.product.odm_dlkm.device=gale
+ro.product.odm_dlkm.manufacturer=Xiaomi
+ro.product.odm_dlkm.model=gale
+ro.product.odm_dlkm.name=vnd_gale
+ro.odm_dlkm.build.date=Tue Nov  7 10:10:02 UTC 2023
+ro.odm_dlkm.build.date.utc=1699351802
+ro.odm_dlkm.build.fingerprint=alps/vnd_gale/gale:12/SP1A.210812.016/V14.0.1.0.TGPTWXM:user/release-keys
+ro.odm_dlkm.build.id=SP1A.210812.016
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=V14.0.1.0.TGPTWXM
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

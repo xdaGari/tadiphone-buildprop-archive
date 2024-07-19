@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Nokia
+ro.product.system_ext.device=SDW
+ro.product.system_ext.manufacturer=HMD Global
+ro.product.system_ext.model=Nokia G42 5G
+ro.product.system_ext.name=Shadow_00WW
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_ext.build.date=Sun Jan  7 12:51:15 UTC 2024
+ro.system_ext.build.date.utc=1704631875
+ro.system_ext.build.fingerprint=Nokia/Shadow_00WW/SDW:14/UKQ1.231003.002/00WW_2_160:user/release-keys
+ro.system_ext.build.id=UKQ1.231003.002
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.jenkin.20240107.125400
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file
+

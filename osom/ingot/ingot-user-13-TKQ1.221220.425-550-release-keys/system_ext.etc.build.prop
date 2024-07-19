@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=OSOM
+ro.product.system_ext.device=ingot
+ro.product.system_ext.manufacturer=Solana Mobile
+ro.product.system_ext.model=Saga
+ro.product.system_ext.name=ingot
+ro.product.model_for_attestation=Saga
+ro.product.brand_for_attestation=OSOM
+ro.product.name_for_attestation=ingot
+ro.system_ext.build.date=Fri Jun 23 19:18:02 UTC 2023
+ro.system_ext.build.date.utc=1687547882
+ro.system_ext.build.fingerprint=OSOM/ingot/ingot:13/TKQ1.221220.425/550:user/release-keys
+ro.system_ext.build.id=TKQ1.221220.425
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=550
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file
+

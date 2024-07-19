@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_stock.type=domestic_realme
+ro.oplus.image.my_stock.date=2024-02-22 14:24:47
+ro.oplus.image.my_stock.date.utc=1708583087
+ro.product.brand.ui=realmeUI
+sys.disable_bootvideo=1
+ro.oplus.image.my_stock.version=7.9.0.18.2024022214212423659493.4b7e6d03

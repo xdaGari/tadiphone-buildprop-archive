@@ -1,0 +1,12 @@
+# build porp start
+ro.oplus.image.my_carrier.type=P_US_TMOBILE_USKU_all
+ro.oplus.image.my_carrier.date=2022-12-17 02:56:32
+ro.oplus.image.my_carrier.date.utc=1671216992
+ro.oplus.image.my_carrier.version_name=X00USTMUS
+ro.oplus.pipeline.carrier=P-US-TMOBILE-USKU
+ro.vendor.oplus.audiodriver.operator=TMO
+ro.oplus.radio.lte_rsrp_thresholds=-125,-120,-115,-110,-100,-44
+ro.oplus.radio.wcdma_rsrp_thresholds=-120,-113,-103,-97,-89,-25
+persist.sys.oplus.radio.recovery_config=0,0,0,0
+ro.oplus.radio.vonr_sa_backoff_feature_enabled=false
+ro.oplus.image.my_carrier.version=13.0.02331.2022121702031513426823.676f5b4b

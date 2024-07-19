@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Lenovo
+ro.product.bootimage.device=TB320FC
+ro.product.bootimage.manufacturer=LENOVO
+ro.product.bootimage.model=TB320FC
+ro.bootimage.build.date=Wed Jun 26 22:04:48 CST 2024
+ro.bootimage.build.date.utc=1719410688
+ro.bootimage.build.id=SKQ1.221119.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=TB320FC_CN_OPEN_USER_Q00031.0_U_ZUI_16.0.336_ST_240626
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=32
+ro.product.model_for_attestation=TB320FC
+ro.product.brand_for_attestation=Lenovo
+ro.product.name_for_attestation=TB320FC_PRC
+ro.product.device_for_attestation=TB320FC
+ro.product.manufacturer_for_attestation=LENOVO
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

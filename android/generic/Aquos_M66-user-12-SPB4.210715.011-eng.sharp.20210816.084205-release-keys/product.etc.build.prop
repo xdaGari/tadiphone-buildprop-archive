@@ -1,0 +1,92 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Android
+ro.product.product.device=Aquos
+ro.product.product.manufacturer=unknown
+ro.product.product.model=AOSP on ARM64
+ro.product.product.name=Aquos_M66
+ro.product.build.date=Mon Aug 16 08:39:00 JST 2021
+ro.product.build.date.utc=1629070740
+ro.product.build.fingerprint=Android/Aquos_M66/Aquos:12/SPB4.210715.011/sharp08160839:user/release-keys
+ro.product.build.id=SPB4.210715.011
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.sharp.20210816.084205
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from vendor/sharp/system/M66/product/product-m66/build.prop
+####################################
+ro.product.device=Sarah
+ro.product.name=SH-M17
+ro.product.manufacturer=SHARP
+ro.product.model=SH-M17
+ro.product.brand=SHARP
+ro.sh.devd=sm066
+ro.sh.devb=sh
+ro.sh.devb_c=sh
+ro.sh.brand=AQUOS sense5G
+ro.com.google.clientidbase=android-sharp
+ro.com.google.clientidbase.ms=android-sharp-rvo3b
+ro.com.google.clientidbase.vs=android-sharp-rvo3b
+ro.opa.device_model_id=aquos-sense5g-sh-m17-8p0s4t
+# GMS-12 Instllation Add 2020.10.20 Start
+ro.com.google.assistantchannel=sharp
+# GMS-12 Instllation Add 2020.10.20 End
+# GMS-11 SMS Mail Installation 2020.10.22 Start
+ro.com.google.acsa=true
+# GMS-11 SMS Mail Installation 2020.10.22 End
+ro.sh.shipping_target=JP
+# System prop for default language setting
+persist.sys.country=JP
+persist.sys.language=ja
+# System prop for default timezone setting
+persist.sys.timezone=Asia/Tokyo
+# SHARP_EXTEND ignore size check 2018.12.26 START
+persist.vendor.camera.privapp.list=jp.co.sharp.android.camera
+# SHARP_EXTEND ignore size check 2018.12.26 END
+# SHARP_EXTEND Google Lens in Camera property 2020.11.16 START
+ro.com.google.lens.oem_camera_package=jp.co.sharp.android.camera
+# SHARP_EXTEND Google Lens in Camera property 2020.11.16 END
+persist.vendor.radio.rcv_dormancy_ind=on
+persist.vendor.radio.no_cons_man_roam=1
+persist.vendor.radio.mt_sms_ack=20
+ro.telephony.default_network=26,26
+telephony.lteOnCdmaDevice=0
+persist.vendor.radio.subaddr_ia5_id=1
+persist.vendor.data.profile_update=true
+# SHARP_GoogleMigrate has_USB_a_to_c_adapter property 2020.11.11 add Start
+ro.gms.pixelmigrate.has_usb_a_to_c_adapter=true
+# SHARP_GoogleMigrate has_USB_a_to_c_adapter property 2020.11.11 add End
+# SHARP_EXTEND TELAPP_CMN_0014_007 change th default value of the data roaming 2020.10.19 add Start
+ro.com.android.dataroaming=false
+# SHARP_EXTEND TELAPP_CMN_0014_007 change th default value of the data roaming 2020.10.19 add End
+# SHARP_EXTEND AquosCastCollabo 2020.11.10 Start
+persist.aquoscast.miracast.enable=false
+# SHARP_EXTEND AquosCastCollabo End
+#SHARP_EXTEND WFD_UI Switch WFD enabled. 2020.11.13 Start
+persist.debug.wfd.enable=0
+#SHARP_EXTEND WFD_UI Switch WFD enabled. 2020.11.13 End
+persist.vendor.qcom.bluetooth.scram.enabled=true
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.config.ringtone=Ring_Synth_04.ogg
+ro.config.notification_sound=pixiedust.ogg
+# Removed by post_process_props.py because overridden by ro.com.android.dataroaming=false
+#ro.com.android.dataroaming?=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_beta
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

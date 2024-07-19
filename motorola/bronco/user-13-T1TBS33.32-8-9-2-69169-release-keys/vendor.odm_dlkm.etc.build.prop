@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=motorola
+ro.product.odm_dlkm.device=bronco
+ro.product.odm_dlkm.manufacturer=motorola
+ro.product.odm_dlkm.model=Taro for arm64
+ro.product.odm_dlkm.name=bronco
+ro.odm_dlkm.build.date=Thu Jan 26 11:08:26 CST 2023
+ro.odm_dlkm.build.date.utc=1674752906
+ro.odm_dlkm.build.fingerprint=motorola/bronco/bronco:12/T1TBS33.32-8-9-2/69169:user/release-keys
+ro.odm_dlkm.build.id=T1TBS33.32-8-9-2
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=69169
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

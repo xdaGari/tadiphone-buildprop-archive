@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Android
+ro.product.bootimage.device=generic_arm64
+ro.product.bootimage.manufacturer=unknown
+ro.product.bootimage.model=GSI on ARM64
+ro.product.bootimage.name=gsi_arm64
+ro.bootimage.build.date=Thu Jun 13 04:16:32 UTC 2024
+ro.bootimage.build.date.utc=1718252192
+ro.bootimage.build.fingerprint=Android/gsi_arm64/generic_arm64:12/SGR1.240108.001.B2/11963565:user/release-keys
+ro.bootimage.build.id=SGR1.240108.001.B2
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=11963565
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

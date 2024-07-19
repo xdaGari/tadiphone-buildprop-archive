@@ -1,0 +1,10 @@
+### create for oneimage 600RU
+ro.product.odm.brand=Nokia
+ro.product.odm.device=QKS
+ro.product.odm.manufacturer=HMD Global
+ro.product.odm.model=Nokia X20
+ro.product.odm.name=Quicksilver_00RU
+ro.product.vendor.device=QKS
+ro.product.vendor.name=Quicksilver_00RU
+import /odm/600RU/custometc/600RUfingerprint.prop
+

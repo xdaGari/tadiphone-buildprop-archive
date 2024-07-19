@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.device=hon660
+ro.product.system_ext.model=sdm660 for arm64
+ro.product.system_ext.name=hon660
+ro.product.system_ext.brand=Honeywell
+ro.product.system_ext.manufacturer=Honeywell
+ro.system_ext.build.date=Tue Nov  1 17:54:20 CST 2022
+ro.system_ext.build.date.utc=1667296460
+ro.system_ext.build.fingerprint=Honeywell/hon660/hon660:12/94.00.01/0016:user/release-keys
+ro.system_ext.build.id=94.00.01
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=0016
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=32
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file
+

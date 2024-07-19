@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=redfin
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 5
+ro.product.system_ext.name=redfin
+ro.system_ext.build.date=Mon Mar 29 18:41:51 UTC 2021
+ro.system_ext.build.date.utc=1617043311
+ro.system_ext.build.fingerprint=google/redfin/redfin:S/SPP2.210219.018/7242751:user/release-keys
+ro.system_ext.build.id=SPP2.210219.018
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=7242751
+ro.system_ext.build.version.release=11
+ro.system_ext.build.version.release_or_codename=S
+ro.system_ext.build.version.sdk=30
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

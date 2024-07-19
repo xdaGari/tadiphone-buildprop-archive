@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props-AI2302
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=asus
+ro.product.odm_dlkm.device=ASUS_AI2302
+ro.product.odm_dlkm.manufacturer=asus
+ro.product.odm_dlkm.model=ASUS_AI2302
+ro.product.odm_dlkm.name=WW_AI2302
+ro.odm_dlkm.build.date=Tue Jul 18 19:27:11 CST 2023
+ro.odm_dlkm.build.date.utc=1689679631
+ro.odm_dlkm.build.fingerprint=asus/WW_AI2302/ASUS_AI2302:13/TKQ1.220928.001/33.0220.0220.28:user/release-keys
+ro.odm_dlkm.build.id=TKQ1.220928.001
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=33.0220.0220.28
+ro.odm_dlkm.build.version.release=13
+ro.odm_dlkm.build.version.release_or_codename=13
+ro.odm_dlkm.build.version.sdk=33
+# end of file

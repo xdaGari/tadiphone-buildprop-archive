@@ -1,0 +1,10 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=export_22872_OnePlus_IN_NA
+ro.oplus.image.my_bigball.date=2024-06-19 20:54:25
+ro.oplus.image.my_bigball.date.utc=1718801665
+ro.oplus.image.my_bigball.version_name=my_bigball22872_1400_U.0.0
+ro.oplus.rsa=rsa4-tier2
+ro.oplus.server_url_1=https://fourier-newds01-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-in.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.image.my_bigball.version=22872_1400_U.0.0.2024061920500625821611.e2bf2776

@@ -1,0 +1,40 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=SHARP
+ro.product.odm.device=STTM21VAPP
+ro.product.odm.manufacturer=SHARP
+ro.product.odm.model=STTM21VAPP
+ro.product.odm.name=VZW_STTM21VAPP
+ro.product.odm.nickname=ROUVO V
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Fri Jun 24 16:50:02 CST 2022
+ro.odm.build.date.utc=1656060602
+ro.odm.build.fingerprint=SHARP/VZW_STTM21VAPP/STTM21VAPP:12/SP1A.210812.016/1KN0_0_460:user/release-keys
+ro.odm.build.id=SP1A.210812.016
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=1KN0_0_460
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+ro.vendor.model.sar=1KN0
+ro.build.display.id=STTM21VAPP_0460
+ro.product.nickname=ROUVO V
+vendor.ro.product.product.brand=SHARP
+vendor.ro.product.model.display=STTM21VAPP
+vendor.ro.product.product.name=VZW_STTM21VAPP
+vendor.ro.build.version.release=12
+vendor.ro.product.build.version.incremental=1KN0_0_460
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

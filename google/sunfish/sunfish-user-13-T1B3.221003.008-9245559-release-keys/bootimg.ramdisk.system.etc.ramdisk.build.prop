@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=google
+ro.product.bootimage.device=sunfish
+ro.product.bootimage.manufacturer=Google
+ro.product.bootimage.model=Pixel 4a
+ro.product.bootimage.name=sunfish
+ro.bootimage.build.date=Wed Nov  2 02:42:24 UTC 2022
+ro.bootimage.build.date.utc=1667356944
+ro.bootimage.build.fingerprint=google/sunfish/sunfish:13/T1B3.221003.008/9245559:user/release-keys
+ro.bootimage.build.id=T1B3.221003.008
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=9245559
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
+

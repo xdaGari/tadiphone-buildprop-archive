@@ -1,0 +1,6 @@
+# build porp start
+ro.oplus.image.my_stock.type=export_OPPO
+ro.oplus.image.my_stock.date=2022-05-06 12:47:34
+ro.oplus.image.my_stock.date.utc=1651812454
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_stock.version=20.0.0.0.202205061243117351025.0aae369f

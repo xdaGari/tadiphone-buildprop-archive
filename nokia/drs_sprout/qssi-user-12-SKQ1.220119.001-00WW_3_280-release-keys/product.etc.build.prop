@@ -1,0 +1,51 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Nokia
+ro.product.product.device=DRS_sprout
+ro.product.product.manufacturer=HMD Global
+ro.product.product.model=Nokia 3.4
+ro.product.product.name=DoctorStrange_00WW
+ro.product.product.board=DoctorStrange
+ro.product.build.date=Wed Jul 20 09:12:22 IST 2022
+ro.product.build.date.utc=1658288542
+ro.product.build.fingerprint=Nokia/DoctorStrange_00WW/DRS_sprout:12/SKQ1.220119.001/00WW_3_280:user/release-keys
+ro.product.build.id=SKQ1.220119.001
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=00WW_3_280
+ro.product.build.display.id=00WW_3_280
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=system,system_ext,product,vbmeta_system
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.apex.updatable=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202204
+setupwizard.feature.baseline_setupwizard_enabled=true
+af.fast_track_multiplier=1
+audio.offload.video=true
+audio.deep_buffer.media=true
+audio.sys.noisy.broadcast.delay=500
+audio.sys.mute.latency.factor=2
+audio.sys.routing.latency=0
+audio.offload.min.duration.secs=30
+audio.sys.offload.pstimeout.secs=3
+ro.af.client_heap_size_kbyte=7168
+media.stagefright.audio.deep=false
+aaudio.mmap_policy=2
+aaudio.mmap_exclusive_policy=2
+aaudio.hw_burst_min_usec=2000
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

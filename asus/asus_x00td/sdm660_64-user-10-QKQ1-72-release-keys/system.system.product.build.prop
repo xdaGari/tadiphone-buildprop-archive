@@ -1,0 +1,18 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=nosdcard
+asus.app-prebuilt.tools=true
+asus.app-prebuilt.config=true
+asus.app-prebuilt.xrom=false
+asus.app-prebuilt.data=true
+asus.app-prebuilt.release=true
+ro.com.google.clientidbase=android-asus
+ro.com.google.clientidbase.ms=android-asus-tpin
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+setupwizard.feature.deferred_setup_suggestion=false
+setupwizard.feature.deferred_setup_notification=false
+ro.com.google.gmsversion=10_202001

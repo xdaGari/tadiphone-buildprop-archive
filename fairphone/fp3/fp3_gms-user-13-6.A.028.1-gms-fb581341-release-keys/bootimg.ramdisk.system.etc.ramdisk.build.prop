@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Fairphone
+ro.product.bootimage.device=FP3
+ro.product.bootimage.manufacturer=Fairphone
+ro.product.bootimage.model=FP3
+ro.product.bootimage.name=FP3
+ro.bootimage.build.date=Thu Mar 28 12:07:28 CET 2024
+ro.bootimage.build.date.utc=1711624048
+ro.bootimage.build.fingerprint=Fairphone/FP3/FP3:13/6.A.028.1/gms-fb581341:user/release-keys
+ro.bootimage.build.id=6.A.028.1
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=gms-fb581341
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
+

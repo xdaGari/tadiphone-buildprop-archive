@@ -1,0 +1,11 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=domestic_22604_realme-Light_CN_CMCC
+ro.oplus.image.my_bigball.date=2024-04-16 11:20:33
+ro.oplus.image.my_bigball.date.utc=1713237633
+ro.oplus.image.my_bigball.version_name=my_bigball22604_121_S.9.01
+ro.oplus.server_url_1=https://newds-api-cn-01.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://newds-api-cn-02.allawntech.com/autotime/dateandtime.xml?number=
+ro.sys.remove.packages.delay=12
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_bigball.version=22604_121_S.9.01.2024041611091024786731.1bd5c9a9

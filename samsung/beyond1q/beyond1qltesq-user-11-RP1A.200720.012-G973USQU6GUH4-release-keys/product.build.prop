@@ -1,0 +1,6 @@
+ro.omc.build.version=G973UOYN6GUH4
+ro.omc.build.id=42369282
+ro.omc.changetype=DATA_RESET_OFF,TRUE
+ro.simbased.changetype=XAA,OMC
+ro.omc.disabler=FALSE
+ro.omc.region=US

@@ -1,0 +1,84 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=motorola
+ro.product.product.device=tonga
+ro.product.product.manufacturer=motorola
+ro.product.product.model=moto g power (2022)
+ro.product.product.name=tonga_g
+ro.product.build.date=Thu Oct  6 02:44:37 CDT 2022
+ro.product.build.date.utc=1665042277
+ro.product.build.fingerprint=motorola/tonga_g/tonga:12/S3RQS32.20-42-10-2/33be1:user/release-keys
+ro.product.build.id=S3RQS32.20-42-10-2
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=33be1
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.threebutton
+ro.apex.updatable=true
+ro.product.iqi.enable=true
+persist.vendor.radio.fi_supported=1
+setupwizard.feature.skip_button_use_mobile_data.carrier1839=true
+setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false
+ro.usb.mtp_cdrom=2e61
+persist.vendor.lte.pco_supported=true
+persist.radio.mode_pref_nv10=1
+persist.radio.call_type=1
+vzw.sys.basicphone=false
+ro.vzw.sys.singlesku=false
+vzw.sys.cdmaless=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202207
+ro.product.gms_premier_tier=true
+ro.gwfcactivation.disabled_carriers=1187,1492,1839
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms/
+ro.product.property_source_order=product,odm,vendor,system_ext,system
+ro.lenovo.single_hand=1
+ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.threebutton
+ril.subscription.types=RUIM
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+ro.postinstall.fstab.prefix=/product
+ro.fpsensor.position=1
+ro.lmk.kill_heaviest_task=true
+ro.lmk.file_low_percentage=20
+ro.lmk.pgscan_limit=3000
+ro.lmk.swap_free_low_percentage=10
+ro.lmk.swap_util_max=90
+ro.lmk.thrashing_limit=50
+ro.lmk.thrashing_limit_decay=25
+ro.lmk.threshold_decay=50
+ro.lmk.psi_complete_stall_ms=120
+ro.lmk.downgrade_pressure=100
+ro.lmk.psi_partial_stall_ms=50
+ro.mot.build.customerid=global
+persist.mot_bt.aptx_cert=true
+ro.support_one_handed_mode=true
+ro.mot.ota.reserved.space=1024
+ro.config.wallpaper=product/media/wallpapers/default_moto_wallpaper.jpg
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+
+#
+# from device/moto/init/props/product.prop
+#
+import /product/etc/motorola/props/sku.${ro.boot.sku_variant}.prop
+import /product/etc/motorola/props/hardware.sku.${ro.boot.hardware.sku}.prop
+import /product/etc/motorola/props/carrier.${ro.boot.carrier}.prop
+# end of device/moto/init/props/product.prop
+# end of file
+

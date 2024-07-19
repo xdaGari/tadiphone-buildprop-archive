@@ -1,0 +1,74 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=motorola
+ro.product.product.device=cancunf
+ro.product.product.manufacturer=motorola
+ro.product.product.model=XT2343-3
+ro.product.product.name=cancunf_cn_sys
+ro.product.build.date=Thu Jul 27 07:10:16 UTC 2023
+ro.product.build.date.utc=1690441816
+ro.product.build.fingerprint=motorola/cancunf_cn_sys/cancunf:13/T3TDC33M.16-15/bfa10:user/release-keys
+ro.product.build.id=T3TDC33M.16-15
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=bfa10
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.mot.ims.cta=1
+ro.surface_flinger.enable_frame_rate_override=true
+ro.config.support_moto_idle_args_override=true
+ro.product.hid_ui=true
+ro.config.ringtone=MotoRetro.ogg
+ro.config.ringtone_2=MotoRetro.ogg
+ro.config.notification_sound=Bounce.ogg
+ro.config.alarm_alert=Helium.ogg
+ro.mot.ota.reserved.space=1024
+ro.vendor.audio.call.handsfree.mic.builtin=1
+ro.telephony.default_network=27,27
+ro.vendor.product.display.plain_text=moto g54
+ro.vendor.product.display=moto g54
+ro.vendor.radio.imei.sv=01
+ro.product.carrier_revision=TTDC33-1
+ro.apex.updatable=true
+setupwizard.theme=glif_v3_light
+ro.product.locale=zh-Hans-CN
+ro.product.is_prc=true
+ro.lenovo.region=prc
+ro.product.property_source_order=product,odm,vendor,system_ext,system
+ro.lenovo.single_hand=1
+ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural
+ril.subscription.types=RUIM
+ro.postinstall.fstab.prefix=/product
+ro.mot.build.customerid=china
+persist.mot_bt.aptx_cert=true
+ro.support_one_handed_mode=true
+ro.config.wallpaper=product/media/wallpapers/default_moto_wallpaper.jpg
+ro.config.privacy_wallpaper=product/media/wallpapers/default_moto_privacy_wallpaper.jpg
+persist.carrier.support_smart_5g=1
+persist.carrier.enable_smart_5g=0
+persist.mot.support_data_stall_detect=1
+ro.mot.data_stall.lowest_time=0
+persist.mot.support_networkstate_service=1
+persist.mot.support_networkstate_pingpong_detect=1
+
+#
+# from device/moto/init/props/product.prop
+#
+import /product/etc/motorola/props/sku.${ro.boot.sku_variant}.prop
+import /product/etc/motorola/props/hardware.sku.${ro.boot.hardware.sku}.prop
+import /product/etc/motorola/props/carrier.${ro.boot.carrier}.prop
+# end of device/moto/init/props/product.prop
+# end of file
+

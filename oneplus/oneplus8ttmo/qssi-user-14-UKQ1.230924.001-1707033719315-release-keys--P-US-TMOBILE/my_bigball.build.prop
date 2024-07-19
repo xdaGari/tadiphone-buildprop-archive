@@ -1,0 +1,23 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=export_20809_OnePlus_US_P_US_TMOBILE
+ro.oplus.image.my_bigball.date=2024-01-24 09:38:40
+ro.oplus.image.my_bigball.date.utc=1706060320
+ro.oplus.image.my_bigball.version_name=my_bigball20809_1400_U.0.0
+ro.oplus.server_url_1=https://fourier-newds01-us.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://fourier-newds02-us.allawnos.com/autotime/dateandtime.xml?number=
+ro.oplus.radio.cc_version=2.37
+ro.oplus.radio.os_version=Color
+ro.oplus.radio.rcs_client_version=UP_2.0
+ro.oplus.radio.cpm_version=OMA2.2
+ro.oplus.radio.ims_product_enabler=IR92/13 PRD-NG114/1
+ro.com.google.clientidbase=android-oneplus
+ro.com.google.clientidbase.vs=android-tmus-us-revc
+ro.com.google.clientidbase.tx=android-oneplus-rvo3
+ro.com.google.clientidbase.ms=android-tmus-us-revc
+ro.oplus.control.shutdown.delaytime=8
+ro.config.ringtone=T-Jingle.ogg
+ro.none.clear.switch.first=true
+ro.oplus.rsa3.support=true
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_bigball.version=20809_1400_U.0.0.2024012409345523074183.524cfa09

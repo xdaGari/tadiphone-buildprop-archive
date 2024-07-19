@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_bigball.type=GDPR_20807_OnePlus_EUEX_NA
+ro.oplus.image.my_bigball.date=2022-04-02 04:38:05
+ro.oplus.image.my_bigball.date.utc=1648845485
+ro.oplus.image.my_bigball.version_name=my_bigball0.0.1
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_bigball.version=0.0.1.202204020203036503734.b46c6d09

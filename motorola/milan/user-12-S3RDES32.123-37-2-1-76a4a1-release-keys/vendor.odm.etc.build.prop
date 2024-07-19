@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=motorola
+ro.product.odm.device=milan
+ro.product.odm.manufacturer=motorola
+ro.product.odm.model=moto g stylus (2022)
+ro.product.odm.name=milan_g
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Tue Apr 25 04:26:13 CDT 2023
+ro.odm.build.date.utc=1682414773
+ro.odm.build.fingerprint=motorola/milan_g/milan:12/S3RDES32.123-37-2-1/76a4a1:user/release-keys
+ro.odm.build.id=S3RDES32.123-37-2-1
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=76a4a1
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

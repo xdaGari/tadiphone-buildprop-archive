@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Xiaomi
+ro.product.odm_dlkm.device=aristotle
+ro.product.odm_dlkm.manufacturer=Xiaomi
+ro.product.odm_dlkm.model=2306EPN60G
+ro.product.odm_dlkm.marketname=aristotle
+ro.product.odm_dlkm.cert=2306EPN60G
+ro.product.odm_dlkm.name=aristotle
+ro.odm_dlkm.build.date=Thu Nov 30 02:26:30 UTC 2023
+ro.odm_dlkm.build.date.utc=1701311190
+ro.odm_dlkm.build.fingerprint=Xiaomi/aristotle/aristotle:12/SP1A.210812.016/V816.0.2.0.UMFEUXM:user/release-keys
+ro.odm_dlkm.build.id=SP1A.210812.016
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=V816.0.2.0.UMFEUXM
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

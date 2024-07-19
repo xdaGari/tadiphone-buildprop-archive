@@ -1,0 +1,6 @@
+# build porp start
+ro.oplus.image.my_stock.type=export_OnePlus
+ro.oplus.image.my_stock.date=2024-06-21 22:44:17
+ro.oplus.image.my_stock.date.utc=1718981057
+ro.oplus.radio.global_regionlock.dynamic=true
+ro.oplus.image.my_stock.version=3.4.0.15.2024062122415225857775.e77aa2cf

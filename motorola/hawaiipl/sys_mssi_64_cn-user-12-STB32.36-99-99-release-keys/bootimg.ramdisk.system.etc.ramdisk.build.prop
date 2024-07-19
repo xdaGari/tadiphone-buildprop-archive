@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=motorola
+ro.product.bootimage.device=hawaiipl
+ro.product.bootimage.manufacturer=motorola
+ro.product.bootimage.model=moto e32(s)
+ro.product.bootimage.name=hawaiipl_g
+ro.bootimage.build.date=Mon Aug 29 10:34:50 CST 2022
+ro.bootimage.build.date.utc=1661740490
+ro.bootimage.build.fingerprint=motorola/hawaiipl_g/hawaiipl:12/STB32.36-99/99:user/release-keys
+ro.bootimage.build.id=STB32.36-99
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=99
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

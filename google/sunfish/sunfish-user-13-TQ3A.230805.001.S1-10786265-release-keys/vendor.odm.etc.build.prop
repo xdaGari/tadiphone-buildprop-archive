@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=google
+ro.product.odm.device=sunfish
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Pixel 4a
+ro.product.odm.name=sunfish
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Sat Sep  9 13:24:08 UTC 2023
+ro.odm.build.date.utc=1694265848
+ro.odm.build.fingerprint=google/sunfish/sunfish:13/TQ3A.230805.001.S1/10786265:user/release-keys
+ro.odm.build.id=TQ3A.230805.001.S1
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=10786265
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+

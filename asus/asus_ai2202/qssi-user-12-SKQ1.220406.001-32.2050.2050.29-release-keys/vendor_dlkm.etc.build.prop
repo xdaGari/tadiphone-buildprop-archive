@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=asus
+ro.product.vendor_dlkm.device=taro
+ro.product.vendor_dlkm.manufacturer=asus
+ro.product.vendor_dlkm.model=ASUS_AI2202
+ro.product.vendor_dlkm.name=taro
+ro.vendor_dlkm.build.date=Sat Oct 22 01:55:00 CST 2022
+ro.vendor_dlkm.build.date.utc=1666374900
+ro.vendor_dlkm.build.fingerprint=asus/WW_AI2202/ASUS_AI2202:12/SKQ1.220406.001/32.2050.2050.29:user/release-keys
+ro.vendor_dlkm.build.id=SKQ1.220406.001
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=32.2050.2050.29
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

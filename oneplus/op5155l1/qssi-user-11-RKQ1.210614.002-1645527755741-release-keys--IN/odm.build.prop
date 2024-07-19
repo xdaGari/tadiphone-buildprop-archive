@@ -1,0 +1,40 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.soc.manufacturer=Qualcomm
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+ro.oplus.system.camera.name=com.oppo.camera
+ro.separate.soft=20821
+ro.rom.featrue=allnet
+ro.build.product=MT2111
+ro.vendor.product.oem=MT2111
+ro.vendor.product.device.oem=OP5155
+ro.com.google.clientidbase=android-oneplus
+ro.vendor.oplus.market.name=MT2111
+ro.sys.reserve.integrate=true
+ro.product.authentication=0
+ro.product.first_api_level=30
+ro.product.manufacturer=OnePlus
+ro.product.brand=OnePlus
+persist.sys.aging.2.0=true
+ro.build.kernel.id=5.4.86
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V12
+ro.build.version.oplusrom=V12
+ro.build.display.id=MT2111_11_A.01
+ro.build.display.full_id=MT2111_11_A.01_220222
+ro.com.google.lens.oem_camera_package=com.oppo.camera
+ro.com.google.lens.oem_image_package=com.oneplus.gallery
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+ro.oplus.support_gota=MT2111_IND
+ro.product.sar=1.7
+ro.oplus.radio.project=2
+ro.oplus.screenhole.border=4
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=20821
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop

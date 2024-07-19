@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=motorola
+ro.product.system_dlkm.device=msi
+ro.product.system_dlkm.manufacturer=motorola
+ro.product.system_dlkm.model=motorola edge 50 fusion
+ro.product.system_dlkm.name=cuscoi_g
+ro.system_dlkm.build.date=Fri Mar 22 17:26:24 CDT 2024
+ro.system_dlkm.build.date.utc=1711146384
+ro.system_dlkm.build.fingerprint=motorola/cuscoi_g/msi:14/U2UUI34M.40-14-1/3e4b51:user/release-keys
+ro.system_dlkm.build.id=U2UUI34M.40-14-1
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=3e4b51
+ro.system_dlkm.build.version.release=14
+ro.system_dlkm.build.version.release_or_codename=14
+ro.system_dlkm.build.version.sdk=34
+# end of file
+

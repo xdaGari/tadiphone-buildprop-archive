@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=google
+ro.product.odm.device=raven
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Pixel 6 Pro
+ro.product.odm.name=raven
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Wed Mar  9 11:33:56 UTC 2022
+ro.odm.build.date.utc=1646825636
+ro.odm.build.fingerprint=google/raven/raven:Tiramisu/TPP2.220218.010/8278900:user/release-keys
+ro.odm.build.id=TPP2.220218.010
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=8278900
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=Tiramisu
+ro.odm.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

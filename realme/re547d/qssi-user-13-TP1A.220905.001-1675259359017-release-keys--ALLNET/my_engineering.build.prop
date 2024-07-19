@@ -1,0 +1,5 @@
+# build prop start
+ro.oplus.image.my_engineering.date=2023-02-01 23:12:30
+ro.oplus.image.my_engineering.date.utc=1675264350
+ro.oplus.image.my_engineering.type=release
+ro.oplus.image.my_engineering.version=version_stub.310b36b9

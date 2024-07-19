@@ -1,0 +1,57 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=nubia
+ro.product.vendor_dlkm.device=NX709S
+ro.product.vendor_dlkm.manufacturer=nubia
+ro.product.vendor_dlkm.model=NX709S
+ro.product.vendor_dlkm.name=NX709S
+ro.vendor_dlkm.build.date=Tue Aug  9 20:55:15 CST 2022
+ro.vendor_dlkm.build.date.utc=1660049715
+ro.vendor_dlkm.build.fingerprint=nubia/NX709S/NX709S:12/SKQ1.220502.001/eng.nubia.20220809.210045:user/release-keys
+ro.vendor_dlkm.build.id=SKQ1.220502.001
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=eng.nubia.20220809.210045
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=32
+# Auto-added by post_process_props.py
+#PRODUCT_SHIPPING_API_LEVEL=31
+# Auto-added by post_process_props.py
+#persist.sys.country=US
+# Auto-added by post_process_props.py
+#persist.sys.device.country=EU
+# Auto-added by post_process_props.py
+#persist.sys.devicename=REDMAGIC 7Pro
+# Auto-added by post_process_props.py
+#persist.sys.gms.name=US
+# Auto-added by post_process_props.py
+#persist.sys.language=en
+# Auto-added by post_process_props.py
+#ro.com.android.mobiledata=true
+# Auto-added by post_process_props.py
+#ro.config.devicename=REDMAGIC 7Pro
+# Auto-added by post_process_props.py
+#ro.nubia.device.recognition_screen=0
+# Auto-added by post_process_props.py
+#ro.nubia.pre.fingerprint.enable=0
+# Auto-added by post_process_props.py
+#ro.nubia.with.tencent.coop=0
+# Auto-added by post_process_props.py
+#ro.product.device=NX709J-EEA
+# Auto-added by post_process_props.py
+#ro.product.first_api_level=31
+# Auto-added by post_process_props.py
+#ro.product.name=NX709J-EEA
+# Auto-added by post_process_props.py
+ro.vendor.build.display.id=NX709S_EUCommon_V4.14
+# Auto-added by post_process_props.py
+ro.vendor.build.internal.id=NX709S_Z69_EU_ZML0S_V414
+# Auto-added by post_process_props.py
+ro.vendor.dm_build.internal.id=NX709S_Z69_EU_ZML0S_V414
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

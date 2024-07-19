@@ -1,0 +1,72 @@
+# build prop start
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.alwayson.enable=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+persist.sys.mtk.pwkdump=0
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+persist.vendor.radio.telecom.vibrate=0
+ro.soc.manufacturer=Mediatek
+ro.build.kernel.id=4.19.191
+ro.oplus.system.camera.name=com.oplus.camera
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=420
+ro.oplus.screenhole.border=9
+ro.vendor.oplus.camera.isHasselbladCamera=0
+ro.vendor.oplus.camera.isSupportExplorer=0
+ro.vendor.oplus.camera.backCamSize=48MP+8MP+2MP
+ro.vendor.oplus.camera.frontCamSize=16MP
+dalvik.vm.madvise.vdexfile.size=0
+dalvik.vm.madvise.odexfile.size=0
+dalvik.vm.madvise.artfile.size=0
+ro.separate.soft=21711
+ro.rom.featrue=allnet
+ro.product.authentication=2021CP4386
+ro.vendor.oplus.market.name=RMX3395
+ro.build.product=RMX3395
+ro.vendor.product.oem=RMX3395
+ro.vendor.product.device.oem=RE879E
+ro.sys.reserve.integrate=true
+ro.product.brand.sub=realme
+ro.product.vndk.version=31
+ro.product.board=RM6877
+ro.mediatek.platform=MT6877
+ro.soc.model=MT6877V/TZA
+ro.build.device_family=OPMT6877T
+ro.build.display.id=RMX3395_11_A.01
+ro.build.display.id_ims=RMX3395_11_A.01_240117
+ro.mediatek.version.release=RMX3395_11_A.01_240117
+ro.vendor.mediatek.version.release=RMX3395_11_A.01_240117
+persist.version.confidential=false
+ro.version.confidential=false
+persist.sys.oppo.fusionlight=true
+persist.sys.oppo.proximity=true
+persist.sys.obrain_obfuscate.enable=1
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+persist.sys.oplus.dex2oat_current=true
+persist.sys.oplus.dex2oat_level=5
+ro.lmk.limit_killing_array_kb=2097152,1572864,1258291,665600
+persist.sys.oplus.wmark_extra_free_kbytes_6g=65536
+persist.sys.oplus.wmark_extra_free_kbytes_8g=65536
+############################## Add OPPO Info Common Begin ##############################
+persist.vendor.radio.nr_display_rule=1
+persist.vendor.radio.lte_con_stat_delay_timer=0
+persist.vendor.radio.scg_con_stat_delay_timer=0
+persist.vendor.radio.support_optimized_nr=true
+ro.boot.product.hardware.sku=dsds
+############################## Add OPPO Info Common End ##############################
+ro.vendor.local.nlp=com.amap.android.location
+ro.oplus.minidump.kernel.log.support=true
+# Auto-added by post_process_props.py
+ro.oplus.image.odm.type=21711
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+ro.oplus.image.odm.version=version_stub.2d994767

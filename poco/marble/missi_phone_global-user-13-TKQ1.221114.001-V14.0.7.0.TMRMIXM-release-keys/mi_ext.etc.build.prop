@@ -1,0 +1,6 @@
+ro.product.product.name=marble_global
+ro.miui.google.csp=true
+ro.product.mod_device=marble_global
+ro.com.google.acsa=true
+ro.miui.build.region=global
+ro.com.google.ime.system_lm_dir=product/usr/share/ime/google/d3_lms/

@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=motorola
+ro.product.bootimage.device=milan
+ro.product.bootimage.manufacturer=motorola
+ro.product.bootimage.model=moto g stylus (2022)
+ro.product.bootimage.name=milan_g
+ro.bootimage.build.date=Tue Apr 25 04:26:13 CDT 2023
+ro.bootimage.build.date.utc=1682414773
+ro.bootimage.build.fingerprint=motorola/milan_g/milan:12/S3RDES32.123-37-2-1/76a4a1:user/release-keys
+ro.bootimage.build.id=S3RDES32.123-37-2-1
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=76a4a1
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

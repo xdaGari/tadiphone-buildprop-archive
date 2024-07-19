@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Nokia
+ro.product.bootimage.device=VSI
+ro.product.bootimage.manufacturer=HMD Global
+ro.product.bootimage.model=Nokia C31
+ro.product.bootimage.name=Vision_00CN
+ro.bootimage.build.date=Mon Dec 26 08:35:46 UTC 2022
+ro.bootimage.build.date.utc=1672043746
+ro.bootimage.build.fingerprint=Nokia/Vision_00CN/VSI:12/SP1A.210812.016/52132:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=00CN_1_330
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

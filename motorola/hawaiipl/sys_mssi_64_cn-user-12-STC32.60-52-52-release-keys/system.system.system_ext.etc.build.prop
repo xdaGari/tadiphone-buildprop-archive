@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=motorola
+ro.product.system_ext.device=hawaiipl
+ro.product.system_ext.manufacturer=motorola
+ro.product.system_ext.model=moto e32(s)
+ro.product.system_ext.name=hawaiipl_g
+ro.system_ext.build.date=Fri Jul 29 21:38:57 CST 2022
+ro.system_ext.build.date.utc=1659101937
+ro.system_ext.build.fingerprint=motorola/hawaiipl_g/hawaiipl:12/STC32.60-52/52:user/release-keys
+ro.system_ext.build.id=STC32.60-52
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=52
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

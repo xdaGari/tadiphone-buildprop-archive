@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=samsung
+ro.product.bootimage.device=a54x
+ro.product.bootimage.manufacturer=samsung
+ro.product.bootimage.model=SM-A546B
+ro.product.bootimage.name=a54xnaxx
+ro.bootimage.build.date=Mon Jun 10 11:01:25 KST 2024
+ro.bootimage.build.date.utc=1717984885
+ro.bootimage.build.fingerprint=samsung/a54xnaxx/a54x:13/TP1A.220624.014/A546BXXS8CXF1:user/release-keys
+ro.bootimage.build.id=TP1A.220624.014
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=A546BXXS8CXF1
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

@@ -1,0 +1,24 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.nubia.fan.support=1
+persist.sys.country=US
+ro.product.first_api_level=28
+ro.com.google.clientidbase=android-zte
+bsp.colorlight.enable=true
+ro.com.android.mobiledata=true
+persist.sys.exif.model=NX629J_V1S
+sys.nubia_internal_version_flag=1
+ro.nubia.game_mode.enable=1
+ro.product.device=NX629J-EEA
+persist.vendor.camera.exif.model=NX629J_V1S
+ro.nubia.pre.fingerprint.enable=0
+ro.config.devicename=Red Magic 3S
+persist.sys.language=en
+PRODUCT_SHIPPING_API_LEVEL=28
+persist.sys.cta.disable=1
+ro.product.name=NX629J-EEA
+persist.sys.gms.name=US
+ro.build.version.base_os=nubia/NX629J-EEA/NX629J-EEA:9/PKQ1.190714.001/eng.nubia.20210721.021308:user/release-keys
+ro.com.google.gmsversion=9_201906

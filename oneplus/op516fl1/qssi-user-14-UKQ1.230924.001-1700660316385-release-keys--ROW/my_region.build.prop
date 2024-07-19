@@ -1,0 +1,10 @@
+# build porp start
+ro.oplus.image.my_region.type=ROW_all
+ro.oplus.image.my_region.date=2023-10-31 02:13:16
+ro.oplus.image.my_region.date.utc=1698689596
+ro.oplus.image.my_region.version_name=1EP0000
+ro.oplus.pipeline.region=ROW
+ro.vendor.oplus.radio.sar_regionmark=EUEX
+ro.vendor.oplus.modemdump_enable=1
+ro.vendor.oplus.radio.carrier_detect_mode=1
+ro.oplus.image.my_region.version=14.0.02341.2023103102001821225002.04ee4442

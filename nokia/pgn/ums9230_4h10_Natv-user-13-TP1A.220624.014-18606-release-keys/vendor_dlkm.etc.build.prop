@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Nokia
+ro.product.vendor_dlkm.device=PGN
+ro.product.vendor_dlkm.manufacturer=HMD Global
+ro.product.vendor_dlkm.model=Nokia T10
+ro.product.vendor_dlkm.name=Penguin_00WW
+ro.vendor_dlkm.build.date=Sat May  6 07:12:27 UTC 2023
+ro.vendor_dlkm.build.date.utc=1683357147
+ro.vendor_dlkm.build.fingerprint=Nokia/Penguin_00WW/PGN:13/TP1A.220624.014/00WW_2_310:user/release-keys
+ro.vendor_dlkm.build.id=TP1A.220624.014
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=00WW_2_310
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=33
+# end of file
+

@@ -1,0 +1,12 @@
+
+ro.vendor.build.fingerprint=Nokia/Riddler_00WW/RDD:11/RP1A.201005.001/00WW_1_250:user/release-keys
+ro.vendor.build.fingerprint=Nokia/Riddler_00WW/RDD:11/RP1A.201005.001/00WW_1_250:user/release-keys
+ro.odm.build.fingerprint=Nokia/Riddler_00WW/RDD:11/RP1A.201005.001/00WW_1_250:user/release-keys
+#
+# ADDITIONAL ODM 600WW BUILD PROPERTIES
+#
+ro.com.google.clientidbase=android-hmd
+ro.com.google.clientidbase.ms=android-hmd-rvo3
+ro.com.google.clientidbase.vs=android-hmd-rvo3
+ro.com.google.clientidbase.tx=android-hmd-rvo3
+ro.build.display.id=00WW_1_250

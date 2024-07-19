@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=asus
+ro.product.bootimage.device=ASUS_AI2401
+ro.product.bootimage.manufacturer=asus
+ro.product.bootimage.model=ASUS_AI2401
+ro.product.bootimage.name=ZWW_AI2401
+ro.product.brand_for_attestation=asus
+ro.product.device_for_attestation=ASUS_AI2401
+ro.product.manufacturer_for_attestation=asus
+ro.bootimage.build.date=Wed Jun  5 19:48:27 CST 2024
+ro.bootimage.build.date.utc=1717588107
+ro.bootimage.build.fingerprint=asus/ZWW_AI2401/ASUS_AI2401:14/UKQ1.231003.002/34.1420.1420.407-0:user/release-keys
+ro.bootimage.build.id=UKQ1.231003.002
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=34.1420.1420.407-0
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end of file

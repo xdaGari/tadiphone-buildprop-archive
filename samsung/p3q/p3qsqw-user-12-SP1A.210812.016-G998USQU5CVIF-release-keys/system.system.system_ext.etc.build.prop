@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=qssi
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-G998U
+ro.product.system_ext.name=p3qsqw
+ro.system_ext.build.date=Fri Sep 23 15:57:31 KST 2022
+ro.system_ext.build.date.utc=1663916251
+ro.system_ext.build.fingerprint=samsung/p3qsqw/qssi:12/SP1A.210812.016/G998USQU5CVIF:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=G998USQU5CVIF
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

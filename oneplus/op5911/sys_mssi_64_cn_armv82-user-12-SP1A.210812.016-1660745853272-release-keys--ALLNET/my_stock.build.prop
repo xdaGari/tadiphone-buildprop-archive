@@ -1,0 +1,6 @@
+# build porp start
+ro.oplus.image.my_stock.type=domestic_OnePlus
+ro.oplus.image.my_stock.date=2022-07-01 16:44:57
+ro.oplus.image.my_stock.date.utc=1656665097
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_stock.version=8.0.0.35.202207011640328782217.6da541a1

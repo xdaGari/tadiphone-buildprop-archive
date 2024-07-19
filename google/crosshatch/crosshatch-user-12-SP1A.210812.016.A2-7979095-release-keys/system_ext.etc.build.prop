@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=crosshatch
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 3 XL
+ro.product.system_ext.name=crosshatch
+ro.system_ext.build.date=Wed Dec  8 04:10:12 UTC 2021
+ro.system_ext.build.date.utc=1638936612
+ro.system_ext.build.fingerprint=google/crosshatch/crosshatch:12/SP1A.210812.016.A2/7979095:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016.A2
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=7979095
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

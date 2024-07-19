@@ -1,0 +1,4 @@
+ro.oplus.image.{partition_name}.type=empty
+ro.oplus.image.{partition_name}.version=version_stub
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_company.version=.9a785e44

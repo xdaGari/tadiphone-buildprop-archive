@@ -1,0 +1,2 @@
+import /odm/etc/${ro.boot.prjname}/build.gsi.prop
+import /odm/etc/fingerprint/build.gsi.prop

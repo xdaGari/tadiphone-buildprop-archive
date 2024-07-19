@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Xiaomi
+ro.product.vendor_dlkm.device=unicorn
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=2206122SC
+ro.product.vendor_dlkm.cert=2206122SC
+ro.product.vendor_dlkm.name=unicorn
+ro.product.vendor_dlkm.marketname=Xiaomi 12S Pro
+ro.vendor_dlkm.build.date=Thu Jan 18 15:45:42 UTC 2024
+ro.vendor_dlkm.build.date.utc=1705592742
+ro.vendor_dlkm.build.fingerprint=Xiaomi/unicorn/unicorn:12/SKQ1.230401.001/V816.0.3.0.ULECNXM:user/release-keys
+ro.vendor_dlkm.build.id=SKQ1.230401.001
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=V816.0.3.0.ULECNXM
+ro.vendor_dlkm.build.version.release=12
+ro.vendor_dlkm.build.version.release_or_codename=12
+ro.vendor_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

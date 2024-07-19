@@ -1,0 +1,79 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=missi
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=missi
+ro.product.product.name=missi_global
+ro.product.model_for_attestation=missi
+ro.product.brand_for_attestation=Redmi
+ro.product.name_for_attestation=missi_global
+ro.product.manufacturer_for_attestation=Xiaomi
+ro.product.device_for_attestation=missi
+ro.product.build.date=Wed May 22 20:38:28 CST 2024
+ro.product.build.date.utc=1716381508
+ro.product.build.fingerprint=Redmi/missi/missi:14/UP1A.231005.007/V816.0.3.0.UGSMIXM:user/release-keys
+ro.product.build.id=UP1A.231005.007
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=V816.0.3.0.UGSMIXM
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=14
+ro.product.build.version.sdk=34
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=34
+ro.build.characteristics=default
+ro.product.cpu.pagesize.max=65536
+ro.dalvik.vm.enable_uffd_gc=true
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+# Removed by post_process_props.py because overridden by ro.carrier?=unknown
+#ro.carrier?=oversea
+sys.internal.emulated=1
+persist.storage.type=2
+persist.netmon.linger=20000
+ro.secure_boot.state=1
+persist.sys.fuse.passthrough.enable=true
+ro.product.first_api_level=34
+ro.postinstall.fstab.prefix=/product
+persist.sys.pwctl.save=1
+bluetooth.device.class_of_device=90,2,12
+persist.bluetooth.a2dp_aac.vbr_supported=true
+apr.flag.bootmode=1
+persist.sys.extrainfo=
+ro.carrier=unknown
+ro.config.notification_sound=Xylophone.ogg
+ro.config.alarm_alert=Fireflies.ogg
+ro.config.ringtone=MiRemix.ogg,MiRemix.ogg
+remote_provisioning.enable_rkpd=true
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+ro.config.native_android=true
+persist.sys.periodic.enable=true
+persist.sys.periodic.fgtrim=false
+persist.sys.periodic.startprocess.enable=true
+ro.miui.ui.version.code=14
+ro.miui.ui.version.name=V140
+ro.miui.build.region=global
+ro.miui.google.csp=true
+ro.appsflyer.preinstall.path=/data/system/pai/pre_install.appsflyer
+partner_id=xiaomi:d3120e97-318f-0810-4666-a1b0610476f4
+setupwizard.feature.baseline_setupwizard_enabled=true
+persist.miui.extm.enable=1
+ro.miui.notch=1
+ro.miui.customized_clientid=2
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=14_202401
+ro.com.google.ime.system_lm_dir=product/usr/share/ime/google/d3_lms/
+ro.miui.build.region=global
+ro.product.mod_device=klein_global
+ro.miui.support.enable_new_factory_reset=1
+# end of file
+import /product/build_${ro.boot.product.vendor.sku}.prop
+

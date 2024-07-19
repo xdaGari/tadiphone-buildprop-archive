@@ -1,0 +1,12 @@
+# build porp start
+ro.oplus.image.my_carrier.type=P_US_TMOBILE_all
+ro.oplus.image.my_carrier.date=2022-07-22 11:15:20
+ro.oplus.image.my_carrier.date.utc=1658459720
+ro.oplus.image.my_carrier.version_name=208091210.3.210-X00USTM00
+ro.oplus.pipeline.carrier=P-US-TMOBILE
+ro.oplus.radio.lte_rsrp_thresholds=-125,-120,-115,-110,-100,-44
+ro.oplus.radio.wcdma_rsrp_thresholds=-120,-113,-103,-97,-89,-25
+ro.oplus.radio.nrca_support=1
+ro.vendor.oplus.radio.multisim.config=ssss
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_carrier.version=208091210.3.210.202207221112009301138.3576b8bd

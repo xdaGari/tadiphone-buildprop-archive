@@ -1,0 +1,62 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=realme
+ro.product.product.device=RE58C6
+ro.product.product.manufacturer=realme
+ro.product.product.model=ums9230_hulk_Natv
+ro.product.product.name=RMX3761
+ro.product.build.date=Sun Aug 13 17:53:55 CST 2023
+ro.product.build.date.utc=1691920435
+ro.product.build.fingerprint=realme/RMX3761/RE58C6:13/TP1A.220624.014/T.R4T2.1691917416:user/release-keys
+ro.product.build.id=TP1A.220624.014
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=464
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+import /product/build_${ro.boot.product.regionmark}.prop
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=33
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,dtbo,l_agdsp,l_deltanv,l_fixnv1,l_fixnv2,l_gdsp,l_ldsp,l_modem,mmcblk0boot1,odm,pm_sys,product,sdc,sml,system,system_ext,teecfg,trustos,uboot,vbmeta,vbmeta_odm,vbmeta_product,vbmeta_system,vbmeta_system_ext,vbmeta_vendor,vendor,vendor_boot,vendor_dlkm
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.com.google.clientidbase=android-oppo
+ro.carrier=oversea
+sys.internal.emulated=1
+persist.storage.type=2
+persist.netmon.linger=10000
+oem_trusted_authority=com.sprd.android.USCPhotosProvider.providers.SpecialTypesProvider
+oem_trusted_certificate=57152BDFBA78F435FA884585FDF2859684BA0316
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+setupwizard.feature.baseline_setupwizard_enabled=true
+ro.opa.eligible_device=true
+ro.com.google.lens.oem_camera_package=com.android.camera2
+ro.com.google.gmsversion=13_202301
+ro.config.supper_volume=1
+ro.config.insapp_issue=1
+ro.config.vc_call_vol_default=5
+ro.config.media_vol_default=10
+ro.config.alarm_vol_default=12
+ro.config.ring_vol_default=10
+ro.config.system_vol_default=4
+ro.config.notification_vol_default=4
+ro.config.dtmf_vol_default=9
+ro.secure_boot.state=1
+ro.apex.updatable=true
+ro.product.hardware=ums9230_hulk
+persist.sys.fuse.passthrough.enable=true
+ro.postinstall.fstab.prefix=/product
+apr.flag.bootmode=1
+persist.sys.extrainfo=
+ro.config.ringtone=ringtone_000.ogg,ringtone_000.ogg
+ro.config.notification_sound=notification_000.ogg
+ro.config.alarm_alert=delight.ogg
+# end of file

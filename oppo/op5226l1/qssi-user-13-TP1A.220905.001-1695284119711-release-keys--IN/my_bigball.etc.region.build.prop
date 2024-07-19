@@ -1,0 +1,17 @@
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+adjust.preinstall.path=/data/etc/appchannel/adjust.preinstall
+io.branch.preinstall.apps.path=/data/etc/appchannel/pre_install_apps.branch
+ro.trackingId.com.lzd.appid=/data/etc/appchannel/lazadaChannel.txt
+ro.trackingId.com.arise.appid=/data/etc/appchannel/ariseChannel.txt
+ro.oem.key1=IN
+ro.oplus.rsa3.support=true
+ro.com.google.rlz_ap_whitelist=YF
+ro.com.google.rlzbrandcode=OPPO
+ro.com.google.clientidbase=android-oppo
+ro.com.google.clientidbase.ms=android-oppo-rvo2
+ro.com.google.clientidbase.vs=android-oppo-rvo2
+persist.sys.timezone=America/New_York
+persist.sys.oplus.region=IN
+ro.vendor.oplus.regionmark=IN
+ro.vendor.oplus.version=pu

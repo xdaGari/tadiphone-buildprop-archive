@@ -1,0 +1,37 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=vivo
+ro.product.product.device=2132
+ro.product.product.manufacturer=vivo
+ro.product.product.model=V2132
+ro.product.product.name=2132i
+ro.product.build.date=Thu Nov  3 17:38:42 CST 2022
+ro.product.build.date.utc=1667468322
+ro.product.build.fingerprint=vivo/2132i/2132:12/SP1A.210812.003/compiler11031742:user/release-keys
+ro.product.build.id=SP1A.210812.003
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=compiler11031742
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=overseas
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.setupwizard.rotation_locked=true
+ro.setupwizard.wifi_on_exit=false
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202110
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

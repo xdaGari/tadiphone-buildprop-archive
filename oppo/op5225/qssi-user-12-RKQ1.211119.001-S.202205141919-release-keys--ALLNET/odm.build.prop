@@ -1,0 +1,53 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+ro.build.kernel.id=4.19.157
+ro.oplus.system.camera.name=com.oplus.camera
+ro.soc.manufacturer=QTI
+ro.soc.model=SM6225
+ro.build.release_type=true
+persist.sys.assert.state=false
+persist.sys.assert.panic=false
+persist.sys.dump=0
+persist.sys.powerkeydump=0
+persist.sys.assert.enabletip=0
+persist.sys.log.user=1
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+persist.vendor.radio.custom_ecc=0
+ro.separate.soft=21029
+ro.product.authentication=2022AP4214
+ro.rom.featrue=allnet
+ro.product.manufacturer=OPPO
+ro.product.brand=OPPO
+ro.build.product=OPD2102
+ro.vendor.product.oem=OPD2102
+ro.vendor.product.device.oem=OP5225
+ro.vendor.oplus.market.name=OPD2102
+ro.sys.reserve.integrate=true
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.oplusrom=V12.1
+ro.build.version.oplusrom.confidential=V12.1
+ro.build.display.id=OPD2102_11_A.01
+ro.build.display.full_id=OPD2102_11_A.01_220514
+persist.sys.oplus.nandswap.condition=true
+ro.oplus.screenhole.border=10
+persist.sys.oplus.lmk_threshold_4g=171:0,214:100,257:200,300:250,514:900,750:950
+persist.sys.oplus.lmk_threshold_6g=206:0,257:100,309:200,360:250,617:900,900:950
+persist.sys.oplus.lmk_threshold_8g=257:0,322:100,386:200,450:250,772:900,1126:950
+persist.sys.oplus.lmkd_super_critical_threshold_4g=850
+persist.sys.oplus.lmkd_super_critical_threshold_6g=1000
+persist.sys.oplus.lmkd_super_critical_threshold_8g=1200
+ro.build.display.wtid=SW_P81106AA1_V002_M12_R_USR_ATO_21029
+ro.vendor.build.display.wtid=SW_P81106AA1_V002_M12_R_USR_ATO_21029
+ro.product.locale=zh-CN
+ro.build.tablet.with_modem=true
+vendor.video.disable.ubwc=1
+vendor.sys.video.disable.ubwc=1
+ro.oplus.image.odm.type=21029
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.odm.version=version_stub.b967d862

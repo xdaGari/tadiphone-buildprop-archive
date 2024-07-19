@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=google
+ro.product.odm_dlkm.device=panther
+ro.product.odm_dlkm.manufacturer=Google
+ro.product.odm_dlkm.model=Pixel 7
+ro.product.odm_dlkm.name=panther
+ro.odm_dlkm.build.date=Sat Feb 11 17:43:27 UTC 2023
+ro.odm_dlkm.build.date.utc=1676137407
+ro.odm_dlkm.build.fingerprint=google/panther/panther:13/TQ2A.230305.008/9595452:user/release-keys
+ro.odm_dlkm.build.id=TQ2A.230305.008
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=9595452
+ro.odm_dlkm.build.version.release=13
+ro.odm_dlkm.build.version.release_or_codename=13
+ro.odm_dlkm.build.version.sdk=33
+# end of file
+

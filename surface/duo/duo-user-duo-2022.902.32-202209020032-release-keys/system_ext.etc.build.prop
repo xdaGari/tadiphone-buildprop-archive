@@ -1,0 +1,42 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=surface
+ro.product.system_ext.device=duo
+ro.product.system_ext.manufacturer=Microsoft
+ro.product.system_ext.model=Surface Duo
+ro.product.system_ext.name=duo
+ro.system_ext.build.date=Mon Jul 17 05:33:26 UTC 2023
+ro.system_ext.build.date.utc=1689572006
+ro.system_ext.build.fingerprint=surface/duo/duo:12/2022.902.32/202209020032:user/release-keys
+ro.system_ext.build.id=2022.902.32
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=202209020032
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=32
+####################################
+# from device/surface/ssi/ssi_arm64_qcom/system_ext.prop
+####################################
+# Copyright (c) Microsoft Corporation. All rights reserved.
+#
+# system.prop for generic arm64 sdk
+#
+rild.libpath=/vendor/lib64/libreference-ril.so
+# Selected properties from $QSSI/device/qcom/qssi/system.prop
+# Set network mode to (NR_LTE_TDSCDMA_CDMA_EVDO_GSM_WCDMA, NR_LTE_TDSCDMA_CDMA_EVDO_GSM_WCDMA) for 8+8 mode device on DSDS mode
+ro.telephony.default_network=33,33
+media.settings.xml=/vendor/etc/media_profiles_vendor.xml
+# Camera related prop
+vendor.camera.aux.packagelist=com.microsoft.surface.camera.v2,com.example.android.TSCameraTest
+ro.vendor.microsoft.va_camera.support=1
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.setupwizard.mode=ENABLED
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

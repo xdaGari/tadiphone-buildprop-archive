@@ -1,0 +1,53 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=camellia
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=M2103K19C
+ro.product.product.name=camellia
+ro.product.product.marketname=Redmi Note 10
+ro.product.build.date=Thu Jun 16 21:41:29 CST 2022
+ro.product.build.date.utc=1655386889
+ro.product.build.fingerprint=Redmi/camellia/camellia:12/SP1A.210812.016/V13.0.2.0.SKSINXM:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=V13.0.2.0.SKSINXM
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+ro.miui.product.home=com.miui.home
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,product,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.miui.google.csp=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202202
+ro.com.google.acsa=true
+ro.com.google.rlz_ap_whitelist=YA
+ro.com.google.rlzbrandcode=GOFU
+ro.miui.build.region=in
+ro.config.ringtone=MiRemix.ogg
+ro.config.notification_sound=WaterDrop_preview.ogg
+ro.config.alarm_alert=Fireflies.ogg
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+persist.sys.minfree_def=73728,92160,110592,340000,645120,812850
+persist.sys.minfree_6g=73728,92160,110592,340000,1282868,1677312
+persist.sys.minfree_8g=73728,92160,110592,340000,1677312,2064384
+persist.miui.extm.enable=1
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+import /product/etc/build_${ro.boot.product.hardware.sku}.prop
+# end of file
+

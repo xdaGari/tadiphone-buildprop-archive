@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.bootimage.build.date=Fri Mar  8 13:24:16 UTC 2024
+ro.bootimage.build.date.utc=1709904256
+ro.bootimage.build.fingerprint=Daria/zahedan/zahedan:14/UQ1A.240205.004/V5.22.2.3.BOND:user/release-keys
+ro.bootimage.build.id=UQ1A.240205.004
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V5.22.2.3.BOND
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+ro.product.bootimage.brand=Daria
+ro.product.bootimage.device=zahedan
+ro.product.bootimage.manufacturer=Daria
+ro.product.bootimage.model=DM-B50104
+ro.product.bootimage.name=zahedan
+# end of file
+

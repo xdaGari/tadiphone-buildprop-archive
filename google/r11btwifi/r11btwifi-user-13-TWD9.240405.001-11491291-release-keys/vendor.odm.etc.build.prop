@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=google
+ro.product.odm.device=r11btwifi
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Google Pixel Watch
+ro.product.odm.name=r11btwifi
+ro.odm.product.cpu.abilist=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=
+ro.odm.build.date=Fri Feb 23 19:31:49 UTC 2024
+ro.odm.build.date.utc=1708716709
+ro.odm.build.fingerprint=google/r11btwifi/r11btwifi:13/TWD9.240405.001/11491291:user/release-keys
+ro.odm.build.id=TWD9.240405.001
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=11491291
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+

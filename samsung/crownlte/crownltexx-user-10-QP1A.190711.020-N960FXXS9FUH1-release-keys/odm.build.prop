@@ -1,0 +1,5 @@
+ro.omc.build.version=N960FOXM9FUH1
+ro.omc.build.id=42108381
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=FALSE

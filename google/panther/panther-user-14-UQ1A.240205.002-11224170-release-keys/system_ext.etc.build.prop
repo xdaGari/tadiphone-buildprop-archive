@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=panther
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 7
+ro.product.system_ext.name=panther
+ro.system_ext.build.date=Fri Dec 15 07:44:46 UTC 2023
+ro.system_ext.build.date.utc=1702626286
+ro.system_ext.build.fingerprint=google/panther/panther:14/UQ1A.240205.002/11224170:user/release-keys
+ro.system_ext.build.id=UQ1A.240205.002
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=11224170
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.config.isolated_compilation_enabled=true
+# end of file
+

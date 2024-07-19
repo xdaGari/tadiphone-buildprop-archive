@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Blackview
+ro.product.system_ext.device=A200Pro
+ro.product.system_ext.manufacturer=Blackview
+ro.product.system_ext.model=A200 Pro
+ro.product.system_ext.name=A200Pro_NEU
+ro.system_ext.build.date=Wed Nov 15 10:19:33 CST 2023
+ro.system_ext.build.date.utc=1700014773
+ro.system_ext.build.fingerprint=Blackview/A200Pro_NEU/A200Pro:13/TP1A.220624.014/65533:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=65533
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file

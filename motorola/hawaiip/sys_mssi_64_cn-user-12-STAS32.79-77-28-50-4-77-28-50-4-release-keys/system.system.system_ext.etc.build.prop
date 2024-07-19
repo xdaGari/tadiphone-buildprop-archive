@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=motorola
+ro.product.system_ext.device=hawaiip
+ro.product.system_ext.manufacturer=motorola
+ro.product.system_ext.model=moto g22
+ro.product.system_ext.name=hawaiip_g
+ro.system_ext.build.date=Mon Apr 17 20:56:40 CST 2023
+ro.system_ext.build.date.utc=1681736200
+ro.system_ext.build.fingerprint=motorola/hawaiip_g/hawaiip:12/STAS32.79-77-28-50-4/77-28-50-4:user/release-keys
+ro.system_ext.build.id=STAS32.79-77-28-50-4
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=77-28-50-4
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

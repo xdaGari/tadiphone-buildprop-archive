@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=houji
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=23127PN0CC
+ro.product.bootimage.name=houji
+ro.product.bootimage.cert=23127PN0CC
+ro.product.bootimage.marketname=Xiaomi 14
+ro.bootimage.build.date=Tue Jun 25 08:51:12 UTC 2024
+ro.bootimage.build.date.utc=1719305472
+ro.bootimage.build.fingerprint=Xiaomi/houji/houji:14/UKQ1.230804.001/V816.0.42.0.UNCCNXM:user/release-keys
+ro.bootimage.build.id=UKQ1.230804.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V816.0.42.0.UNCCNXM
+ro.bootimage.build.version.release=14
+ro.bootimage.build.version.release_or_codename=14
+ro.bootimage.build.version.sdk=34
+# end of file
+

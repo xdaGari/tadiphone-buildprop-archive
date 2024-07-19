@@ -1,0 +1,37 @@
+##### Overwrite prop values by composition #####
+ro.system_ext.build.id=67.1.A.2.112
+
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Sony
+ro.product.system_ext.device=qssi
+ro.product.system_ext.manufacturer=Sony
+ro.product.system_ext.model=Systemext_pdx234_generic
+ro.product.system_ext.name=systemext_pdx234_generic
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_ext.build.date=Thu Oct 12 23:02:24 JST 2023
+ro.system_ext.build.date.utc=1697119344
+ro.system_ext.build.fingerprint=Sony/systemext_pdx234_generic/qssi:14/UKQ1.230917.001/1:user/release-keys
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=1
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+ro.sys.thermal.incoming_call=ON
+ro.sys.thermal.notify_5g_notification=ON
+ro.sys.thermal.notify_chargeoff=ON
+ro.sys.thermal.notify_iec_notification=ON
+ro.sys.thermal.notify_not_auto_dismiss=ON
+# end of file
+

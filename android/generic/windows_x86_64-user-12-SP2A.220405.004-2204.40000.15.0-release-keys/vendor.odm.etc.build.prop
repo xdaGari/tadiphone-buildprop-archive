@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Windows
+ro.product.odm.device=windows_x86_64
+ro.product.odm.manufacturer=Microsoft Corporation
+ro.product.odm.model=Subsystem for Android(TM)
+ro.product.odm.name=windows_x86_64
+ro.odm.product.cpu.abilist=x86_64,x86,arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=x86,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=x86_64,arm64-v8a
+ro.odm.build.date=Sat May  7 17:34:09 UTC 2022
+ro.odm.build.date.utc=1651944849
+ro.odm.build.fingerprint=Windows/windows_x86_64/windows_x86_64:12/SP2A.220405.004/2204.40000.15.0:user/release-keys
+ro.odm.build.id=SP2A.220405.004
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=2204.40000.15.0
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

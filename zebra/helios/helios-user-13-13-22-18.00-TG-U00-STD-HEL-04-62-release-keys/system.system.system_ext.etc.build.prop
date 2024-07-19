@@ -1,0 +1,27 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Zebra
+ro.product.system_ext.device=helios
+ro.product.system_ext.manufacturer=Zebra Technologies
+ro.product.system_ext.model=helios
+ro.product.system_ext.name=helios
+ro.system_ext.build.date=Wed Oct 18 09:22:34 UTC 2023
+ro.system_ext.build.date.utc=1697620954
+ro.system_ext.build.fingerprint=Zebra/helios/helios:13/13-22-18.00-TG-U00-STD-HEL-04/62:user/release-keys
+ro.system_ext.build.fp=Zebra/helios/helios:13/13-22-18.00-TG-U00-STD-HEL-04/62:user/release-keys
+ro.build.platform=helios
+ro.system_ext.build.id=13-22-18.00-TG-U00-STD-HEL-04
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=62
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+telephony.active_modems.max_count=2
+# end of file

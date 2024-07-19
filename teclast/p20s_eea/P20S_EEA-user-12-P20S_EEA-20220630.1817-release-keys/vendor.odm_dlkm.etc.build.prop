@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm_dlkm.brand=Teclast
+ro.product.odm_dlkm.device=P20S_EEA
+ro.product.odm_dlkm.manufacturer=incar
+ro.product.odm_dlkm.model=P20S_EEA
+ro.product.odm_dlkm.name=P20S_EEA
+ro.odm_dlkm.build.date=Thu Oct 13 23:35:45 CST 2022
+ro.odm_dlkm.build.date.utc=1665675345
+ro.odm_dlkm.build.fingerprint=Teclast/P20S_EEA/P20S_EEA:12/P20S_EEA/20220630.1817:user/release-keys
+ro.odm_dlkm.build.id=P20S_EEA
+ro.odm_dlkm.build.tags=release-keys
+ro.odm_dlkm.build.type=user
+ro.odm_dlkm.build.version.incremental=20220630.1817
+ro.odm_dlkm.build.version.release=12
+ro.odm_dlkm.build.version.release_or_codename=12
+ro.odm_dlkm.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
+# begin fota properties
+ro.fota.platform=MTK6739_12.0
+ro.fota.type=phone
+ro.fota.app=5
+ro.fota.battery=30
+ro.boot.vendor.overlay.theme=com.incar.update.overlay
+ro.fota.oem=incar6761_12.0
+ERROR: model do not exist in system/build.prop,Please define it

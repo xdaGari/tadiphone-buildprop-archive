@@ -1,0 +1,9 @@
+
+ro.product.build.date=Fri Mar 8 08:03:32 UTC 2019
+ro.product.build.date.utc=1552032212
+ro.product.build.fingerprint=google/adt2/adt2:9/PTT5.190307.001/5360859:user/dev-keys
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.boot.logical_partitions
+=

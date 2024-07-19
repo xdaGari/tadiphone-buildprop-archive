@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Honor
+ro.product.product.device=system_ext_mtk
+ro.product.product.manufacturer=unknown
+ro.product.product.model=magic
+ro.product.product.name=system_ext_mtk
+ro.product.build.date=Thu Dec  1 16:20:10 CST 2022
+ro.product.build.date.utc=1669882810
+ro.product.build.fingerprint=Honor/system_ext_mtk/system_ext_mtk:12/SP1A.210812.016/root12011620:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=eng.root.20221201.161645
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.product.ab_ota_partitions=system,system_ext,product_h,vbmeta_system
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

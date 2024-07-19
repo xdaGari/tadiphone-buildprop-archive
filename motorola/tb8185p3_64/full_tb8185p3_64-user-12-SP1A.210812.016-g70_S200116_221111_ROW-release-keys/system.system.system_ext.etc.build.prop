@@ -1,0 +1,25 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Lenovo
+ro.product.system_ext.device=tb8185p3_64
+ro.product.system_ext.manufacturer=Motorola
+ro.product.system_ext.model=moto tab g70
+ro.product.system_ext.name=full_tb8185p3_64
+ro.system_ext.build.date=Fri Nov 11 21:42:40 CST 2022
+ro.system_ext.build.date.utc=1668174160
+ro.system_ext.build.fingerprint=Motorola/mototabg70/mototabg70:12/SP1A.210812.016/g70_S200116_221111_ROW:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=g70_S200116_221111_ROW
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

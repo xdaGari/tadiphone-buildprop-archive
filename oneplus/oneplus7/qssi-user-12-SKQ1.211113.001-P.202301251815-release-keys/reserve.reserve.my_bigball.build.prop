@@ -1,0 +1,9 @@
+import /mnt/vendor/my_bigball/etc/region/build.prop
+# build porp start
+ro.oplus.image.my_bigball.type=domestic_18857_OnePlus_CN_ALLNET
+ro.oplus.image.my_bigball.date=2022-12-05 17:59:08
+ro.oplus.image.my_bigball.date.utc=1670234348
+ro.oplus.image.my_bigball.version_name=my_bigball18857.0.1
+ro.oplus.server_url_1=https://newds-api-cn-01.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.server_url_2=https://newds-api-cn-02.allawntech.com/autotime/dateandtime.xml?number=
+ro.oplus.image.my_bigball.version=18857.0.1.2022120517514913097450.ea48628a

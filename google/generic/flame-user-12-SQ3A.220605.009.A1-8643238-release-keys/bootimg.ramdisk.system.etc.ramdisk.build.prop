@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=google
+ro.product.bootimage.device=flame
+ro.product.bootimage.manufacturer=Google
+ro.product.bootimage.model=Pixel 4
+ro.product.bootimage.name=flame
+ro.bootimage.build.date=Wed May 25 22:20:49 UTC 2022
+ro.bootimage.build.date.utc=1653517249
+ro.bootimage.build.fingerprint=google/flame/flame:12/SQ3A.220605.009.A1/8643238:user/release-keys
+ro.bootimage.build.id=SQ3A.220605.009.A1
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=8643238
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

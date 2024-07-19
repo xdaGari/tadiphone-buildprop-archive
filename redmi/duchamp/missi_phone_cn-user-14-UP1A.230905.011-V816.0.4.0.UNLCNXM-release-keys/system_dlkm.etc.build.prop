@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_dlkm.brand=Redmi
+ro.product.system_dlkm.device=duchamp
+ro.product.system_dlkm.manufacturer=Xiaomi
+ro.product.system_dlkm.model=2311DRK48C
+ro.product.system_dlkm.name=duchamp
+ro.product.system_dlkm.marketname=Redmi K70E
+ro.product.system_dlkm.cert=2311DRK48C
+ro.system_dlkm.build.date=Wed Nov 22 00:05:11 CST 2023
+ro.system_dlkm.build.date.utc=1700582711
+ro.system_dlkm.build.fingerprint=Redmi/duchamp/duchamp:14/UP1A.230905.011/V816.0.4.0.UNLCNXM:user/release-keys
+ro.system_dlkm.build.id=UP1A.230905.011
+ro.system_dlkm.build.tags=release-keys
+ro.system_dlkm.build.type=user
+ro.system_dlkm.build.version.incremental=V816.0.4.0.UNLCNXM
+ro.system_dlkm.build.version.release=14
+ro.system_dlkm.build.version.release_or_codename=14
+ro.system_dlkm.build.version.sdk=34
+# end of file
+

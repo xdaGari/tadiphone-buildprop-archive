@@ -1,0 +1,5 @@
+ro.omc.build.version=G970FOXMEFUJ4
+ro.omc.build.id=45293880
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=FALSE

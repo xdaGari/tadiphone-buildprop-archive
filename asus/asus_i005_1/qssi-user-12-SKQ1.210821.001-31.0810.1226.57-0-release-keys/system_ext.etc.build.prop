@@ -1,0 +1,28 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=asus
+ro.product.system_ext.device=ASUS_I005_1
+ro.product.system_ext.manufacturer=asus
+ro.product.system_ext.model=ASUS_I005D
+ro.product.system_ext.name=WW_I005D
+ro.system_ext.build.date=Fri Feb 18 23:44:52 CST 2022
+ro.system_ext.build.date.utc=1645199092
+ro.system_ext.build.fingerprint=asus/qssi/qssi:12/SKQ1.210821.001/31.0810.1226.57-0:user/release-keys
+ro.system_ext.build.id=SKQ1.210821.001
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=31.0810.1226.57-0
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

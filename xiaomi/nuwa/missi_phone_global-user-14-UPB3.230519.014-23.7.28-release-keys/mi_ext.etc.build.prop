@@ -1,0 +1,5 @@
+ro.miui.google.csp=true
+ro.product.mod_device=nuwa_pre_gpp_global
+ro.com.google.acsa=true
+ro.miui.build.region=global
+ro.com.google.ime.system_lm_dir=product/usr/share/ime/google/d3_lms/

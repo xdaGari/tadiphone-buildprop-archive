@@ -1,0 +1,42 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=merlin
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=merlin
+ro.product.product.name=merlin
+ro.product.build.date=Tue Jun  7 22:29:52 CST 2022
+ro.product.build.date.utc=1654612192
+ro.product.build.fingerprint=Redmi/merlin/merlin:12/SP1A.210812.016/V13.0.1.0.SJOCNXM:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=V13.0.1.0.SJOCNXM
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.miui.build.region=cn
+ro.config.ringtone=MiRemix.ogg
+ro.config.notification_sound=WaterDrop_preview.ogg
+ro.config.alarm_alert=Fireflies.ogg
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+persist.sys.minfree_def=73728,92160,110592,154832,409424,579072
+persist.sys.minfree_4g=73728,92160,110592,340000,510000,645120
+persist.sys.minfree_6g=73728,92160,110592,340000,1548288,1999872
+persist.sys.mms.bg_apps_limit=96
+ro.miui.notch=1
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+import /product/build_${ro.boot.product.hardware.sku}.prop
+

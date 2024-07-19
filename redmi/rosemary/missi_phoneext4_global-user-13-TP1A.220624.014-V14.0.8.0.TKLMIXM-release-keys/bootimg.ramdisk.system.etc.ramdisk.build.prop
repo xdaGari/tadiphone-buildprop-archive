@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.device=rosemary
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=rosemary
+ro.product.bootimage.name=rosemary
+ro.product.bootimage.marketname=Redmi Note 10S
+ro.bootimage.build.date=Sat Oct  7 08:40:55 UTC 2023
+ro.bootimage.build.date.utc=1696668055
+ro.bootimage.build.fingerprint=Redmi/rosemary/rosemary:12/SP1A.210812.016/V14.0.8.0.TKLMIXM:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=V14.0.8.0.TKLMIXM
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+

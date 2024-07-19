@@ -1,0 +1,55 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=qti
+ro.product.system_ext.device=missi
+ro.product.system_ext.manufacturer=QUALCOMM
+ro.product.system_ext.model=qssi system image for arm64
+ro.product.system_ext.name=missi
+ro.system_ext.build.date=Thu May 16 21:04:50 CST 2024
+ro.system_ext.build.date.utc=1715864690
+ro.system_ext.build.fingerprint=qti/missi/missi:VanillaIceCream/AP31.240322.016/V816.0.240516.1.VNXMIXM.PRE-DPP:user/release-keys
+ro.system_ext.build.id=AP31.240322.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=V816.0.240516.1.VNXMIXM.PRE-DPP
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=VanillaIceCream
+ro.system_ext.build.version.sdk=34
+####################################
+# from build/make/target/board/gsi_system_ext_user.prop
+####################################
+# GSI always generate dex pre-opt in system image
+ro.cp_system_other_odex=0
+# GSI disables non-AOSP nnapi extensions on product partition
+ro.nnapi.extensions.deny_on_product=true
+# TODO(b/120679683): disable RescueParty before all problem apps solved
+persist.sys.disable_rescue=true
+# TODO(b/78105955): disable privapp_permissions checking before the bug solved
+ro.control_privapp_permissions=disable
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.wm.extensions.enabled=true
+persist.wm.extensions.activity_embedding_guard_with_android_15=false
+persist.sys.mcd_config_file=/system_ext/etc/mcd_default.conf
+ro.secureboot.devicelock=1
+ro.miui.ui.font.global_theme_apply=true
+ro.miui.ui.font.mi_font_path=/system/fonts/MiSansVF.ttf
+ro.rom.zone=2
+persist.sys.support_view_smoothcorner=true
+persist.sys.support_window_smoothcorner=true
+ro.config.isolated_compilation_enabled=true
+ro.audio.ihaladaptervendorextension_enabled=true
+bluetooth.profile.sap.server.enabled=true
+bluetooth.profile.pbap.sim.enabled=true
+bluetooth.hfp.codec_aptx_voice.enabled=true
+ro.bluetooth.leaudio_offload.supported=true
+persist.bluetooth.leaudio_offload.disabled=false
+persist.bluetooth.leaudio.allow.multiple.context=false
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file
+

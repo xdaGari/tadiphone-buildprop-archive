@@ -1,0 +1,35 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=google
+ro.product.product.device=r11
+ro.product.product.manufacturer=Google
+ro.product.product.model=Google Pixel Watch
+ro.product.product.name=r11
+ro.product.build.date=Fri Sep  1 22:19:01 UTC 2023
+ro.product.build.date.utc=1693606741
+ro.product.build.fingerprint=google/r11/r11:13/TWD4.231005.002/10752801:user/release-keys
+ro.product.build.id=TWD4.231005.002
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=10752801
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+dalvik.vm.systemservercompilerfilter=speed-profile
+ro.product.vndk.version=33
+ro.build.characteristics=nosdcard,watch
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.charger.enable_suspend=true
+persist.traced.enable=1
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/wear_lms
+ro.oem.enable_fido_smart_setup=true
+ro.lmk.log_stats=true
+# end of file
+

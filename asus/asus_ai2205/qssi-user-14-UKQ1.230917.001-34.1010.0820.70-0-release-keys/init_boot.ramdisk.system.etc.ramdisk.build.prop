@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props-AI2205
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=asus
+ro.product.bootimage.device=ASUS_AI2205
+ro.product.bootimage.manufacturer=asus
+ro.product.bootimage.model=ASUS_AI2205
+ro.product.bootimage.name=WW_AI2205
+ro.bootimage.build.date=Thu Mar 21 22:32:07 CST 2024
+ro.bootimage.build.date.utc=1711031527
+ro.bootimage.build.fingerprint=asus/WW_AI2205/ASUS_AI2205:13/TKQ1.220928.001/33.0820.0810.225-0:user/release-keys
+ro.bootimage.build.id=TKQ1.220928.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=33.0820.0810.225-0
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+ro.bootimage.asus.chipcode.version=
+# end of file

@@ -1,0 +1,11 @@
+#
+# ADDITIONAL VENDOR EUCLID PROPERTIES
+#
+ro.system_test=1
+ro.bsp_test=1
+persist.rcs.supported=0
+persist.vendor.radio.relay_oprt_change=1
+ro.com.android.dataroaming=false
+persist.vendor.radio.poweron_opt=1
+persist.vendor.radio.rat_on=combine
+persist.vendor.radio.custom_ecc=0

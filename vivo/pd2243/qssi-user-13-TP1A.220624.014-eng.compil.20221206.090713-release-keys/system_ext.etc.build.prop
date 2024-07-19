@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=vivo
+ro.product.system_ext.device=PD2243
+ro.product.system_ext.manufacturer=vivo
+ro.product.system_ext.model=V2243A
+ro.product.system_ext.name=PD2243
+ro.system_ext.build.date=Tue Dec  6 09:07:13 CST 2022
+ro.system_ext.build.date.utc=1670288833
+ro.system_ext.build.fingerprint=vivo/PD2243/PD2243:13/TP1A.220624.014/compiler12060907:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.compil.20221206.090713
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+persist.vendor.dpm.feature=11
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+# end of file

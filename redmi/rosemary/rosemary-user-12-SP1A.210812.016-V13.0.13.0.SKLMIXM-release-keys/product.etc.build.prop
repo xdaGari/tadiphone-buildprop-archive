@@ -1,0 +1,53 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=rosemary
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=rosemary
+ro.product.product.name=rosemary
+ro.product.product.marketname=Redmi Note 10S
+ro.product.build.date=Thu Feb  9 21:35:16 CST 2023
+ro.product.build.date.utc=1675949716
+ro.product.build.fingerprint=Redmi/rosemary/rosemary:12/SP1A.210812.016/V13.0.13.0.SKLMIXM:user/release-keys
+ro.product.build.id=SP1A.210812.016
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=V13.0.13.0.SKLMIXM
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=31
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=31
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,system,vendor
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.miui.google.csp=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=12_202204
+ro.com.google.ime.system_lm_dir=product/usr/share/ime/google/d3_lms/
+ro.com.google.acsa=true
+ro.miui.build.region=global
+ro.config.ringtone=MiRemix.ogg
+ro.config.notification_sound=WaterDrop_preview.ogg
+ro.config.alarm_alert=Fireflies.ogg
+persist.sys.mdlog_dumpback=2
+persist.vendor.mdlog.need_dump=1
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+ro.miui.support.enable_new_factory_reset=1
+dalvik.vm.heaptargetutilization=0.5
+dalvik.vm.heapminfree=2m
+dalvik.vm.dex2oat64.enabled=false
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+import /product/${ro.boot.product.vendor.sku}.build.prop
+

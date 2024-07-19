@@ -1,0 +1,12 @@
+# build porp start
+ro.oplus.image.my_region.type=IN_all
+ro.oplus.image.my_region.date=2022-10-30 02:09:34
+ro.oplus.image.my_region.date.utc=1667066974
+ro.oplus.image.my_region.version_name=21842.12.1-X00IN00
+ro.oplus.pipeline.region=IN
+ro.vendor.oplus.radio.sar_regionmark=IN
+ro.oplus.radio.region_netlock_enable=true
+ro.oplus.radio.region_netlock_country=IN
+ro.vendor.oplus.modemdump_enable=1
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_region.version=21842.12.1.2022103002000911958086.7ef8245e

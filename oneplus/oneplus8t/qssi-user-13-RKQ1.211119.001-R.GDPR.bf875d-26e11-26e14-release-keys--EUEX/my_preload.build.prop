@@ -1,0 +1,7 @@
+# build porp start
+ro.oplus.image.my_preload.type=GDPR_20807_OnePlus_EUEX_NA
+ro.oplus.image.my_preload.date=2022-10-21 03:43:38
+ro.oplus.image.my_preload.date.utc=1666295018
+ro.oplus.image.my_preload.version_name=my_preload_GDPR_EUEX_1653471803
+# DONOT_GENERATE_FEC is 
+ro.oplus.image.my_preload.version=0.0.1.2022102102045711682893.bf6d12d4

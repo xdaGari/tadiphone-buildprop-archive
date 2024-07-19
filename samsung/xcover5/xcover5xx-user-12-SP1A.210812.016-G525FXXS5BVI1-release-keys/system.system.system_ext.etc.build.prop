@@ -1,0 +1,26 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=xcover5
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-G525F
+ro.product.system_ext.name=xcover5xx
+ro.system_ext.build.date=Tue Sep 20 09:43:51 KST 2022
+ro.system_ext.build.date.utc=1663634631
+ro.system_ext.build.fingerprint=samsung/xcover5xx/xcover5:12/SP1A.210812.016/G525FXXS5BVI1:user/release-keys
+ro.system_ext.build.id=SP1A.210812.016
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=G525FXXS5BVI1
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=31
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+

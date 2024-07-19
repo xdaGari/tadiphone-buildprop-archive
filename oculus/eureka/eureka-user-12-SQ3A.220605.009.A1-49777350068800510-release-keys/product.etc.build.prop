@@ -1,0 +1,33 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=oculus
+ro.product.product.device=eureka
+ro.product.product.manufacturer=Oculus
+ro.product.product.model=Quest 3
+ro.product.product.name=eureka
+ro.product.build.date=Sat Jan  6 01:31:09 PST 2024
+ro.product.build.date.utc=1704533469
+ro.product.build.fingerprint=oculus/eureka/eureka:12/SQ3A.220605.009.A1/49777350068800510:user/release-keys
+ro.product.build.id=SQ3A.220605.009.A1
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=49777350068800510
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=32
+ro.build.characteristics=nosdcard
+ro.product.ab_ota_partitions=abl,adsp,aop,aop_config,boot,cpucp,devcfg,dtbo,featenabler,hyp,imagefv,keymaster,odm,odm_dlkm,product,qupfw,recovery,shrm,system,system_ext,tz,uefisecapp,vbmeta,vbmeta_system,uefi,vendor,vendor_boot,vendor_dlkm,xbl,xbl_config
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.surface_flinger.use_min_framebuffer_surface=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
